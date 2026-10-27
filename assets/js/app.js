@@ -66,7 +66,7 @@ function show(html, { nav = "", title = "" } = {}) {
   app.focus({ preventScroll: true });
 }
 
-const arrowBtn = (label, attrs = "", cls = "btn-square") => `<button type="button" class="${cls}" ${attrs}>${label} <span class="arr" aria-hidden="true">↗</span></button>`;
+const arrowBtn = (label, attrs = "", cls = "btn-square") => `<button ${/\btype=/.test(attrs) ? "" : 'type="button"'} class="${cls}" ${attrs}>${label} <span class="arr" aria-hidden="true">↗</span></button>`;
 const arrowLink = (label, href, cls = "btn-square") => `<a class="${cls}" href="${href}">${label} <span class="arr" aria-hidden="true">↗</span></a>`;
 
 function img(p, cls = "") {
