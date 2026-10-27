@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 
 import pymupdf
-from PIL import Image
+from PIL import Image, ImageFilter
 
 ROOT = Path(__file__).resolve().parent.parent
 PDF = Path(sys.argv[1]) if len(sys.argv) > 1 else Path.home() / "Downloads" / "เนเน่ไม่ได้เก่งในวันเดียว.pdf"
@@ -178,7 +178,30 @@ def parse_cell(lines, img_bbox):
     return out
 
 
-def render_cell_image(page, sq_bbox, overlays, dest: Path):
+TEXT_MASKS = json.loads((ROOT / "scripts" / "text_masks.json").read_text(encoding="utf-8")) if (ROOT / "scripts" / "text_masks.json").exists() else {}
+
+
+def blur_text(img, rects):
+    """เบลอตัวหนังสือที่ติดมากับรูปถ่าย (ป้ายชื่อบนถุง/ขวด/โปสเตอร์) — rects เป็นสัดส่วน 0..1 ของรูป"""
+    W, H = img.size
+    for fx0, fy0, fx1, fy1 in rects:
+        pad = 4
+        box = (max(0, int(fx0 * W) - pad), max(0, int(fy0 * H) - pad), min(W, int(fx1 * W) + pad), min(H, int(fy1 * H) + pad))
+        if box[2] <= box[0] or box[3] <= box[1]:
+            continue
+        region = img.crop(box)
+        radius = max(10, int(min(region.size) * 0.7))
+        blurred = region.filter(ImageFilter.GaussianBlur(radius))
+        blurred = blurred.filter(ImageFilter.GaussianBlur(radius))
+        mask = Image.new("L", region.size, 0)
+        inner = Image.new("L", (max(1, region.size[0] - 8), max(1, region.size[1] - 8)), 255)
+        mask.paste(inner, (4, 4))
+        mask = mask.filter(ImageFilter.GaussianBlur(3))
+        img.paste(blurred, box[:2], mask)
+    return img
+
+
+def render_cell_image(page, sq_bbox, overlays, dest: Path, pid=None):
     """เรนเดอร์ภาพพืช (รวมภาพ crude drug ที่แปะทับ) เป็น WebP ด้านยาว ~640px"""
     inset = 7
     r = pymupdf.Rect(sq_bbox) + (inset, inset, -inset, -inset)
@@ -191,6 +214,8 @@ def render_cell_image(page, sq_bbox, overlays, dest: Path):
     zoom = 640 / max(r.width, r.height)
     pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), clip=r, alpha=False)
     img = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
+    if pid in TEXT_MASKS:
+        img = blur_text(img, TEXT_MASKS[pid])
     dest.parent.mkdir(parents=True, exist_ok=True)
     for q in (75, 68, 60, 52):
         buf = io.BytesIO()
@@ -239,6 +264,10 @@ def main():
             sqs = [b for b in info if b["type"] == 1 and b["width"] == 540 and b["height"] == 540]
             others = [b["bbox"] for b in info if b["type"] == 1 and not (b["width"] == 540 and b["height"] == 540)]
             lines = collect_lines(page)
+            # ข้อความทั้งหมดในหน้าเป็นคำบรรยายใต้รูป — ลบออกก่อนเรนเดอร์ ไม่ให้ชื่อพืชรั่วเข้าไปในรูป
+            for l in lines:
+                page.add_redact_annot(pymupdf.Rect(l["bbox"]), fill=False)
+            page.apply_redactions(images=pymupdf.PDF_REDACT_IMAGE_NONE, graphics=pymupdf.PDF_REDACT_LINE_ART_NONE)
             sqs.sort(key=lambda b: (0 if (b["bbox"][1] + b["bbox"][3]) / 2 < 300 else 1, b["bbox"][0]))
             for b in sqs:
                 bb = pymupdf.Rect(b["bbox"])
@@ -266,7 +295,7 @@ def main():
                     ovs.append(o)
                 pid = f"L{lab_id}-{data['no']:02d}"
                 rel = f"images/lab{lab_id}/{data['no']:02d}.webp"
-                size = render_cell_image(page, bb, ovs, ROOT / rel)
+                size = render_cell_image(page, bb, ovs, ROOT / rel, pid)
                 plant = {
                     "id": pid,
                     "no": data["no"],
