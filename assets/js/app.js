@@ -1,8 +1,9 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=7";
-import { route, navigate, start } from "./router.js?v=7";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=7";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=7";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=7";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=8";
+import { route, navigate, start } from "./router.js?v=8";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=8";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=8";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=8";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=8";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -10,6 +11,8 @@ const EXAM_OPEN = true;
 const app = $("#app");
 let DATA = null;
 let ALL = [];
+let QC = null;
+const qcById = new Map();
 const byId = new Map();
 let session = null; // { cfg, qs, i, results, t0, saved }
 
@@ -21,6 +24,12 @@ async function loadData() {
   const res = await fetch("./data/plants.json");
   if (!res.ok) throw new Error("โหลด plants.json ไม่ได้");
   DATA = await res.json();
+  try {
+    QC = await (await fetch("./data/qc.json")).json();
+    for (const f of QC.files) qcById.set(f.id, f);
+  } catch (e) {
+    QC = { files: [] };
+  }
   for (const lab of DATA.labs) {
     for (const p of lab.plants) {
       p.lab = lab.id;
@@ -139,14 +148,15 @@ function homeView() {
       </div>
     </section>
     ${metricsHtml()}
-    <section class="wrap section" id="labs"><div class="sec-head"><h2>เลือก Lab</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
+    <section class="wrap section" id="labs"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 1</span><h2>ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
+    <section class="wrap section" id="qc"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 2</span><h2>เครื่องมือวิเคราะห์ทางเภสัชกรรม (QC)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 9 หัวข้อ</p></div>${qcCards()}</section>
     <section class="wrap section"><div class="tip-teaser"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
     { nav: "" }
   );
 }
 
 function labsView() {
-  show(`<section class="wrap section page-top"><div class="sec-head"><h1 class="h-page">Labs</h1><p class="dim">เลือก Lab และส่วนที่ต้องการซ้อม</p></div>${labCards()}</section>`, { nav: "labs", title: "Labs" });
+  show(`<section class="wrap section page-top"><div class="sec-head"><h1 class="h-page">วิชา 1 · ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ</h1><p class="dim">เลือก Lab และส่วนที่ต้องการซ้อม</p></div>${labCards()}</section>`, { nav: "labs", title: "Labs" });
 }
 
 /* ---------- setup ---------- */
@@ -215,6 +225,11 @@ function formMsg(t) {
 /* ---------- quiz ---------- */
 function startQuiz(cfg, prebuilt = null) {
   let qs = prebuilt;
+  if (!qs && cfg.part === "qc") {
+    const file = qcById.get(cfg.lab);
+    if (!file) return "ไม่พบชุดข้อสอบ";
+    qs = makeQcQuestions(file, cfg.count);
+  }
   if (!qs) {
     let plants = cfg.lab === "all" ? ALL : ALL.filter((p) => String(p.lab) === String(cfg.lab));
     if (cfg.highlight) plants = plants.filter((p) => p.highlight);
@@ -243,7 +258,7 @@ function quizView() {
   s.answered = false;
   preload(s.qs[s.i + 1]);
   const total = s.qs.length;
-  const label = q.kind === "spell" ? "SPELLING" : TOPICS[q.topic].chip;
+  const label = q.qc ? q.topic : q.kind === "spell" ? "SPELLING" : TOPICS[q.topic].chip;
   const body =
     q.kind === "mcq"
       ? `<div class="options" role="radiogroup" aria-label="ตัวเลือก">${q.options
@@ -253,7 +268,7 @@ function quizView() {
   show(
     `<section class="wrap quiz">
       <div class="timeline" role="progressbar" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${s.i}"><div class="tl-fill" style="width:${(s.i / total) * 100}%"></div></div>
-      <div class="quiz-meta"><div class="chips">${labChip(q.plant.lab)}${chip(label)}</div><span class="mono dim">Q${pad2(s.i + 1)} / ${pad2(total)}</span></div>
+      <div class="quiz-meta"><div class="chips">${q.qc ? chip(`QC ${pad2(q.fileNo)}`) : labChip(q.plant.lab)}${chip(label)}</div><span class="mono dim">Q${pad2(s.i + 1)} / ${pad2(total)}</span></div>
       <h2 class="prompt">${q.promptHtml}</h2>
       ${q.image ? `<button type="button" class="qimg" data-zoom="./${esc(q.image)}" data-alt="รูปพืช" aria-label="ขยายรูป"><img src="./${esc(q.image)}" alt="รูปพืชในโจทย์" width="640" height="640"><span class="zoom mono">ขยาย ⤢</span></button>` : ""}
       ${body}
@@ -307,7 +322,7 @@ function finishQuestion(q, r) {
   const fb = $("#feedback");
   fb.innerHTML = `<div class="feedback ${r.correct ? "ok" : "no"}">
       <div class="fb-head">${status}<span class="fb-text">${r.correct ? "ถูกต้อง" : r.skipped ? "ข้ามข้อนี้" : "ยังไม่ถูก"} · เฉลย: ${q.correctHtml}</span></div>
-      ${plantCard(q.plant)}
+      ${q.qc ? `<div class="explain"><div class="mono dim">อธิบายเฉลย</div><p>${esc(q.explain || "")}</p></div>` : plantCard(q.plant)}
       <div class="next-row">${arrowBtn(last ? "ดูผลคะแนน" : "ข้อต่อไป", 'id="nextBtn"')}<span class="mono dim">กด Enter</span></div>
     </div>`;
   $("#nextBtn").addEventListener("click", nextQuestion);
@@ -360,7 +375,7 @@ function resultView() {
     g.n++;
     g.s += r.score;
   }
-  const topicLabel = (k) => (k === "spell" ? "สะกดชื่อวิทย์" : TOPICS[k].th);
+  const topicLabel = (k) => (k === "spell" ? "สะกดชื่อวิทย์" : TOPICS[k]?.th ?? k);
   const bars = Object.entries(groups)
     .sort((a, b) => a[1].s / a[1].n - b[1].s / b[1].n)
     .map(([k, g]) => {
@@ -427,7 +442,9 @@ function resultView() {
       for (const r of wrong) {
         const sp = r.q.spec;
         const p = byId.get(sp.plantId);
-        const nq = r.q.kind === "spell" ? buildSpell(p, sp.difficulty, sp.from) : buildMcq(p, sp.topic, sp.from, ALL);
+        const nq = r.q.qc
+          ? buildQc(qcById.get(sp.qcFile), sp.idx)
+          : r.q.kind === "spell" ? buildSpell(p, sp.difficulty, sp.from) : buildMcq(p, sp.topic, sp.from, ALL);
         if (nq) qs.push(nq);
       }
       session = null;
@@ -494,6 +511,67 @@ function tipsView() {
   );
 }
 
+/* ---------- QC subject ---------- */
+function qcCards() {
+  const st = getState();
+  return `<div class="bento">${QC.files
+    .map((f) => {
+      const best = st.best[f.id];
+      const status = best === undefined ? chip("NO SCORE") : best >= PASS_PCT ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`);
+      return `<article class="bento-card">
+        <div class="bento-top">${chip(`QC ${pad2(f.no)}`)}${status}</div>
+        <h3>${esc(f.title)}</h3>
+        <p class="mono dim">${f.questions.length} ข้อ · ปรนัย 5 ตัวเลือก</p>
+        <div class="bento-actions">
+          ${EXAM_OPEN ? arrowLink("ทำข้อสอบ 20 ข้อ", `#/qc/${f.id}/all`) : ""}
+          ${arrowLink("ดูเฉลย", `#/qc/${f.id}/key`, "btn-ghost")}
+        </div>
+      </article>`;
+    })
+    .join("")}</div>`;
+}
+
+function qcView() {
+  show(
+    `<section class="wrap section page-top">
+      <div class="sec-head"><h1 class="h-page">วิชาเครื่องมือวิเคราะห์ (QC)</h1>
+      <p class="dim">${esc(QC.subject?.code ?? "")} · ข้อสอบปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ รวม ${QC.files.reduce((a, f) => a + f.questions.length, 0)} ข้อ</p></div>
+      ${qcCards()}
+    </section>`,
+    { nav: "qc", title: "วิชา QC" }
+  );
+}
+
+function qcStart(p) {
+  const file = qcById.get(p.id);
+  if (!file) return navigate("/qc");
+  const cfg = { lab: file.id, part: "qc", count: p.n === "all" ? "all" : p.n, topics: [], from: "qc" };
+  const err = startQuiz(cfg);
+  if (err) return navigate("/qc");
+  navigate("/quiz");
+}
+
+function qcKeyView(p) {
+  const file = qcById.get(p.id);
+  if (!file) return navigate("/qc");
+  show(
+    `<section class="wrap section page-top narrow">
+      <div class="chips">${chip(`QC ${pad2(file.no)}`)}</div>
+      <h1 class="h-page" style="margin-top:12px">${esc(file.title)} — เฉลย</h1>
+      <p class="dim">${file.questions.length} ข้อ · ตัวเลือกที่ถูกต้องไฮไลต์สีเขียว</p>
+      <ol class="key">${file.questions
+        .map(
+          (q) => `<li class="key-item"><div class="chips">${chip(q.t)}</div><p class="key-q">${esc(q.q)}</p>
+          <ul class="key-opts"><li class="right"><span class="mark" aria-hidden="true">✓</span>${esc(q.a)}</li>${q.w.map((w) => `<li>${esc(w)}</li>`).join("")}</ul>
+          <div class="explain"><div class="mono dim">อธิบายเฉลย</div><p>${esc(q.e || "")}</p></div></li>`
+        )
+        .join("")}</ol>
+      <div class="result-actions">${EXAM_OPEN ? arrowLink("ทำข้อสอบชุดนี้", `#/qc/${file.id}/all`) : ""}${arrowLink("กลับ", "#/qc", "btn-ghost")}</div>
+    </section>`,
+    { nav: "qc", title: `เฉลย ${file.title}` }
+  );
+}
+
 /* ---------- exam closed ---------- */
 function closedView() {
   show(
@@ -523,9 +601,12 @@ async function boot() {
     big.href = "#/review";
     big.textContent = "ทบทวน / เฉลย ↗";
   }
+  const gated = (fn) => (p) => (EXAM_OPEN ? fn(p) : closedView());
   route("/", homeView);
   route("/labs", labsView);
-  const gated = (fn) => (p) => (EXAM_OPEN ? fn(p) : closedView());
+  route("/qc", qcView);
+  route("/qc/:id/key", qcKeyView);
+  route("/qc/:id/:n", gated(qcStart));
   route("/setup", gated(() => setupView()));
   route("/lab/:id/:part", gated((p) => setupView(p)));
   route("/quiz", gated(quizView));

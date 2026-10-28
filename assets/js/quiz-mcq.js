@@ -1,5 +1,5 @@
 // ส่วนที่ 1: ปรนัย 5 ตัวเลือก — ตรรกะล้วน (ไม่แตะ DOM) เพื่อให้ทดสอบด้วย node ได้
-import { esc, shuffle, pick } from "./util.js?v=7";
+import { esc, shuffle, pick } from "./util.js?v=8";
 
 export const TOPICS = {
   family: { chip: "FAMILY", th: "วงศ์", get: (p) => p.family },

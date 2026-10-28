@@ -1,0 +1,248 @@
+{
+ "id": "qc07",
+ "no": 7,
+ "title": "Analytical Method Validation & COA",
+ "file": "7. Analytical method validation and COA",
+ "questions": [
+  {
+   "t": "Validation",
+   "q": "Validation ต่างจาก Verification ของวิธีวิเคราะห์อย่างไร",
+   "a": "Validation พิสูจน์สมรรถนะของวิธีที่พัฒนาขึ้นใหม่/ไม่ได้มาจากตำรายา ส่วน Verification ยืนยันว่าวิธีมาตรฐานตามตำรายาใช้ได้กับเครื่องมือและสภาวะของห้องปฏิบัติการเรา",
+   "w": [
+    "Validation ใช้กับวิธีในตำรายาเท่านั้น ส่วน Verification ใช้กับวิธีที่พัฒนาขึ้นใหม่",
+    "ทั้งสองมีความหมายเหมือนกันและประเมินหัวข้อเท่ากัน",
+    "Verification ประเมินสมรรถนะหลายหัวข้อกว่า Validation",
+    "Validation ใช้เฉพาะกับยาฉีดเท่านั้น"
+   ],
+   "e": "เช่น ตำรายาใช้ UV วิเคราะห์ paracetamol tablet แต่เราพัฒนาวิธี HPLC ใหม่ → ต้องทำ validation; ใช้วิธี UV ตามตำรา → verification"
+  },
+  {
+   "t": "Validation",
+   "q": "ICH Guideline กลุ่ม Q (Quality) เกี่ยวข้องกับเรื่องใด",
+   "a": "งานด้านคุณภาพ เช่น การทดสอบความคงตัว การกำหนดเกณฑ์ impurities และคุณภาพยาตามการจัดการความเสี่ยงของ GMP",
+   "w": [
+    "ความปลอดภัยของยาในสัตว์ทดลองเท่านั้น (Safety)",
+    "ประสิทธิภาพทางคลินิก (Efficacy) เท่านั้น",
+    "แนวทางสหวิชาชีพ (Multidisciplinary) เท่านั้น",
+    "การโฆษณายาและการแสดงฉลากเท่านั้น"
+   ],
+   "e": "Q = Quality, S = Safety, E = Efficacy, M = Multidisciplinary; การ validation วิธีวิเคราะห์อ้างอิง ICH Q2(R1)"
+  },
+  {
+   "t": "Validation",
+   "q": "ข้อใดเป็นการวิเคราะห์ 4 ประเภทที่ต้องทำ method validation ตาม ICH",
+   "a": "Identification, quantitative test for impurities, limit test for impurities และ quantitative test of active moiety (assay)",
+   "w": [
+    "Identification, melting point, pH และ viscosity",
+    "Assay, dissolution, disintegration และ friability เท่านั้น",
+    "Labeling, packaging, shipping และ storage",
+    "Sterility, endotoxin, particle size และ color เท่านั้น"
+   ],
+   "e": "Assay ครอบคลุม drug substance และ drug product (รายงานเป็น % labeled amount)"
+  },
+  {
+   "t": "Specificity",
+   "q": "Specificity ของวิธีวิเคราะห์ หมายถึงข้อใด",
+   "a": "ความสามารถในการวัด analyte ได้อย่างเฉพาะเจาะจงแม้มี impurities, degradants หรือ matrix อยู่",
+   "w": [
+    "ความใกล้เคียงของผลที่ได้กับค่าจริง",
+    "ช่วงความเข้มข้นต่ำสุดถึงสูงสุดที่ใช้ได้",
+    "ความไวต่อการเปลี่ยนแปลงสภาวะเล็กน้อย",
+    "ความใกล้เคียงของผลเมื่อวิเคราะห์ซ้ำ"
+   ],
+   "e": "เช่น Identification ต้องแยก levofloxacin ออกจาก dextrofloxacin; ในโครมาโทกราฟีต้องแสดง resolution ของพีคที่ใกล้กัน"
+  },
+  {
+   "t": "Specificity",
+   "q": "การหา specificity ของ assay เมื่อไม่มีสารมาตรฐานของ impurity/degradation product ทำได้อย่างไร",
+   "a": "เทียบกับวิธีที่ well-characterized อีกวิธี (เช่น ตำรายา) วิเคราะห์ตัวอย่างที่ผ่าน stress conditions และทำ peak purity test (เช่น diode array หรือ MS)",
+   "w": [
+    "ไม่ต้องทำอะไรเพิ่มเพราะไม่มีสารมาตรฐาน",
+    "เพิ่มความเข้มข้นของ mobile phase",
+    "วัดจุดหลอมเหลวของตัวอย่างเท่านั้น",
+    "ใช้วิธีเดียวกันซ้ำ 3 ครั้ง"
+   ],
+   "e": "Stress conditions: light, heat, humidity, acid/base hydrolysis, oxidation; ถ้ามีสารมาตรฐานให้ทำ spiking แล้วเทียบกับ unspiked sample"
+  },
+  {
+   "t": "Linearity",
+   "q": "ในการประเมิน linearity ข้อใดถูกต้อง",
+   "a": "ควรใช้อย่างน้อย 5 ความเข้มข้น และรายงาน correlation coefficient (r), y-intercept, slope และ residual sum of squares",
+   "w": [
+    "ใช้ 1 ความเข้มข้นก็เพียงพอ",
+    "ใช้ 2 ความเข้มข้นแล้วลากเส้นตรงเชื่อมกัน",
+    "รายงานเฉพาะสีของกราฟ",
+    "ไม่ต้องใช้วิธีทางสถิติใด ๆ"
+   ],
+   "e": "Linearity ประเมินตลอด range ของวิธี โดย plot signal vs concentration และหา regression line ด้วย least squares"
+  },
+  {
+   "t": "Range",
+   "q": "ช่วง range ที่แนะนำสำหรับการวิเคราะห์ assay และ content uniformity ตามลำดับคือข้อใด",
+   "a": "80–120% และ 70–130% ของความเข้มข้นที่ใช้ทดสอบ",
+   "w": [
+    "50–150% และ 90–110%",
+    "90–110% และ 80–120%",
+    "95–105% และ 70–130%",
+    "70–130% และ 80–120%"
+   ],
+   "e": "Dissolution: ±20% ครอบคลุมช่วง specified range; impurity: จากระดับที่รายงานได้ (reporting level) ถึง 120% ของ specification"
+  },
+  {
+   "t": "Accuracy",
+   "q": "การประเมิน accuracy ตามข้อแนะนำทั่วไปควรทำอย่างไรและรายงานเป็นอะไร",
+   "a": "วิเคราะห์อย่างน้อย 9 ซ้ำที่ 3 ความเข้มข้นครอบคลุม range (เช่น เติมสารมาตรฐานที่ทราบความเข้มข้น) และรายงานเป็นร้อยละการคืนกลับ (% recovery)",
+   "w": [
+    "วิเคราะห์ 1 ซ้ำที่ 1 ความเข้มข้น และรายงานเป็น %RSD",
+    "วิเคราะห์ 3 ซ้ำที่ความเข้มข้นเดียว และรายงานเป็นค่า R²",
+    "วิเคราะห์ 9 ซ้ำที่ความเข้มข้นเดียว และรายงานเป็น LOD",
+    "ไม่ต้องวิเคราะห์ซ้ำ"
+   ],
+   "e": "Accuracy = ความใกล้เคียงของค่าที่วัดได้กับค่าที่ยอมรับว่าเป็นจริง; ควรประเมินใน range ของวิธีนั้น"
+  },
+  {
+   "t": "Precision",
+   "q": "ข้อใดจับคู่ระดับของ precision กับความหมายได้ถูกต้อง",
+   "a": "Repeatability = วิเคราะห์ซ้ำในสภาวะเดียวกันระยะเวลาใกล้กัน ; Intermediate precision = เปลี่ยนวัน/ผู้วิเคราะห์/เครื่องมือภายในห้องปฏิบัติการเดียวกัน ; Reproducibility = ระหว่างห้องปฏิบัติการ",
+   "w": [
+    "Repeatability = ระหว่างห้องปฏิบัติการ ; Reproducibility = ภายในวันเดียวกัน",
+    "Intermediate precision = ใช้ตัวอย่างต่างชนิดกัน ; Repeatability = เปลี่ยนเครื่องมือ",
+    "ทั้งสามหมายถึงการวิเคราะห์ตัวอย่างเดียวกันโดยผู้วิเคราะห์คนเดียวกันในครั้งเดียว",
+    "Reproducibility = วิเคราะห์ซ้ำ 2 ครั้ง ในวันเดียวกัน"
+   ],
+   "e": "Repeatability: ≥ 9 ซ้ำครอบคลุม range หรือ ≥ 6 ซ้ำที่ 100% test concentration; รายงาน SD, %RSD (ปกติไม่ควรเกิน 2%) และ confidence interval"
+  },
+  {
+   "t": "Precision",
+   "q": "%RSD คำนวณจากสูตรใด",
+   "a": "%RSD = (SD ÷ ค่าเฉลี่ย) × 100",
+   "w": [
+    "%RSD = (ค่าเฉลี่ย ÷ SD) × 100",
+    "%RSD = SD × ค่าเฉลี่ย",
+    "%RSD = (ค่าจริง − ค่าที่วัดได้) × 100",
+    "%RSD = (สัญญาณ ÷ noise) × 100"
+   ],
+   "e": "%RSD (relative standard deviation หรือ coefficient of variation) ใช้รายงาน precision"
+  },
+  {
+   "t": "LOD/LOQ",
+   "q": "การหา LOD และ LOQ โดยวิธี signal-to-noise ratio ใช้เกณฑ์ใดโดยทั่วไป",
+   "a": "LOD ≈ S/N 3 : 1 และ LOQ ≈ S/N 10 : 1",
+   "w": [
+    "LOD ≈ S/N 10 : 1 และ LOQ ≈ S/N 3 : 1",
+    "LOD และ LOQ ≈ S/N 1 : 1 เท่ากัน",
+    "LOD ≈ S/N 100 : 1 และ LOQ ≈ S/N 1000 : 1",
+    "ไม่มีเกณฑ์ S/N ใด ๆ"
+   ],
+   "e": "วิธี S/N ใช้กับวิธีที่มี baseline noise เช่น HPLC; อีกวิธีใช้ σ และ slope (S): LOD = 3.3σ/S, LOQ = 10σ/S"
+  },
+  {
+   "t": "LOD/LOQ",
+   "q": "ข้อใดอธิบาย LOD และ LOQ ได้ถูกต้อง",
+   "a": "LOD คือปริมาณต่ำสุดที่ตรวจพบได้ (ไม่จำเป็นต้องหาปริมาณแน่นอน) ส่วน LOQ คือปริมาณต่ำสุดที่วัดเชิงปริมาณได้ด้วย precision และ accuracy ที่เหมาะสม",
+   "w": [
+    "LOD คือปริมาณต่ำสุดที่วัดเชิงปริมาณได้ ส่วน LOQ คือปริมาณต่ำสุดที่ตรวจพบ",
+    "LOD และ LOQ คือค่าเดียวกันเสมอ",
+    "LOD คือความเข้มข้นสูงสุดที่วิธียอมรับ",
+    "LOQ ใช้กับ identification test เท่านั้น"
+   ],
+   "e": "Limit test ของ impurity ต้องรายงาน LOD; การวิเคราะห์ปริมาณ impurity ต้องรายงาน LOQ"
+  },
+  {
+   "t": "Robustness",
+   "q": "Robustness ของวิธีวิเคราะห์ด้วย HPLC ประเมินจากอะไร",
+   "a": "ผลของการเปลี่ยนแปลงเล็กน้อยโดยตั้งใจ เช่น pH และองค์ประกอบของ mobile phase, lot/ผู้ผลิตของคอลัมน์, อุณหภูมิ และ flow rate",
+   "w": [
+    "ผลของการเปลี่ยนผู้ผลิตตัวอย่างโดยไม่เปลี่ยนวิธี",
+    "การวิเคราะห์ตัวอย่างใน 3 ห้องปฏิบัติการ",
+    "ช่วงความเข้มข้นต่ำสุดถึงสูงสุดของวิธี",
+    "ความสามารถในการแยก analyte จาก matrix"
+   ],
+   "e": "ควรประเมินในช่วงพัฒนาวิธี; ใน GC ตัวแปรได้แก่ lot/supplier คอลัมน์ อุณหภูมิ และ flow rate"
+  },
+  {
+   "t": "System suitability",
+   "q": "System suitability testing (SST) มีวัตถุประสงค์และตัวอย่างเกณฑ์อย่างไร",
+   "a": "ตรวจว่าระบบ (เครื่องมือ วิธี และตัวอย่าง) เหมาะสมก่อน/ระหว่างวิเคราะห์ เช่น HPLC ฉีดซ้ำ 5 ครั้ง tailing factor < 2 และ theoretical plates > 2000",
+   "w": [
+    "ตรวจจุดหลอมเหลวของตัวอย่างก่อนวิเคราะห์",
+    "ตรวจหาปริมาณน้ำในตัวอย่าง",
+    "ตรวจ pH ของน้ำที่ใช้ล้างเครื่องมือ",
+    "ไม่จำเป็นต้องทำในวิธีโครมาโทกราฟี"
+   ],
+   "e": "พารามิเตอร์ SST ขึ้นกับชนิดวิธี ดูได้จากเภสัชตำรับ (เช่น resolution, %RSD ของพื้นที่พีค, tailing, plate count)"
+  },
+  {
+   "t": "COA",
+   "q": "Certificate of Analysis (COA) คืออะไร",
+   "a": "ใบรับรองสรุปผลการตรวจวิเคราะห์ผลิตภัณฑ์/วัตถุ พร้อมการประเมินว่าเป็นไปตามข้อกำหนดที่ขึ้นทะเบียน",
+   "w": [
+    "ใบอนุญาตผลิตยาของโรงงาน",
+    "ใบกำกับภาษีของการสั่งซื้อวัตถุดิบ",
+    "ใบเสร็จค่าธรรมเนียมการขึ้นทะเบียนตำรับยา",
+    "เอกสารสอนการใช้เครื่องมือวิเคราะห์"
+   ],
+   "e": "COA แสดงว่าเภสัชภัณฑ์มีคุณภาพตามที่ขึ้นทะเบียน ลงนามโดยผู้ได้รับมอบหมายจากหน่วยงานคุณภาพ"
+  },
+  {
+   "t": "COA",
+   "q": "ข้อมูลใดต้องปรากฏใน COA",
+   "a": "ชื่อผลิตภัณฑ์ที่ขึ้นทะเบียน ชื่อผู้ผลิต รุ่นการผลิต ชื่อผู้วิเคราะห์/ผู้รับรอง วันที่วิเคราะห์หรือออกเอกสาร และผลการวิเคราะห์พร้อมขีดจำกัดตามมาตรฐาน",
+   "w": [
+    "เฉพาะราคาขายและส่วนลด",
+    "เฉพาะรูปถ่ายบรรจุภัณฑ์",
+    "เฉพาะชื่อผู้ซื้อและที่อยู่จัดส่ง",
+    "เฉพาะวิธีการโฆษณายา"
+   ],
+   "e": "สำหรับผลิตภัณฑ์ที่มีวันสิ้นอายุ ต้องระบุวันสิ้นอายุ; ผลเป็นตัวเลขต้องมี acceptance limit"
+  },
+  {
+   "t": "COA",
+   "q": "In-house specification ที่ระบุใน COA มีลักษณะอย่างไร",
+   "a": "มักกำหนดช่วงแคบกว่าค่ามาตรฐานตำรายา (เช่น 95–105% เทียบกับ 90–110%) แต่การตัดสินผ่าน/ไม่ผ่านยึดขีดจำกัดของมาตรฐานที่อ้างอิงเป็นหลัก",
+   "w": [
+    "กำหนดช่วงกว้างกว่าตำรายาเสมอและใช้ตัดสินผ่าน/ไม่ผ่านแทนมาตรฐาน",
+    "ต้องเท่ากับค่าของตำรายาทุกประการ",
+    "ใช้แทนตำรายาโดยไม่ต้องอ้างอิงมาตรฐานใด",
+    "ไม่เกี่ยวข้องกับคุณภาพของผลิตภัณฑ์"
+   ],
+   "e": "In-house spec ใช้ควบคุมคุณภาพให้เข้มกว่ามาตรฐานเพื่อความมั่นใจ"
+  },
+  {
+   "t": "Specification",
+   "q": "ตาม USP general chapters ที่เกี่ยวข้องกับ product quality tests ข้อใดจับคู่ถูกต้อง",
+   "a": "<1> Injections and implanted drug products ; <2> Oral drug products ; <3> Topical and transdermal ; <4> Mucosal ; <5> Inhalation and nasal",
+   "w": [
+    "<1> Oral drug products ; <2> Injections",
+    "<2> Topical ; <3> Inhalation",
+    "<3> Oral drug products ; <4> Parenterals",
+    "<5> Injections ; <1> Mucosal drug products"
+   ],
+   "e": "Universal tests ของยารับประทาน: description, identification, assay, impurities; ยาเม็ดเพิ่ม disintegration, friability, breaking force, uniformity of dosage units"
+  },
+  {
+   "t": "Specification",
+   "q": "ใน COA ของยาฉีด หัวข้อใดจัดเป็น Universal tests ของ parenteral dosage forms",
+   "a": "Identification, assay, impurities, foreign and particulate matter, sterility และ bacterial endotoxins",
+   "w": [
+    "Disintegration และ tablet friability",
+    "Spray pattern และ valve delivery",
+    "Tablet breaking force และ volatile content",
+    "Net fill weight ของยาสูดพ่นเท่านั้น"
+   ],
+   "e": "Specific tests ของ parenterals เช่น uniformity of dosage units, antimicrobial preservatives, water content, completeness and clarity of solutions"
+  },
+  {
+   "t": "Validation",
+   "q": "ตามหลักเกณฑ์ GMP ของไทย วิธีวิเคราะห์ใดที่ไม่ต้องทำ method validation แต่ต้องทวนสอบ (verification) ภายใต้สภาวะการใช้งานจริง",
+   "a": "วิธีที่ระบุไว้ในตำรายาหรือหนังสืออ้างอิงมาตรฐานที่ อย. ประกาศ",
+   "w": [
+    "วิธีที่ห้องปฏิบัติการพัฒนาขึ้นเองใหม่ทั้งหมด",
+    "วิธีที่ไม่มีเอกสารอ้างอิงใด ๆ",
+    "วิธีที่ใช้เฉพาะกับวัตถุดิบนำเข้าเท่านั้น",
+    "ทุกวิธีต้องทำ validation โดยไม่มีข้อยกเว้น"
+   ],
+   "e": "ต้องมีการสอบเทียบ (calibration) เครื่องมือวิเคราะห์ก่อนเริ่ม validation และบันทึกเป็นเอกสาร; ถ้าปรับเปลี่ยนวิธีต้องระบุเหตุผลและทวนสอบ"
+  }
+ ]
+}

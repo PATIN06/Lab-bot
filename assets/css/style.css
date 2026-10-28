@@ -253,3 +253,15 @@ dl { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 
 .bento-top:empty { display: none; }
 .chip .dot { flex: none; }
+
+.explain { margin-top: 14px; padding: 14px 16px; background: var(--card); box-shadow: 0 0 0 1px var(--ring); font-size: 15px; }
+.explain p { margin: 6px 0 0; color: var(--sub); }
+.sec-head .chip { margin-bottom: 10px; }
+.key { list-style: none; padding: 0; margin: 24px 0 0; display: flex; flex-direction: column; gap: 14px; counter-reset: k; }
+.key-item { counter-increment: k; background: var(--card); box-shadow: 0 0 0 1px var(--ring); padding: 16px; }
+.key-q { font: 500 18px/1.45 var(--font-display); margin: 10px 0; }
+.key-q::before { content: "Q" counter(k, decimal-leading-zero) "  "; font-family: var(--font-mono); color: var(--dim); font-size: 13px; }
+.key-opts { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.key-opts li { padding: 10px 12px; box-shadow: 0 0 0 1px var(--ring); font-size: 15px; overflow-wrap: anywhere; }
+.key-opts li.right { box-shadow: 0 0 0 1px var(--green); }
+.key-opts li .mark { color: var(--green); margin-right: 8px; font-family: var(--font-mono); }
