@@ -1,4 +1,5 @@
 import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js";
+import { EXAM_OPEN } from "./config.js";
 import { route, navigate, start } from "./router.js";
 import { getState, recordResult, saveSetup, averagePct } from "./storage.js";
 import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js";
@@ -114,8 +115,9 @@ function labCards() {
       <h3>${esc(title)}</h3>
       <p class="mono dim">${count} พืช</p>
       <div class="bento-actions">
-        ${arrowLink("ส่วนที่ 1", `#/lab/${key}/part1`)}
-        ${arrowLink("ส่วนที่ 2", `#/lab/${key}/part2`, "btn-ghost")}
+        ${EXAM_OPEN
+          ? `${arrowLink("ส่วนที่ 1", `#/lab/${key}/part1`)}${arrowLink("ส่วนที่ 2", `#/lab/${key}/part2`, "btn-ghost")}`
+          : arrowLink("ทบทวน / เฉลย", key === "all" ? "#/review" : `#/review/${key}`)}
       </div>
     </article>`;
   };
@@ -131,11 +133,11 @@ function homeView() {
         ${chip("NATURAL DRUG DISCOVERY LAB")}
         <h1>ซ้อมสอบแลปกริ้ง ให้จำได้ทั้งชื่อ วงศ์ สารสำคัญ และรูป</h1>
         <p class="lead">ปรนัย 5 ตัวเลือก และเติมตัวอักษรสะกดชื่อวิทยาศาสตร์ จากพืช ${ALL.length} ชนิดใน ${DATA.labs.length} Lab</p>
-        <div class="hero-cta">${arrowLink("เริ่มทำข้อสอบ", "#/setup")}${arrowLink("ทบทวนพืช", "#/review", "btn-ghost")}</div>
+        <div class="hero-cta">${EXAM_OPEN ? arrowLink("เริ่มทำข้อสอบ", "#/setup") + arrowLink("ทบทวนพืช", "#/review", "btn-ghost") : arrowLink("ทบทวนพืช / เฉลย", "#/review")}</div>
       </div>
     </section>
     ${metricsHtml()}
-    <section class="wrap section" id="labs"><div class="sec-head"><h2>เลือก Lab</h2><p class="dim">แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)</p></div>${labCards()}</section>
+    <section class="wrap section" id="labs"><div class="sec-head"><h2>เลือก Lab</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
     <section class="wrap section"><div class="tip-teaser"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
     { nav: "" }
   );
@@ -485,9 +487,22 @@ function tipsView() {
       <ul class="tips plain">${DATA.focusGroups.map((t) => `<li>${focus(t)}</li>`).join("")}</ul>
       <h2 class="h-sec">หมายเหตุประจำบท</h2>
       <ul class="tips plain">${notes}</ul>
-      <div class="result-actions">${arrowLink("เริ่มทำข้อสอบ", "#/setup")}</div>
+      <div class="result-actions">${arrowLink(EXAM_OPEN ? "เริ่มทำข้อสอบ" : "ทบทวนพืช / เฉลย", EXAM_OPEN ? "#/setup" : "#/review")}</div>
     </section>`,
     { nav: "tips", title: "เคล็ดลับข้อสอบ" }
+  );
+}
+
+/* ---------- exam closed ---------- */
+function closedView() {
+  show(
+    `<section class="wrap section page-top narrow">
+      ${chip("EXAM CLOSED")}
+      <h1 class="h-page" style="margin-top:16px">ปิดการทำข้อสอบชั่วคราว</h1>
+      <p class="lead">ตอนนี้ยังทำข้อสอบไม่ได้ แต่ดูเฉลยและทบทวนพืชทั้งหมดได้ตามปกติ</p>
+      <div class="result-actions">${arrowLink("ทบทวนพืช / เฉลย", "#/review")}${arrowLink("เคล็ดลับข้อสอบ", "#/tips", "btn-ghost")}</div>
+    </section>`,
+    { title: "ปิดการทำข้อสอบ" }
   );
 }
 
@@ -499,12 +514,21 @@ async function boot() {
     app.innerHTML = `<section class="wrap section page-top"><h1 class="h-page">โหลดข้อมูลไม่ได้</h1><p class="dim">${esc(e.message)} — ถ้าเปิดไฟล์ตรง ๆ ให้รันผ่านเซิร์ฟเวอร์ (python -m http.server)</p></section>`;
     return;
   }
+  if (!EXAM_OPEN) {
+    const cta = $(".nav-cta");
+    cta.href = "#/review";
+    cta.firstChild.textContent = "ทบทวน / เฉลย ";
+    const big = $("#mobileMenu .big");
+    big.href = "#/review";
+    big.textContent = "ทบทวน / เฉลย ↗";
+  }
   route("/", homeView);
   route("/labs", labsView);
-  route("/setup", () => setupView());
-  route("/lab/:id/:part", (p) => setupView(p));
-  route("/quiz", quizView);
-  route("/result", resultView);
+  const gated = (fn) => (p) => (EXAM_OPEN ? fn(p) : closedView());
+  route("/setup", gated(() => setupView()));
+  route("/lab/:id/:part", gated((p) => setupView(p)));
+  route("/quiz", gated(quizView));
+  route("/result", gated(resultView));
   route("/review", () => reviewView());
   route("/review/:id", (p) => reviewView(p));
   route("/tips", tipsView);
