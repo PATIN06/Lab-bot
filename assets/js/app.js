@@ -1,9 +1,10 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=9";
-import { route, navigate, start } from "./router.js?v=9";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=9";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=9";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=9";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=9";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=13";
+import { route, navigate, start } from "./router.js?v=13";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=13";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=13";
+import { initFx } from "./fx.js?v=13";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=13";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=13";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -16,6 +17,7 @@ const qcById = new Map();
 const byId = new Map();
 let session = null; // { cfg, qs, i, results, t0, saved }
 
+const RING = ["L1-06", "L2-18", "L3-09", "L4-29", "L5-10", "L6-06", "L7-23", "L2-16"];
 const HERO_IMG = "./images/lab1/06.webp";
 const PASS_PCT = 80;
 
@@ -76,6 +78,7 @@ function show(html, { nav = "", title = "" } = {}) {
   document.title = title ? `${title} — รวมข้อสอบ` : "รวมข้อสอบ";
   window.scrollTo(0, 0);
   app.focus({ preventScroll: true });
+  initFx(app);
 }
 
 const arrowBtn = (label, attrs = "", cls = "btn-square") => `<button ${/\btype=/.test(attrs) ? "" : 'type="button"'} class="${cls}" ${attrs}>${label} <span class="arr" aria-hidden="true">↗</span></button>`;
@@ -107,7 +110,7 @@ function plantCard(p) {
 function metricsHtml() {
   const st = getState();
   const avg = averagePct();
-  const cell = (num, unit, label) => `<div class="metric"><div class="num">${num}<span class="unit mono">${unit}</span></div><div class="mono dim">${label}</div></div>`;
+  const cell = (num, unit, label) => `<div class="metric reveal"><div class="num">${num}<span class="unit mono">${unit}</span></div><div class="mono dim">${label}</div></div>`;
   return `<section class="wrap metrics" aria-label="สถิติ">
     ${cell(ALL.length, "PLANTS", "พืชทั้งหมด")}
     ${cell(DATA.labs.length, "LABS", "จำนวน Lab")}
@@ -121,7 +124,7 @@ function labCards() {
   const card = (key, title, count, labNo) => {
     const best = st.best[key];
     const pass = best >= PASS_PCT;
-    return `<article class="bento-card">
+    return `<article class="bento-card reveal" data-tilt="6">
       <div class="bento-top">${labNo ? "" : chip("ALL LABS")}${best === undefined ? chip("NO SCORE") : pass ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`)}</div>
       <h3>${esc(title)}</h3>
       <p class="mono dim">${count} พืช</p>
@@ -140,17 +143,18 @@ function homeView() {
     `<section class="hero">
       <img class="hero-bg" src="${HERO_IMG}" alt="" fetchpriority="high">
       <div class="hero-scrim"></div>
+      <div class="ring" aria-hidden="true"><div class="ring-inner">${RING.map((id, i) => (byId.get(id) ? `<div class="ring-card" style="--i:${i}"><img src="./${esc(byId.get(id).image)}" alt="" width="160" height="160"></div>` : "")).join("")}</div></div>
       <div class="wrap hero-inner">
-        ${chip("NATURAL DRUG DISCOVERY LAB")}
-        <h1>ซ้อมสอบแลปกริ้ง ให้จำได้ทั้งชื่อ วงศ์ สารสำคัญ และรูป</h1>
-        <p class="lead">ปรนัย 5 ตัวเลือก และเติมตัวอักษรสะกดชื่อวิทยาศาสตร์ จากพืช ${ALL.length} ชนิดใน ${DATA.labs.length} Lab</p>
+        ${chip("PHARMACY EXAM HUB · 2 SUBJECTS")}
+        <h1>รวมข้อสอบ ซ้อมให้แม่น ทั้งชื่อ ภาพ และเครื่องมือวิเคราะห์</h1>
+        <p class="lead">วิชา 1 ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ (พืช ${ALL.length} ชนิด ${DATA.labs.length} Lab) · วิชา 2 เครื่องมือวิเคราะห์ QC (${QC.files.length} ชุด ${QC.files.reduce((n, f) => n + f.questions.length, 0)} ข้อ)</p>
         <div class="hero-cta">${EXAM_OPEN ? arrowLink("เริ่มทำข้อสอบ", "#/setup") + arrowLink("ทบทวนพืช", "#/review", "btn-ghost") : arrowLink("ทบทวนพืช / เฉลย", "#/review")}</div>
       </div>
     </section>
     ${metricsHtml()}
     <section class="wrap section" id="labs"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 1</span><h2>ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
     <section class="wrap section" id="qc"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 2</span><h2>เครื่องมือวิเคราะห์ทางเภสัชกรรม (QC)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 9 หัวข้อ</p></div>${qcCards()}</section>
-    <section class="wrap section"><div class="tip-teaser"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
+    <section class="wrap section"><div class="tip-teaser reveal" data-tilt="3"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
     { nav: "" }
   );
 }
@@ -388,9 +392,9 @@ function resultView() {
     `<section class="wrap section page-top">
       <div class="result-head">${chip(pass ? "PASS" : "FAIL", pass ? "pass" : "fail")}<h1 class="h-page">สรุปผลคะแนน</h1></div>
       <div class="metrics tight">
-        <div class="metric"><div class="num">${Math.round(score * 100) / 100}<span class="unit mono">/ ${total}</span></div><div class="mono dim">คะแนน</div></div>
-        <div class="metric"><div class="num">${pct}<span class="unit mono">%</span></div><div class="mono dim">เปอร์เซ็นต์</div></div>
-        <div class="metric"><div class="num">${fmtTime(secs)}</div><div class="mono dim">เวลาที่ใช้ (นาที:วินาที)</div></div>
+        <div class="metric reveal"><div class="num">${Math.round(score * 100) / 100}<span class="unit mono">/ ${total}</span></div><div class="mono dim">คะแนน</div></div>
+        <div class="metric reveal"><div class="num">${pct}<span class="unit mono">%</span></div><div class="mono dim">เปอร์เซ็นต์</div></div>
+        <div class="metric reveal"><div class="num">${fmtTime(secs)}</div><div class="mono dim">เวลาที่ใช้ (นาที:วินาที)</div></div>
       </div>
       <h2 class="h-sec">คะแนนตามหัวข้อ <span class="dim small">(เรียงจากอ่อนสุด)</span></h2>
       <div class="bars">${bars}</div>
@@ -518,7 +522,7 @@ function qcCards() {
     .map((f) => {
       const best = st.best[f.id];
       const status = best === undefined ? chip("NO SCORE") : best >= PASS_PCT ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`);
-      return `<article class="bento-card">
+      return `<article class="bento-card reveal" data-tilt="6">
         <div class="bento-top">${chip(`QC ${pad2(f.no)}`)}${status}</div>
         <h3>${esc(f.title)}</h3>
         <p class="mono dim">${f.questions.length} ข้อ · ปรนัย 5 ตัวเลือก</p>

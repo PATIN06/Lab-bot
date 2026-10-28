@@ -1,5 +1,5 @@
 // ส่วนที่ 2: เติมตัวอักษรสะกดชื่อวิทยาศาสตร์ (binomial)
-import { esc, shuffle, pick } from "./util.js?v=9";
+import { esc, shuffle, pick } from "./util.js?v=13";
 
 const isLetter = (c) => /[A-Za-z]/.test(c);
 export const DIFFICULTY = { easy: "ง่าย", medium: "กลาง", hard: "ยาก" };

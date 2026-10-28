@@ -265,3 +265,122 @@ dl { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 .key-opts li { padding: 10px 12px; box-shadow: 0 0 0 1px var(--ring); font-size: 15px; overflow-wrap: anywhere; }
 .key-opts li.right { box-shadow: 0 0 0 1px var(--green); }
 .key-opts li .mark { color: var(--green); margin-right: 8px; font-family: var(--font-mono); }
+
+/* ================= 3D / depth theme ================= */
+body {
+  background:
+    radial-gradient(1100px 560px at 85% -8%, rgba(82, 168, 255, 0.12), transparent 62%),
+    radial-gradient(900px 520px at -10% 38%, rgba(255, 255, 255, 0.05), transparent 60%),
+    #000;
+  background-attachment: fixed;
+}
+body::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 56px 56px;
+  -webkit-mask-image: radial-gradient(ellipse at 50% 0%, #000 0%, transparent 78%);
+  mask-image: radial-gradient(ellipse at 50% 0%, #000 0%, transparent 78%);
+}
+#app > * { animation: pagein 0.55s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+@keyframes pagein { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+.logo { filter: drop-shadow(0 0 8px rgba(82, 168, 255, 0.5)); }
+.site-header.solid { box-shadow: 0 12px 30px -18px rgba(0, 0, 0, 0.9); }
+
+/* scroll reveal (ใช้ property translate แยกจาก transform ของ tilt) */
+.reveal { opacity: 0; translate: 0 28px; transition: opacity 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms), translate 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms); }
+.reveal.in { opacity: 1; translate: 0 0; }
+
+/* tilt + glare */
+[data-tilt] {
+  position: relative; transform-style: preserve-3d; will-change: transform;
+  transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
+  transition: transform 0.35s cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 0.3s, opacity 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms), translate 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) var(--d, 0ms);
+}
+[data-tilt].tilting { transition: transform 0.06s linear, box-shadow 0.3s, opacity 0.7s, translate 0.7s; }
+[data-tilt]::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity 0.3s;
+  background: radial-gradient(520px circle at var(--mx, 50%) var(--my, 50%), rgba(255, 255, 255, 0.11), transparent 45%);
+}
+[data-tilt].tilting::after { opacity: 1; }
+.bento-card > * { transform: translateZ(18px); }
+
+/* การ์ดซ้อนชั้น */
+.bento-card, .tip-teaser {
+  background: linear-gradient(160deg, #121212 0%, #0a0a0a 55%, #060606 100%);
+  box-shadow: 0 0 0 1px var(--ring), 0 1px 0 rgba(255, 255, 255, 0.09) inset, 0 26px 40px -26px rgba(0, 0, 0, 0.95), 0 10px 22px -14px rgba(82, 168, 255, 0.14);
+}
+.bento-card:hover, .tip-teaser:hover {
+  box-shadow: 0 0 0 1px rgba(82, 168, 255, 0.55), 0 1px 0 rgba(255, 255, 255, 0.12) inset, 0 34px 60px -26px rgba(82, 168, 255, 0.4), 0 14px 26px -14px rgba(0, 0, 0, 0.9);
+}
+.pcard { box-shadow: 0 0 0 1px var(--ring), 0 26px 40px -28px rgba(0, 0, 0, 0.95); background: linear-gradient(160deg, #101010, #070707); }
+.pimg img { transition: transform 0.6s cubic-bezier(0.2, 0.7, 0.2, 1); }
+.pcard:hover .pimg img { transform: scale(1.05); }
+.metrics { background: linear-gradient(180deg, rgba(255, 255, 255, 0.035), transparent); box-shadow: 0 30px 50px -36px rgba(82, 168, 255, 0.25); }
+.num { background: linear-gradient(180deg, #fff 30%, #8d8d8d 130%); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+.num .unit { -webkit-text-fill-color: var(--dim); }
+.chip.pass { box-shadow: 0 0 16px -4px rgba(98, 192, 115, 0.55); }
+
+/* ปุ่มนูนกดยุบ */
+.btn-square {
+  box-shadow: 0 1px 0 #fff inset, 0 4px 0 #8c8c8c, 0 14px 22px -10px rgba(255, 255, 255, 0.28);
+  transition: transform 0.12s ease, box-shadow 0.12s ease, background 0.15s;
+}
+.btn-square:hover { transform: translateY(-2px); box-shadow: 0 1px 0 #fff inset, 0 6px 0 #8c8c8c, 0 20px 28px -10px rgba(82, 168, 255, 0.5); }
+.btn-square:active { transform: translateY(3px); box-shadow: 0 1px 0 #fff inset, 0 1px 0 #8c8c8c, 0 4px 8px -4px rgba(255, 255, 255, 0.3); }
+.btn-ghost { box-shadow: 0 3px 0 rgba(255, 255, 255, 0.07), 0 12px 20px -14px rgba(0, 0, 0, 0.9); transition: transform 0.12s, border-color 0.15s, box-shadow 0.12s; }
+.btn-ghost:hover { transform: translateY(-2px); box-shadow: 0 5px 0 rgba(255, 255, 255, 0.1), 0 18px 26px -14px rgba(82, 168, 255, 0.3); }
+.btn-ghost:active { transform: translateY(2px); box-shadow: 0 1px 0 rgba(255, 255, 255, 0.07); }
+
+/* ข้อสอบ: ตัวเลือก/ช่องตัวอักษรนูน */
+.opt { transition: transform 0.15s ease, box-shadow 0.2s; box-shadow: 0 0 0 1px var(--ring), 0 6px 0 -3px rgba(255, 255, 255, 0.05), 0 16px 24px -18px rgba(0, 0, 0, 0.9); }
+.opt:not(:disabled):hover, .opt:not(:disabled):focus-visible { transform: translateY(-2px) translateX(3px); box-shadow: 0 0 0 1px var(--blue), 0 16px 28px -14px rgba(82, 168, 255, 0.55); }
+.opt.right { box-shadow: 0 0 0 1px var(--green), 0 14px 30px -14px rgba(98, 192, 115, 0.55); }
+.opt.wrong { box-shadow: 0 0 0 2px var(--fail), 0 14px 26px -16px rgba(237, 237, 237, 0.25); }
+.tl-fill { box-shadow: 0 0 14px rgba(82, 168, 255, 0.85); }
+.tl-fill.full { box-shadow: 0 0 14px rgba(98, 192, 115, 0.8); }
+input.cell { box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.3), 0 4px 0 rgba(255, 255, 255, 0.1); transition: transform 0.12s, box-shadow 0.12s; }
+input.cell:focus { transform: translateY(-3px); box-shadow: 0 0 0 2px var(--blue), 0 10px 18px -8px rgba(82, 168, 255, 0.7); }
+.seg-item span { box-shadow: 0 0 0 1px var(--ring), 0 4px 0 rgba(255, 255, 255, 0.05); transition: transform 0.12s, box-shadow 0.15s; }
+.seg-item:hover span { transform: translateY(-1px); }
+.seg-item input:checked + span { box-shadow: 0 0 0 1px var(--blue), 0 4px 0 rgba(82, 168, 255, 0.35), 0 12px 22px -12px rgba(82, 168, 255, 0.6); }
+.key-item, .explain { box-shadow: 0 0 0 1px var(--ring), 0 22px 34px -26px rgba(0, 0, 0, 0.95); }
+
+/* ฮีโร่: วงแหวนรูปพืชหมุน 3 มิติ */
+.hero { --px: 0; --py: 0; }
+.hero-inner { z-index: 2; }
+.hero h1 { text-shadow: 0 6px 40px rgba(0, 0, 0, 0.65); }
+.ring {
+  position: absolute; z-index: 1; left: 50%; top: 88px; width: 200px; height: 200px; margin-left: -100px; pointer-events: none;
+  perspective: 1200px;
+  transform: rotateX(calc(var(--py) * -6deg)) rotateY(calc(var(--px) * 10deg));
+  transition: transform 0.25s ease-out;
+}
+.ring-inner { position: absolute; inset: 0; transform-style: preserve-3d; transform: rotateX(-12deg); animation: ring-spin 38s linear infinite; }
+.ring-card {
+  position: absolute; left: 50%; top: 50%; width: 84px; height: 108px; margin: -54px 0 0 -42px; padding: 4px; background: #fff;
+  transform: rotateY(calc(var(--i) * 45deg)) translateZ(165px);
+  box-shadow: 0 18px 36px -12px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(255, 255, 255, 0.4);
+  -webkit-box-reflect: below 6px linear-gradient(transparent 62%, rgba(255, 255, 255, 0.22));
+}
+.ring-card img { width: 100%; height: 100%; object-fit: cover; display: block; }
+@keyframes ring-spin { to { transform: rotateX(-12deg) rotateY(360deg); } }
+@media (min-width: 900px) {
+  .ring { left: auto; right: 7%; top: calc(50% - 170px); width: 340px; height: 340px; margin-left: 0; }
+  .ring-card { width: 150px; height: 192px; margin: -96px 0 0 -75px; padding: 6px; transform: rotateY(calc(var(--i) * 45deg)) translateZ(330px); }
+  .ring-inner { transform: rotateX(-10deg); }
+  @keyframes ring-spin { to { transform: rotateX(-10deg) rotateY(360deg); } }
+}
+@media (prefers-reduced-motion: reduce) {
+  .ring-inner { animation: none; }
+  #app > * { animation: none; }
+  .reveal { opacity: 1; translate: 0 0; }
+}
+
+.hero-bg { filter: brightness(0.72) saturate(1.05); }
+.hero-scrim { background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 26%), linear-gradient(to top, rgba(0, 0, 0, 0.86) 0%, rgba(0, 0, 0, 0) 93.785%); }
+
+@media (min-width: 900px) {
+  .ring { right: 12%; }
+  .ring-card { width: 136px; height: 174px; margin: -87px 0 0 -68px; transform: rotateY(calc(var(--i) * 45deg)) translateZ(270px); }
+}
