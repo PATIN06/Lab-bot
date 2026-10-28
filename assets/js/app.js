@@ -1,9 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js";
-import { EXAM_OPEN } from "./config.js";
-import { route, navigate, start } from "./router.js";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=6";
+import { route, navigate, start } from "./router.js?v=6";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=6";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=6";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=6";
+
+// เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
+const EXAM_OPEN = true;
 
 const app = $("#app");
 let DATA = null;
