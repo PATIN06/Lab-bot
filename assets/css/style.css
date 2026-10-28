@@ -73,7 +73,7 @@ i.sci { font-style: italic; }
 .btn-ghost:hover { border-color: #fff; }
 .chip {
   display: inline-flex; align-items: center; gap: 8px; background: var(--chip); border-radius: 100px; padding: 4px 10px;
-  font: 400 12px/1.4 var(--font-mono); color: var(--dim); text-transform: uppercase; letter-spacing: .02em; white-space: nowrap;
+  font: 400 12px/1.4 var(--font-mono); color: var(--dim); text-transform: uppercase; letter-spacing: .02em; white-space: nowrap; max-width: 100%; overflow: hidden; text-overflow: ellipsis;
 }
 .chip .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--dim); display: inline-block; }
 .chip.pass { color: var(--green); } .chip.pass .dot { background: var(--green); }
@@ -250,3 +250,6 @@ dl { margin: 0; display: flex; flex-direction: column; gap: 8px; }
 .lb-close { position: absolute; top: 12px; right: 12px; width: 44px; height: 44px; background: #000; border: 1px solid var(--ring); }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+.bento-top:empty { display: none; }
+.chip .dot { flex: none; }

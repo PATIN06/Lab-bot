@@ -1,8 +1,8 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=6";
-import { route, navigate, start } from "./router.js?v=6";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=6";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=6";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=6";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=7";
+import { route, navigate, start } from "./router.js?v=7";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=7";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=7";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=7";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -31,7 +31,7 @@ async function loadData() {
   }
 }
 const labById = (id) => DATA.labs.find((l) => String(l.id) === String(id));
-const labChip = (id) => `<span class="chip"><i class="dot"></i>LAB ${pad2(id)}</span>`;
+const labChip = (id) => `<span class="chip"><i class="dot"></i>${esc(labById(id)?.title ?? "LAB " + pad2(id))}</span>`;
 const chip = (t, kind = "") => `<span class="chip ${kind}"><i class="dot"></i>${esc(t)}</span>`;
 
 /* ---------- chrome ---------- */
@@ -113,7 +113,7 @@ function labCards() {
     const best = st.best[key];
     const pass = best >= PASS_PCT;
     return `<article class="bento-card">
-      <div class="bento-top">${labNo ? labChip(labNo) : chip("ALL LABS")}${best === undefined ? chip("NO SCORE") : pass ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`)}</div>
+      <div class="bento-top">${labNo ? "" : chip("ALL LABS")}${best === undefined ? chip("NO SCORE") : pass ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`)}</div>
       <h3>${esc(title)}</h3>
       <p class="mono dim">${count} พืช</p>
       <div class="bento-actions">
@@ -159,12 +159,12 @@ function setupView(params = {}) {
   if (params.part) cfg.part = params.part;
   const radio = (name, items, cur) =>
     `<div class="seg" role="radiogroup">${items.map(([v, l]) => `<label class="seg-item"><input type="radio" name="${name}" value="${v}" ${String(cur) === String(v) ? "checked" : ""}><span>${l}</span></label>`).join("")}</div>`;
-  const labItems = [["all", "รวมทุก Lab"], ...DATA.labs.map((l) => [String(l.id), `Lab ${l.id}`])];
+  const labItems = [["all", "รวมทุก Lab"], ...DATA.labs.map((l) => [String(l.id), l.title])];
   show(
     `<section class="wrap section page-top narrow">
       <h1 class="h-page">ตั้งค่าข้อสอบ</h1>
       <form id="setup" class="setup">
-        <fieldset><legend class="mono">LAB</legend>${radio("lab", labItems, cfg.lab)}<p class="dim small" id="labName"></p></fieldset>
+        <fieldset><legend class="mono">LAB</legend>${radio("lab", labItems, cfg.lab)}</fieldset>
         <fieldset><legend class="mono">ส่วน</legend>${radio("part", [["part1", "ส่วนที่ 1 ปรนัย"], ["part2", "ส่วนที่ 2 สะกดชื่อวิทย์"], ["mixed", "ผสม"]], cfg.part)}</fieldset>
         <fieldset><legend class="mono">จำนวนข้อ</legend>${radio("count", [["10", "10"], ["20", "20"], ["30", "30"], ["all", "ทั้งหมด"]], cfg.count)}
           <p class="dim small">“ทั้งหมด” = ถามทุกพืชใน Lab ที่เลือกอย่างละ 1 ข้อ (ส่วนผสม = ทั้งสองส่วน)</p></fieldset>
@@ -184,7 +184,6 @@ function setupView(params = {}) {
     const part = new FormData(form).get("part");
     $$("[data-for]", form).forEach((f) => (f.hidden = !f.dataset.for.split(" ").includes(part)));
     const lab = new FormData(form).get("lab");
-    $("#labName").textContent = lab === "all" ? "" : labById(lab)?.title || "";
   };
   form.addEventListener("change", sync);
   sync();
@@ -445,7 +444,7 @@ function reviewView(params = {}) {
     `<section class="wrap section page-top">
       <h1 class="h-page">ทบทวนพืช</h1>
       <div class="toolbar">
-        <div class="seg" role="radiogroup" id="labSeg">${[["all", "ทั้งหมด"], ...DATA.labs.map((l) => [String(l.id), `Lab ${l.id}`])]
+        <div class="seg" role="radiogroup" id="labSeg">${[["all", "ทั้งหมด"], ...DATA.labs.map((l) => [String(l.id), l.title])]
           .map(([v, l]) => `<label class="seg-item"><input type="radio" name="rl" value="${v}" ${v === labF ? "checked" : ""}><span>${l}</span></label>`)
           .join("")}</div>
         <input type="search" id="q" class="search" placeholder="ค้นหา ชื่อไทย / ชื่อวิทย์ / วงศ์" aria-label="ค้นหา" autocomplete="off" spellcheck="false">
