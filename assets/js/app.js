@@ -1,9 +1,9 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=8";
-import { route, navigate, start } from "./router.js?v=8";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=8";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=8";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=8";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=8";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=9";
+import { route, navigate, start } from "./router.js?v=9";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=9";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=9";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=9";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=9";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -73,7 +73,7 @@ function show(html, { nav = "", title = "" } = {}) {
   closeLightbox();
   app.innerHTML = html;
   setNav(nav);
-  document.title = title ? `${title} — แนวแลปกริ้ง` : "แนวแลปกริ้ง — ซ้อมสอบ Natural Drug Discovery Lab";
+  document.title = title ? `${title} — รวมข้อสอบ` : "รวมข้อสอบ";
   window.scrollTo(0, 0);
   app.focus({ preventScroll: true });
 }
