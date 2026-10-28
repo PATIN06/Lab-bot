@@ -15,6 +15,7 @@ const bad = (m) => { fail++; if (fail < 25) log("FAIL", m); };
 for (const p of all) {
   const r = await fetch("../" + p.image, { method: "HEAD" });
   if (!r.ok) bad("missing image " + p.id);
+  if (p.quizImage && !(await fetch("../" + p.quizImage, { method: "HEAD" })).ok) bad("missing quiz image " + p.id);
 }
 
 const key = (v) => v.toLowerCase().replace(/\s+/g, " ").trim();
@@ -28,6 +29,7 @@ for (const lab of [...data.labs.map((l) => l.id), "all"]) {
       const keys = q.options.map((o) => key(o.text));
       if (new Set(keys).size !== 5) bad(`${q.spec.plantId} ${q.topic} ซ้ำ ${keys}`);
       if (q.options.filter((o) => o.correct).length !== 1) bad("ไม่มีข้อถูกเดียว");
+      if (q.from === "image" && q.plant.quizImage && q.image !== q.plant.quizImage) bad("โจทย์รูปไม่ใช้ภาพเบลอ " + q.plant.id);
       if (q.from === "image" && q.plant.thaiName && q.promptHtml.includes(q.plant.thaiName)) bad("โจทย์รูปมีชื่อพืช " + q.plant.id);
       // ตัวเลือกหลอกต้องไม่เท่าค่าของพืชอื่นที่ชื่อเดียวกัน (ซึ่งถูกด้วย)
       const same = all.filter((p) => p.id !== q.plant.id && (p.thaiName === q.plant.thaiName || (p.scientificName && p.scientificName === q.plant.scientificName)));

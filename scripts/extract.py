@@ -214,8 +214,16 @@ def render_cell_image(page, sq_bbox, overlays, dest: Path, pid=None):
     zoom = 640 / max(r.width, r.height)
     pix = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom), clip=r, alpha=False)
     img = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
+    save_webp(img, dest)
+    # ภาพสำหรับข้อสอบ: เบลอตัวหนังสือ/ป้ายชื่อในรูปถ่าย (หน้าทบทวนใช้ภาพเดิมไม่เบลอ)
+    quiz_dest = None
     if pid in TEXT_MASKS:
-        img = blur_text(img, TEXT_MASKS[pid])
+        quiz_dest = dest.parent.parent / "quiz" / dest.parent.name / dest.name
+        save_webp(blur_text(img.copy(), TEXT_MASKS[pid]), quiz_dest)
+    return quiz_dest
+
+
+def save_webp(img, dest: Path):
     dest.parent.mkdir(parents=True, exist_ok=True)
     for q in (75, 68, 60, 52):
         buf = io.BytesIO()
@@ -223,7 +231,6 @@ def render_cell_image(page, sq_bbox, overlays, dest: Path, pid=None):
         if buf.tell() <= 80 * 1024:
             break
     dest.write_bytes(buf.getvalue())
-    return buf.tell()
 
 
 def main():
@@ -295,7 +302,8 @@ def main():
                     ovs.append(o)
                 pid = f"L{lab_id}-{data['no']:02d}"
                 rel = f"images/lab{lab_id}/{data['no']:02d}.webp"
-                size = render_cell_image(page, bb, ovs, ROOT / rel, pid)
+                quiz_dest = render_cell_image(page, bb, ovs, ROOT / rel, pid)
+                quiz_rel = str(quiz_dest.relative_to(ROOT)) if quiz_dest else None
                 plant = {
                     "id": pid,
                     "no": data["no"],
@@ -309,6 +317,7 @@ def main():
                     "uses": data["uses"],
                     "groupTag": data["groupTag"],
                     "image": rel,
+                    "quizImage": quiz_rel,
                     "_page": pg,
                 }
                 plants.append(plant)

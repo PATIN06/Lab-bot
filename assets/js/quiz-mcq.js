@@ -106,7 +106,7 @@ export function buildMcq(plant, topic, from, allPlants) {
     topic,
     from,
     promptHtml: promptFor(topic, from, plant),
-    image: from === "image" ? plant.image : null,
+    image: from === "image" ? plant.quizImage || plant.image : null,
     options,
     correctText: answer,
     correctHtml: fmt(answer),

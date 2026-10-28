@@ -42,7 +42,7 @@ export function buildSpell(plant, difficulty, fromMode) {
       from === "image"
         ? "พืชในรูปมีชื่อวิทยาศาสตร์ว่าอะไร (สะกด Genus และ species epithet)"
         : `สะกดชื่อวิทยาศาสตร์ของ ${esc(plant.thaiName)} (Genus และ species epithet)`,
-    image: from === "image" ? plant.image : null,
+    image: from === "image" ? plant.quizImage || plant.image : null,
     correctText: plant.scientificName,
     correctHtml: formatAnswer(plant.scientificName),
   };

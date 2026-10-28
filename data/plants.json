@@ -17,7 +17,8 @@
           "partUsed": "ลำต้น",
           "uses": "ต้านการอักเสบ และรักษาริดสีดวงทวารหนัก (TP)",
           "groupTag": "Terpenes",
-          "image": "images/lab1/01.webp"
+          "image": "images/lab1/01.webp",
+          "quizImage": null
         },
         {
           "id": "L1-02",
@@ -31,7 +32,8 @@
           "partUsed": "ทั้งต้น",
           "uses": "ส่งเสริมความจำและการเรียนรู้มีฤทธิ์ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab1/02.webp"
+          "image": "images/lab1/02.webp",
+          "quizImage": null
         },
         {
           "id": "L1-03",
@@ -45,7 +47,8 @@
           "partUsed": "ลำต้นเหนือดิน",
           "uses": "แก้ไข้ รักษาแผล",
           "groupTag": "Terpenes",
-          "image": "images/lab1/03.webp"
+          "image": "images/lab1/03.webp",
+          "quizImage": null
         },
         {
           "id": "L1-04",
@@ -59,7 +62,8 @@
           "partUsed": "ราก",
           "uses": "ขับเสมหะ สารให้ความหวาน",
           "groupTag": "Terpenes",
-          "image": "images/lab1/04.webp"
+          "image": "images/lab1/04.webp",
+          "quizImage": null
         },
         {
           "id": "L1-05",
@@ -73,7 +77,8 @@
           "partUsed": "ผล",
           "uses": "ใช้ชำระล้าง มีฤทธิ์ต้านจุลชีพบางชนิดและ saponin ช่วยลดแรงตึงผิว/เกิดฟอง",
           "groupTag": null,
-          "image": "images/lab1/05.webp"
+          "image": "images/lab1/05.webp",
+          "quizImage": null
         },
         {
           "id": "L1-06",
@@ -87,7 +92,8 @@
           "partUsed": "ใบ",
           "uses": "มีฤทธิ์เพิ่มแรงบีบตัวของหัวใจ แต่มีพิษต่อหัวใจและอาจทำให้หัวใจเต้นผิดจังหวะ",
           "groupTag": null,
-          "image": "images/lab1/06.webp"
+          "image": "images/lab1/06.webp",
+          "quizImage": null
         },
         {
           "id": "L1-07",
@@ -101,7 +107,8 @@
           "partUsed": "เมล็ด/ใบ",
           "uses": "ออกฤทธิ์ต่อหัวใจ แต่มี cardiotoxicity",
           "groupTag": null,
-          "image": "images/lab1/07.webp"
+          "image": "images/lab1/07.webp",
+          "quizImage": null
         },
         {
           "id": "L1-08",
@@ -115,7 +122,8 @@
           "partUsed": "เมล็ด",
           "uses": "มีฤทธิ์ต่อ Na⁺/K⁺-ATPase และหัวใจมีความเป็นพิษต่อหัวใจสูง",
           "groupTag": null,
-          "image": "images/lab1/08.webp"
+          "image": "images/lab1/08.webp",
+          "quizImage": null
         },
         {
           "id": "L1-09",
@@ -129,7 +137,8 @@
           "partUsed": "น้ำยาง/ใบ",
           "uses": "มีฤทธิ์ต่อการทำงานของหัวใจ",
           "groupTag": null,
-          "image": "images/lab1/09.webp"
+          "image": "images/lab1/09.webp",
+          "quizImage": null
         },
         {
           "id": "L1-10",
@@ -143,7 +152,8 @@
           "partUsed": "น้ำยาง",
           "uses": "มีฤทธิ์ต่อกล้ามเนื้อหัวใจและมีพิษ",
           "groupTag": null,
-          "image": "images/lab1/10.webp"
+          "image": "images/lab1/10.webp",
+          "quizImage": null
         },
         {
           "id": "L1-11",
@@ -157,7 +167,8 @@
           "partUsed": "ราก",
           "uses": "บำรุงร่างกาย",
           "groupTag": "Terpenes",
-          "image": "images/lab1/11.webp"
+          "image": "images/lab1/11.webp",
+          "quizImage": "images/quiz/lab1/11.webp"
         },
         {
           "id": "L1-12",
@@ -171,7 +182,8 @@
           "partUsed": "ใบ/ส่วนเหนือดิน",
           "uses": "ต้านอนุมูลอิสระ ต้านการอักเสบ และมีฤทธิ์ช่วยควบคุมระดับน้ำตาลและไขมันในเลือด",
           "groupTag": null,
-          "image": "images/lab1/12.webp"
+          "image": "images/lab1/12.webp",
+          "quizImage": null
         },
         {
           "id": "L1-13",
@@ -185,7 +197,8 @@
           "partUsed": "เมล็ด",
           "uses": "ต้านจุลชีพ ต้านการอักเสบ และใช้ในตำรับสมุนไพรเกี่ยวกับระบบทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab1/13.webp"
+          "image": "images/lab1/13.webp",
+          "quizImage": null
         },
         {
           "id": "L1-14",
@@ -199,7 +212,8 @@
           "partUsed": "ผล",
           "uses": "ใช้เป็นสารให้ความหวาน",
           "groupTag": null,
-          "image": "images/lab1/14.webp"
+          "image": "images/lab1/14.webp",
+          "quizImage": null
         },
         {
           "id": "L1-15",
@@ -213,7 +227,8 @@
           "partUsed": "ใบ",
           "uses": "มีฤทธิ์ต้านการอักเสบและต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab1/15.webp"
+          "image": "images/lab1/15.webp",
+          "quizImage": "images/quiz/lab1/15.webp"
         },
         {
           "id": "L1-16",
@@ -227,7 +242,8 @@
           "partUsed": "หัว",
           "uses": "Diosgenin เป็นสารตั้งต้นในการสังเคราะห์ steroid; มีฤทธิ์ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab1/16.webp"
+          "image": "images/lab1/16.webp",
+          "quizImage": null
         },
         {
           "id": "L1-17",
@@ -241,7 +257,8 @@
           "partUsed": "เหง้า",
           "uses": "มีฤทธิ์ต้านการอักเสบและต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab1/17.webp"
+          "image": "images/lab1/17.webp",
+          "quizImage": null
         },
         {
           "id": "L1-18",
@@ -255,7 +272,8 @@
           "partUsed": "เหง้า",
           "uses": "มีฤทธิ์ต้านการอักเสบและต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab1/18.webp"
+          "image": "images/lab1/18.webp",
+          "quizImage": null
         },
         {
           "id": "L1-19",
@@ -269,7 +287,8 @@
           "partUsed": "เหง้า",
           "uses": "มีฤทธิ์ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab1/19.webp"
+          "image": "images/lab1/19.webp",
+          "quizImage": null
         },
         {
           "id": "L1-20",
@@ -283,7 +302,8 @@
           "partUsed": "เมล็ด",
           "uses": "ช่วยควบคุมระดับน้ำตาลในเลือดมีฤทธิ์ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab1/20.webp"
+          "image": "images/lab1/20.webp",
+          "quizImage": null
         },
         {
           "id": "L1-21",
@@ -297,7 +317,8 @@
           "partUsed": "กลีบดอก",
           "uses": "ต้านอนุมูลอิสระและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab1/21.webp"
+          "image": "images/lab1/21.webp",
+          "quizImage": null
         },
         {
           "id": "L1-22",
@@ -311,7 +332,8 @@
           "partUsed": "ดอก",
           "uses": "ช่วยผ่อนคลายและลดความเครียด",
           "groupTag": null,
-          "image": "images/lab1/22.webp"
+          "image": "images/lab1/22.webp",
+          "quizImage": "images/quiz/lab1/22.webp"
         },
         {
           "id": "L1-23",
@@ -325,7 +347,8 @@
           "partUsed": "ดอก",
           "uses": "ช่วยผ่อนคลายและลดความวิตกกังวล",
           "groupTag": null,
-          "image": "images/lab1/23.webp"
+          "image": "images/lab1/23.webp",
+          "quizImage": "images/quiz/lab1/23.webp"
         },
         {
           "id": "L1-24",
@@ -339,7 +362,8 @@
           "partUsed": "ใบ",
           "uses": "ไล่แมลง และมีฤทธิ์ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab1/24.webp"
+          "image": "images/lab1/24.webp",
+          "quizImage": "images/quiz/lab1/24.webp"
         },
         {
           "id": "L1-25",
@@ -353,7 +377,8 @@
           "partUsed": "ใบ",
           "uses": "ต้านจุลชีพ ต้านอนุมูลอิสระ และช่วยบรรเทาอาการท้องอืด/อาหารไม่ย่อย",
           "groupTag": null,
-          "image": "images/lab1/25.webp"
+          "image": "images/lab1/25.webp",
+          "quizImage": "images/quiz/lab1/25.webp"
         },
         {
           "id": "L1-26",
@@ -367,7 +392,8 @@
           "partUsed": "ดอก",
           "uses": "ต้านการอักเสบ ช่วยผ่อนคลาย",
           "groupTag": null,
-          "image": "images/lab1/26.webp"
+          "image": "images/lab1/26.webp",
+          "quizImage": null
         },
         {
           "id": "L1-27",
@@ -381,7 +407,8 @@
           "partUsed": "ยางเรซิน",
           "uses": "แก้อักเสบ ต้านจุลชีพ สมานแผล",
           "groupTag": null,
-          "image": "images/lab1/27.webp"
+          "image": "images/lab1/27.webp",
+          "quizImage": null
         },
         {
           "id": "L1-28",
@@ -395,7 +422,8 @@
           "partUsed": "เหง้า",
           "uses": "บรรเทาคลื่นไส้อาเจียน ต้านการอักเสบและช่วยระบบทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab1/28.webp"
+          "image": "images/lab1/28.webp",
+          "quizImage": null
         },
         {
           "id": "L1-29",
@@ -409,7 +437,8 @@
           "partUsed": "ช่อดอกเพศเมีย",
           "uses": "ช่วยผ่อนคลายและเสริมการนอนหลับ",
           "groupTag": null,
-          "image": "images/lab1/29.webp"
+          "image": "images/lab1/29.webp",
+          "quizImage": null
         },
         {
           "id": "L1-30",
@@ -423,7 +452,8 @@
           "partUsed": "ใบ",
           "uses": "ต้านจุลชีพ ต้านอนุมูลอิสระและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab1/30.webp"
+          "image": "images/lab1/30.webp",
+          "quizImage": null
         },
         {
           "id": "L1-31",
@@ -437,7 +467,8 @@
           "partUsed": "ผลแก่จัดสีเขียว",
           "uses": "แก้ไข ยาขมช่วยเจริญอาหาร",
           "groupTag": "Terpenes",
-          "image": "images/lab1/31.webp"
+          "image": "images/lab1/31.webp",
+          "quizImage": null
         },
         {
           "id": "L1-32",
@@ -451,7 +482,8 @@
           "partUsed": "ผล",
           "uses": "ช่วยกระตุ้นการหลั่งน้ำย่อย เพิ่มการย่อยอาหาร และเพิ่มการดูดซึมสารบางชนิด",
           "groupTag": null,
-          "image": "images/lab1/32.webp"
+          "image": "images/lab1/32.webp",
+          "quizImage": "images/quiz/lab1/32.webp"
         },
         {
           "id": "L1-33",
@@ -465,7 +497,8 @@
           "partUsed": "เนื้อไม้",
           "uses": "ต้านจุลชีพ ต้านการอักเสบ และช่วยผ่อนคลาย",
           "groupTag": null,
-          "image": "images/lab1/33.webp"
+          "image": "images/lab1/33.webp",
+          "quizImage": null
         },
         {
           "id": "L1-34",
@@ -479,7 +512,8 @@
           "partUsed": "เปลือก/ราก",
           "uses": "ต้านการอักเสบและต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab1/34.webp"
+          "image": "images/lab1/34.webp",
+          "quizImage": null
         },
         {
           "id": "L1-35",
@@ -493,7 +527,8 @@
           "partUsed": "ราก",
           "uses": "ต้านอนุมูลอิสระ ต้านจุลชีพ แก้อักเสบ",
           "groupTag": null,
-          "image": "images/lab1/35.webp"
+          "image": "images/lab1/35.webp",
+          "quizImage": null
         },
         {
           "id": "L1-36",
@@ -507,7 +542,8 @@
           "partUsed": "ส่วนเหนือดิน",
           "uses": "ใช้รักษาโรคมาลาเรีย โดย artemisinin มีฤทธิ์ต้านเชื้อ Plasmodium",
           "groupTag": null,
-          "image": "images/lab1/36.webp"
+          "image": "images/lab1/36.webp",
+          "quizImage": null
         },
         {
           "id": "L1-37",
@@ -521,7 +557,8 @@
           "partUsed": "ใบ",
           "uses": "เพิ่มการไหลเวียนเลือดในสมอง",
           "groupTag": "Terpenes",
-          "image": "images/lab1/37.webp"
+          "image": "images/lab1/37.webp",
+          "quizImage": "images/quiz/lab1/37.webp"
         },
         {
           "id": "L1-38",
@@ -535,7 +572,8 @@
           "partUsed": "ใบ",
           "uses": "รักษาโรคกระเพาะอาหารอักเสบ",
           "groupTag": "Terpenes",
-          "image": "images/lab1/38.webp"
+          "image": "images/lab1/38.webp",
+          "quizImage": null
         },
         {
           "id": "L1-39",
@@ -549,7 +587,8 @@
           "partUsed": "ยอดเกสรตัวเมีย",
           "uses": "ต้านอนุมูลอิสระ ต้านการอักเสบ และมีฤทธิ์ต่อระบบประสาทและอารมณ์",
           "groupTag": null,
-          "image": "images/lab1/39.webp"
+          "image": "images/lab1/39.webp",
+          "quizImage": null
         },
         {
           "id": "L1-40",
@@ -563,7 +602,8 @@
           "partUsed": "ลำต้นเหนือดิน",
           "uses": "แก้ไข รักษาไข้หวัด",
           "groupTag": "Terpenes",
-          "image": "images/lab1/40.webp"
+          "image": "images/lab1/40.webp",
+          "quizImage": null
         },
         {
           "id": "L1-41",
@@ -577,7 +617,8 @@
           "partUsed": "ช่อดอก/ใบ",
           "uses": "Cannabinoids มีฤทธิ์ต่อระบบประสาทและการรับรู้ความเจ็บปวด",
           "groupTag": null,
-          "image": "images/lab1/41.webp"
+          "image": "images/lab1/41.webp",
+          "quizImage": "images/quiz/lab1/41.webp"
         },
         {
           "id": "L1-42",
@@ -591,7 +632,8 @@
           "partUsed": "ดอกตูม",
           "uses": "ระงับปวด ต้านจุลชีพ แก้อักเสบ",
           "groupTag": null,
-          "image": "images/lab1/42.webp"
+          "image": "images/lab1/42.webp",
+          "quizImage": null
         },
         {
           "id": "L1-43",
@@ -605,7 +647,8 @@
           "partUsed": "ผล",
           "uses": "ต้านการอักเสบ ต้านอนุมูลอิสระ และมีฤทธิ์ปกป้องเซลล์ตับ",
           "groupTag": null,
-          "image": "images/lab1/43.webp"
+          "image": "images/lab1/43.webp",
+          "quizImage": null
         },
         {
           "id": "L1-44",
@@ -619,7 +662,8 @@
           "partUsed": "เมล็ด",
           "uses": "มีฤทธิ์กระตุ้นระบบประสาทส่วนกลางแต่เป็นพืชพิษ ไม่ใช้เป็นยาสามัญทั่วไป",
           "groupTag": null,
-          "image": "images/lab1/44.webp"
+          "image": "images/lab1/44.webp",
+          "quizImage": null
         },
         {
           "id": "L1-45",
@@ -633,7 +677,8 @@
           "partUsed": "ราก/เหง้า",
           "uses": "ต้านการอักเสบและต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab1/45.webp"
+          "image": "images/lab1/45.webp",
+          "quizImage": null
         },
         {
           "id": "L1-46",
@@ -647,7 +692,8 @@
           "partUsed": "รากและเหง้า",
           "uses": "ช่วยผ่อนคลาย ลดความวิตกกังวลและช่วยให้นอนหลับ",
           "groupTag": null,
-          "image": "images/lab1/46.webp"
+          "image": "images/lab1/46.webp",
+          "quizImage": "images/quiz/lab1/46.webp"
         }
       ]
     },
@@ -668,7 +714,8 @@
           "partUsed": "Oleoresin จากลำต้น",
           "uses": "ต้านการอักเสบ บริเวณข้อ",
           "groupTag": null,
-          "image": "images/lab2/01.webp"
+          "image": "images/lab2/01.webp",
+          "quizImage": null
         },
         {
           "id": "L2-02",
@@ -682,7 +729,8 @@
           "partUsed": "Oleogum-resin",
           "uses": "ฝาดสมาน ต้านจุลชีพ แก้อักเสบ",
           "groupTag": null,
-          "image": "images/lab2/02.webp"
+          "image": "images/lab2/02.webp",
+          "quizImage": null
         },
         {
           "id": "L2-03",
@@ -696,7 +744,8 @@
           "partUsed": "Oleogum-resin จากราก/เหง้า",
           "uses": "ขับลม ลดอาการท้องอืด และแก้เกร็งของทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab2/03.webp"
+          "image": "images/lab2/03.webp",
+          "quizImage": "images/quiz/lab2/03.webp"
         },
         {
           "id": "L2-04",
@@ -710,7 +759,8 @@
           "partUsed": "Oleoresin",
           "uses": "ใช้เป็นแหล่งของ terpenes/volatile oil และใช้ภายนอกในผลิตภัณฑ์บางชนิด",
           "groupTag": null,
-          "image": "images/lab2/04.webp"
+          "image": "images/lab2/04.webp",
+          "quizImage": null
         },
         {
           "id": "L2-05",
@@ -724,7 +774,8 @@
           "partUsed": "ผล",
           "uses": "บรรเทาอาการปวดเมื่อย/ปวดประสาทเมื่อใช้ภายนอก โดยกระตุ้น TRPV1",
           "groupTag": null,
-          "image": "images/lab2/05.webp"
+          "image": "images/lab2/05.webp",
+          "quizImage": "images/quiz/lab2/05.webp"
         },
         {
           "id": "L2-06",
@@ -738,7 +789,8 @@
           "partUsed": "เมล็ด",
           "uses": "ช่วยควบคุมระดับน้ำตาลและมีฤทธิ์ต้านการอักเสบ/ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab2/06.webp"
+          "image": "images/lab2/06.webp",
+          "quizImage": null
         },
         {
           "id": "L2-07",
@@ -752,7 +804,8 @@
           "partUsed": "ใบ/ส่วนเหนือดิน",
           "uses": "ขับลม ช่วยระบบทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab2/07.webp"
+          "image": "images/lab2/07.webp",
+          "quizImage": null
         },
         {
           "id": "L2-08",
@@ -766,7 +819,8 @@
           "partUsed": "ลำต้นเหนือดิน",
           "uses": "ขับลม ไล่แมลง",
           "groupTag": "Terpenes",
-          "image": "images/lab2/08.webp"
+          "image": "images/lab2/08.webp",
+          "quizImage": null
         },
         {
           "id": "L2-09",
@@ -780,7 +834,8 @@
           "partUsed": "รกและเมล็ด",
           "uses": "ขับลม ช่วยย่อยอาหาร",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/09.webp"
+          "image": "images/lab2/09.webp",
+          "quizImage": null
         },
         {
           "id": "L2-10",
@@ -794,7 +849,8 @@
           "partUsed": "เหง้า",
           "uses": "สงบประสาท",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/10.webp"
+          "image": "images/lab2/10.webp",
+          "quizImage": null
         },
         {
           "id": "L2-11",
@@ -808,7 +864,8 @@
           "partUsed": "ดอก",
           "uses": "ต้านการอักเสบ ช่วยคลายเกร็งและช่วยให้ผ่อนคลาย",
           "groupTag": null,
-          "image": "images/lab2/11.webp"
+          "image": "images/lab2/11.webp",
+          "quizImage": "images/quiz/lab2/11.webp"
         },
         {
           "id": "L2-12",
@@ -822,7 +879,8 @@
           "partUsed": "ใบ/น้ำมันหอมระเหย",
           "uses": "ให้ความรู้สึกเย็น บรรเทาอาการคันและปวดเล็กน้อย",
           "groupTag": null,
-          "image": "images/lab2/12.webp"
+          "image": "images/lab2/12.webp",
+          "quizImage": "images/quiz/lab2/12.webp"
         },
         {
           "id": "L2-13",
@@ -836,7 +894,8 @@
           "partUsed": "สารสกัดจากลำต้น",
           "uses": "ขับลม",
           "groupTag": "Terpenes",
-          "image": "images/lab2/13.webp"
+          "image": "images/lab2/13.webp",
+          "quizImage": null
         },
         {
           "id": "L2-14",
@@ -850,7 +909,8 @@
           "partUsed": "เนื้อไม้/ผลึกจากน้ำมันหอมระเหย",
           "uses": "ให้กลิ่นหอม มีฤทธิ์ช่วยให้รู้สึกสดชื่น",
           "groupTag": null,
-          "image": "images/lab2/14.webp"
+          "image": "images/lab2/14.webp",
+          "quizImage": null
         },
         {
           "id": "L2-15",
@@ -864,7 +924,8 @@
           "partUsed": "เปลือกต้นด้านใน",
           "uses": "ขับลม",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/15.webp"
+          "image": "images/lab2/15.webp",
+          "quizImage": null
         },
         {
           "id": "L2-16",
@@ -878,7 +939,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดท้องอืด และช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab2/16.webp"
+          "image": "images/lab2/16.webp",
+          "quizImage": null
         },
         {
           "id": "L2-17",
@@ -892,7 +954,8 @@
           "partUsed": "ใบ",
           "uses": "ช่วยให้ทางเดินหายใจโล่ง และมีฤทธิ์ต้านจุลชีพ/ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab2/17.webp"
+          "image": "images/lab2/17.webp",
+          "quizImage": "images/quiz/lab2/17.webp"
         },
         {
           "id": "L2-18",
@@ -906,7 +969,8 @@
           "partUsed": "ดอกตูมแก่จัด",
           "uses": "ขับลม ยาชาเฉพาะที่",
           "groupTag": null,
-          "image": "images/lab2/18.webp"
+          "image": "images/lab2/18.webp",
+          "quizImage": null
         },
         {
           "id": "L2-19",
@@ -920,7 +984,8 @@
           "partUsed": "ดอก",
           "uses": "บำรุงหัวใจ คลายความเครียดและใช้เป็นสารแต่งกลิ่น",
           "groupTag": null,
-          "image": "images/lab2/19.webp"
+          "image": "images/lab2/19.webp",
+          "quizImage": null
         },
         {
           "id": "L2-20",
@@ -934,7 +999,8 @@
           "partUsed": "ดอก",
           "uses": "บำรุงหัวใจ",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/20.webp"
+          "image": "images/lab2/20.webp",
+          "quizImage": "images/quiz/lab2/20.webp"
         },
         {
           "id": "L2-21",
@@ -948,7 +1014,8 @@
           "partUsed": "ดอก",
           "uses": "บำรุงหัวใจ",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/21.webp"
+          "image": "images/lab2/21.webp",
+          "quizImage": "images/quiz/lab2/21.webp"
         },
         {
           "id": "L2-22",
@@ -962,7 +1029,8 @@
           "partUsed": "ดอก/เมล็ด",
           "uses": "มีฤทธิ์ต้านการอักเสบ/ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab2/22.webp"
+          "image": "images/lab2/22.webp",
+          "quizImage": "images/quiz/lab2/22.webp"
         },
         {
           "id": "L2-23",
@@ -976,7 +1044,8 @@
           "partUsed": "ดอก",
           "uses": "มีฤทธิ์ต้านอนุมูลอิสระ/ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab2/23.webp"
+          "image": "images/lab2/23.webp",
+          "quizImage": "images/quiz/lab2/23.webp"
         },
         {
           "id": "L2-24",
@@ -990,7 +1059,8 @@
           "partUsed": "เกสรตัวผู้",
           "uses": "บำรุงหัวใจ",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/24.webp"
+          "image": "images/lab2/24.webp",
+          "quizImage": "images/quiz/lab2/24.webp"
         },
         {
           "id": "L2-25",
@@ -1004,7 +1074,8 @@
           "partUsed": "ดอก",
           "uses": "บำรุงหัวใจ",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/25.webp"
+          "image": "images/lab2/25.webp",
+          "quizImage": "images/quiz/lab2/25.webp"
         },
         {
           "id": "L2-26",
@@ -1018,7 +1089,8 @@
           "partUsed": "ดอก",
           "uses": "บำรุงหัวใจ แต่งกลิ่น",
           "groupTag": "Terpenes, Volatile oils",
-          "image": "images/lab2/26.webp"
+          "image": "images/lab2/26.webp",
+          "quizImage": "images/quiz/lab2/26.webp"
         },
         {
           "id": "L2-27",
@@ -1032,7 +1104,8 @@
           "partUsed": "ดอก",
           "uses": "มีฤทธิ์ช่วย ผ่อนคลาย",
           "groupTag": null,
-          "image": "images/lab2/27.webp"
+          "image": "images/lab2/27.webp",
+          "quizImage": "images/quiz/lab2/27.webp"
         },
         {
           "id": "L2-28",
@@ -1046,7 +1119,8 @@
           "partUsed": "ดอก",
           "uses": "ใช้แต่งกลิ่นและในตำรับยาหอม",
           "groupTag": null,
-          "image": "images/lab2/28.webp"
+          "image": "images/lab2/28.webp",
+          "quizImage": "images/quiz/lab2/28.webp"
         },
         {
           "id": "L2-29",
@@ -1060,7 +1134,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดท้องอืด ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab2/29.webp"
+          "image": "images/lab2/29.webp",
+          "quizImage": null
         },
         {
           "id": "L2-30",
@@ -1074,7 +1149,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดท้องอืด",
           "groupTag": null,
-          "image": "images/lab2/30.webp"
+          "image": "images/lab2/30.webp",
+          "quizImage": "images/quiz/lab2/30.webp"
         },
         {
           "id": "L2-31",
@@ -1088,7 +1164,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ช่วยย่อยอาหาร ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab2/31.webp"
+          "image": "images/lab2/31.webp",
+          "quizImage": "images/quiz/lab2/31.webp"
         },
         {
           "id": "L2-32",
@@ -1102,7 +1179,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดท้องอืด ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab2/32.webp"
+          "image": "images/lab2/32.webp",
+          "quizImage": "images/quiz/lab2/32.webp"
         },
         {
           "id": "L2-33",
@@ -1116,7 +1194,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดอาการท้องอืด",
           "groupTag": null,
-          "image": "images/lab2/33.webp"
+          "image": "images/lab2/33.webp",
+          "quizImage": "images/quiz/lab2/33.webp"
         },
         {
           "id": "L2-34",
@@ -1130,7 +1209,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab2/34.webp"
+          "image": "images/lab2/34.webp",
+          "quizImage": "images/quiz/lab2/34.webp"
         },
         {
           "id": "L2-35",
@@ -1144,7 +1224,8 @@
           "partUsed": "เมล็ด",
           "uses": "ขับลม",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/35.webp"
+          "image": "images/lab2/35.webp",
+          "quizImage": "images/quiz/lab2/35.webp"
         },
         {
           "id": "L2-36",
@@ -1158,7 +1239,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดท้องอืด และต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab2/36.webp"
+          "image": "images/lab2/36.webp",
+          "quizImage": "images/quiz/lab2/36.webp"
         },
         {
           "id": "L2-37",
@@ -1172,7 +1254,8 @@
           "partUsed": "เมล็ด/เปลือก",
           "uses": "เพิ่มกากใยและช่วยการขับถ่าย",
           "groupTag": null,
-          "image": "images/lab2/37.webp"
+          "image": "images/lab2/37.webp",
+          "quizImage": "images/quiz/lab2/37.webp"
         },
         {
           "id": "L2-38",
@@ -1186,7 +1269,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดท้องอืด",
           "groupTag": null,
-          "image": "images/lab2/38.webp"
+          "image": "images/lab2/38.webp",
+          "quizImage": "images/quiz/lab2/38.webp"
         },
         {
           "id": "L2-39",
@@ -1200,7 +1284,8 @@
           "partUsed": "ราก",
           "uses": "ใช้ในตำรับยาจีนด้านระบบสืบพันธุ์และ การไหลเวียนเลือด",
           "groupTag": null,
-          "image": "images/lab2/39.webp"
+          "image": "images/lab2/39.webp",
+          "quizImage": "images/quiz/lab2/39.webp"
         },
         {
           "id": "L2-40",
@@ -1214,7 +1299,8 @@
           "partUsed": "ราก",
           "uses": "บรรเทาปวดศีรษะ/คัดจมูก",
           "groupTag": null,
-          "image": "images/lab2/40.webp"
+          "image": "images/lab2/40.webp",
+          "quizImage": "images/quiz/lab2/40.webp"
         },
         {
           "id": "L2-41",
@@ -1228,7 +1314,8 @@
           "partUsed": "เหง้า/ราก",
           "uses": "บรรเทาปวดศีรษะและอาการปวด",
           "groupTag": null,
-          "image": "images/lab2/41.webp"
+          "image": "images/lab2/41.webp",
+          "quizImage": "images/quiz/lab2/41.webp"
         },
         {
           "id": "L2-42",
@@ -1242,7 +1329,8 @@
           "partUsed": "เหง้า",
           "uses": "ใช้ช่วยระบบทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab2/42.webp"
+          "image": "images/lab2/42.webp",
+          "quizImage": "images/quiz/lab2/42.webp"
         },
         {
           "id": "L2-43",
@@ -1256,7 +1344,8 @@
           "partUsed": "ลำต้นเหนือดิน",
           "uses": "(TP) แก้ไข้ ยารักษาโรคมาลาเรีย (VO) ขับลม",
           "groupTag": "Terpenes, Volatile oils",
-          "image": "images/lab2/43.webp"
+          "image": "images/lab2/43.webp",
+          "quizImage": "images/quiz/lab2/43.webp"
         },
         {
           "id": "L2-44",
@@ -1270,7 +1359,8 @@
           "partUsed": "ราก",
           "uses": "ขับลม/ช่วยระบบทางเดินอาหารและมีฤทธิ์ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab2/44.webp"
+          "image": "images/lab2/44.webp",
+          "quizImage": "images/quiz/lab2/44.webp"
         },
         {
           "id": "L2-45",
@@ -1284,7 +1374,8 @@
           "partUsed": "เนื้อผล/ปุ่มหูด",
           "uses": "ฝาดสมาน และใช้ในตำรับยาระบบทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab2/45.webp"
+          "image": "images/lab2/45.webp",
+          "quizImage": "images/quiz/lab2/45.webp"
         },
         {
           "id": "L2-46",
@@ -1298,7 +1389,8 @@
           "partUsed": "ราก/เหง้า",
           "uses": "ขับลมและบรรเทาอาการปวด",
           "groupTag": null,
-          "image": "images/lab2/46.webp"
+          "image": "images/lab2/46.webp",
+          "quizImage": "images/quiz/lab2/46.webp"
         },
         {
           "id": "L2-47",
@@ -1312,7 +1404,8 @@
           "partUsed": "เหง้า/ราก",
           "uses": "ช่วยผ่อนคลายและกดประสาทส่วนกลาง",
           "groupTag": null,
-          "image": "images/lab2/47.webp"
+          "image": "images/lab2/47.webp",
+          "quizImage": null
         },
         {
           "id": "L2-48",
@@ -1326,7 +1419,8 @@
           "partUsed": "เปลือกผล",
           "uses": "ใช้แต่งกลิ่น/รส, มีฤทธิ์ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab2/48.webp"
+          "image": "images/lab2/48.webp",
+          "quizImage": "images/quiz/lab2/48.webp"
         },
         {
           "id": "L2-49",
@@ -1340,7 +1434,8 @@
           "partUsed": "เปลือกผล",
           "uses": "ขับลม",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/49.webp"
+          "image": "images/lab2/49.webp",
+          "quizImage": null
         },
         {
           "id": "L2-50",
@@ -1354,7 +1449,8 @@
           "partUsed": "เปลือกผลและใบ",
           "uses": "ขับลม",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/50.webp"
+          "image": "images/lab2/50.webp",
+          "quizImage": null
         },
         {
           "id": "L2-51",
@@ -1368,7 +1464,8 @@
           "partUsed": "เหง้า",
           "uses": "ขับลม บำรุงร่างกาย",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/51.webp"
+          "image": "images/lab2/51.webp",
+          "quizImage": null
         },
         {
           "id": "L2-52",
@@ -1382,7 +1479,8 @@
           "partUsed": "ราก",
           "uses": "ขับลม",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/52.webp"
+          "image": "images/lab2/52.webp",
+          "quizImage": null
         },
         {
           "id": "L2-53",
@@ -1396,7 +1494,8 @@
           "partUsed": "เหง้า",
           "uses": "ขับลม ต้านจุลชีพ และต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab2/53.webp"
+          "image": "images/lab2/53.webp",
+          "quizImage": null
         },
         {
           "id": "L2-54",
@@ -1410,7 +1509,8 @@
           "partUsed": "เหง้า",
           "uses": "ขับลม แก้ปวดเมื่อยกล้ามเนื้อ",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/54.webp"
+          "image": "images/lab2/54.webp",
+          "quizImage": null
         },
         {
           "id": "L2-55",
@@ -1424,7 +1524,8 @@
           "partUsed": "เหง้า",
           "uses": "ขับลม",
           "groupTag": "Terpenes, Volatile oils",
-          "image": "images/lab2/55.webp"
+          "image": "images/lab2/55.webp",
+          "quizImage": "images/quiz/lab2/55.webp"
         },
         {
           "id": "L2-56",
@@ -1438,7 +1539,8 @@
           "partUsed": "เหง้า",
           "uses": "ขับลม รักษาอาการอาหารไม่ย่อย",
           "groupTag": "Volatile oils",
-          "image": "images/lab2/56.webp"
+          "image": "images/lab2/56.webp",
+          "quizImage": null
         },
         {
           "id": "L2-57",
@@ -1452,7 +1554,8 @@
           "partUsed": "ใบ/ส่วนเหนือดิน",
           "uses": "ต้านจุลชีพและต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab2/57.webp"
+          "image": "images/lab2/57.webp",
+          "quizImage": null
         },
         {
           "id": "L2-58",
@@ -1466,7 +1569,8 @@
           "partUsed": "ใบ/ส่วนเหนือดิน",
           "uses": "ขับลม ต้านจุลชีพ และใช้แต่งกลิ่น",
           "groupTag": null,
-          "image": "images/lab2/58.webp"
+          "image": "images/lab2/58.webp",
+          "quizImage": null
         },
         {
           "id": "L2-59",
@@ -1480,7 +1584,8 @@
           "partUsed": "ใบ/ส่วนเหนือดิน",
           "uses": "ขับลม ต้านจุลชีพ ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab2/59.webp"
+          "image": "images/lab2/59.webp",
+          "quizImage": null
         },
         {
           "id": "L2-60",
@@ -1494,7 +1599,8 @@
           "partUsed": "ใบ",
           "uses": "ต้านอนุมูลอิสระ/ต้านจุลชีพ, แต่งกลิ่น",
           "groupTag": null,
-          "image": "images/lab2/60.webp"
+          "image": "images/lab2/60.webp",
+          "quizImage": "images/quiz/lab2/60.webp"
         },
         {
           "id": "L2-61",
@@ -1508,7 +1614,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม ช่วยย่อยอาหาร ให้กลิ่นหอม",
           "groupTag": null,
-          "image": "images/lab2/61.webp"
+          "image": "images/lab2/61.webp",
+          "quizImage": null
         },
         {
           "id": "L2-62",
@@ -1522,7 +1629,8 @@
           "partUsed": "ใบ",
           "uses": "บรรเทาอาการปวดเกร็งทางเดินอาหารและ ให้ความรู้สึกเย็น",
           "groupTag": null,
-          "image": "images/lab2/62.webp"
+          "image": "images/lab2/62.webp",
+          "quizImage": "images/quiz/lab2/62.webp"
         },
         {
           "id": "L2-63",
@@ -1536,7 +1644,8 @@
           "partUsed": "ดอก/ยอดดอก",
           "uses": "ช่วยผ่อนคลายและลดความเครียด",
           "groupTag": null,
-          "image": "images/lab2/63.webp"
+          "image": "images/lab2/63.webp",
+          "quizImage": null
         }
       ]
     },
@@ -1557,7 +1666,8 @@
           "partUsed": "ส่วนเหนือดิน",
           "uses": "มีฤทธิ์ต่อระบบประสาทและมีฤทธิ์ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab3/01.webp"
+          "image": "images/lab3/01.webp",
+          "quizImage": null
         },
         {
           "id": "L3-02",
@@ -1571,7 +1681,8 @@
           "partUsed": "ครั่ง/สารคัดหลั่ง",
           "uses": "ใช้เป็นสารให้สีแดง โดย laccaic acids เป็นอนุพันธ์ของ anthraquinone",
           "groupTag": null,
-          "image": "images/lab3/02.webp"
+          "image": "images/lab3/02.webp",
+          "quizImage": null
         },
         {
           "id": "L3-03",
@@ -1585,7 +1696,8 @@
           "partUsed": "ราก/เหง้า",
           "uses": "ยาระบาย ใช้บรรเทาอาการท้องผูก",
           "groupTag": null,
-          "image": "images/lab3/03.webp"
+          "image": "images/lab3/03.webp",
+          "quizImage": null
         },
         {
           "id": "L3-04",
@@ -1599,7 +1711,8 @@
           "partUsed": "ใบ",
           "uses": "มีฤทธิ์เป็นยาระบาย ช่วยให้นอนหลับ",
           "groupTag": null,
-          "image": "images/lab3/04.webp"
+          "image": "images/lab3/04.webp",
+          "quizImage": null
         },
         {
           "id": "L3-05",
@@ -1613,7 +1726,8 @@
           "partUsed": "เนื้อในฝัก",
           "uses": "ยาระบาย ใช้บรรเทาอาการท้องผูก",
           "groupTag": null,
-          "image": "images/lab3/05.webp"
+          "image": "images/lab3/05.webp",
+          "quizImage": null
         },
         {
           "id": "L3-06",
@@ -1627,7 +1741,8 @@
           "partUsed": "เมล็ด",
           "uses": "มีฤทธิ์เป็นยาระบาย และมีฤทธิ์ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab3/06.webp"
+          "image": "images/lab3/06.webp",
+          "quizImage": null
         },
         {
           "id": "L3-07",
@@ -1641,7 +1756,8 @@
           "partUsed": "ใบ",
           "uses": "ยาระบายชนิดกระตุ้นการบีบตัวของลำไส้ใหญ่",
           "groupTag": null,
-          "image": "images/lab3/07.webp"
+          "image": "images/lab3/07.webp",
+          "quizImage": null
         },
         {
           "id": "L3-08",
@@ -1655,7 +1771,8 @@
           "partUsed": "ใบและฝัก",
           "uses": "ยาระบายชนิดกระตุ้นการบีบตัวของลำไส้ใหญ่",
           "groupTag": null,
-          "image": "images/lab3/08.webp"
+          "image": "images/lab3/08.webp",
+          "quizImage": null
         },
         {
           "id": "L3-09",
@@ -1669,7 +1786,8 @@
           "partUsed": "ยางจากใบ",
           "uses": "ยาถ่ายอย่างแรง, ยาระบายชนิดกระตุ้นการบีบตัวของลำไส้ใหญ่",
           "groupTag": null,
-          "image": "images/lab3/09.webp"
+          "image": "images/lab3/09.webp",
+          "quizImage": null
         },
         {
           "id": "L3-10",
@@ -1683,7 +1801,8 @@
           "partUsed": "ใบและราก",
           "uses": "ฆ่าเชื้อรา รักษาโรคกลาก",
           "groupTag": null,
-          "image": "images/lab3/10.webp"
+          "image": "images/lab3/10.webp",
+          "quizImage": null
         },
         {
           "id": "L3-11",
@@ -1697,7 +1816,8 @@
           "partUsed": "ราก",
           "uses": "มีฤทธิ์ต้านจุลชีพและต้านการอักเสบแต่มีฤทธิ์ระคายเคือง จึงต้องระวังการใช้",
           "groupTag": null,
-          "image": "images/lab3/11.webp"
+          "image": "images/lab3/11.webp",
+          "quizImage": null
         },
         {
           "id": "L3-12",
@@ -1711,7 +1831,8 @@
           "partUsed": "ราก",
           "uses": "ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab3/12.webp"
+          "image": "images/lab3/12.webp",
+          "quizImage": null
         },
         {
           "id": "L3-13",
@@ -1725,7 +1846,8 @@
           "partUsed": "ใบ/ดอก",
           "uses": "มีฤทธิ์ต้านเชื้อจุลชีพและใช้ในตำรับพื้นบ้านสำหรับโรคผิวหนัง",
           "groupTag": null,
-          "image": "images/lab3/13.webp"
+          "image": "images/lab3/13.webp",
+          "quizImage": null
         },
         {
           "id": "L3-14",
@@ -1739,7 +1861,8 @@
           "partUsed": "ใบ",
           "uses": "ฆ่าเชื้อแบคทีเรียที่ทำให้เกิดฝีหนอง, ย้อมสี",
           "groupTag": null,
-          "image": "images/lab3/14.webp"
+          "image": "images/lab3/14.webp",
+          "quizImage": null
         },
         {
           "id": "L3-15",
@@ -1753,7 +1876,8 @@
           "partUsed": "เมล็ด",
           "uses": "มีฤทธิ์ต้านการอักเสบ ต้านอนุมูลอิสระและต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab3/15.webp"
+          "image": "images/lab3/15.webp",
+          "quizImage": null
         }
       ]
     },
@@ -1774,7 +1898,8 @@
           "partUsed": "ใบ",
           "uses": "แก้ปวดเมื่อย ลดการอักเสบ",
           "groupTag": null,
-          "image": "images/lab4/01.webp"
+          "image": "images/lab4/01.webp",
+          "quizImage": null
         },
         {
           "id": "L4-02",
@@ -1788,7 +1913,8 @@
           "partUsed": "หัว",
           "uses": "ต้านอนุมูลอิสระ ลดการอักเสบ",
           "groupTag": null,
-          "image": "images/lab4/02.webp"
+          "image": "images/lab4/02.webp",
+          "quizImage": null
         },
         {
           "id": "L4-03",
@@ -1802,7 +1928,8 @@
           "partUsed": "ใบ/เมล็ด",
           "uses": "ขับปัสสาวะ",
           "groupTag": null,
-          "image": "images/lab4/03.webp"
+          "image": "images/lab4/03.webp",
+          "quizImage": null
         },
         {
           "id": "L4-04",
@@ -1816,7 +1943,8 @@
           "partUsed": "เปลือกต้น",
           "uses": "ขับลม แต่งกลิ่น",
           "groupTag": null,
-          "image": "images/lab4/04.webp"
+          "image": "images/lab4/04.webp",
+          "quizImage": null
         },
         {
           "id": "L4-05",
@@ -1830,7 +1958,8 @@
           "partUsed": "ใบ",
           "uses": "ขับปัสสาวะ",
           "groupTag": null,
-          "image": "images/lab4/05.webp"
+          "image": "images/lab4/05.webp",
+          "quizImage": null
         },
         {
           "id": "L4-06",
@@ -1844,7 +1973,8 @@
           "partUsed": "ใบ",
           "uses": "ช่วยห้ามเลือด สมานแผล",
           "groupTag": null,
-          "image": "images/lab4/06.webp"
+          "image": "images/lab4/06.webp",
+          "quizImage": null
         },
         {
           "id": "L4-07",
@@ -1858,7 +1988,8 @@
           "partUsed": "ดอก",
           "uses": "ต้านอนุมูลอิสระ ลดการอักเสบ",
           "groupTag": null,
-          "image": "images/lab4/07.webp"
+          "image": "images/lab4/07.webp",
+          "quizImage": null
         },
         {
           "id": "L4-08",
@@ -1872,7 +2003,8 @@
           "partUsed": "ดอก",
           "uses": "ใช้เป็นยาหอม บำรุงหัวใจ",
           "groupTag": null,
-          "image": "images/lab4/08.webp"
+          "image": "images/lab4/08.webp",
+          "quizImage": null
         },
         {
           "id": "L4-09",
@@ -1886,7 +2018,8 @@
           "partUsed": "เมล็ด",
           "uses": "ใช้ภายนอก บรรเทาปวด/อักเสบ",
           "groupTag": null,
-          "image": "images/lab4/09.webp"
+          "image": "images/lab4/09.webp",
+          "quizImage": null
         },
         {
           "id": "L4-10",
@@ -1900,7 +2033,8 @@
           "partUsed": "เปลือกผล",
           "uses": "ฝาดสมาน แก้ท้องเสีย",
           "groupTag": null,
-          "image": "images/lab4/10.webp"
+          "image": "images/lab4/10.webp",
+          "quizImage": "images/quiz/lab4/10.webp"
         },
         {
           "id": "L4-11",
@@ -1914,7 +2048,8 @@
           "partUsed": "หัว",
           "uses": "มีฤทธิ์แบบ phytoestrogen",
           "groupTag": null,
-          "image": "images/lab4/11.webp"
+          "image": "images/lab4/11.webp",
+          "quizImage": null
         },
         {
           "id": "L4-12",
@@ -1928,7 +2063,8 @@
           "partUsed": "เถา",
           "uses": "บรรเทาปวดและการอักเสบ",
           "groupTag": null,
-          "image": "images/lab4/12.webp"
+          "image": "images/lab4/12.webp",
+          "quizImage": null
         },
         {
           "id": "L4-13",
@@ -1942,7 +2078,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม แก้ท้องอืด",
           "groupTag": null,
-          "image": "images/lab4/13.webp"
+          "image": "images/lab4/13.webp",
+          "quizImage": null
         },
         {
           "id": "L4-14",
@@ -1956,7 +2093,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab4/14.webp"
+          "image": "images/lab4/14.webp",
+          "quizImage": null
         },
         {
           "id": "L4-15",
@@ -1970,7 +2108,8 @@
           "partUsed": "ใบ",
           "uses": "ขับปัสสาวะ",
           "groupTag": null,
-          "image": "images/lab4/15.webp"
+          "image": "images/lab4/15.webp",
+          "quizImage": null
         },
         {
           "id": "L4-16",
@@ -1984,7 +2123,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม บรรเทาท้องอืด",
           "groupTag": null,
-          "image": "images/lab4/16.webp"
+          "image": "images/lab4/16.webp",
+          "quizImage": null
         },
         {
           "id": "L4-17",
@@ -1998,7 +2138,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม",
           "groupTag": null,
-          "image": "images/lab4/17.webp"
+          "image": "images/lab4/17.webp",
+          "quizImage": null
         },
         {
           "id": "L4-18",
@@ -2012,7 +2153,8 @@
           "partUsed": "ใบ",
           "uses": "บรรเทาปวดและการอักเสบ",
           "groupTag": null,
-          "image": "images/lab4/18.webp"
+          "image": "images/lab4/18.webp",
+          "quizImage": null
         },
         {
           "id": "L4-19",
@@ -2026,7 +2168,8 @@
           "partUsed": "ใบ",
           "uses": "แก้ปวดศีรษะ/ปวดเมื่อย",
           "groupTag": null,
-          "image": "images/lab4/19.webp"
+          "image": "images/lab4/19.webp",
+          "quizImage": null
         },
         {
           "id": "L4-20",
@@ -2040,7 +2183,8 @@
           "partUsed": "ราก",
           "uses": "ใช้เป็นสมุนไพรแก้ไข้/แก้ไอ",
           "groupTag": null,
-          "image": "images/lab4/20.webp"
+          "image": "images/lab4/20.webp",
+          "quizImage": null
         },
         {
           "id": "L4-21",
@@ -2054,7 +2198,8 @@
           "partUsed": "แก่น",
           "uses": "ฝาดสมาน/ใช้เป็นสีย้อม",
           "groupTag": null,
-          "image": "images/lab4/21.webp"
+          "image": "images/lab4/21.webp",
+          "quizImage": null
         },
         {
           "id": "L4-22",
@@ -2068,7 +2213,8 @@
           "partUsed": "ใบ",
           "uses": "ใช้เป็นสมุนไพรพื้นบ้าน",
           "groupTag": null,
-          "image": "images/lab4/22.webp"
+          "image": "images/lab4/22.webp",
+          "quizImage": null
         },
         {
           "id": "L4-23",
@@ -2082,7 +2228,8 @@
           "partUsed": "ใบ/เปลือก",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab4/23.webp"
+          "image": "images/lab4/23.webp",
+          "quizImage": null
         },
         {
           "id": "L4-24",
@@ -2096,7 +2243,8 @@
           "partUsed": "แก่น",
           "uses": "ใช้เป็นยาถ่ายพยาธิ",
           "groupTag": null,
-          "image": "images/lab4/24.webp"
+          "image": "images/lab4/24.webp",
+          "quizImage": null
         },
         {
           "id": "L4-25",
@@ -2110,7 +2258,8 @@
           "partUsed": "เปลือก",
           "uses": "ฝาดสมาน แก้ท้องเสีย",
           "groupTag": null,
-          "image": "images/lab4/25.webp"
+          "image": "images/lab4/25.webp",
+          "quizImage": null
         },
         {
           "id": "L4-26",
@@ -2124,7 +2273,8 @@
           "partUsed": "ใบ",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab4/26.webp"
+          "image": "images/lab4/26.webp",
+          "quizImage": null
         },
         {
           "id": "L4-27",
@@ -2138,7 +2288,8 @@
           "partUsed": "ใบ",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab4/27.webp"
+          "image": "images/lab4/27.webp",
+          "quizImage": null
         },
         {
           "id": "L4-28",
@@ -2152,7 +2303,8 @@
           "partUsed": "เมล็ด",
           "uses": "ขับลม ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab4/28.webp"
+          "image": "images/lab4/28.webp",
+          "quizImage": "images/quiz/lab4/28.webp"
         },
         {
           "id": "L4-29",
@@ -2166,7 +2318,8 @@
           "partUsed": "ดอก/เมล็ด",
           "uses": "บำรุงหัวใจ ใช้เป็นสมุนไพร",
           "groupTag": null,
-          "image": "images/lab4/29.webp"
+          "image": "images/lab4/29.webp",
+          "quizImage": null
         },
         {
           "id": "L4-30",
@@ -2180,7 +2333,8 @@
           "partUsed": "ผล",
           "uses": "แต่งกลิ่นและรส",
           "groupTag": null,
-          "image": "images/lab4/30.webp"
+          "image": "images/lab4/30.webp",
+          "quizImage": "images/quiz/lab4/30.webp"
         },
         {
           "id": "L4-31",
@@ -2194,7 +2348,8 @@
           "partUsed": "เมล็ด",
           "uses": "บำรุงร่างกาย/เป็นแหล่งน้ำมัน",
           "groupTag": null,
-          "image": "images/lab4/31.webp"
+          "image": "images/lab4/31.webp",
+          "quizImage": null
         },
         {
           "id": "L4-32",
@@ -2208,7 +2363,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab4/32.webp"
+          "image": "images/lab4/32.webp",
+          "quizImage": null
         },
         {
           "id": "L4-33",
@@ -2222,7 +2378,8 @@
           "partUsed": "ใบ หรือ ทั้งต้น",
           "uses": "รักษาพิษจากแมลงสัตว์กัดต่อย",
           "groupTag": null,
-          "image": "images/lab4/33.webp"
+          "image": "images/lab4/33.webp",
+          "quizImage": null
         },
         {
           "id": "L4-34",
@@ -2236,7 +2393,8 @@
           "partUsed": "เมล็ด",
           "uses": "กระตุ้นระบบประสาท ลดความง่วง",
           "groupTag": null,
-          "image": "images/lab4/34.webp"
+          "image": "images/lab4/34.webp",
+          "quizImage": null
         },
         {
           "id": "L4-35",
@@ -2250,7 +2408,8 @@
           "partUsed": "ผล/ใบ",
           "uses": "ใช้เป็นสมุนไพรพื้นบ้าน",
           "groupTag": null,
-          "image": "images/lab4/35.webp"
+          "image": "images/lab4/35.webp",
+          "quizImage": null
         },
         {
           "id": "L4-36",
@@ -2264,7 +2423,8 @@
           "partUsed": "ผล/เปลือก",
           "uses": "ขับลม ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab4/36.webp"
+          "image": "images/lab4/36.webp",
+          "quizImage": null
         },
         {
           "id": "L4-37",
@@ -2278,7 +2438,8 @@
           "partUsed": "ใบ/ทั้งต้น",
           "uses": "ต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab4/37.webp"
+          "image": "images/lab4/37.webp",
+          "quizImage": null
         },
         {
           "id": "L4-38",
@@ -2292,7 +2453,8 @@
           "partUsed": "เหง้า",
           "uses": "แก้คลื่นไส้ ขับลม",
           "groupTag": null,
-          "image": "images/lab4/38.webp"
+          "image": "images/lab4/38.webp",
+          "quizImage": null
         },
         {
           "id": "L4-39",
@@ -2306,7 +2468,8 @@
           "partUsed": "เหง้า",
           "uses": "บำรุงร่างกาย",
           "groupTag": null,
-          "image": "images/lab4/39.webp"
+          "image": "images/lab4/39.webp",
+          "quizImage": "images/quiz/lab4/39.webp"
         },
         {
           "id": "L4-40",
@@ -2320,7 +2483,8 @@
           "partUsed": "เหง้า",
           "uses": "ขับลม ช่วยย่อยอาหาร",
           "groupTag": null,
-          "image": "images/lab4/40.webp"
+          "image": "images/lab4/40.webp",
+          "quizImage": null
         }
       ]
     },
@@ -2341,7 +2505,8 @@
           "partUsed": "เมล็ด",
           "uses": "ฝาดสมาน แก้ท้องเสีย ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab5/01.webp"
+          "image": "images/lab5/01.webp",
+          "quizImage": null
         },
         {
           "id": "L5-02",
@@ -2355,7 +2520,8 @@
           "partUsed": "ผล",
           "uses": "ฝาดสมาน แก้ท้องเสีย ช่วยการขับถ่ายและ ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab5/02.webp"
+          "image": "images/lab5/02.webp",
+          "quizImage": null
         },
         {
           "id": "L5-03",
@@ -2369,7 +2535,8 @@
           "partUsed": "ผล",
           "uses": "ฝาดสมาน แก้ท้องเสีย ขับเสมหะ",
           "groupTag": null,
-          "image": "images/lab5/03.webp"
+          "image": "images/lab5/03.webp",
+          "quizImage": "images/quiz/lab5/03.webp"
         },
         {
           "id": "L5-04",
@@ -2383,7 +2550,8 @@
           "partUsed": "ปม/กอลล์บนใบ",
           "uses": "ฝาดสมาน แก้ท้องเสีย แก้อักเสบในปาก",
           "groupTag": null,
-          "image": "images/lab5/04.webp"
+          "image": "images/lab5/04.webp",
+          "quizImage": null
         },
         {
           "id": "L5-05",
@@ -2397,7 +2565,8 @@
           "partUsed": "เนื้อไม้",
           "uses": "ฝาดสมาน แก้ท้องเสีย ใช้ภายนอกในแผลและอาการอักเสบ",
           "groupTag": null,
-          "image": "images/lab5/05.webp"
+          "image": "images/lab5/05.webp",
+          "quizImage": null
         },
         {
           "id": "L5-06",
@@ -2411,7 +2580,8 @@
           "partUsed": "เปลือก/ใบ",
           "uses": "ฝาดสมาน ต้านอนุมูลอิสระ ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab5/06.webp"
+          "image": "images/lab5/06.webp",
+          "quizImage": null
         },
         {
           "id": "L5-07",
@@ -2425,7 +2595,8 @@
           "partUsed": "เปลือก/ดอก/เมล็ด",
           "uses": "ฝาดสมาน ช่วยบรรเทาท้องเสีย",
           "groupTag": null,
-          "image": "images/lab5/07.webp"
+          "image": "images/lab5/07.webp",
+          "quizImage": null
         },
         {
           "id": "L5-08",
@@ -2439,7 +2610,8 @@
           "partUsed": "กอลล์ (gall)",
           "uses": "ฝาดสมาน ใช้ในอาการท้องเสีย",
           "groupTag": null,
-          "image": "images/lab5/08.webp"
+          "image": "images/lab5/08.webp",
+          "quizImage": null
         },
         {
           "id": "L5-09",
@@ -2453,7 +2625,8 @@
           "partUsed": "ผล",
           "uses": "ฝาดสมาน บรรเทาอาการท้องเสีย",
           "groupTag": null,
-          "image": "images/lab5/09.webp"
+          "image": "images/lab5/09.webp",
+          "quizImage": "images/quiz/lab5/09.webp"
         },
         {
           "id": "L5-10",
@@ -2467,7 +2640,8 @@
           "partUsed": "เปลือกต้น",
           "uses": "ช่วยขับลม แก้ท้องอืด ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab5/10.webp"
+          "image": "images/lab5/10.webp",
+          "quizImage": null
         },
         {
           "id": "L5-11",
@@ -2481,7 +2655,8 @@
           "partUsed": "เปลือกผล/เปลือกต้น",
           "uses": "ฝาดสมาน แก้ท้องเสีย ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab5/11.webp"
+          "image": "images/lab5/11.webp",
+          "quizImage": null
         },
         {
           "id": "L5-12",
@@ -2495,7 +2670,8 @@
           "partUsed": "เมล็ด",
           "uses": "ต้านอนุมูลอิสระ และ ช่วยปกป้องเซลล์จาก oxidative stress",
           "groupTag": null,
-          "image": "images/lab5/12.webp"
+          "image": "images/lab5/12.webp",
+          "quizImage": null
         },
         {
           "id": "L5-13",
@@ -2509,7 +2685,8 @@
           "partUsed": "ใบ",
           "uses": "ฝาดสมาน และ ใบมีน้ำมันหอมระเหย",
           "groupTag": null,
-          "image": "images/lab5/13.webp"
+          "image": "images/lab5/13.webp",
+          "quizImage": null
         },
         {
           "id": "L5-14",
@@ -2523,7 +2700,8 @@
           "partUsed": "ใบ/ผลอ่อน",
           "uses": "ฝาดสมาน แก้ท้องเสีย ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab5/14.webp"
+          "image": "images/lab5/14.webp",
+          "quizImage": null
         },
         {
           "id": "L5-15",
@@ -2537,7 +2715,8 @@
           "partUsed": "ผล",
           "uses": "ต้านอนุมูลอิสระ ฝาดสมาน แก้ไอ",
           "groupTag": null,
-          "image": "images/lab5/15.webp"
+          "image": "images/lab5/15.webp",
+          "quizImage": null
         },
         {
           "id": "L5-16",
@@ -2551,7 +2730,8 @@
           "partUsed": "เหง้า/ราก",
           "uses": "ขนาดน้อยมีฤทธิ์ฝาดสมานส่วนขนาดสูงมีฤทธิ์ระบาย",
           "groupTag": null,
-          "image": "images/lab5/16.webp"
+          "image": "images/lab5/16.webp",
+          "quizImage": null
         },
         {
           "id": "L5-17",
@@ -2565,7 +2745,8 @@
           "partUsed": "เปลือกต้น",
           "uses": "ฝาดสมาน ใช้ภายนอกในแผล",
           "groupTag": null,
-          "image": "images/lab5/17.webp"
+          "image": "images/lab5/17.webp",
+          "quizImage": null
         },
         {
           "id": "L5-18",
@@ -2579,7 +2760,8 @@
           "partUsed": "กลีบดอก",
           "uses": "ฝาดสมาน ต้านอนุมูลอิสระ และใช้ในผลิตภัณฑ์ดูแลผิว",
           "groupTag": null,
-          "image": "images/lab5/18.webp"
+          "image": "images/lab5/18.webp",
+          "quizImage": null
         },
         {
           "id": "L5-19",
@@ -2593,7 +2775,8 @@
           "partUsed": "เปลือก/ฝัก",
           "uses": "ฝาดสมาน แก้ท้องเสีย และมีฤทธิ์ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab5/19.webp"
+          "image": "images/lab5/19.webp",
+          "quizImage": null
         },
         {
           "id": "L5-20",
@@ -2607,7 +2790,8 @@
           "partUsed": "ใบ",
           "uses": "ต้านอนุมูลอิสระ ฝาดสมาน ต้านจุลชีพ",
           "groupTag": null,
-          "image": "images/lab5/20.webp"
+          "image": "images/lab5/20.webp",
+          "quizImage": null
         }
       ]
     },
@@ -2628,7 +2812,8 @@
           "partUsed": "เมล็ดในของผล (kernel)",
           "uses": "ปรับระดับไขมันในเลือด ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab6/01.webp"
+          "image": "images/lab6/01.webp",
+          "quizImage": "images/quiz/lab6/01.webp"
         },
         {
           "id": "L6-02",
@@ -2642,7 +2827,8 @@
           "partUsed": "เมล็ด",
           "uses": "ต้านอนุมูลอิสระ ต้านการอักเสบปรับระดับไขมันในเลือด",
           "groupTag": null,
-          "image": "images/lab6/02.webp"
+          "image": "images/lab6/02.webp",
+          "quizImage": null
         },
         {
           "id": "L6-03",
@@ -2656,7 +2842,8 @@
           "partUsed": "รากและใบ",
           "uses": "ต้านอนุมูลอิสระและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab6/03.webp"
+          "image": "images/lab6/03.webp",
+          "quizImage": null
         },
         {
           "id": "L6-04",
@@ -2670,7 +2857,8 @@
           "partUsed": "ส่วนเหนือดิน",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab6/04.webp"
+          "image": "images/lab6/04.webp",
+          "quizImage": null
         },
         {
           "id": "L6-05",
@@ -2684,7 +2872,8 @@
           "partUsed": "ใบและส่วนเหนือดิน",
           "uses": "ต้านจุลชีพ ต้านอนุมูลอิสระ และต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab6/05.webp"
+          "image": "images/lab6/05.webp",
+          "quizImage": null
         },
         {
           "id": "L6-06",
@@ -2698,7 +2887,8 @@
           "partUsed": "หน่ออ่อน",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab6/06.webp"
+          "image": "images/lab6/06.webp",
+          "quizImage": null
         },
         {
           "id": "L6-07",
@@ -2712,7 +2902,8 @@
           "partUsed": "ยอดและใบอ่อน",
           "uses": "ต้านอนุมูลอิสระ ต้านการอักเสบต้านจุลชีพ ต้านท้องเสีย และต้านพยาธิ",
           "groupTag": null,
-          "image": "images/lab6/07.webp"
+          "image": "images/lab6/07.webp",
+          "quizImage": null
         },
         {
           "id": "L6-08",
@@ -2726,7 +2917,8 @@
           "partUsed": "เมล็ด",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab6/08.webp"
+          "image": "images/lab6/08.webp",
+          "quizImage": null
         },
         {
           "id": "L6-09",
@@ -2740,7 +2932,8 @@
           "partUsed": "ช่อดอกและก้าน",
           "uses": "เป็นสารตั้งต้นของ sulforaphane ซึ่งมีการศึกษาฤทธิ์ต่อระบบป้องกันเซลล์และการอักเสบ",
           "groupTag": null,
-          "image": "images/lab6/09.webp"
+          "image": "images/lab6/09.webp",
+          "quizImage": null
         },
         {
           "id": "L6-10",
@@ -2754,7 +2947,8 @@
           "partUsed": "ใบและหัว",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab6/10.webp"
+          "image": "images/lab6/10.webp",
+          "quizImage": null
         },
         {
           "id": "L6-11",
@@ -2768,7 +2962,8 @@
           "partUsed": "ช่อดอก",
           "uses": "ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab6/11.webp"
+          "image": "images/lab6/11.webp",
+          "quizImage": null
         },
         {
           "id": "L6-12",
@@ -2782,7 +2977,8 @@
           "partUsed": "ดอก",
           "uses": "THC มีผลต่อระบบประสาทและการรับรู้ความเจ็บปวด ส่วน CBD มีการศึกษาฤทธิ์ทางระบบประสาทในบางภาวะ",
           "groupTag": "Cannabis (cannabinoids)",
-          "image": "images/lab6/12.webp"
+          "image": "images/lab6/12.webp",
+          "quizImage": "images/quiz/lab6/12.webp"
         },
         {
           "id": "L6-13",
@@ -2796,7 +2992,8 @@
           "partUsed": "หัวและกลีบ",
           "uses": "ต้านจุลชีพ ต้านอนุมูลอิสระ ต้านการอักเสบ มีผลต่อระดับความดันโลหิตและไขมันในเลือด",
           "groupTag": "Garlic (cysteine derivatives)",
-          "image": "images/lab6/13.webp"
+          "image": "images/lab6/13.webp",
+          "quizImage": "images/quiz/lab6/13.webp"
         },
         {
           "id": "L6-14",
@@ -2810,7 +3007,8 @@
           "partUsed": "หัว",
           "uses": "ต้านอนุมูลอิสระ และต้านการอักเสบและมีผลต่อระดับน้ำตาล และไขมันในเลือด",
           "groupTag": "Onion (cysteine derivatives)",
-          "image": "images/lab6/14.webp"
+          "image": "images/lab6/14.webp",
+          "quizImage": null
         },
         {
           "id": "L6-15",
@@ -2824,7 +3022,8 @@
           "partUsed": "เหง้า",
           "uses": "Curcuminoids มีรายงานฤทธิ์ต้านการอักเสบและต้านอนุมูลอิสระ",
           "groupTag": "Turmeric (Curcuminoids)",
-          "image": "images/lab6/15.webp"
+          "image": "images/lab6/15.webp",
+          "quizImage": null
         },
         {
           "id": "L6-16",
@@ -2838,7 +3037,8 @@
           "partUsed": "เมล็ด",
           "uses": "มีฤทธิ์ต้านปรสิต เช่น ฆ่าเหา",
           "groupTag": "Annonaceous acetogenins",
-          "image": "images/lab6/16.webp"
+          "image": "images/lab6/16.webp",
+          "quizImage": null
         }
       ]
     },
@@ -2859,7 +3059,8 @@
           "partUsed": "เถา",
           "uses": "ลดไข้ ต้านการอักเสบ ต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab7/01.webp"
+          "image": "images/lab7/01.webp",
+          "quizImage": null
         },
         {
           "id": "L7-02",
@@ -2873,7 +3074,8 @@
           "partUsed": "ลำต้นและราก",
           "uses": "ต้านจุลชีพและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab7/02.webp"
+          "image": "images/lab7/02.webp",
+          "quizImage": null
         },
         {
           "id": "L7-03",
@@ -2887,7 +3089,8 @@
           "partUsed": "ต้นอ่อนในเมล็ดบัว",
           "uses": "มีฤทธิ์ต่อระบบหัวใจและหลอดเลือดต้านการอักเสบ และต้านอนุมูลอิสระ",
           "groupTag": null,
-          "image": "images/lab7/03.webp"
+          "image": "images/lab7/03.webp",
+          "quizImage": null
         },
         {
           "id": "L7-04",
@@ -2901,7 +3104,8 @@
           "partUsed": "ใบ",
           "uses": "มีฤทธิ์ต่อระบบประสาท มีฤทธิ์ระงับปวด",
           "groupTag": null,
-          "image": "images/lab7/04.webp"
+          "image": "images/lab7/04.webp",
+          "quizImage": null
         },
         {
           "id": "L7-05",
@@ -2915,7 +3119,8 @@
           "partUsed": "ยางจากผลที่ยังไม่แก่",
           "uses": "ระงับปวด แก้ไอ คลายกล้ามเนื้อเรียบ",
           "groupTag": null,
-          "image": "images/lab7/05.webp"
+          "image": "images/lab7/05.webp",
+          "quizImage": "images/quiz/lab7/05.webp"
         },
         {
           "id": "L7-06",
@@ -2929,7 +3134,8 @@
           "partUsed": "ราก",
           "uses": "Reserpine ลดความดันโลหิต",
           "groupTag": null,
-          "image": "images/lab7/06.webp"
+          "image": "images/lab7/06.webp",
+          "quizImage": null
         },
         {
           "id": "L7-07",
@@ -2943,7 +3149,8 @@
           "partUsed": "ผล",
           "uses": "แก้ท้องอืด ท้องเฟ้อ",
           "groupTag": null,
-          "image": "images/lab7/07.webp"
+          "image": "images/lab7/07.webp",
+          "quizImage": null
         },
         {
           "id": "L7-08",
@@ -2957,7 +3164,8 @@
           "partUsed": "ผล",
           "uses": "ขับลม ลดอาการไอ",
           "groupTag": null,
-          "image": "images/lab7/08.webp"
+          "image": "images/lab7/08.webp",
+          "quizImage": null
         },
         {
           "id": "L7-09",
@@ -2971,7 +3179,8 @@
           "partUsed": "ใบและราก",
           "uses": "ต้านจุลชีพและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab7/09.webp"
+          "image": "images/lab7/09.webp",
+          "quizImage": null
         },
         {
           "id": "L7-10",
@@ -2985,7 +3194,8 @@
           "partUsed": "ลำต้น",
           "uses": "ต้านจุลชีพและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab7/10.webp"
+          "image": "images/lab7/10.webp",
+          "quizImage": null
         },
         {
           "id": "L7-11",
@@ -2999,7 +3209,8 @@
           "partUsed": "ใบและส่วนเหนือดิน",
           "uses": "ใช้เป็นยาต้านมะเร็ง",
           "groupTag": null,
-          "image": "images/lab7/11.webp"
+          "image": "images/lab7/11.webp",
+          "quizImage": null
         },
         {
           "id": "L7-12",
@@ -3013,7 +3224,8 @@
           "partUsed": "ผล",
           "uses": "ขยายรูม่านตา คลายกล้ามเนื้อเรียบ",
           "groupTag": null,
-          "image": "images/lab7/12.webp"
+          "image": "images/lab7/12.webp",
+          "quizImage": "images/quiz/lab7/12.webp"
         },
         {
           "id": "L7-13",
@@ -3027,7 +3239,8 @@
           "partUsed": "เมล็ด",
           "uses": "เมล็ดอาจเป็นพิษ",
           "groupTag": null,
-          "image": "images/lab7/13.webp"
+          "image": "images/lab7/13.webp",
+          "quizImage": "images/quiz/lab7/13.webp"
         },
         {
           "id": "L7-14",
@@ -3041,7 +3254,8 @@
           "partUsed": "ลำต้นเหนือดิน",
           "uses": "กระตุ้นระบบประสาทซิมพาเทติกและขยายหลอดลม เพิ่มความดันโลหิต",
           "groupTag": null,
-          "image": "images/lab7/14.webp"
+          "image": "images/lab7/14.webp",
+          "quizImage": "images/quiz/lab7/14.webp"
         },
         {
           "id": "L7-15",
@@ -3055,7 +3269,8 @@
           "partUsed": "หัวหรือเหง้าและเมล็ด",
           "uses": "ยับยั้งการสร้าง microtubules และการแบ่งเซลล์ มีฤทธิ์ต้านการอักเสบ แต่พืชมีพิษสูง",
           "groupTag": null,
-          "image": "images/lab7/15.webp"
+          "image": "images/lab7/15.webp",
+          "quizImage": null
         },
         {
           "id": "L7-16",
@@ -3069,7 +3284,8 @@
           "partUsed": "Sclerotium",
           "uses": "Ergotamine ทำให้หลอดเลือดหดตัว ergometrine กระตุ้นการหดตัวของมดลูก",
           "groupTag": null,
-          "image": "images/lab7/16.webp"
+          "image": "images/lab7/16.webp",
+          "quizImage": "images/quiz/lab7/16.webp"
         },
         {
           "id": "L7-17",
@@ -3083,7 +3299,8 @@
           "partUsed": "เมล็ด",
           "uses": "รบกวนการทำงานของระบบประสาทส่วนกลาง",
           "groupTag": null,
-          "image": "images/lab7/17.webp"
+          "image": "images/lab7/17.webp",
+          "quizImage": null
         },
         {
           "id": "L7-18",
@@ -3097,7 +3314,8 @@
           "partUsed": "เมล็ดในผล",
           "uses": "กระตุ้น muscarinic receptors เพิ่มการหลั่งน้ำลาย การเคลื่อนไหวของทางเดินอาหาร",
           "groupTag": null,
-          "image": "images/lab7/18.webp"
+          "image": "images/lab7/18.webp",
+          "quizImage": null
         },
         {
           "id": "L7-19",
@@ -3111,7 +3329,8 @@
           "partUsed": "ราก",
           "uses": "ต้านจุลชีพและต้านการอักเสบ",
           "groupTag": null,
-          "image": "images/lab7/19.webp"
+          "image": "images/lab7/19.webp",
+          "quizImage": "images/quiz/lab7/19.webp"
         },
         {
           "id": "L7-20",
@@ -3125,7 +3344,8 @@
           "partUsed": "ใบ",
           "uses": "Nicotine กระตุ้น nicotinic acetylcholine receptors ทำให้เกิดการพึ่งพาสาร",
           "groupTag": null,
-          "image": "images/lab7/20.webp"
+          "image": "images/lab7/20.webp",
+          "quizImage": "images/quiz/lab7/20.webp"
         },
         {
           "id": "L7-21",
@@ -3139,7 +3359,8 @@
           "partUsed": "เปลือกลำต้น",
           "uses": "Quinine ใช้รักษามาลาเรีย quinidine มีฤทธิ์ต้านการเต้นผิดจังหวะของหัวใจ",
           "groupTag": null,
-          "image": "images/lab7/21.webp"
+          "image": "images/lab7/21.webp",
+          "quizImage": "images/quiz/lab7/21.webp"
         },
         {
           "id": "L7-22",
@@ -3153,7 +3374,8 @@
           "partUsed": "ใบ",
           "uses": "ขยายหลอดลมและช่วยขับเสมหะ",
           "groupTag": null,
-          "image": "images/lab7/22.webp"
+          "image": "images/lab7/22.webp",
+          "quizImage": null
         },
         {
           "id": "L7-23",
@@ -3167,7 +3389,8 @@
           "partUsed": "เมล็ด",
           "uses": "กระตุ้นระบบประสาทส่วนกลางลดความง่วงและเพิ่มความตื่นตัว",
           "groupTag": null,
-          "image": "images/lab7/23.webp"
+          "image": "images/lab7/23.webp",
+          "quizImage": null
         },
         {
           "id": "L7-24",
@@ -3181,7 +3404,8 @@
           "partUsed": "เมล็ด",
           "uses": "กระตุ้นการไหลเวียนของเลือด",
           "groupTag": null,
-          "image": "images/lab7/24.webp"
+          "image": "images/lab7/24.webp",
+          "quizImage": null
         },
         {
           "id": "L7-25",
@@ -3195,7 +3419,8 @@
           "partUsed": "ใบ",
           "uses": "กระตุ้นระบบประสาทส่วนกลาง theophylline มีฤทธิ์ขยายหลอดลม",
           "groupTag": null,
-          "image": "images/lab7/25.webp"
+          "image": "images/lab7/25.webp",
+          "quizImage": null
         },
         {
           "id": "L7-26",
@@ -3209,7 +3434,8 @@
           "partUsed": "เหง้าและราก",
           "uses": "ช่วยให้นอนหลับ",
           "groupTag": null,
-          "image": "images/lab7/26.webp"
+          "image": "images/lab7/26.webp",
+          "quizImage": "images/quiz/lab7/26.webp"
         },
         {
           "id": "L7-27",
@@ -3223,7 +3449,8 @@
           "partUsed": "ใบ",
           "uses": "ขับลม",
           "groupTag": null,
-          "image": "images/lab7/27.webp"
+          "image": "images/lab7/27.webp",
+          "quizImage": null
         }
       ]
     }

@@ -1,2 +1,2 @@
 // เปิด/ปิดการทำข้อสอบ — ตั้งเป็น false เพื่อปิดเฉพาะส่วนทำข้อสอบ (ทบทวนพืช/เฉลย/เคล็ดลับยังใช้ได้)
-export const EXAM_OPEN = false;
+export const EXAM_OPEN = true;
