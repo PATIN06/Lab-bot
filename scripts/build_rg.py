@@ -12,6 +12,6 @@ for f in sorted(glob.glob(str(ROOT / "scripts" / "rg" / "*.json"))):
         assert len(q["w"]) == 4, (f, i)
         assert len({q["a"], *q["w"]}) == 5, (f, i, "ตัวเลือกซ้ำ")
     files.append(d)
-out = {"subject": {"id": "rg", "title": "ทะเบียนยาและกำกับดูแล (Regulatory)", "code": "การขึ้นทะเบียนยา / ชีววัตถุ / ทรัพย์สินทางปัญญา"}, "files": files}
+out = {"subject": {"id": "rg", "title": "R&D ยา (Research & Development)", "code": "การขึ้นทะเบียนยา / ชีววัตถุ / ทรัพย์สินทางปัญญา"}, "files": files}
 (ROOT / "data" / "rg.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 print(len(files), "files,", sum(len(f["questions"]) for f in files), "questions")
