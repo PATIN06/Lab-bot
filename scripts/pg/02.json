@@ -1,0 +1,248 @@
+{
+ "id": "pg02",
+ "no": 2,
+ "title": "Quinones (เทียนบ้าน/ชุมเห็ด/อื่น ๆ)",
+ "file": "2.1 DNS Quinone",
+ "questions": [
+  {
+   "t": "โครงสร้าง",
+   "q": "โครงสร้างแกนกลางของ quinones คืออะไร และแบ่งเป็นกี่ประเภทหลักตามโครงสร้างที่พบในธรรมชาติ",
+   "a": "Cyclohexadienedione (o- หรือ p-quinone) ; แบ่งเป็น benzoquinones, naphthoquinones และ anthraquinones",
+   "w": [
+    "Cyclohexane ที่มีหมู่ hydroxyl 2 หมู่ ; แบ่งเป็น 5 ประเภท",
+    "Pyran ring ที่มีหมู่ carbonyl ; แบ่งเป็น flavonoids และ coumarins",
+    "Indole ring ; แบ่งเป็น alkaloids และ terpenoids",
+    "Steroid nucleus ; แบ่งเป็น saponins และ glycosides"
+   ],
+   "e": "Benzoquinone = dione + benzene; naphthoquinone = dione + naphthalene; anthraquinone = dione + anthracene"
+  },
+  {
+   "t": "ชีวสังเคราะห์",
+   "q": "Emodin-type anthraquinones และ alizarin-type anthraquinones สังเคราะห์ผ่านวิถีใดตามลำดับ",
+   "a": "Acetate pathway ; Shikimate pathway ร่วมกับ terpene (mevalonate)",
+   "w": [
+    "Shikimate pathway ; Acetate pathway",
+    "Mevalonate pathway ล้วน ; Acetate pathway",
+    "Shikimate pathway ทั้งคู่ ; ไม่มีวิถีที่เกี่ยวข้อง",
+    "Acetate pathway ทั้งคู่ ; โดยไม่มี terpene"
+   ],
+   "e": "Emodin-type: 1,8-dihydroxy anthraquinone (เช่น emodin, chrysophanol) = laxative; Alizarin-type: ring A ไม่มีหมู่ substitute, มี –OH ที่ ring C (alizarin, lucidin) = dye"
+  },
+  {
+   "t": "Benzoquinones",
+   "q": "Thymoquinone เป็นสารสำคัญของพืชชนิดใด",
+   "a": "เทียนดำ (Nigella sativa, วงศ์ Ranunculaceae)",
+   "w": [
+    "เทียนกิ่ง (Lawsonia inermis)",
+    "ทองพันชั่ง (Rhinacanthus nasutus)",
+    "เจตมูลเพลิงแดง (Plumbago indica)",
+    "มะขามแขก (Senna alexandrina)"
+   ],
+   "e": "Thymoquinone เป็น benzoquinone ใน black cumin มีฤทธิ์ต้านการอักเสบ ปกป้องตับ ต้านอนุมูลอิสระ ขยายหลอดลม"
+  },
+  {
+   "t": "Naphthoquinones",
+   "q": "Vitamin K1 (phylloquinone) และ K2 (menaquinone) ต่างกันอย่างไร",
+   "a": "K1 มาจากพืช/สาหร่าย (มี isoprene 4 หน่วยใน side chain) ส่วน K2 มาจากจุลินทรีย์ (มี isoprene 1–13 หน่วย) ทั้งสองเป็นวิตามินที่ละลายในไขมันและเกี่ยวข้องกับการแข็งตัวของเลือด",
+   "w": [
+    "K1 มาจากจุลินทรีย์ ส่วน K2 มาจากพืช",
+    "ทั้งสองเป็นวิตามินละลายน้ำและไม่เกี่ยวกับการแข็งตัวของเลือด",
+    "K1 และ K2 เป็น anthraquinones ที่ใช้เป็นยาระบาย",
+    "ทั้งสองเป็น benzoquinones ที่พบในเทียนดำ"
+   ],
+   "e": "Vitamin K = naphthoquinone + terpene side chain; เป็น cofactor ในกระบวนการแข็งตัวของเลือด"
+  },
+  {
+   "t": "Naphthoquinones",
+   "q": "Lawsone (2-hydroxy-1,4-naphthoquinone) พบในพืชชนิดใดและใช้ประโยชน์อย่างไร",
+   "a": "ใบเทียนกิ่ง (Lawsonia inermis, Lythraceae) และเทียนบ้าน (Impatiens balsamina) ใช้ย้อมผม/วาดลวดลายบนผิว และเป็นยาภายนอกฆ่าเชื้อแบคทีเรียและรา",
+   "w": [
+    "รากเจตมูลเพลิงแดง ใช้เป็นยาระบายแรง",
+    "ใบทองพันชั่ง ใช้ลดความดันโลหิต",
+    "เมล็ดมะขามแขก ใช้ย้อมผ้า",
+    "ใบวอลนัท ใช้บำรุงตับเท่านั้น"
+   ],
+   "e": "Lawsone ละลายได้ดีในสารละลายด่าง; ตำรายาไทยใช้ตำพอกรักษาแผลฝีหนอง"
+  },
+  {
+   "t": "Naphthoquinones",
+   "q": "Rhinacanthins พบในพืชใดและมีการใช้ทางยาอย่างไร",
+   "a": "ใบทองพันชั่ง (Rhinacanthus nasutus, Acanthaceae) ใช้ทาภายนอกต้านเชื้อรา รักษากลาก",
+   "w": [
+    "รากเจตมูลเพลิงแดง ใช้รักษาแผลในกระเพาะ",
+    "ใบเทียนกิ่ง ใช้เป็นยาระบาย",
+    "ฝักคูน ใช้ลดไข้",
+    "รากโกฐน้ำเต้า ใช้ขับปัสสาวะ"
+   ],
+   "e": "ทองพันชั่งเป็นสมุนไพรในวงศ์เดียวกับฟ้าทะลายโจร (Acanthaceae)"
+  },
+  {
+   "t": "Naphthoquinones",
+   "q": "Plumbagin มีลักษณะและข้อควรระวังอย่างไร",
+   "a": "พบในรากเจตมูลเพลิงแดง (Plumbago indica, Plumbaginaceae) ต้านเชื้อรา/แบคทีเรีย ระคายเคืองผิวหนังรุนแรง เป็นยาร้อนทำให้แท้งได้ และอาจเสริมฤทธิ์ยาต้านการแข็งตัวของเลือด",
+   "w": [
+    "พบในใบมะขามแขก เป็นยาระบายที่ปลอดภัยในหญิงตั้งครรภ์",
+    "พบในใบวอลนัท ไม่มีผลข้างเคียงใด ๆ",
+    "พบในเทียนดำ ใช้ลดไขมันในเลือด",
+    "เป็นสีย้อมม่วงแดงจากราก Lithospermum"
+   ],
+   "e": "Plumbagin = 5-hydroxy-2-methyl-1,4-naphthoquinone; ยังพบใน Drosera rotundifolia (sundew) ใช้แก้ปวดเกร็ง แก้ไอ"
+  },
+  {
+   "t": "Naphthoquinones",
+   "q": "Juglone และ Shikonin/Alkannin พบจากพืชใดตามลำดับ",
+   "a": "Juglone จากวอลนัท (Juglans regia) ; Shikonin/alkannin จากราก Lithospermum erythrorhizon (Boraginaceae) ซึ่งเป็นสีย้อมม่วงแดง",
+   "w": [
+    "Juglone จาก Lithospermum ; Shikonin จากวอลนัท",
+    "Juglone จากเทียนดำ ; Shikonin จากมะขามแขก",
+    "ทั้งสองจากต้นสัก",
+    "ทั้งสองจากเจตมูลเพลิงแดง"
+   ],
+   "e": "รากแห้งของ Lithospermum เรียกว่า Koshikon; shikonin/alkannin เป็น enantiomer กัน; ฤทธิ์: ต้านเชื้อ สมานแผล ต้านมะเร็ง"
+  },
+  {
+   "t": "อาการแพ้",
+   "q": "กลไกการเกิดการแพ้ (dermatitis/skin sensitization) ของ quinones เกิดจากอะไร",
+   "a": "Quinone ถูกออกซิไดซ์แล้วจับกับโปรตีนผ่านหมู่ amine หรือ thiol เกิด hapten-carrier adduct กระตุ้นภูมิคุ้มกัน (เช่น primin, deoxylapachol, delbergione, lawsone)",
+   "w": [
+    "quinone ยับยั้งเอนไซม์ HMG-CoA reductase",
+    "quinone จับกับ DNA ทำให้เกิดการกลายพันธุ์โดยตรงเท่านั้น",
+    "quinone เปลี่ยนเป็นกรดไขมันอิ่มตัว",
+    "quinone ลด pH ของผิวหนังเท่านั้น"
+   ],
+   "e": "พบในกลุ่ม benzoquinones และ naphthoquinones; primin จาก Primula obconica, lapachol จากต้นสัก, dalbergiones จาก Dalbergia"
+  },
+  {
+   "t": "Anthraquinones",
+   "q": "คุณสมบัติของ free anthraquinones ข้อใดถูกต้อง",
+   "a": "มีสีเหลือง น้ำตาล ถึงส้มแดง ละลายในด่างได้เกลือสีชมพูแดง ไม่ละลายในกรด และละลายได้ดีใน non-polar solvents เช่น dichloromethane",
+   "w": [
+    "ไม่มีสี และละลายน้ำได้ดี",
+    "ละลายในกรดได้ดีและตกตะกอนในด่าง",
+    "ไม่ละลายใน non-polar solvents",
+    "ละลายในด่างแล้วได้สารละลายสีเขียว"
+   ],
+   "e": "พืชสร้างและสะสมสารเป็น glycosides (glucoside, rhamnoside); การสกัดด้วยกรดต้องกรองขณะร้อนเพราะ free anthraquinone ตกตะกอนในกรด"
+  },
+  {
+   "t": "Anthraquinones",
+   "q": "Anthrone และ anthranol ต่างกันอย่างไร",
+   "a": "Anthrone: สีเหลืองจาง ไม่เรืองแสง ไม่ละลายในด่าง ; Anthranol: สีน้ำตาลเหลือง เรืองแสงแรงที่ UV 365 nm และละลายในด่าง",
+   "w": [
+    "Anthrone เรืองแสงแรงและละลายในด่าง ; Anthranol ไม่เรืองแสง",
+    "ทั้งสองไม่เรืองแสงและไม่แปลงกัน",
+    "ทั้งสองเป็นรูปออกซิไดซ์ของ anthraquinone ที่เสถียรถาวร",
+    "Anthrone เป็นของแข็งสีน้ำเงิน ; Anthranol เป็นก๊าซ"
+   ],
+   "e": "Anthrone/anthranol เป็น isomer ที่เปลี่ยนกันได้ในสารละลาย; anthranol ใน Aloe เรืองแสงสีเขียวใช้ระบุชนิด; oxanthrone = intermediate; dianthrone = จาก anthrone 2 ตัว (เช่น sennosides)"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "มะขามแขก (Senna alexandrina) มีสารสำคัญและการใช้อย่างไร",
+   "a": "ใบและฝักอ่อนมี dianthrone glycosides (sennosides A–D) ใช้เป็นยาระบายกระตุ้นลำไส้ใหญ่ (วงศ์ Fabaceae)",
+   "w": [
+    "ราก มี sennosides ใช้ลดความดันโลหิต",
+    "เมล็ด มี thymoquinone ใช้ขับปัสสาวะ",
+    "ใบ มี lawsone ใช้ย้อมผม",
+    "ฝักแก่ มี plumbagin ใช้แก้ปวดเกร็ง"
+   ],
+   "e": "S. alexandrina (Alexandrian senna) และ S. angustifolia (Tinnevelly senna) อยู่ในบัญชียาหลักฯ ยาระบายแก้ท้องผูก"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "ข้อใดจับคู่สมุนไพรกับสารสำคัญหรือข้อควรระวังได้ถูกต้อง",
+   "a": "ขี้เหล็ก (Senna siamea) = barakol ช่วยให้นอนหลับแต่เป็นพิษต่อตับ ; คูน (Cassia fistula) = เนื้อในฝัก ระบายอ่อน ๆ ห้ามกินเมล็ดและเปลือกฝักเพราะทำให้อาเจียน",
+   "w": [
+    "ขี้เหล็ก = มี barakol ปลอดภัยต่อตับทุกกรณี ; คูน = เมล็ดใช้เป็นยาระบายหลัก",
+    "ชุมเห็ดไทย = ใบ ใช้รักษากลาก ; ชุมเห็ดเทศ = เมล็ดคั่ว ใช้ชงดื่มทุกวัน",
+    "ขี้เหล็ก = ฝัก ใช้ย้อมสีเท่านั้น ; คูน = ราก ใช้ลดไข้",
+    "ทั้งสองไม่มี anthraquinones เลย"
+   ],
+   "e": "ชุมเห็ดเทศ (Senna alata) = ใบ ใช้ระบายและรักษากลาก; ชุมเห็ดไทย (Senna tora) = เมล็ดคั่ว ใช้ต่อเนื่องนานทำให้ตามัวและง่วง"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "โกฐน้ำเต้า (Rheum palmatum/R. officinale) ถูกเรียกว่า “ยาระบายรู้ปิดรู้เปิด” เพราะเหตุใด",
+   "a": "มี anthraquinones ทำให้ระบาย และมี tannins (gallic acid, catechin) ที่ฝาดสมานช่วยหยุดถ่าย",
+   "w": [
+    "มี alkaloids ที่ทั้งระบายและห้ามเลือด",
+    "มีเฉพาะ sennosides ที่ใช้ได้ทั้งระบายและห้ามถ่าย",
+    "มี coumarins ที่ปรับสมดุลของลำไส้",
+    "มี saponins ที่ทำให้เกิดฟองในลำไส้"
+   ],
+   "e": "โกฐน้ำเต้าอยู่ในวงศ์ Polygonaceae; สารสำคัญ chrysophanol, aloe-emodin, rhein, emodin, physcion"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "ยาดำ (Aloe) ได้จากส่วนใดและมีสารสำคัญและข้อควรระวังอย่างไร",
+   "a": "ยางจากใบว่านหางจระเข้ (Aloe vera/A. ferox) มี aloin/barbaloin (C-glycoside) เป็นยาถ่ายแรง ปวดเกร็งท้อง จึงไม่นิยมใช้เดี่ยว ๆ",
+   "w": [
+    "วุ้นใสจากใบ มี sennosides เป็นยาระบายอ่อนที่ปลอดภัยเสมอ",
+    "ราก มี plumbagin ใช้ลดไข้",
+    "เมล็ด มี thymoquinone ใช้ขับปัสสาวะ",
+    "ดอก มี alizarin ใช้ย้อมสี"
+   ],
+   "e": "Aloe เป็นวงศ์ Asphodelaceae; วุ้นช่วยบรรเทาแสบผิวหนังจากการฉายรังสี"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "ข้อใดจัดเป็นแหล่งสีย้อม (dye) ที่เป็น alizarin-type หรือ anthraquinone dye",
+   "a": "Madder (Rubia tinctorum, ruberythric acid), cochineal (carminic acid) และครั่ง (laccaic acids)",
+   "w": [
+    "มะขามแขก คูน และโกฐน้ำเต้า",
+    "ว่านหางจระเข้ และ cascara",
+    "วอลนัท และ sundew",
+    "เทียนดำ และเทียนกิ่ง"
+   ],
+   "e": "Cochineal = แมลง Dactylopius coccus → carmine; ครั่ง = laccaic acids A–F ใช้ในตำรับยาเหลืองปิดสมุทร; กลุ่ม emodin-type: rhubarb, aloes, senna, cascara"
+  },
+  {
+   "t": "Cascara",
+   "q": "เปลือกต้น Rhamnus purshianus (cascara) ควรเก็บอย่างไรก่อนใช้ และเหตุผลคืออะไร",
+   "a": "เก็บในที่แห้งอย่างน้อย 1 ปี เพื่อให้เกิด hydrolysis โดยเอนไซม์ ลดฤทธิ์กระตุ้นการอาเจียน",
+   "w": [
+    "ใช้ทันทีหลังเก็บเกี่ยวเพื่อให้ได้สารสำคัญสูงสุด",
+    "แช่น้ำร้อนจัดทันที",
+    "เก็บในที่ชื้น เพื่อให้เกิดการหมัก",
+    "ตากแดดจัด 1 วัน แล้วใช้ได้"
+   ],
+   "e": "สารสำคัญ cascarosides A–D; Frangula bark (Frangula alnus) = glucofrangulins; ทั้งสองวงศ์ Rhamnaceae"
+  },
+  {
+   "t": "กลไก",
+   "q": "O-glycosides ของ anthraquinone ออกฤทธิ์ระบายได้อย่างไร",
+   "a": "ไม่ถูกดูดซึมที่ลำไส้เล็ก แต่ถูก hydrolyze ที่ลำไส้ใหญ่ด้วย β-glucosidase ของแบคทีเรีย แล้วถูก reduce เป็น anthrone/anthranol กระตุ้นการบีบตัวของลำไส้",
+   "w": [
+    "ถูกดูดซึมทั้งหมดที่กระเพาะอาหารแล้วออกฤทธิ์ที่ตับ",
+    "ถูก hydrolyze ที่ลำไส้เล็กด้วยน้ำย่อยของตับอ่อนเท่านั้น",
+    "ออกฤทธิ์โดยดึงน้ำเข้าลำไส้แบบ osmotic ล้วน",
+    "ไม่ต้องอาศัยแบคทีเรียในลำไส้ใหญ่"
+   ],
+   "e": "Free anthraquinones ถูกดูดซึมที่ลำไส้เล็กและถูก conjugate กับ glucuronic acid ที่ตับ ขับทางปัสสาวะ; ผ่านน้ำนมแม่ได้ จึงไม่ควรใช้ในหญิงให้นมบุตร"
+  },
+  {
+   "t": "ข้อควรระวัง",
+   "q": "ข้อใดเป็นข้อควรระวังของสมุนไพรกลุ่ม anthraquinones",
+   "a": "ไม่ควรใช้ติดต่อกันนาน เสี่ยงเสียน้ำ/โพแทสเซียมและลำไส้ติดการกระตุ้น ไม่ใช้ในเด็กเล็ก หญิงตั้งครรภ์ ลำไส้อุดตัน หรือ IBS และขนาดสูงอาจเป็นพิษต่อไต",
+   "w": [
+    "ใช้ติดต่อกันนานปลอดภัยและลดการท้องผูกถาวร",
+    "ปลอดภัยสำหรับหญิงตั้งครรภ์และให้นมบุตร",
+    "ใช้ได้ทุกกรณีรวมถึงลำไส้อุดตัน",
+    "ไม่มีผลต่อสมดุลอิเล็กโทรไลต์"
+   ],
+   "e": "ควรเริ่มด้วยขนาดต่ำ และใช้ร่วมกับสมุนไพรขับลมเพื่อลดอาการปวดมวนท้อง"
+  },
+  {
+   "t": "การตรวจสอบ",
+   "q": "ตามสมบัติของ free anthraquinones การทดสอบเบื้องต้นด้วยด่างแอมโมเนียหรือ KOH (Bornträger's test) ให้ผลบวกอย่างไร",
+   "a": "สารละลายเปลี่ยนเป็นสีชมพูแดง เพราะ anthraquinone เกิดเป็นเกลือที่ละลายในด่าง",
+   "w": [
+    "สารละลายเปลี่ยนเป็นสีน้ำเงินเขียวเรืองแสงทันที",
+    "เกิดตะกอนสีขาวในชั้นด่าง",
+    "สารละลายใสไม่มีสีเมื่อพบ anthraquinone",
+    "เปลี่ยนเป็นสีเหลืองเขียวเฉพาะเมื่อมีน้ำตาลเท่านั้น"
+   ],
+   "e": "Free anthraquinone ละลายในด่างแล้วเกิด salt form สีชมพูแดง; O-glycoside ต้อง hydrolyze (กรด) และสกัดด้วย organic solvent ก่อน; anthranol เรืองแสงที่ UV 365 nm"
+  }
+ ]
+}

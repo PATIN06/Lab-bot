@@ -1,5 +1,5 @@
 // ข้อสอบ QC (ปรนัย 5 ตัวเลือก) — สลับตำแหน่งตัวเลือกใหม่ทุกครั้งที่สร้างข้อสอบ
-import { esc, shuffle } from "./util.js?v=13";
+import { esc, shuffle } from "./util.js?v=14";
 
 export function buildQc(file, idx) {
   const src = file.questions[idx];
@@ -15,6 +15,7 @@ export function buildQc(file, idx) {
     topic: src.t,
     from: "qc",
     fileNo: file.no,
+    setPrefix: file.id.slice(0, 2).toUpperCase(),
     promptHtml: esc(src.q),
     image: null,
     options,

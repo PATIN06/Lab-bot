@@ -1,0 +1,248 @@
+{
+ "id": "pg01",
+ "no": 1,
+ "title": "Volatile oils (น้ำมันหอมระเหย)",
+ "file": "1.1 Volatile oil",
+ "questions": [
+  {
+   "t": "คุณสมบัติ",
+   "q": "น้ำมันหอมระเหย (volatile oils) ต่างจากน้ำมันระเหยยาก (fixed oils) อย่างไร",
+   "a": "Volatile oils เป็นสารผสมของ terpenes/phenylpropanoids ระเหยได้ที่อุณหภูมิห้องและไม่ทำให้กระดาษโปร่งแสง ส่วน fixed oils เป็น triglycerides ทำให้กระดาษโปร่งแสง",
+   "w": [
+    "Volatile oils เป็น triglycerides และทำให้กระดาษโปร่งแสง ส่วน fixed oils ระเหยได้ที่อุณหภูมิห้อง",
+    "ทั้งสองชนิดเป็น triglycerides แต่ต่างกันที่สี",
+    "Volatile oils ไม่ระเหยที่อุณหภูมิห้อง ส่วน fixed oils ระเหยเร็ว",
+    "ทั้งสองชนิดไม่ละลายในตัวทำละลายอินทรีย์ใดเลย"
+   ],
+   "e": "ตัวอย่าง fixed oil: น้ำมันมะพร้าว; volatile oil ประกอบด้วยสารหลาย ๆ ชนิด มีทั้ง major และ minor components"
+  },
+  {
+   "t": "ชีวสังเคราะห์",
+   "q": "สาร monoterpene และ sesquiterpene ในน้ำมันหอมระเหยสร้างมาจากสารตั้งต้นใดตามลำดับ",
+   "a": "Geranyl diphosphate (C10) และ farnesyl diphosphate (C15)",
+   "w": [
+    "Farnesyl diphosphate (C15) และ geranyl diphosphate (C10)",
+    "Shikimic acid และ coumaryl alcohol",
+    "Acetyl-CoA และ malonyl-CoA",
+    "Cinnamic acid และ coniferyl alcohol"
+   ],
+   "e": "Terpenes สร้างผ่าน mevalonate และ deoxyxylulose phosphate pathway; phenylpropanoids สร้างผ่าน shikimate pathway"
+  },
+  {
+   "t": "ชีวสังเคราะห์",
+   "q": "Phenylpropanoids ในน้ำมันหอมระเหยสร้างผ่านวิถีชีวสังเคราะห์ใด",
+   "a": "Shikimate pathway",
+   "w": [
+    "Mevalonate pathway",
+    "Deoxyxylulose phosphate pathway",
+    "Polyketide pathway",
+    "Acetate-malonate pathway"
+   ],
+   "e": "ตัวอย่างสารตั้งต้น: coumaryl, coniferyl และ sinapyl alcohol; ตัวอย่างสารที่ได้ เช่น eugenol, cinnamaldehyde, anethole"
+  },
+  {
+   "t": "การสะสมในพืช",
+   "q": "ข้อใดจับคู่ชนิดของ oil gland กับลักษณะการเกิดได้ถูกต้อง",
+   "a": "Schizogenous = เกิดจากการแยกของ middle lamella เป็นช่อง (เช่น Apiaceae, Pinaceae) ; Lysigenous = เกิดจากเซลล์สลายตัวเป็นช่อง (เช่น Rutaceae)",
+   "w": [
+    "Schizogenous = เซลล์สลายตัวเป็นช่อง (Rutaceae) ; Lysigenous = middle lamella แยกกัน (Apiaceae)",
+    "Schizogenous และ lysigenous เหมือนกันและพบเฉพาะใน Lamiaceae",
+    "Lysigenous พบเฉพาะใน Pinaceae ที่เป็นต่อมขนบนผิว",
+    "ทั้งสองแบบพบเฉพาะในรากพืช"
+   ],
+   "e": "Schizolysigenous = ผสมทั้งสองแบบ (Rutaceae); Oil cell พบใน Zingiberaceae, Myristicaceae, Lauraceae, Piperaceae; glandular trichome พบใน Lamiaceae, Asteraceae"
+  },
+  {
+   "t": "การสะสมในพืช",
+   "q": "พืชวงศ์ใดสะสมน้ำมันหอมระเหยใน glandular trichome หรือ glandular scale บนผิว (epidermis)",
+   "a": "Lamiaceae (เช่น Mentha piperita), Asteraceae และ Piperaceae",
+   "w": [
+    "Rutaceae เท่านั้น",
+    "Pinaceae และ Apiaceae เท่านั้น",
+    "Zingiberaceae เท่านั้น",
+    "Myristicaceae เท่านั้น"
+   ],
+   "e": "ต่อมขนสร้างน้ำมันหอมระเหยแล้วเก็บไว้บนผิว เช่น peppermint, lavender, กัญชา"
+  },
+  {
+   "t": "คุณสมบัติ",
+   "q": "น้ำมันหอมระเหยชนิดใดมีความหนาแน่นสูงกว่าน้ำ (d > 1)",
+   "a": "น้ำมันกานพลู น้ำมันอบเชย และน้ำมันแฝกหอม",
+   "w": [
+    "น้ำมันหอมระเหยส่วนใหญ่ทุกชนิด",
+    "น้ำมันเปปเปอร์มินต์และน้ำมันลาเวนเดอร์",
+    "น้ำมันตะไคร้และน้ำมันมะกรูด",
+    "น้ำมันสนและน้ำมันยูคาลิปตัส"
+   ],
+   "e": "น้ำมันหอมระเหยส่วนมากเบากว่าน้ำ (d < 1) ต้องเติม xylene ในเครื่อง Clevenger เมื่อน้ำมันหนักกว่าน้ำเพื่อให้แยกชั้นได้"
+  },
+  {
+   "t": "การควบคุมคุณภาพ",
+   "q": "การควบคุมคุณภาพน้ำมันหอมระเหย ค่า/เครื่องมือใดจับคู่ถูกต้อง",
+   "a": "ดัชนีหักเห = Refractometer ; ค่าเบี่ยงเบนแสง (optical rotation) = Polarimeter",
+   "w": [
+    "ดัชนีหักเห = Polarimeter ; ค่าเบี่ยงเบนแสง = Refractometer",
+    "ดัชนีหักเห = pH meter ; ค่าเบี่ยงเบนแสง = Spectrophotometer",
+    "ดัชนีหักเห = Viscometer ; ค่าเบี่ยงเบนแสง = Densitometer",
+    "ไม่มีเครื่องมือใดวัดค่าเหล่านี้ได้"
+   ],
+   "e": "ค่าเหล่านี้มีความจำเพาะต่อน้ำมันแต่ละชนิด ใช้เปรียบเทียบกับค่ามาตรฐานเพื่อบอกความบริสุทธิ์"
+  },
+  {
+   "t": "การควบคุมคุณภาพ",
+   "q": "ค่า Acid value ของน้ำมันหอมระเหยที่สูงบ่งบอกถึงอะไร",
+   "a": "การเสื่อมสภาพ ออกซิเดชัน หรือการปลอมปนด้วยสารกรด/ไขมัน (ค่าต่ำ = บริสุทธิ์และสด)",
+   "w": [
+    "น้ำมันบริสุทธิ์และสดมาก",
+    "น้ำมันมีค่าความหนาแน่นต่ำเสมอ",
+    "น้ำมันมีค่าการหักเหแสงสูงเสมอ",
+    "น้ำมันไม่มีการเปลี่ยนแปลงใด ๆ"
+   ],
+   "e": "วัดโดยละลายน้ำมัน 10 g ใน ethanol:ether (1:1) แล้วไทเทรตด้วย 0.1 M ethanolic KOH โดยใช้ phenolphthalein"
+  },
+  {
+   "t": "องค์ประกอบ",
+   "q": "สารกลุ่มใดจัดเป็น monoterpene/sesquiterpene hydrocarbons และ phenols ตามลำดับ",
+   "a": "Limonene, α-pinene, zingiberene ; Eugenol, thymol",
+   "w": [
+    "Eugenol, thymol ; Limonene, α-pinene",
+    "Menthol, geraniol ; Camphor, carvone",
+    "Cinnamaldehyde, citral ; Anethole, myristicin",
+    "Linalyl acetate ; Ascaridole"
+   ],
+   "e": "Alcohols: geraniol, linalool, menthol; Aldehydes: cinnamaldehyde, citral, citronellal; Ketones: camphor, carvone, thujone; Ethers: anethole, myristicin; Peroxide: ascaridole; Esters: linalyl acetate, menthyl acetate"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "โกฐเชียง (Angelica sinensis) อยู่ในวงศ์ใดและมีสารสำคัญใด",
+   "a": "Apiaceae ; alkyl phthalides (Z-ligustilide), ferulic acid",
+   "w": [
+    "Asteraceae ; artemisinin",
+    "Caprifoliaceae ; valeranone",
+    "Lauraceae ; cinnamaldehyde",
+    "Rutaceae ; bergapten"
+   ],
+   "e": "โกฐเชียง (ตังกุย) บำรุงเลือด ปรับรอบเดือน ไม่ควรใช้ในหญิงตั้งครรภ์ และระวังใช้ร่วมกับยา antiplatelet"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "ข้อใดจับคู่พิกัดโกฐกับชื่อวิทยาศาสตร์และสารสำคัญได้ถูกต้อง",
+   "a": "โกฐจุฬาลัมพา = Artemisia annua (artemisinin) ; โกฐชฎามังสี = Nardostachys jatamansi (valeranone)",
+   "w": [
+    "โกฐเขมา = Artemisia annua ; โกฐกระดูก = Nardostachys jatamansi",
+    "โกฐพุงปลา = Atractylodes lancea ; โกฐหัวบัว = Aucklandia lappa",
+    "โกฐสอ = Foeniculum vulgare ; โกฐเชียง = Illicium verum",
+    "โกฐกระดูก = Angelica sinensis ; โกฐหัวบัว = Cinnamomum verum"
+   ],
+   "e": "โกฐเขมา = Atractylodes lancea (atractylodin); โกฐกระดูก = Aucklandia lappa (dehydrocostus lactone); โกฐพุงปลาเป็นปูดบนสมอไทยมีแทนนิน"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "พิกัดเทียน ข้อใดจับคู่ได้ถูกต้อง",
+   "a": "เทียนข้าวเปลือก = Foeniculum vulgare (trans-anethole) ; เทียนดำ = Nigella sativa (thymoquinone) ; เทียนเยาวพานี = Trachyspermum ammi (thymol)",
+   "w": [
+    "เทียนข้าวเปลือก = Nigella sativa ; เทียนดำ = Foeniculum vulgare",
+    "เทียนตาตั๊กแตน = Cuminum cyminum (cuminaldehyde) ; เทียนขาว = Anethum graveolens (carvone)",
+    "เทียนเยาวพานี = Pimpinella anisum ; เทียนสัตตบุษย์ = Trachyspermum ammi",
+    "เทียนแดง = Carum carvi (วงศ์ Apiaceae)"
+   ],
+   "e": "เทียนตาตั๊กแตน = dill (Anethum graveolens, carvone); เทียนขาว = cumin; เทียนสัตตบุษย์ = anise (trans-anethole); เทียนตากบ = caraway (carvone); เทียนแดง = Lepidium sativum (Brassicaceae)"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "สารสำคัญของกานพลู (Syzygium aromaticum) และการใช้ประโยชน์ที่เกี่ยวข้องคือข้อใด",
+   "a": "Eugenol ซึ่งมีฤทธิ์ฆ่าเชื้อและใช้เป็นยาชาเฉพาะที่ ลดการบีบตัวของลำไส้ ขับลม",
+   "w": [
+    "Cinnamaldehyde ใช้เป็นยาลดความดัน",
+    "Thymol ใช้ไล่แมลงเท่านั้น",
+    "Linalool ใช้เป็นยาระบาย",
+    "Camphor ใช้เป็นยานอนหลับ"
+   ],
+   "e": "กานพลูอยู่ในวงศ์ Myrtaceae ใช้ดอกตูมแก่จัด; ตำรับ: ประสะกานพลู ขับลม"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "ข้อใดถูกต้องเกี่ยวกับจันทน์เทศ (Myristica fragrans)",
+   "a": "มี myristicin ที่ทำให้เกิดอาการหลอนเมื่อรับประทานเกินขนาด (ประมาณ 5 g) และ safrole ถูกจัดเป็นสารก่อมะเร็ง",
+   "w": [
+    "ไม่มีสารที่เป็นพิษและรับประทานได้ไม่จำกัด",
+    "เป็นพืชวงศ์ Lamiaceae และสารหลักคือ menthol",
+    "ให้น้ำมันหอมระเหยแต่ไม่มีไขมัน (fixed oils) เลย",
+    "สารสำคัญคือ cinnamaldehyde"
+   ],
+   "e": "วงศ์ Myristicaceae; ดอกจันทน์คือรกหุ้มเมล็ด ลูกจันทน์คือเมล็ด; มี elemicin, myristicin, safrole"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "โป๊ยกั๊ก (Illicium verum) ต่างจาก Illicium anisatum อย่างไร",
+   "a": "I. verum (Chinese star anise) ใช้เป็นเครื่องเทศและขับลม ส่วน I. anisatum (Japanese star anise) เป็นพิษ",
+   "w": [
+    "I. anisatum ปลอดภัยกว่า I. verum",
+    "ทั้งสองชนิดเป็นเครื่องเทศที่ปลอดภัย",
+    "ทั้งสองชนิดเป็นพิษเท่ากัน",
+    "I. verum เป็นพิษส่วน I. anisatum ใช้เป็นเครื่องเทศ"
+   ],
+   "e": "โป๊ยกั๊กอยู่ในวงศ์ Illiciaceae; สารหลักคือ trans-anethole"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "Chamomile (Matricaria recutita) ช่วยคลายกังวลและช่วยให้หลับด้วยกลไกใด",
+   "a": "Apigenin จับกับ benzodiazepine receptor และทำให้ GABA จับกับ GABA receptor ได้ดีขึ้น",
+   "w": [
+    "Apigenin ยับยั้งเอนไซม์ HMG-CoA reductase",
+    "Bisabolol กระตุ้น adrenergic receptor โดยตรง",
+    "Eugenol ยับยั้ง GABA receptor",
+    "Menthol เพิ่ม dopamine ในสมอง"
+   ],
+   "e": "สารสำคัญ: (−)-α-bisabolol (volatile oil), flavonoids (apigenin, quercetin), coumarins, GABA"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "ลูกซัด (Trigonella foenum-graecum) มีข้อควรระวังในการใช้เรื่องใด",
+   "a": "มี coumarins จึงเสริมฤทธิ์ warfarin ได้",
+   "w": [
+    "ทำให้ฤทธิ์ warfarin ลดลง",
+    "ไม่มีปฏิกิริยากับยาใดเลย",
+    "เป็นพิษต่อไตโดยตรงเสมอ",
+    "มี myristicin ทำให้หลอน"
+   ],
+   "e": "ลูกซัดอยู่ในวงศ์ Fabaceae ใช้ขับลม ลดอักเสบของแผล และขับน้ำนมหลังคลอด"
+  },
+  {
+   "t": "การสกัด",
+   "q": "น้ำมันหอมระเหยจากเปลือกผลพืชวงศ์ Rutaceae (เช่น ส้ม มะนาว) นิยมสกัดด้วยวิธีใด",
+   "a": "Expression (cold expression) เพราะน้ำมันอยู่ในต่อมน้ำมันที่ผิวเปลือกและใช้การกลั่นด้วยความร้อนไม่เหมาะ",
+   "w": [
+    "Enfleurage เท่านั้น",
+    "Water distillation เสมอ",
+    "Soxhlet extraction ด้วย water",
+    "Steam distillation เท่านั้นเพราะทนความร้อนสูง"
+   ],
+   "e": "น้ำมันที่ได้จากการบีบมีสารไม่ระเหย (wax, pigment, furanocoumarins เช่น bergapten) ซึ่งเป็น phototoxic ต้องกำจัดด้วย fractional distillation และเติม antioxidant (BHT/BHA)"
+  },
+  {
+   "t": "การสกัด",
+   "q": "Enfleurage มีหลักการและการใช้งานอย่างไร",
+   "a": "ดูดซับสารหอมจากกลีบดอกบอบบางด้วยไขมันที่ไม่มีกลิ่น/สีเคลือบเป็นฟิล์มบนแผ่นกระจก ใช้กับพืชที่มีสารหอมปริมาณน้อย",
+   "w": [
+    "กลั่นด้วยไอน้ำที่ความดันสูงมาก",
+    "ใช้ CO2 วิกฤตยิ่งยวดสกัดสาร",
+    "บีบเปลือกผลไม้ด้วยเครื่องจักร",
+    "ใช้ microwave ให้ความร้อนเท่านั้น"
+   ],
+   "e": "Enfleurage เป็นวิธีดั้งเดิม; วิธีสมัยใหม่ได้แก่ distillation (water, water-steam, steam, microwave-accelerated), solvent extraction และ supercritical CO2"
+  },
+  {
+   "t": "ยางพืช",
+   "q": "ข้อใดอธิบายความต่างของ Resin, Oleoresin และ Oleo-gum-resin ได้ถูกต้อง",
+   "a": "Oleoresin = resin ผสมน้ำมันหอมระเหย ; Oleo-gum-resin = resin ผสมน้ำมันหอมระเหยและ gum",
+   "w": [
+    "Oleoresin = resin ผสม gum ; Oleo-gum-resin = resin ล้วน",
+    "ทั้งสามชนิดเป็นน้ำมันหอมระเหยบริสุทธิ์",
+    "Resin เป็นน้ำมันหอมระเหยที่ละลายในน้ำ",
+    "Oleo-gum-resin ไม่มี resin เป็นองค์ประกอบ"
+   ],
+   "e": "กลุ่มยางไม้ (resins, oleoresin, oleo-gum-resin, balsam) เป็นสารที่เกี่ยวข้องกับ volatile oils"
+  }
+ ]
+}

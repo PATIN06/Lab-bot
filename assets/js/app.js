@@ -1,10 +1,10 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=13";
-import { route, navigate, start } from "./router.js?v=13";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=13";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=13";
-import { initFx } from "./fx.js?v=13";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=13";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=13";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=14";
+import { route, navigate, start } from "./router.js?v=14";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=14";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=14";
+import { initFx } from "./fx.js?v=14";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=14";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=14";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -13,6 +13,7 @@ const app = $("#app");
 let DATA = null;
 let ALL = [];
 let QC = null;
+let PG = null;
 const qcById = new Map();
 const byId = new Map();
 let session = null; // { cfg, qs, i, results, t0, saved }
@@ -31,6 +32,12 @@ async function loadData() {
     for (const f of QC.files) qcById.set(f.id, f);
   } catch (e) {
     QC = { files: [] };
+  }
+  try {
+    PG = await (await fetch("./data/pg.json")).json();
+    for (const f of PG.files) qcById.set(f.id, f);
+  } catch (e) {
+    PG = { files: [] };
   }
   for (const lab of DATA.labs) {
     for (const p of lab.plants) {
@@ -145,15 +152,16 @@ function homeView() {
       <div class="hero-scrim"></div>
       <div class="ring" aria-hidden="true"><div class="ring-inner">${RING.map((id, i) => (byId.get(id) ? `<div class="ring-card" style="--i:${i}"><img src="./${esc(byId.get(id).image)}" alt="" width="160" height="160"></div>` : "")).join("")}</div></div>
       <div class="wrap hero-inner">
-        ${chip("PHARMACY EXAM HUB · 2 SUBJECTS")}
+        ${chip("PHARMACY EXAM HUB · 3 SUBJECTS")}
         <h1>รวมข้อสอบ ซ้อมให้แม่น ทั้งชื่อ ภาพ และเครื่องมือวิเคราะห์</h1>
-        <p class="lead">วิชา 1 ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ (พืช ${ALL.length} ชนิด ${DATA.labs.length} Lab) · วิชา 2 เครื่องมือวิเคราะห์ QC (${QC.files.length} ชุด ${QC.files.reduce((n, f) => n + f.questions.length, 0)} ข้อ)</p>
+        <p class="lead">วิชา 1 ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ (พืช ${ALL.length} ชนิด ${DATA.labs.length} Lab) · วิชา 2 เครื่องมือวิเคราะห์ QC (${QC.files.reduce((n, f) => n + f.questions.length, 0)} ข้อ) · วิชา 3 เภสัชเวท (${PG.files.reduce((n, f) => n + f.questions.length, 0)} ข้อ)</p>
         <div class="hero-cta">${EXAM_OPEN ? arrowLink("เริ่มทำข้อสอบ", "#/setup") + arrowLink("ทบทวนพืช", "#/review", "btn-ghost") : arrowLink("ทบทวนพืช / เฉลย", "#/review")}</div>
       </div>
     </section>
     ${metricsHtml()}
     <section class="wrap section" id="labs"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 1</span><h2>ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
-    <section class="wrap section" id="qc"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 2</span><h2>เครื่องมือวิเคราะห์ทางเภสัชกรรม (QC)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 9 หัวข้อ</p></div>${qcCards()}</section>
+    <section class="wrap section" id="qc"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 2</span><h2>เครื่องมือวิเคราะห์ทางเภสัชกรรม (QC)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 9 หัวข้อ</p></div>${setCards("qc")}</section>
+    <section class="wrap section" id="pg"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 3</span><h2>เภสัชเวท (Pharmacognosy)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 7 หัวข้อ (น้ำมันหอมระเหย ควิโนน ฟีนอลิก แทนนิน ไซยาโนเจนิก สารอื่น ๆ และแอลคาลอยด์)</p></div>${setCards("pg")}</section>
     <section class="wrap section"><div class="tip-teaser reveal" data-tilt="3"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
     { nav: "" }
   );
@@ -272,7 +280,7 @@ function quizView() {
   show(
     `<section class="wrap quiz">
       <div class="timeline" role="progressbar" aria-valuemin="0" aria-valuemax="${total}" aria-valuenow="${s.i}"><div class="tl-fill" style="width:${(s.i / total) * 100}%"></div></div>
-      <div class="quiz-meta"><div class="chips">${q.qc ? chip(`QC ${pad2(q.fileNo)}`) : labChip(q.plant.lab)}${chip(label)}</div><span class="mono dim">Q${pad2(s.i + 1)} / ${pad2(total)}</span></div>
+      <div class="quiz-meta"><div class="chips">${q.qc ? chip(`${q.setPrefix} ${pad2(q.fileNo)}`) : labChip(q.plant.lab)}${chip(label)}</div><span class="mono dim">Q${pad2(s.i + 1)} / ${pad2(total)}</span></div>
       <h2 class="prompt">${q.promptHtml}</h2>
       ${q.image ? `<button type="button" class="qimg" data-zoom="./${esc(q.image)}" data-alt="รูปพืช" aria-label="ขยายรูป"><img src="./${esc(q.image)}" alt="รูปพืชในโจทย์" width="640" height="640"><span class="zoom mono">ขยาย ⤢</span></button>` : ""}
       ${body}
@@ -515,52 +523,62 @@ function tipsView() {
   );
 }
 
-/* ---------- QC subject ---------- */
-function qcCards() {
+/* ---------- ชุดข้อสอบปรนัยรายวิชา (วิชา 2 QC / วิชา 3 เภสัชเวท) ---------- */
+const SETS = {
+  qc: { no: 2, prefix: "QC", title: "วิชาเครื่องมือวิเคราะห์ (QC)", short: "วิชา 2 QC", get: () => QC },
+  pg: { no: 3, prefix: "PG", title: "วิชาเภสัชเวท (Pharmacognosy)", short: "วิชา 3 เภสัชเวท", get: () => PG },
+};
+const setOfFile = (f) => f.id.slice(0, 2);
+
+function setCards(key) {
   const st = getState();
-  return `<div class="bento">${QC.files
-    .map((f) => {
+  return `<div class="bento">${SETS[key]
+    .get()
+    .files.map((f) => {
       const best = st.best[f.id];
       const status = best === undefined ? chip("NO SCORE") : best >= PASS_PCT ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`);
       return `<article class="bento-card reveal" data-tilt="6">
-        <div class="bento-top">${chip(`QC ${pad2(f.no)}`)}${status}</div>
+        <div class="bento-top">${chip(`${SETS[key].prefix} ${pad2(f.no)}`)}${status}</div>
         <h3>${esc(f.title)}</h3>
         <p class="mono dim">${f.questions.length} ข้อ · ปรนัย 5 ตัวเลือก</p>
         <div class="bento-actions">
-          ${EXAM_OPEN ? arrowLink("ทำข้อสอบ 20 ข้อ", `#/qc/${f.id}/all`) : ""}
-          ${arrowLink("ดูเฉลย", `#/qc/${f.id}/key`, "btn-ghost")}
+          ${EXAM_OPEN ? arrowLink("ทำข้อสอบ 20 ข้อ", `#/${key}/${f.id}/all`) : ""}
+          ${arrowLink("ดูเฉลย", `#/${key}/${f.id}/key`, "btn-ghost")}
         </div>
       </article>`;
     })
     .join("")}</div>`;
 }
 
-function qcView() {
+function setView(key) {
+  const set = SETS[key];
+  const data = set.get();
   show(
     `<section class="wrap section page-top">
-      <div class="sec-head"><h1 class="h-page">วิชาเครื่องมือวิเคราะห์ (QC)</h1>
-      <p class="dim">${esc(QC.subject?.code ?? "")} · ข้อสอบปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ รวม ${QC.files.reduce((a, f) => a + f.questions.length, 0)} ข้อ</p></div>
-      ${qcCards()}
+      <div class="sec-head"><span class="chip"><i class="dot"></i>วิชา ${set.no}</span><h1 class="h-page" style="margin-top:12px">${esc(set.title)}</h1>
+      <p class="dim">${esc(data.subject?.code ?? "")} · ข้อสอบปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ รวม ${data.files.reduce((a, f) => a + f.questions.length, 0)} ข้อ</p></div>
+      ${setCards(key)}
     </section>`,
-    { nav: "qc", title: "วิชา QC" }
+    { nav: key, title: set.short }
   );
 }
 
-function qcStart(p) {
+function setStart(key, p) {
   const file = qcById.get(p.id);
-  if (!file) return navigate("/qc");
+  if (!file) return navigate(`/${key}`);
   const cfg = { lab: file.id, part: "qc", count: p.n === "all" ? "all" : p.n, topics: [], from: "qc" };
   const err = startQuiz(cfg);
-  if (err) return navigate("/qc");
+  if (err) return navigate(`/${key}`);
   navigate("/quiz");
 }
 
-function qcKeyView(p) {
+function setKeyView(key, p) {
   const file = qcById.get(p.id);
-  if (!file) return navigate("/qc");
+  if (!file) return navigate(`/${key}`);
+  const prefix = SETS[key].prefix;
   show(
     `<section class="wrap section page-top narrow">
-      <div class="chips">${chip(`QC ${pad2(file.no)}`)}</div>
+      <div class="chips">${chip(`${prefix} ${pad2(file.no)}`)}</div>
       <h1 class="h-page" style="margin-top:12px">${esc(file.title)} — เฉลย</h1>
       <p class="dim">${file.questions.length} ข้อ · ตัวเลือกที่ถูกต้องไฮไลต์สีเขียว</p>
       <ol class="key">${file.questions
@@ -570,9 +588,9 @@ function qcKeyView(p) {
           <div class="explain"><div class="mono dim">อธิบายเฉลย</div><p>${esc(q.e || "")}</p></div></li>`
         )
         .join("")}</ol>
-      <div class="result-actions">${EXAM_OPEN ? arrowLink("ทำข้อสอบชุดนี้", `#/qc/${file.id}/all`) : ""}${arrowLink("กลับ", "#/qc", "btn-ghost")}</div>
+      <div class="result-actions">${EXAM_OPEN ? arrowLink("ทำข้อสอบชุดนี้", `#/${key}/${file.id}/all`) : ""}${arrowLink("กลับ", `#/${key}`, "btn-ghost")}</div>
     </section>`,
-    { nav: "qc", title: `เฉลย ${file.title}` }
+    { nav: key, title: `เฉลย ${file.title}` }
   );
 }
 
@@ -608,9 +626,11 @@ async function boot() {
   const gated = (fn) => (p) => (EXAM_OPEN ? fn(p) : closedView());
   route("/", homeView);
   route("/labs", labsView);
-  route("/qc", qcView);
-  route("/qc/:id/key", qcKeyView);
-  route("/qc/:id/:n", gated(qcStart));
+  for (const key of Object.keys(SETS)) {
+    route(`/${key}`, () => setView(key));
+    route(`/${key}/:id/key`, (p) => setKeyView(key, p));
+    route(`/${key}/:id/:n`, gated((p) => setStart(key, p)));
+  }
   route("/setup", gated(() => setupView()));
   route("/lab/:id/:part", gated((p) => setupView(p)));
   route("/quiz", gated(quizView));
