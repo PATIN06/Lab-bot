@@ -1,11 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=17";
-import { route, navigate, start } from "./router.js?v=17";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=17";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=17";
-import { officeHtml } from "./office.js?v=17";
-import { initFx } from "./fx.js?v=17";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=17";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=17";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=18";
+import { route, navigate, start } from "./router.js?v=18";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=18";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=18";
+import { officeHtml } from "./office.js?v=18";
+import { initFx } from "./fx.js?v=18";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=18";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=18";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -15,6 +15,7 @@ let DATA = null;
 let ALL = [];
 let QC = null;
 let PG = null;
+let RG = null;
 const qcById = new Map();
 const byId = new Map();
 let session = null; // { cfg, qs, i, results, t0, saved }
@@ -37,8 +38,11 @@ async function loadData() {
   try {
     PG = await (await fetch("./data/pg.json")).json();
     for (const f of PG.files) qcById.set(f.id, f);
+    RG = await (await fetch("./data/rg.json")).json();
+    for (const f of RG.files) qcById.set(f.id, f);
   } catch (e) {
     PG = { files: [] };
+    RG = { files: [] };
   }
   for (const lab of DATA.labs) {
     for (const p of lab.plants) {
@@ -172,6 +176,7 @@ function officeData() {
   const labKeys = DATA.labs.map((l) => String(l.id));
   const qcKeys = QC.files.map((f) => f.id);
   const pgKeys = PG.files.map((f) => f.id);
+  const rgKeys = RG.files.map((f) => f.id);
   const room = (key, short, title, href, tone, meta, keys) => {
     const b = bests(keys);
     return { key, short, title, href, tone, meta, avg: mean(b), state: stateOf(b) };
@@ -180,9 +185,9 @@ function officeData() {
     room("labs", "วิชา 1 · แลปกริ้ง", "ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ", "#/labs", "blue", `${DATA.labs.length} Lab · ${ALL.length} พืช`, labKeys),
     room("qc", "วิชา 2 · QC", "เครื่องมือวิเคราะห์ทางเภสัชกรรม", "#/qc", "cyan", `${QC.files.length} ชุด`, qcKeys),
     room("pg", "วิชา 3 · เภสัชเวท", "Pharmacognosy", "#/pg", "green", `${PG.files.length} ชุด`, pgKeys),
-    { key: "review", short: "ห้องทบทวน", title: "ทบทวนพืชและเฉลย", href: "#/review", tone: "violet", meta: `${ALL.length} การ์ดพืช`, avg: null, state: "ok" },
+    room("rg", "วิชา 4 · ทะเบียนยา", "Regulatory & IP", "#/rg", "violet", `${RG.files.length} ชุด`, rgKeys),
   ];
-  const allKeys = [...labKeys, ...qcKeys, ...pgKeys];
+  const allKeys = [...labKeys, ...qcKeys, ...pgKeys, ...rgKeys];
   const attempted = bests(allKeys);
   const weak = allKeys.filter((k) => st.best[k] !== undefined && st.best[k] < PASS_PCT).length;
   const banner = weak
@@ -205,11 +210,12 @@ function officeData() {
     ...barOf(labKeys, "L", "blue", (k) => (open ? `#/lab/${k}/part1` : `#/review/${k}`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
     ...barOf(qcKeys, "Q", "cyan", (k) => (open ? `#/qc/${k}/all` : `#/qc/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
     ...barOf(pgKeys, "P", "green", (k) => (open ? `#/pg/${k}/all` : `#/pg/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
+    ...barOf(rgKeys, "R", "violet", (k) => (open ? `#/rg/${k}/all` : `#/rg/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
   ];
   return {
     banner,
     rooms,
-    hub: { title: "รวมข้อสอบ", meta: `3 วิชา · ${totalSets} ชุด`, href: open ? "#/setup" : "#/review" },
+    hub: { title: "รวมข้อสอบ", meta: `4 วิชา · ${totalSets} ชุด`, href: open ? "#/setup" : "#/review" },
     stats: [
       { n: avg === null ? "—" : avg, unit: avg === null ? "" : "%", label: "คะแนนเฉลี่ยของฉัน" },
       { n: st.answered, unit: "Q", label: "ข้อที่ทำไปแล้ว" },
@@ -233,6 +239,7 @@ function homeView() {
     <section class="wrap section" id="labs"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 1</span><h2>ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
     <section class="wrap section" id="qc"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 2</span><h2>เครื่องมือวิเคราะห์ทางเภสัชกรรม (QC)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 9 หัวข้อ</p></div>${setCards("qc")}</section>
     <section class="wrap section" id="pg"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 3</span><h2>เภสัชเวท (Pharmacognosy)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 7 หัวข้อ (น้ำมันหอมระเหย ควิโนน ฟีนอลิก แทนนิน ไซยาโนเจนิก สารอื่น ๆ และแอลคาลอยด์)</p></div>${setCards("pg")}</section>
+    <section class="wrap section" id="rg"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 4</span><h2>ทะเบียนยาและกำกับดูแล (Regulatory)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 7 หัวข้อ (ขึ้นทะเบียนยา ASEAN guideline ACTD ชีววัตถุ CRA ยาชีววัตถุ R&D และสิทธิบัตร/ทรัพย์สินทางปัญญา)</p></div>${setCards("rg")}</section>
     <section class="wrap section"><div class="tip-teaser reveal" data-tilt="3"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
     { nav: "" }
   );
@@ -598,6 +605,7 @@ function tipsView() {
 const SETS = {
   qc: { no: 2, prefix: "QC", title: "วิชาเครื่องมือวิเคราะห์ (QC)", short: "วิชา 2 QC", get: () => QC },
   pg: { no: 3, prefix: "PG", title: "วิชาเภสัชเวท (Pharmacognosy)", short: "วิชา 3 เภสัชเวท", get: () => PG },
+  rg: { no: 4, prefix: "RG", title: "วิชาทะเบียนยาและกำกับดูแล (Regulatory)", short: "วิชา 4 ทะเบียนยา", get: () => RG },
 };
 const setOfFile = (f) => f.id.slice(0, 2);
 

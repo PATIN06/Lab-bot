@@ -1,0 +1,248 @@
+{
+ "id": "rg06",
+ "no": 6,
+ "title": "Research and Development of Biopharmaceutical Product",
+ "file": "6_69-Research and Development of Biological product.pdf",
+ "questions": [
+  {
+   "t": "Biologics",
+   "q": "ข้อใดเป็นลักษณะสำคัญของยาชีววัตถุ (biologics)",
+   "a": "โมเลกุลใหญ่ซับซ้อน ผลิตจากเซลล์หรือสิ่งมีชีวิต และกระบวนการผลิตเป็นตัวกำหนดคุณสมบัติผลิตภัณฑ์",
+   "w": [
+    "โมเลกุลเล็ก สังเคราะห์ทางเคมีล้วน ๆ และคัดลอกได้เหมือนทุกประการ",
+    "ไม่มีโอกาสกระตุ้นภูมิคุ้มกันเลย",
+    "ไม่ไวต่อสภาวะการเก็บรักษาและการขนส่ง",
+    "ต้นทุนการผลิตต่ำเพราะกระบวนการผลิตง่าย"
+   ],
+   "e": "The process defines the product"
+  },
+  {
+   "t": "Biologics",
+   "q": "เหตุใดยาชีววัตถุที่เลียนแบบจึงเรียกว่า biosimilar ไม่ใช่ generic",
+   "a": "เพราะไม่สามารถคัดลอกโมเลกุลได้เหมือนทุกประการ จากความหลากหลายของโมเลกุลตามธรรมชาติและกระบวนการผลิต",
+   "w": [
+    "เพราะราคาถูกกว่ายาต้นแบบเสมอ",
+    "เพราะผลิตจากสารเคมีสังเคราะห์",
+    "เพราะไม่ต้องทดสอบคุณภาพ",
+    "เพราะใช้ได้เฉพาะในสัตว์ทดลอง"
+   ],
+   "e": "Natural molecular heterogeneity"
+  },
+  {
+   "t": "ATMP",
+   "q": "ATMP ย่อมาจากอะไร",
+   "a": "Advanced Therapy Medicinal Products",
+   "w": [
+    "Advanced Tissue Medical Procedure",
+    "Applied Therapeutic Molecular Product",
+    "Active Therapy Manufacturing Plan",
+    "Authorized Treatment Medicinal Protocol"
+   ],
+   "e": "ผลิตภัณฑ์ยาจากยีน เซลล์ หรือเนื้อเยื่อที่ผ่านการดัดแปลง"
+  },
+  {
+   "t": "ATMP",
+   "q": "การจำแนกประเภท ATMP ตามเอกสาร ข้อใดไม่ใช่ประเภทของ ATMP",
+   "a": "Monoclonal antibody product (mAb)",
+   "w": [
+    "Gene Therapy Medicinal Product (GTMP)",
+    "Somatic Cell Therapy Medicinal Product (sCTMP)",
+    "Tissue Engineered Product (TEP)",
+    "Combined ATMP"
+   ],
+   "e": "ATMP มี 4 ประเภท: GTMP, sCTMP, TEP และ Combined ATMP"
+  },
+  {
+   "t": "ATMP",
+   "q": "Luxturna และ Zolgensma จัดเป็น ATMP ประเภทใด",
+   "a": "Gene therapy (GTMP)",
+   "w": [
+    "Somatic cell therapy",
+    "Tissue engineered product",
+    "Combined ATMP",
+    "Recombinant protein"
+   ],
+   "e": "ตัวอย่างของ GTMP"
+  },
+  {
+   "t": "ATMP",
+   "q": "ผลิตภัณฑ์เซลล์ร่วมกับ scaffold เช่น tissue-engineered heart valve จัดเป็นประเภทใด",
+   "a": "Combined ATMP",
+   "w": [
+    "GTMP",
+    "sCTMP",
+    "Vaccine",
+    "Recombinant protein"
+   ],
+   "e": "Combined ATMP คือ ATMP ที่ใช้ร่วมกับเครื่องมือแพทย์หรือ biomaterial"
+  },
+  {
+   "t": "ATMP",
+   "q": "CAR-T cell และ Mesenchymal stem cells จัดเป็น ATMP ประเภทใด",
+   "a": "Somatic Cell Therapy Medicinal Product (sCTMP)",
+   "w": [
+    "Gene Therapy Medicinal Product",
+    "Tissue Engineered Product",
+    "Combined ATMP",
+    "Toxoid vaccine"
+   ],
+   "e": "ใช้เซลล์ที่เพาะเลี้ยงหรือดัดแปลงเพื่อรักษาโรค"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "ข้อใดอธิบาย recombinant DNA ได้ถูกต้อง",
+   "a": "DNA ที่สร้างขึ้นโดยรวม DNA จากสองแหล่งขึ้นไป โดยตัดด้วย restriction enzyme และเชื่อมด้วย DNA ligase",
+   "w": [
+    "DNA ที่ได้จากการสกัดจากพืชเท่านั้น",
+    "DNA ที่ถูกย่อยสลายด้วย DNA ligase",
+    "RNA ที่ถูกถอดรหัสย้อนกลับในเซลล์สัตว์",
+    "โปรตีนที่สกัดจากเลือดมนุษย์"
+   ],
+   "e": "Restriction enzyme ตัด และ DNA ligase เชื่อมโควาเลนต์"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "FSH แบบ recombinant ผลิตจากเซลล์ชนิดใด",
+   "a": "Chinese hamster ovary (CHO) cell line",
+   "w": [
+    "Escherichia coli",
+    "Saccharomyces cerevisiae",
+    "Baby hamster kidney cell",
+    "เซลล์ไข่ไก่"
+   ],
+   "e": "CHO ที่ถูก transfect ด้วยยีนของ FSH สองซับยูนิต"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "Recombinant factor VIIa (NovoSeven) พัฒนาขึ้นเพราะเหตุใด",
+   "a": "ผู้ป่วยฮีโมฟีเลียส่วนน้อยสร้างแอนติบอดีต่อ factor VIII",
+   "w": [
+    "เพื่อรักษาฮีโมฟีเลีย B โดยเฉพาะ",
+    "เพื่อใช้ละลายลิ่มเลือด",
+    "เพื่อลดน้ำตาลในเลือด",
+    "เพื่อรักษาโรคตับอักเสบ"
+   ],
+   "e": "ผลิตใน baby hamster kidney cells และกระตุ้นตัวเองเป็น FVIIa ระหว่างการทำให้บริสุทธิ์"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "Recombinant factor XIII (Tretten) ผลิตในเซลล์ชนิดใด",
+   "a": "ยีสต์ Saccharomyces cerevisiae",
+   "w": [
+    "CHO cell",
+    "E. coli",
+    "เซลล์ไต hamster",
+    "เซลล์ HEK293"
+   ],
+   "e": "FXIII เป็น plasma transglutaminase ที่เชื่อมไขว้ fibrin"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "Reteplase และ Tenecteplase จัดเป็น recombinant t-PA รุ่นใด",
+   "a": "รุ่นที่ 2 ที่ดัดแปลงโดย domain deletion, การเปลี่ยน glycosylation หรือ amino acid substitution",
+   "w": [
+    "รุ่นที่ 1 เหมือน alteplase",
+    "เป็น interferon",
+    "เป็น factor IX ที่จับกับ PEG",
+    "เป็น monoclonal antibody"
+   ],
+   "e": "รุ่นที่ 1 คือ alteplase ซึ่งถูกกำจัดเร็ว"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "Betaferon/Betaseron (IFN-β1b) ผลิตจากเซลล์ใด และใช้รักษาโรคใด",
+   "a": "E. coli; relapsing/remitting multiple sclerosis",
+   "w": [
+    "CHO cell; ตับอักเสบซี",
+    "ยีสต์; ฮีโมฟีเลีย",
+    "E. coli; มะเร็งเม็ดเลือดขาว",
+    "เซลล์แมลง; เบาหวาน"
+   ],
+   "e": "Rebif และ Avonex (IFN-β1a) ผลิตใน CHO cells"
+  },
+  {
+   "t": "Recombinant protein",
+   "q": "PEGylation มีประโยชน์ทางคลินิกอย่างไร",
+   "a": "เพิ่มความคงตัวและการละลาย ลดการขับทางไต เพิ่ม half-life ลด immunogenicity",
+   "w": [
+    "ลดครึ่งชีวิตของยา",
+    "เพิ่มการสลายโดยโปรตีเอส",
+    "เพิ่มการกระตุ้นภูมิคุ้มกัน",
+    "ทำให้ยาไม่ละลายน้ำ"
+   ],
+   "e": "ตัวอย่าง Pegasys (PEG-IFN α-2a) และ Mircera"
+  },
+  {
+   "t": "Monoclonal antibody",
+   "q": "กลไก ADCC ของ monoclonal antibody คืออะไร",
+   "a": "effector cell ของระบบภูมิคุ้มกันทำลายเซลล์เป้าหมายที่ถูกแอนติบอดีจำเพาะจับอยู่",
+   "w": [
+    "แอนติบอดีกระตุ้นระบบ complement ทำลายเซลล์",
+    "การตายของเซลล์ตามโปรแกรมโดยไม่มีแอนติบอดี",
+    "การเปลี่ยนยีนในนิวเคลียส",
+    "การดูดซึมยาผ่านผิวหนัง"
+   ],
+   "e": "CDC เกิดจากปฏิกิริยากับโปรตีนในระบบ complement"
+  },
+  {
+   "t": "Gene therapy",
+   "q": "นิยามของ gene therapy คือข้อใด",
+   "a": "การนำยีนเพื่อการรักษาเข้าสู่เซลล์เป้าหมาย เพื่อต้านผลของยีนโรคหรือเพิ่มหน้าที่ใหม่",
+   "w": [
+    "การให้โปรตีนที่ผลิตจาก E. coli ทางหลอดเลือด",
+    "การปลูกถ่ายอวัยวะ",
+    "การให้วัคซีนเชื้อตาย",
+    "การให้ยาปฏิชีวนะ"
+   ],
+   "e": "ใช้แก้ไข phenotype ที่บกพร่องในโรคพันธุกรรม มะเร็ง และโรคติดเชื้อ"
+  },
+  {
+   "t": "Gene therapy",
+   "q": "ไวรัสเวกเตอร์ชนิดใดต่อไปนี้เป็น integrating virus",
+   "a": "Retrovirus และ Adeno-associated virus (AAV)",
+   "w": [
+    "Adenovirus และ Herpes simplex virus",
+    "Herpes simplex virus เท่านั้น",
+    "Adenovirus เท่านั้น",
+    "ไม่มีชนิดใดเลย"
+   ],
+   "e": "Adenovirus และ HSV เป็น non-integrating"
+  },
+  {
+   "t": "Gene therapy",
+   "q": "ข้อใดเป็นข้อเสียของ retroviral vector",
+   "a": "ติดเชื้อได้เฉพาะเซลล์ที่แบ่งตัว และเสี่ยง insertional mutagenesis",
+   "w": [
+    "ไม่เข้าสู่โครโมโซมของมนุษย์",
+    "ขนาด DNA insert ได้มากกว่า 40 kb",
+    "ไม่มีการแสดงออกถาวร",
+    "ติดเชื้อเซลล์ที่ไม่แบ่งตัวได้ดี"
+   ],
+   "e": "ขนาด insert เพียง 9-12 kb และ titer ต่ำ ราว 10^6 virus/ml"
+  },
+  {
+   "t": "Gene therapy",
+   "q": "เวกเตอร์ใดติดเชื้อเซลล์ที่ไม่แบ่งตัว เช่น hepatocytes และ neurons ได้",
+   "a": "Lentiviral vector",
+   "w": [
+    "Moloney murine leukemia virus vector",
+    "Retroviral vector แบบดั้งเดิม",
+    "Non-viral cationic lipid เท่านั้น",
+    "Toxoid vector"
+   ],
+   "e": "พัฒนาจาก HIV โดยลบ accessory genes และใช้ envelope จาก VSV; packaging cell line = HEK293"
+  },
+  {
+   "t": "Gene therapy",
+   "q": "Adenoviral vector มีข้อดีและข้อจำกัดอย่างไร",
+   "a": "titer สูงและ transduce ได้ทั้งเซลล์แบ่งและไม่แบ่งตัว แต่แสดงออกชั่วคราวและกระตุ้นภูมิคุ้มกันสูง",
+   "w": [
+    "แสดงออกถาวรและ immunogenic ต่ำ",
+    "insert ได้ 40-50 kb",
+    "ใช้ packaging cell แบบ 293 ไม่ได้",
+    "เป็น ssDNA เล็ก 4.6 kb"
+   ],
+   "e": "ds DNA 36 kb; ใช้ 293 cell ที่มี E1a; insert 4-5 kb"
+  }
+ ]
+}
