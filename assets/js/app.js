@@ -1,10 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=14";
-import { route, navigate, start } from "./router.js?v=14";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=14";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=14";
-import { initFx } from "./fx.js?v=14";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=14";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=14";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=17";
+import { route, navigate, start } from "./router.js?v=17";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=17";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=17";
+import { officeHtml } from "./office.js?v=17";
+import { initFx } from "./fx.js?v=17";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=17";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=17";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -145,20 +146,90 @@ function labCards() {
   return `<div class="bento">${DATA.labs.map((l) => card(String(l.id), l.title, l.plants.length, l.id)).join("")}${card("all", "รวมทุก Lab", ALL.length, null)}</div>`;
 }
 
+
+/* ---------- office (home) data ---------- */
+function timeAgo(ts) {
+  const m = Math.max(0, Math.round((Date.now() - ts) / 60000));
+  if (m < 1) return "เมื่อครู่";
+  if (m < 60) return `${m} นาทีก่อน`;
+  const h = Math.round(m / 60);
+  if (h < 24) return `${h} ชม.ก่อน`;
+  return `${Math.round(h / 24)} วันก่อน`;
+}
+
+function setName(key) {
+  if (key === "all") return "รวมทุก Lab";
+  const f = qcById.get(key);
+  if (f) return `${f.id.slice(0, 2).toUpperCase()} ${pad2(f.no)} · ${f.title}`;
+  return labById(key)?.title ?? key;
+}
+
+function officeData() {
+  const st = getState();
+  const bests = (keys) => keys.map((k) => st.best[k]).filter((v) => v !== undefined);
+  const mean = (a) => (a.length ? Math.round(a.reduce((x, y) => x + y, 0) / a.length) : null);
+  const stateOf = (a) => (!a.length ? "new" : mean(a) >= PASS_PCT ? "ok" : "warn");
+  const labKeys = DATA.labs.map((l) => String(l.id));
+  const qcKeys = QC.files.map((f) => f.id);
+  const pgKeys = PG.files.map((f) => f.id);
+  const room = (key, short, title, href, tone, meta, keys) => {
+    const b = bests(keys);
+    return { key, short, title, href, tone, meta, avg: mean(b), state: stateOf(b) };
+  };
+  const rooms = [
+    room("labs", "วิชา 1 · แลปกริ้ง", "ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ", "#/labs", "blue", `${DATA.labs.length} Lab · ${ALL.length} พืช`, labKeys),
+    room("qc", "วิชา 2 · QC", "เครื่องมือวิเคราะห์ทางเภสัชกรรม", "#/qc", "cyan", `${QC.files.length} ชุด`, qcKeys),
+    room("pg", "วิชา 3 · เภสัชเวท", "Pharmacognosy", "#/pg", "green", `${PG.files.length} ชุด`, pgKeys),
+    { key: "review", short: "ห้องทบทวน", title: "ทบทวนพืชและเฉลย", href: "#/review", tone: "violet", meta: `${ALL.length} การ์ดพืช`, avg: null, state: "ok" },
+  ];
+  const allKeys = [...labKeys, ...qcKeys, ...pgKeys];
+  const attempted = bests(allKeys);
+  const weak = allKeys.filter((k) => st.best[k] !== undefined && st.best[k] < PASS_PCT).length;
+  const banner = weak
+    ? { tone: "warn", title: `มี ${weak} ชุดที่ควรทบทวน`, text: "คะแนนสูงสุดยังไม่ถึง 80% — ลองทำซ้ำหรือดูเฉลยก่อน", href: "#/review" }
+    : attempted.length
+      ? { tone: "ok", title: "ทำได้ดีมาก ทุกชุดที่ทำไว้ผ่านเกณฑ์", text: "เลือกห้องต่อไปเพื่อซ้อมเพิ่ม", href: "#/labs" }
+      : { tone: "ok", title: "ยินดีต้อนรับสู่ออฟฟิศรวมข้อสอบ", text: "เลือกห้องวิชาเพื่อเริ่มซ้อมสอบ หรือเข้าห้องทบทวนเพื่อดูเฉลย", href: "#/labs" };
+  const avg = averagePct();
+  const totalSets = allKeys.length;
+  const alerts = st.history.slice(0, 3).map((h) => ({
+    tone: h.pct >= PASS_PCT ? "pass" : "fail",
+    title: setName(h.labKey),
+    text: `ได้ ${h.pct}% (${h.score}/${h.total} ข้อ)`,
+    time: timeAgo(h.ts),
+  }));
+  const barOf = (keys, label, tone, hrefOf, subOf, titleOf) =>
+    keys.map((k, i) => ({ id: k, label: `${label}${i + 1}`, tone, href: hrefOf(k), sub: subOf(k), title: titleOf(k), state: st.best[k] === undefined ? "new" : st.best[k] >= PASS_PCT ? "ok" : "warn" }));
+  const open = EXAM_OPEN;
+  const sets = [
+    ...barOf(labKeys, "L", "blue", (k) => (open ? `#/lab/${k}/part1` : `#/review/${k}`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
+    ...barOf(qcKeys, "Q", "cyan", (k) => (open ? `#/qc/${k}/all` : `#/qc/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
+    ...barOf(pgKeys, "P", "green", (k) => (open ? `#/pg/${k}/all` : `#/pg/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
+  ];
+  return {
+    banner,
+    rooms,
+    hub: { title: "รวมข้อสอบ", meta: `3 วิชา · ${totalSets} ชุด`, href: open ? "#/setup" : "#/review" },
+    stats: [
+      { n: avg === null ? "—" : avg, unit: avg === null ? "" : "%", label: "คะแนนเฉลี่ยของฉัน" },
+      { n: st.answered, unit: "Q", label: "ข้อที่ทำไปแล้ว" },
+      { n: totalSets, unit: "SETS", label: "ชุดข้อสอบทั้งหมด" },
+      { n: ALL.length, unit: "PLANTS", label: "พืชทั้งหมด" },
+    ],
+    alerts,
+    shortcuts: [
+      ...(open ? [{ icon: "▶", label: "เริ่มทำข้อสอบ", href: "#/setup" }] : []),
+      { icon: "◎", label: "ทบทวนพืช / เฉลย", href: "#/review" },
+      { icon: "✦", label: "เคล็ดลับข้อสอบ", href: "#/tips" },
+      { icon: "≡", label: "รายชื่อชุดข้อสอบ", href: "#/labs" },
+    ],
+    sets,
+  };
+}
+
 function homeView() {
   show(
-    `<section class="hero">
-      <img class="hero-bg" src="${HERO_IMG}" alt="" fetchpriority="high">
-      <div class="hero-scrim"></div>
-      <div class="ring" aria-hidden="true"><div class="ring-inner">${RING.map((id, i) => (byId.get(id) ? `<div class="ring-card" style="--i:${i}"><img src="./${esc(byId.get(id).image)}" alt="" width="160" height="160"></div>` : "")).join("")}</div></div>
-      <div class="wrap hero-inner">
-        ${chip("PHARMACY EXAM HUB · 3 SUBJECTS")}
-        <h1>รวมข้อสอบ ซ้อมให้แม่น ทั้งชื่อ ภาพ และเครื่องมือวิเคราะห์</h1>
-        <p class="lead">วิชา 1 ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ (พืช ${ALL.length} ชนิด ${DATA.labs.length} Lab) · วิชา 2 เครื่องมือวิเคราะห์ QC (${QC.files.reduce((n, f) => n + f.questions.length, 0)} ข้อ) · วิชา 3 เภสัชเวท (${PG.files.reduce((n, f) => n + f.questions.length, 0)} ข้อ)</p>
-        <div class="hero-cta">${EXAM_OPEN ? arrowLink("เริ่มทำข้อสอบ", "#/setup") + arrowLink("ทบทวนพืช", "#/review", "btn-ghost") : arrowLink("ทบทวนพืช / เฉลย", "#/review")}</div>
-      </div>
-    </section>
-    ${metricsHtml()}
+    `${officeHtml(officeData())}
     <section class="wrap section" id="labs"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 1</span><h2>ปฏิบัติการการค้นพบยาจากแหล่งธรรมชาติ</h2><p class="dim">${EXAM_OPEN ? "แต่ละ Lab มีส่วนที่ 1 (ปรนัย) และส่วนที่ 2 (สะกดชื่อวิทยาศาสตร์)" : "ขณะนี้ปิดการทำข้อสอบชั่วคราว — ทบทวนพืชและดูเฉลยได้ตามปกติ"}</p></div>${labCards()}</section>
     <section class="wrap section" id="qc"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 2</span><h2>เครื่องมือวิเคราะห์ทางเภสัชกรรม (QC)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 9 หัวข้อ</p></div>${setCards("qc")}</section>
     <section class="wrap section" id="pg"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 3</span><h2>เภสัชเวท (Pharmacognosy)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จากเนื้อหา 7 หัวข้อ (น้ำมันหอมระเหย ควิโนน ฟีนอลิก แทนนิน ไซยาโนเจนิก สารอื่น ๆ และแอลคาลอยด์)</p></div>${setCards("pg")}</section>
