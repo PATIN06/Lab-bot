@@ -7,242 +7,242 @@
   {
    "t": "Introduction",
    "q": "ข้อใดอธิบายนิยามของ alkaloids ได้ถูกต้องที่สุดตามบทเรียน",
-   "a": "สารธรรมชาติที่มีไนโตรเจนเป็นองค์ประกอบ (อาจมี O, S, Cl, Br) มักมีสมบัติเป็นด่างและเป็น secondary metabolite ที่มีฤทธิ์ทางชีวภาพ",
+   "a": "สารธรรมชาติที่มีไนโตรเจน มักเป็นด่าง และมีฤทธิ์ทางชีวภาพ",
    "w": [
-    "สารกลุ่ม phenolics ที่ไม่มีไนโตรเจนเลย",
-    "น้ำตาลที่เชื่อมกับ aglycone",
-    "กรดไขมันอิ่มตัวที่ไม่มีไนโตรเจน",
-    "สารประกอบอนินทรีย์ที่เป็นโลหะ"
+    "สารกลุ่ม phenolics ที่ไม่มีไนโตรเจน มีหมู่ hydroxyl บนวงแหวนอะโรมาติก",
+    "น้ำตาลที่เชื่อมกับ aglycone ผ่านพันธะ glycosidic และละลายน้ำ",
+    "กรดไขมันอิ่มตัวสายยาวที่ไม่มีไนโตรเจนและทำให้กระดาษโปร่งแสง",
+    "สารประกอบอนินทรีย์ที่เป็นโลหะหนักและมีฤทธิ์เป็นกรด"
    ],
-   "e": "ชื่อมาจากภาษาอาหรับ al-qali (ขี้เถ้า); alkaloids ส่วนใหญ่เป็นผลึกไม่มีสี ยกเว้นที่ไม่มีออกซิเจน เช่น nicotine, coniine เป็นของเหลว; รสขม (quinine ขมที่สุด)"
+   "e": "ชื่อมาจากภาษาอาหรับ al-qali (ขี้เถ้า); alkaloids ส่วนใหญ่เป็นผลึกไม่มีสี ยกเว้นที่ไม่มีออกซิเจน เช่น nicotine, coniine เป็นของเหลว; รสขม (quinine ขมที่สุด) | รายละเอียดคำตอบ: สารธรรมชาติที่มีไนโตรเจน (อาจมี O, S, Cl, Br) มักเป็นด่าง และเป็น secondary metabolite ที่มีฤทธิ์ทางชีวภาพ"
   },
   {
    "t": "Introduction",
    "q": "ข้อใดถูกต้องเกี่ยวกับการกระจายตัวและสมบัติของ alkaloids",
-   "a": "มักสะสมในอวัยวะสำคัญ เช่น ใบอ่อน ดอก เมล็ด อวัยวะสะสม และอยู่เป็นส่วนผสมของ major และ minor alkaloids ; หมู่ amine ที่พบมาก: tertiary > secondary > primary",
+   "a": "สะสมในอวัยวะสำคัญ เป็นส่วนผสม major/minor alkaloids",
    "w": [
-    "สะสมเท่ากันทุกส่วนของพืชโดยไม่ขึ้นกับอวัยวะ",
-    "พบเป็นสารเดี่ยวสารเดียวเสมอ",
-    "เป็นสารที่ไม่มีไนโตรเจนเสมอ",
-    "พบเฉพาะในสัตว์และเชื้อรา"
+    "สะสมเท่ากันทุกส่วนของพืชโดยไม่ขึ้นกับอวัยวะหรืออายุ",
+    "พบเป็นสารเดี่ยวสารเดียวในพืชแต่ละชนิดเสมอ",
+    "เป็นสารที่ไม่มีไนโตรเจนเสมอ และมีสมบัติเป็นกรด",
+    "พบเฉพาะในสัตว์และเชื้อรา ไม่พบในพืชชั้นสูง"
    ],
-   "e": "Chemotaxonomy: พืชในสกุลใกล้เคียงกันมักมี alkaloid โครงสร้างเกี่ยวข้องกัน เช่น hyoscyamine ใน Solanaceae (Scopolia, Duboisia)"
+   "e": "Chemotaxonomy: พืชในสกุลใกล้เคียงกันมักมี alkaloid โครงสร้างเกี่ยวข้องกัน เช่น hyoscyamine ใน Solanaceae (Scopolia, Duboisia) | รายละเอียดคำตอบ: สะสมในอวัยวะสำคัญ (ใบอ่อน ดอก เมล็ด) เป็นส่วนผสม major/minor alkaloids ; หมู่ amine: tertiary > secondary > primary"
   },
   {
    "t": "การจำแนก",
    "q": "การจำแนก alkaloids ตาม biogenetic system คือข้อใด",
-   "a": "Protoalkaloids (N อยู่นอกวงแหวน เช่น ephedrine, colchicine), true alkaloids (N อยู่ใน heterocycle และมาจากกรดอะมิโน) และ pseudoalkaloids (ไม่ได้มาจากกรดอะมิโน เช่น มาจาก terpenoid/steroid)",
+   "a": "Protoalkaloids, true alkaloids และ pseudoalkaloids",
    "w": [
-    "Primary, secondary และ tertiary alkaloids ตามหมู่ amine เท่านั้น",
-    "Mydriatic, miotic และ hypotensive alkaloids",
-    "Cannabinaceous, rubiaceous และ solanaceous alkaloids",
-    "Heterocyclic และ non-heterocyclic เท่านั้น"
+    "Primary, secondary และ tertiary alkaloids ตามจำนวนหมู่ amine",
+    "Mydriatic, miotic และ hypotensive alkaloids ตามฤทธิ์",
+    "Cannabinaceous, rubiaceous และ solanaceous alkaloids ตามวงศ์พืช",
+    "Heterocyclic และ non-heterocyclic alkaloids ตามโครงสร้างวงแหวน"
    ],
-   "e": "ระบบอื่น: taxonomic (ตามวงศ์พืช), therapeutic (ตามฤทธิ์: mydriatic = atropine/hyoscine; miotic = pilocarpine/physostigmine; hypotensive = reserpine), chemical (heterocyclic/non-heterocyclic)"
+   "e": "ระบบอื่น: taxonomic (ตามวงศ์พืช), therapeutic (ตามฤทธิ์: mydriatic = atropine/hyoscine; miotic = pilocarpine/physostigmine; hypotensive = reserpine), chemical (heterocyclic/non-heterocyclic) | รายละเอียดคำตอบ: Protoalkaloids (N นอกวง เช่น ephedrine) , true alkaloids (N ใน heterocycle จากกรดอะมิโน) และ pseudoalkaloids (ไม่ได้มาจากกรดอะมิโน)"
   },
   {
    "t": "การทดสอบ",
    "q": "Alkaloid precipitants (เช่น Dragendorff’s reagent) ให้ผลบวกเป็นอย่างไร",
-   "a": "ได้ตะกอนสีส้ม–น้ำตาลแดงกับ Dragendorff (bismuth potassium iodide) ; Mayer’s (potassium mercuric iodide) ให้ตะกอนขาวครีม ; Wagner’s (iodine-KI) ให้ตะกอนน้ำตาลแดง",
+   "a": "Dragendorff = ตะกอนส้ม–แดง ; Mayer's = ตะกอนขาวครีม",
    "w": [
-    "Dragendorff’s ให้สารละลายสีน้ำเงินใส ; Mayer’s ให้ตะกอนสีเขียว",
-    "ทั้งสามให้ฟองสบู่คงที่",
-    "ทั้งสามให้สีชมพูแดงในชั้นด่าง",
-    "ไม่มี reagent ใดตกตะกอน alkaloids ได้"
+    "Dragendorff = สารละลายสีน้ำเงินใส ; Mayer's = ตะกอนเขียว ; Wagner's = ฟองสบู่",
+    "ทั้งสามให้ฟองสบู่คงที่เมื่อเขย่ากับชั้นกรด",
+    "ทั้งสามให้สีชมพูแดงในชั้นด่างเหมือน Bornträger's test",
+    "ไม่มี reagent ใดตกตะกอน alkaloids ได้ ต้องใช้ UV เท่านั้น"
    ],
-   "e": "Amines ทำปฏิกิริยากับโลหะหนัก (Hg, Bi) เกิด double salt ผลึกเล็ก; ให้ผลบวกได้ > 80%"
+   "e": "Amines ทำปฏิกิริยากับโลหะหนัก (Hg, Bi) เกิด double salt ผลึกเล็ก; ให้ผลบวกได้ > 80% | รายละเอียดคำตอบ: Dragendorff = ตะกอนส้ม–น้ำตาลแดง ; Mayer's = ตะกอนขาวครีม ; Wagner's = ตะกอนน้ำตาลแดง"
   },
   {
    "t": "การทดสอบ",
    "q": "ข้อใดเป็นสาเหตุของ false positive และ false negative ของการทดสอบ alkaloids ด้วย precipitant",
-   "a": "False positive: โปรตีน กรดอะมิโน tannins coumarins บาง glycosides ฯลฯ ; False negative: protoalkaloids และ quaternary alkaloids",
+   "a": "False positive: โปรตีน tannins ; False negative: protoalkaloids และ quaternary",
    "w": [
-    "False positive: เกลืออนินทรีย์เท่านั้น ; False negative: tertiary alkaloids ทุกชนิด",
-    "False positive ไม่เคยเกิด ; False negative เกิดกับทุก alkaloids",
-    "False positive: วิตามินซี ; False negative: caffeine",
-    "False positive: น้ำมันหอมระเหย ; False negative: morphine"
+    "False positive: เกลืออนินทรีย์ ; False negative: tertiary alkaloids ทุกชนิด",
+    "False positive ไม่เคยเกิด ; False negative เกิดกับ alkaloids ทุกชนิด",
+    "False positive: วิตามินซี ; False negative: caffeine และ morphine",
+    "False positive: น้ำมันหอมระเหย ; False negative: morphine และ atropine"
    ],
-   "e": "ควรยืนยันด้วยการสกัด acid-base และการทดสอบจำเพาะ"
+   "e": "ควรยืนยันด้วยการสกัด acid-base และการทดสอบจำเพาะ | รายละเอียดคำตอบ: False positive: โปรตีน กรดอะมิโน tannins coumarins ; False negative: protoalkaloids และ quaternary alkaloids"
   },
   {
    "t": "การทดสอบ",
    "q": "ข้อใดจับคู่การทดสอบเฉพาะกับกลุ่ม alkaloids ได้ถูกต้อง",
-   "a": "Murexide test = purine alkaloids (caffeine) สีชมพู ; Vitali–Morin = tropane alkaloids (atropine) สีม่วง ; Ehrlich’s reagent = indole alkaloids สีน้ำเงิน",
+   "a": "Murexide = purine ; Vitali–Morin = tropane ; Ehrlich = indole",
    "w": [
     "Murexide = tropane ; Vitali–Morin = indole ; Ehrlich = purine",
-    "Murexide = indole alkaloids ; Ehrlich = tropane",
-    "Vitali–Morin = purine alkaloids ; Murexide = isoquinoline",
-    "ทั้งสามใช้กับ anthraquinones"
+    "Murexide = indole alkaloids ; Ehrlich = tropane ; Vitali–Morin = purine",
+    "Vitali–Morin = purine alkaloids ; Murexide = isoquinoline ; Ehrlich = tropane",
+    "ทั้งสามใช้ตรวจ anthraquinones และให้สีแดง"
    ],
-   "e": "Murexide: purine + KCl + HCl + NH3 vapor → pink; Vitali–Morin: atropine + H2SO4 + KOH in MeOH → purple"
+   "e": "Murexide: purine + KCl + HCl + NH3 vapor → pink; Vitali–Morin: atropine + H2SO4 + KOH in MeOH → purple | รายละเอียดคำตอบ: Murexide = purine (caffeine) สีชมพู ; Vitali–Morin = tropane (atropine) สีม่วง ; Ehrlich = indole สีน้ำเงิน"
   },
   {
    "t": "การสกัด",
    "q": "หลักการ acid–base extraction (Stas–Otto) ของ alkaloids คืออะไร",
-   "a": "Alkaloid ในรูปเกลือละลายน้ำ (ชั้นกรด) ส่วน free base ละลายใน organic solvent (chloroform/dichloromethane) ; เปลี่ยนเกลือเป็น free base ด้วยด่างแล้วสกัดเข้าชั้นอินทรีย์",
+   "a": "Alkaloid เป็นเกลือละลายน้ำ ส่วน free base ละลาย organic solvent",
    "w": [
-    "Alkaloid ละลายเฉพาะในน้ำทั้งรูปเกลือและ free base",
-    "Alkaloid ละลายเฉพาะใน hexane ทุกรูป",
+    "Alkaloid ละลายเฉพาะในน้ำทั้งรูปเกลือและ free base จึงสกัดด้วยน้ำเท่านั้น",
+    "Alkaloid ละลายเฉพาะใน hexane ทั้งสองรูป จึงสกัดด้วย hexane ซ้ำ",
     "เปลี่ยน free base เป็นเกลือด้วยด่างเข้มข้นก่อนสกัดด้วย chloroform",
-    "ใช้การกลั่นด้วยไอน้ำเป็นหลัก"
+    "ใช้การกลั่นด้วยไอน้ำเป็นหลักเพราะ alkaloids ระเหยง่าย"
    ],
-   "e": "มีข้อยกเว้นเช่น ephedrine, colchicine, pilocarpine และ quaternary bases (berberine) ที่ละลายน้ำได้; quinine sulfate ละลายน้ำได้น้อยกว่า quinine HCl"
+   "e": "มีข้อยกเว้นเช่น ephedrine, colchicine, pilocarpine และ quaternary bases (berberine) ที่ละลายน้ำได้; quinine sulfate ละลายน้ำได้น้อยกว่า quinine HCl | รายละเอียดคำตอบ: Alkaloid เป็นเกลือละลายน้ำ (ชั้นกรด) ส่วน free base ละลายใน organic solvent ; เติมด่างเปลี่ยนเกลือเป็น free base แล้วสกัดเข้าชั้นอินทรีย์"
   },
   {
    "t": "Tropane alkaloids",
    "q": "Atropine ต่างจาก (−)-hyoscyamine อย่างไร และมีฤทธิ์อะไร",
-   "a": "Atropine เป็น racemic mixture ((±)-hyoscyamine) ที่เกิดระหว่างการสกัด ; ฤทธิ์ anticholinergic ขยายม่านตา ลดการหลั่งและการเกร็งตัว (antispasmodic)",
+   "a": "Atropine เป็น racemic mixture ((±)-hyoscyamine) ; anticholinergic ขยายม่านตา",
    "w": [
-    "Atropine เป็น isomer เดียวที่พบในธรรมชาติ ; มีฤทธิ์ cholinergic",
+    "Atropine เป็น isomer เดียวที่พบในธรรมชาติ ; มีฤทธิ์ cholinergic หดม่านตา",
     "Atropine เป็น quaternary alkaloid ; มีฤทธิ์กระตุ้นการหลั่งน้ำลาย",
-    "Atropine และ hyoscyamine เหมือนกันทุกประการ ไม่มีความแตกต่าง",
-    "Atropine ไม่ใช่ tropane alkaloid ; มีฤทธิ์เป็น analgesic"
+    "Atropine และ hyoscyamine เหมือนกันทุกประการ ; ฤทธิ์ระงับปวดแบบ opioid",
+    "Atropine ไม่ใช่ tropane alkaloid ; ฤทธิ์กระตุ้นประสาทส่วนกลาง"
    ],
-   "e": "Racemization ขึ้นกับ pH ตัวทำละลาย และอุณหภูมิ ป้องกันได้ด้วยการใช้ toluene; พบใน Atropa belladonna, Duboisia, Hyoscyamus niger"
+   "e": "Racemization ขึ้นกับ pH ตัวทำละลาย และอุณหภูมิ ป้องกันได้ด้วยการใช้ toluene; พบใน Atropa belladonna, Duboisia, Hyoscyamus niger | รายละเอียดคำตอบ: Atropine เป็น racemic mixture ((±)-hyoscyamine) ที่เกิดระหว่างสกัด ; anticholinergic ขยายม่านตา ลดการหลั่งและการเกร็ง"
   },
   {
    "t": "Tropane alkaloids",
    "q": "Hyoscine (scopolamine) ได้จากพืชใดและมีการใช้อย่างไร",
-   "a": "ใบ Duboisia spp. และเมล็ดลำโพง (Datura metel) ; เป็นเอสเทอร์ของ scopine กับ tropic acid ใช้ป้องกันเมารถเมาเรือ (anti-motion sickness)",
+   "a": "ใบ Duboisia และเมล็ดลำโพง ; ใช้ป้องกันเมารถเมาเรือ",
    "w": [
-    "เปลือก Cinchona ; ใช้รักษามาลาเรีย",
-    "ใบโคคา ; ใช้เป็นยาชาเฉพาะที่",
-    "ฝักฝิ่น ; ใช้ระงับปวด",
-    "ราก Rauvolfia ; ใช้ลดความดัน"
+    "เปลือก Cinchona ; เอสเทอร์ของ quinine ใช้รักษามาลาเรีย",
+    "ใบโคคา ; เอสเทอร์ของ ecgonine ใช้เป็นยาชาเฉพาะที่",
+    "ฝักฝิ่น ; อนุพันธ์ morphinane ใช้ระงับปวด",
+    "ราก Rauvolfia ; indole alkaloid ใช้ลดความดัน"
    ],
-   "e": "Atroscine (racemate) ไม่ใช้ประโยชน์ทางการแพทย์; Duboisia ให้ alkaloid ~5%"
+   "e": "Atroscine (racemate) ไม่ใช้ประโยชน์ทางการแพทย์; Duboisia ให้ alkaloid ~5% | รายละเอียดคำตอบ: ใบ Duboisia และเมล็ดลำโพง (Datura metel) ; เอสเทอร์ของ scopine กับ tropic acid ใช้ป้องกันเมารถเมาเรือ"
   },
   {
    "t": "Tropane alkaloids",
    "q": "Cocaine จาก Erythroxylum coca มีลักษณะทางเภสัชวิทยาอย่างไร",
-   "a": "เป็นยาชาเฉพาะที่ชนิดแรกจากธรรมชาติ มีฤทธิ์ sympathomimetic (หัวใจเต้นเร็ว หลอดเลือดหดตัว ความดันสูง ม่านตาขยาย) และทำให้เสพติด",
+   "a": "ยาชาเฉพาะที่จากธรรมชาติ มีฤทธิ์ sympathomimetic และเสพติด",
    "w": [
-    "เป็นยาลดความดันและขยายหลอดเลือดอย่างเดียว",
-    "เป็นยาถ่ายพยาธิที่ไม่เสพติด",
-    "เป็น anticholinergic ที่ลดอัตราการเต้นหัวใจเสมอ",
-    "เป็นยาต้านมาลาเรีย"
+    "ยาลดความดันและขยายหลอดเลือดที่ไม่เสพติด",
+    "ยาถ่ายพยาธิที่ไม่เสพติดและไม่มีผลต่อหัวใจ",
+    "anticholinergic ที่ลดอัตราการเต้นหัวใจเสมอและทำให้ม่านตาหด",
+    "ยาต้านมาลาเรียที่ออกฤทธิ์ต่อเชื้อในเม็ดเลือดแดง"
    ],
-   "e": "เมื่อสลายตัวได้ benzoic acid + methanol → methyl benzoate กลิ่นเฉพาะ ใช้ตรวจสอบ cocaine; วงศ์ Erythroxylaceae"
+   "e": "เมื่อสลายตัวได้ benzoic acid + methanol → methyl benzoate กลิ่นเฉพาะ ใช้ตรวจสอบ cocaine; วงศ์ Erythroxylaceae | รายละเอียดคำตอบ: ยาชาเฉพาะที่ชนิดแรกจากธรรมชาติ มีฤทธิ์ sympathomimetic (หัวใจเต้นเร็ว หลอดเลือดหดตัว ม่านตาขยาย) และเสพติด"
   },
   {
    "t": "Pyrrolizidine / Piperidine",
    "q": "ข้อใดถูกต้องเกี่ยวกับ pyrrolizidine alkaloids และ piperine",
-   "a": "Pyrrolizidine alkaloids (เช่น senecionine ในสกุล Senecio) ไม่มีความสำคัญเชิงเภสัชวิทยาและเป็นพิษต่อตับ ; Piperine จากพริกไทย (Piper nigrum) ให้รสเผ็ดและฤทธิ์ขับลม",
+   "a": "Pyrrolizidine alkaloids เป็นพิษต่อตับ ; piperine จากพริกไทย รสเผ็ด",
    "w": [
     "Pyrrolizidine alkaloids ใช้เป็นยาบำรุงตับ ; piperine เป็นยาลดความดัน",
     "Pyrrolizidine พบในพริกไทย ; piperine พบใน Senecio",
-    "ทั้งสองเป็น tropane alkaloids",
-    "ทั้งสองไม่มีไนโตรเจน"
+    "ทั้งสองเป็น tropane alkaloids ที่มีฤทธิ์ anticholinergic",
+    "ทั้งสองไม่มีไนโตรเจนและเป็นสารกลุ่ม terpenoids"
    ],
-   "e": "พริกไทยดำมี volatile oil 1–2.5% และ piperine 5–9%; ดีปลี (Piper longum) ก็มี piperine; วงศ์ Piperaceae"
+   "e": "พริกไทยดำมี volatile oil 1–2.5% และ piperine 5–9%; ดีปลี (Piper longum) ก็มี piperine; วงศ์ Piperaceae | รายละเอียดคำตอบ: Pyrrolizidine alkaloids (senecionine ในสกุล Senecio) ไม่มีความสำคัญเชิงเภสัชวิทยาและพิษต่อตับ ; Piperine จากพริกไทย รสเผ็ดและขับลม"
   },
   {
    "t": "Piperidine / Nicotinic",
    "q": "ข้อใดจับคู่ alkaloid กับพืชและฤทธิ์ได้ถูกต้อง",
-   "a": "Nicotine = ใบยาสูบ (Nicotiana tabacum) ออกฤทธิ์ต่อระบบประสาทอัตโนมัติ ใช้เป็นยาฆ่าแมลง ; Arecoline = เมล็ดหมาก (Areca catechu) กระตุ้น parasympathetic ใช้ถ่ายพยาธิ",
+   "a": "Nicotine = ใบยาสูบ ใช้ฆ่าแมลง ; Arecoline = เมล็ดหมาก ใช้ถ่ายพยาธิ",
    "w": [
-    "Nicotine = เมล็ดหมาก ; Arecoline = ใบยาสูบ",
-    "Nicotine = ฝักฝิ่น ; Arecoline = รากระย่อม",
-    "Nicotine = เปลือก Cinchona ; Arecoline = เมล็ดแสลงใจ",
-    "Nicotine และ arecoline ไม่ใช่ alkaloids"
+    "Nicotine = เมล็ดหมาก ; Arecoline = ใบยาสูบ (สลับกัน)",
+    "Nicotine = ฝักฝิ่น ใช้ระงับปวด ; Arecoline = รากระย่อม ใช้ลดความดัน",
+    "Nicotine = เปลือก Cinchona ใช้ต้านมาลาเรีย ; Arecoline = เมล็ดแสลงใจ กระตุ้น CNS",
+    "Nicotine และ arecoline ไม่ใช่ alkaloids แต่เป็น terpenoids"
    ],
-   "e": "Nicotine ในใบยาสูบ 2–8% เป็นของเหลวไม่มีสี เปลี่ยนเป็นสีน้ำตาลเมื่อสัมผัสอากาศ; Pelletierine จากเปลือกรากทับทิมขับพยาธิไส้เดือน; Lobeline จาก Lobelia inflata ช่วยเลิกบุหรี่"
+   "e": "Nicotine ในใบยาสูบ 2–8% เป็นของเหลวไม่มีสี เปลี่ยนเป็นสีน้ำตาลเมื่อสัมผัสอากาศ; Pelletierine จากเปลือกรากทับทิมขับพยาธิไส้เดือน; Lobeline จาก Lobelia inflata ช่วยเลิกบุหรี่ | รายละเอียดคำตอบ: Nicotine = ใบยาสูบ ออกฤทธิ์ต่อระบบประสาทอัตโนมัติ ใช้ฆ่าแมลง ; Arecoline = เมล็ดหมาก กระตุ้น parasympathetic ใช้ถ่ายพยาธิ"
   },
   {
    "t": "Protoalkaloids",
    "q": "Ephedrine และ pseudoephedrine จาก Ephedra (มาฮวง) ต่างกันในด้านฤทธิ์อย่างไร",
-   "a": "Ephedrine ขยายหลอดลม (bronchodilator) และขยายม่านตา ; Pseudoephedrine ลดอาการคัดจมูก (nasal decongestant) ; ทั้งสองเป็น protoalkaloids",
+   "a": "Ephedrine ขยายหลอดลม ; Pseudoephedrine ลดอาการคัดจมูก ; ทั้งสองเป็น protoalkaloids",
    "w": [
     "Ephedrine เป็น nasal decongestant เท่านั้น ; pseudoephedrine ขยายหลอดลมเท่านั้น",
-    "ทั้งสองเป็น true alkaloids ที่มี N ในวงแหวน",
-    "ทั้งสองเป็นยาชาเฉพาะที่",
-    "ทั้งสองไม่มีฤทธิ์ต่อระบบประสาทสั่งงานอัตโนมัติ"
+    "ทั้งสองเป็น true alkaloids ที่มี N ในวงแหวน และขยายหลอดลม",
+    "ทั้งสองเป็นยาชาเฉพาะที่ และเป็น protoalkaloids",
+    "ทั้งสองไม่มีฤทธิ์ต่อระบบประสาทอัตโนมัติ และเป็น pseudoalkaloids"
    ],
-   "e": "Ephedra เป็นวงศ์ Gnetaceae; จากธรรมชาติ: d(−)-ephedrine, d(+)-pseudoephedrine; mescaline จาก Lophophora williamsii (peyote) ทำให้หลอนประสาท"
+   "e": "Ephedra เป็นวงศ์ Gnetaceae; จากธรรมชาติ: d(−)-ephedrine, d(+)-pseudoephedrine; mescaline จาก Lophophora williamsii (peyote) ทำให้หลอนประสาท | รายละเอียดคำตอบ: Ephedrine ขยายหลอดลมและม่านตา ; Pseudoephedrine ลดอาการคัดจมูก ; ทั้งสองเป็น protoalkaloids"
   },
   {
    "t": "Opium alkaloids",
    "q": "ข้อใดจัดเป็น morphinane type และ benzylisoquinoline type ของ opium alkaloids ตามลำดับ",
-   "a": "Morphinane: morphine, codeine, thebaine ; Benzyl(tetrahydro)isoquinoline: papaverine, noscapine (narcotine)",
+   "a": "Morphinane: morphine, codeine ; Benzylisoquinoline: papaverine, noscapine",
    "w": [
     "Morphinane: papaverine, noscapine ; Benzylisoquinoline: morphine, codeine",
-    "Morphinane: caffeine ; Benzylisoquinoline: atropine",
-    "Morphinane: quinine ; Benzylisoquinoline: strychnine",
-    "ทั้งสองกลุ่มไม่มีสารใดเลยในฝิ่น"
+    "Morphinane: caffeine, theophylline ; Benzylisoquinoline: atropine, hyoscine",
+    "Morphinane: quinine, quinidine ; Benzylisoquinoline: strychnine, brucine",
+    "Morphinane: berberine, palmatine ; Benzylisoquinoline: ephedrine, cocaine"
    ],
-   "e": "Morphine, codeine, thebaine เป็นด่างแก่และพิษสูง; noscapine, narceine, papaverine เป็นด่างอ่อนและพิษต่ำ; Papaver somniferum วงศ์ Papaveraceae มี alkaloids > 40 ชนิด"
+   "e": "Morphine, codeine, thebaine เป็นด่างแก่และพิษสูง; noscapine, narceine, papaverine เป็นด่างอ่อนและพิษต่ำ; Papaver somniferum วงศ์ Papaveraceae มี alkaloids > 40 ชนิด | รายละเอียดคำตอบ: Morphinane: morphine, codeine, thebaine ; Benzylisoquinoline: papaverine, noscapine"
   },
   {
    "t": "Opium alkaloids",
    "q": "ข้อใดถูกต้องเกี่ยวกับ morphine, codeine, papaverine และ noscapine",
-   "a": "Morphine แรงกว่า codeine (codeine ใช้แก้ไอได้ เสพติดยากกว่า) ; papaverine คลายกล้ามเนื้อเรียบ ; noscapine เป็นยาแก้ไอที่ไม่เสพติด",
+   "a": "Morphine แรงกว่า codeine ; papaverine คลายกล้ามเนื้อเรียบ ; noscapine ไม่เสพติด",
    "w": [
-    "Codeine แรงกว่า morphine และเสพติดง่ายกว่า",
-    "Papaverine เป็นยากดการหายใจที่เสพติดรุนแรง",
-    "Noscapine เสพติดรุนแรงและใช้เป็นยานอนหลับ",
-    "ทั้งสี่ชนิดเป็นยากระตุ้นหัวใจ"
+    "Codeine แรงกว่า morphine และเสพติดง่ายกว่า ; papaverine คลายกล้ามเนื้อเรียบ",
+    "Papaverine เป็นยากดการหายใจที่เสพติดรุนแรง ; noscapine ระงับปวดแรง",
+    "Noscapine เสพติดรุนแรงและใช้เป็นยานอนหลับ ; codeine แก้ไอไม่ได้",
+    "ทั้งสี่ชนิดเป็นยากระตุ้นหัวใจที่ไม่เสพติด"
    ],
-   "e": "Morphine ละลายใน NaOH (หมู่ phenolic) แต่ codeine ไม่ละลายและตกตะกอน; morphine + conc. H2SO4 → apomorphine ใช้เป็น emetic และในโรคพาร์กินสัน; heroin = diacetylmorphine แรงขึ้น 2–4 เท่า"
+   "e": "Morphine ละลายใน NaOH (หมู่ phenolic) แต่ codeine ไม่ละลายและตกตะกอน; morphine + conc. H2SO4 → apomorphine ใช้เป็น emetic และในโรคพาร์กินสัน; heroin = diacetylmorphine แรงขึ้น 2–4 เท่า | รายละเอียดคำตอบ: Morphine แรงกว่า codeine (codeine ใช้แก้ไอ เสพติดยากกว่า) ; papaverine คลายกล้ามเนื้อเรียบ ; noscapine แก้ไอไม่เสพติด"
   },
   {
    "t": "Isoquinoline alkaloids",
    "q": "Berberine (protoberberine alkaloid) พบในพืชใดและมีฤทธิ์อย่างไร",
-   "a": "พบในวงศ์ Berberidaceae (Berberis, Mahonia), Ranunculaceae (Hydrastis) และขมิ้นเครือ (Arcangelisia flava, Menispermaceae) ; ฤทธิ์ต้านเชื้อบิดอะมีบา ต้านแบคทีเรีย ต้านการอักเสบ เจริญอาหาร",
+   "a": "Berberis และขมิ้นเครือ ; ต้านบิดอะมีบา",
    "w": [
-    "พบในใบยาสูบ ; ฤทธิ์ขยายม่านตา",
-    "พบในฝักฝิ่น ; ฤทธิ์ระงับปวดแรง",
-    "พบในเปลือก Cinchona ; ฤทธิ์ต้านมาลาเรียเท่านั้น",
-    "พบในรากทับทิม ; ฤทธิ์ถ่ายพยาธิ"
+    "ใบยาสูบ ; ฤทธิ์ขยายม่านตาและกระตุ้นระบบประสาท",
+    "ฝักฝิ่น ; ฤทธิ์ระงับปวดแรงและกดการหายใจ",
+    "เปลือก Cinchona ; ฤทธิ์ต้านมาลาเรียและลดไข้",
+    "รากทับทิม ; ฤทธิ์ถ่ายพยาธิตัวตืด"
    ],
-   "e": "บอระเพ็ด (Tinospora crispa) มี columbamine, picroretin ลดไข้ เจริญอาหาร; Jateorhiza palmata (calumba) ใช้เป็น bitter tonic"
+   "e": "บอระเพ็ด (Tinospora crispa) มี columbamine, picroretin ลดไข้ เจริญอาหาร; Jateorhiza palmata (calumba) ใช้เป็น bitter tonic | รายละเอียดคำตอบ: Berberidaceae (Berberis, Mahonia), Hydrastis และขมิ้นเครือ (Arcangelisia flava) ; ต้านบิดอะมีบา ต้านแบคทีเรีย ต้านอักเสบ เจริญอาหาร"
   },
   {
    "t": "Isoquinoline alkaloids",
    "q": "Curare (tubocurarine) มีฤทธิ์ทางเภสัชวิทยาอย่างไรและใช้ประโยชน์อย่างไร",
-   "a": "เป็น neuromuscular junction blocker ทำให้กล้ามเนื้อลายคลายตัว/อัมพาท ใช้เป็นยาคลายกล้ามเนื้อก่อนผ่าตัด ; สารที่มี quaternary nitrogen 2 อะตอมในระยะเหมาะสมมีฤทธิ์นี้",
+   "a": "neuromuscular junction blocker ใช้คลายกล้ามเนื้อก่อนผ่าตัด",
    "w": [
     "กระตุ้นกล้ามเนื้อลายให้หดตัวแรงขึ้น ใช้ในผู้ป่วยกล้ามเนื้ออ่อนแรง",
-    "เป็นยาชาเฉพาะที่ที่ใช้ทางจักษุ",
-    "เป็นสารกระตุ้นการอาเจียน",
-    "เป็นยาลดความดันที่ออกฤทธิ์ต่อหลอดเลือด"
+    "เป็นยาชาเฉพาะที่ที่ใช้ทางจักษุและทันตกรรม",
+    "เป็นสารกระตุ้นการอาเจียนที่ใช้ในกรณีได้รับพิษ",
+    "เป็นยาลดความดันที่ออกฤทธิ์ขยายหลอดเลือดโดยตรง"
    ],
-   "e": "Menispermaceous curare มี (+)-tubocurarine; Loganiaceous curare มี toxiferines (C-toxiferin I พิษแรงที่สุด)"
+   "e": "Menispermaceous curare มี (+)-tubocurarine; Loganiaceous curare มี toxiferines (C-toxiferin I พิษแรงที่สุด) | รายละเอียดคำตอบ: neuromuscular junction blocker ทำให้กล้ามเนื้อลายคลายตัว ใช้เป็นยาคลายกล้ามเนื้อก่อนผ่าตัด"
   },
   {
    "t": "Tetrahydroisoquinoline",
    "q": "Emetine จากรากไอเปแคก (Cephaëlis ipecacuanha) มีฤทธิ์และการใช้ที่ถูกต้องคือข้อใด",
-   "a": "Ipecac ใช้ขับเสมหะและกระตุ้นการอาเจียน และ emetine ใช้รักษาบิดอะมีบา (expectorant: emetine > cephaëline ; emetic: emetine < cephaëline)",
+   "a": "Ipecac ขับเสมหะ ; emetine รักษาบิดอะมีบา",
    "w": [
-    "Emetine เป็นยาแก้อาเจียนและใช้ป้องกันเมารถ",
+    "Emetine เป็นยาแก้อาเจียนที่ใช้ป้องกันเมารถ",
     "Emetine เป็นยาชาเฉพาะที่ที่ไม่เป็นพิษ",
-    "Emetine เป็นยาขยายม่านตา",
-    "Emetine ใช้รักษาโรคเกาต์"
+    "Emetine เป็นยาขยายม่านตาที่ใช้ตรวจจอประสาทตา",
+    "Emetine ใช้รักษาโรคเกาต์และลดกรดยูริก"
    ],
-   "e": "สารสำคัญใน ipecac ~3%: emetine, cephaëline, psychotrine; ขนาดสูงเป็นพิษต่อหัวใจ (bradycardia, hypotension); ไอเปแคกอยู่ในวงศ์ Rubiaceae; Galantamine (Amaryllidaceae) = acetylcholinesterase inhibitor ใช้ใน Alzheimer’s"
+   "e": "สารสำคัญใน ipecac ~3%: emetine, cephaëline, psychotrine; ขนาดสูงเป็นพิษต่อหัวใจ (bradycardia, hypotension); ไอเปแคกอยู่ในวงศ์ Rubiaceae; Galantamine (Amaryllidaceae) = acetylcholinesterase inhibitor ใช้ใน Alzheimer’s | รายละเอียดคำตอบ: Ipecac ขับเสมหะและกระตุ้นอาเจียน ; emetine รักษาบิดอะมีบา"
   },
   {
    "t": "Phenethylisoquinoline / Indole",
    "q": "ข้อใดจับคู่ alkaloid กับพืชและการใช้ได้ถูกต้อง",
-   "a": "Colchicine = Colchicum autumnale/Gloriosa superba ใช้รักษาโรคเกาต์กำเริบ (พิษสูง ไม่ควรใช้สมุนไพรรักษาเอง) ; Reserpine = Rauvolfia serpentina (ระย่อมน้อย) ลดความดันโลหิต ; Strychnine = เมล็ดแสลงใจ กระตุ้น CNS ทำให้ชัก",
+   "a": "Colchicine = Colchicum รักษาเกาต์ ; Reserpine = ระย่อมน้อย ลดความดัน ; Strychnine = แสลงใจ ทำให้ชัก",
    "w": [
-    "Colchicine = ฝิ่น ใช้ระงับปวดรุนแรง ; Reserpine = ใบยาสูบ ใช้เลิกบุหรี่",
-    "Strychnine = ระย่อมน้อย ลดความดัน ; Reserpine = แสลงใจ ทำให้ชัก",
-    "Colchicine = Cinchona รักษามาลาเรีย ; Strychnine = ไอเปแคก ขับเสมหะ",
-    "ทั้งสามชนิดเป็นสารกลุ่ม anthraquinone"
+    "Colchicine = ฝิ่น ใช้ระงับปวดรุนแรง ; Reserpine = ใบยาสูบ ใช้เลิกบุหรี่ ; Strychnine = ยาฆ่าแมลง",
+    "Strychnine = ระย่อมน้อย ลดความดัน ; Reserpine = แสลงใจ ทำให้ชัก ; Colchicine = ฝิ่น",
+    "Colchicine = Cinchona รักษามาลาเรีย ; Strychnine = ไอเปแคก ขับเสมหะ ; Reserpine = ฝิ่น",
+    "ทั้งสามชนิดเป็นสารกลุ่ม anthraquinone ที่ใช้เป็นยาระบาย"
    ],
-   "e": "Strychnos nux-vomica มี strychnine ~50% และ brucine ~40% (brucine พิษน้อยกว่า); ergot alkaloids จาก Claviceps purpurea (ergometrine, ergotamine) ทำให้มดลูกบีบตัว ใช้ช่วยคลอด และระวัง ergotism; Vinca alkaloids (vincristine, vinblastine) จาก Catharanthus roseus เป็นยาต้านมะเร็ง"
+   "e": "Strychnos nux-vomica มี strychnine ~50% และ brucine ~40% (brucine พิษน้อยกว่า); ergot alkaloids จาก Claviceps purpurea (ergometrine, ergotamine) ทำให้มดลูกบีบตัว ใช้ช่วยคลอด และระวัง ergotism; Vinca alkaloids (vincristine, vinblastine) จาก Catharanthus roseus เป็นยาต้านมะเร็ง | รายละเอียดคำตอบ: Colchicine = Colchicum/Gloriosa รักษาเกาต์กำเริบ (พิษสูง) ; Reserpine = ระย่อมน้อย ลดความดัน ; Strychnine = เมล็ดแสลงใจ กระตุ้น CNS ทำให้ชัก"
   },
   {
    "t": "Indole alkaloids",
    "q": "Vinca alkaloids จาก Catharanthus roseus และ quinine จาก Cinchona มีการใช้ทางเภสัชวิทยาอย่างไรตามลำดับ",
-   "a": "Vincristine/vinblastine = ยาต้านมะเร็ง (antineoplastic) ; Quinine (วงศ์ Rubiaceae) = ยาต้านมาลาเรีย และเป็น alkaloid ที่ขมที่สุด",
+   "a": "Vincristine/vinblastine = ต้านมะเร็ง ; Quinine = ต้านมาลาเรียและขมที่สุด",
    "w": [
     "Vincristine/vinblastine = ยาระบาย ; Quinine = ยาขยายหลอดลม",
     "Vincristine/vinblastine = ยาชาเฉพาะที่ ; Quinine = ยานอนหลับ",
-    "Vincristine/vinblastine = ยาขับปัสสาวะ ; Quinine = ยาแก้ปวดฝิ่น",
-    "ทั้งสองไม่มีฤทธิ์ทางเภสัชวิทยา"
+    "Vincristine/vinblastine = ยาขับปัสสาวะ ; Quinine = ยาแก้ปวดกลุ่มฝิ่น",
+    "Vincristine/vinblastine = ยาต้านมาลาเรีย ; Quinine = ยาต้านมะเร็ง"
    ],
-   "e": "Catharanthus roseus (วงศ์ Apocynaceae) มี monomeric และ dimeric indole alkaloids; Mitragyna speciosa (กระท่อม) และ Pausinystalia yohimbe ก็จัดเป็น Rubiaceous alkaloids; Yohimbine เป็น α-antagonist"
+   "e": "Catharanthus roseus (วงศ์ Apocynaceae) มี monomeric และ dimeric indole alkaloids; Mitragyna speciosa (กระท่อม) และ Pausinystalia yohimbe ก็จัดเป็น Rubiaceous alkaloids; Yohimbine เป็น α-antagonist | รายละเอียดคำตอบ: Vincristine/vinblastine = ต้านมะเร็ง ; Quinine (Rubiaceae) = ต้านมาลาเรียและเป็น alkaloid ที่ขมที่สุด"
   }
  ]
 }

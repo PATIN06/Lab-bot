@@ -1,22 +1,248 @@
-{"id":"pg04","no":4,"title":"Tannins","file":"4.1 Tannin","questions":[
-{"t":"นิยาม","q":"นิยามของ tannins ที่ถูกต้องคือข้อใด","a":"สารกลุ่ม phenolics ที่ละลายน้ำ มวลโมเลกุลประมาณ 500–3,000 สามารถตกตะกอนโปรตีน เจลาติน และ alkaloids ได้","w":["สารกลุ่ม terpenoids ที่ไม่ละลายน้ำ มวลโมเลกุลต่ำกว่า 200","น้ำตาลโมเลกุลใหญ่ที่ไม่ทำปฏิกิริยากับโปรตีน","กรดไขมันอิ่มตัวที่ทำให้กระดาษโปร่งแสง","alkaloids ที่มีไนโตรเจนเป็นองค์ประกอบหลัก"],"e":"Tannin จับกับโปรตีนทำให้ย่อยยาก เช่น การใส่นมในชาช่วยลดความฝาด"},
-{"t":"การจำแนก","q":"True tannins แบ่งเป็นกลุ่มใหญ่ได้กี่กลุ่มและมีอะไรบ้าง","a":"2 กลุ่มหลัก คือ hydrolysable tannins (gallotannins, ellagitannins) และ condensed tannins (proanthocyanidins) นอกจากนี้ยังมี phlorotannins จากสาหร่ายสีน้ำตาล","w":["กลุ่มเดียวคือ gallotannins เท่านั้น","3 กลุ่ม คือ alkaloids, glycosides และ saponins","2 กลุ่ม คือ anthraquinones และ coumarins","ไม่มีการแบ่งกลุ่มใด ๆ"],"e":"Hydrolysable และ condensed แตกต่างกันทั้งโครงสร้างและที่มาทางชีวสังเคราะห์ (shikimate pathway ทั้งคู่)"},
-{"t":"Hydrolysable tannins","q":"Hydrolysable tannins มีลักษณะเฉพาะอย่างไร","a":"เป็นเอสเทอร์ของกรดฟีนอลิก (เช่น gallic acid) กับน้ำตาล (มักเป็น glucose) ถูกไฮโดรไลซ์ด้วยกรด/ด่างอ่อน หรือเอนไซม์ tannase ได้น้ำตาลกับกรดฟีนอลิก","w":["เป็นพอลิเมอร์ของ flavan-3-ol ที่ไม่ถูกไฮโดรไลซ์และไม่มีน้ำตาล","เป็นโมเลกุลเดี่ยวของ anthraquinone ที่ไม่มีหมู่เอสเทอร์","เป็นพอลิเมอร์ของ phloroglucinol ในสาหร่าย","ไม่ละลายน้ำและแอลกอฮอล์"],"e":"ตัวอย่างพืชแหล่ง: Chinese/Turkish galls, hamamelis, chestnut, เปลือกผลและเปลือกต้นทับทิม, ใบยูคาลิปตัส, กานพลู, rhubarb"},
-{"t":"Hydrolysable tannins","q":"Gallotannins และ ellagitannins ต่างกันอย่างไร","a":"Gallotannins เป็นเอสเทอร์ของ gallic acid กับ polyol (มักเป็น glucose) ; Ellagitannins เกิดจาก oxidative coupling ของหน่วย galloyl อย่างน้อย 2 หน่วยเป็น HHDP (hexahydroxydiphenic acid)","w":["Gallotannins เกิดจาก HHDP ; Ellagitannins คือ gallic acid glucose ที่ไม่มีการ coupling","ทั้งสองเป็นพอลิเมอร์ของ catechin","Gallotannins พบเฉพาะในสาหร่าย ; Ellagitannins พบเฉพาะในสัตว์","ทั้งสองไม่มีน้ำตาลในโมเลกุล"],"e":"Ellagitannins พบมากกว่า 500 ชนิด; Tannic acid เป็นตัวอย่าง gallotannin (gallic acid esters of glucose)"},
-{"t":"Condensed tannins","q":"Condensed tannins (proanthocyanidins) มีลักษณะอย่างไร","a":"เป็นโอลิโกเมอร์/พอลิเมอร์ของ flavan-3-ol (catechin) ที่เชื่อมด้วยพันธะ C–C ไม่ถูกไฮโดรไลซ์ง่ายและไม่มีน้ำตาล","w":["เป็นเอสเทอร์ของ gallic acid กับ glucose ถูกไฮโดรไลซ์ง่าย","เป็นอนุพันธ์ของ coumarin ที่มี furan ring","เป็นพอลิเมอร์ของ isoprene","เป็นสารที่มีไนโตรเจนและให้ผลบวกกับ Dragendorff"],"e":"เมื่อทำปฏิกิริยากับกรดหรือเอนไซม์ จะได้สารสีแดงไม่ละลายเรียก phlobaphenes (เช่นสีแดงของ red cinchona bark); เรียกว่า catechol tannins เพราะให้ catechol"},
-{"t":"Pseudotannins","q":"Pseudotannins ต่างจาก true tannins อย่างไร","a":"มีมวลโมเลกุลต่ำกว่า และไม่ให้ผลบวกกับ goldbeater’s skin test (เช่น gallic acid ใน rhubarb, catechins ใน catechu, chlorogenic acid ในกาแฟ)","w":["มีมวลโมเลกุลสูงกว่าและให้ผลบวกกับ goldbeater’s skin test","เป็นพอลิเมอร์ของ phloroglucinol จากสาหร่าย","ไม่ใช่สารกลุ่ม phenolics","ตกตะกอนเจลาตินได้ดีกว่า true tannins เสมอ"],"e":"ส่วนใหญ่ถ้ามี true tannins มักมี pseudotannins ร่วมด้วย; ipecacuanhic acid ใน ipecac ก็จัดเป็น pseudotannin"},
-{"t":"Phlorotannins","q":"Phlorotannins พบที่ใดและมีหน่วยโครงสร้างตั้งต้นอะไร","a":"พบในสาหร่ายสีน้ำตาล (brown algae, Phaeophyceae) ; หน่วยตั้งต้นคือ phloroglucinol (1,3,5-trihydroxybenzene)","w":["พบในพืชวงศ์ Fagaceae ; หน่วยตั้งต้นคือ catechin","พบในแมลง ; หน่วยตั้งต้นคือ carminic acid","พบในรากเจตมูลเพลิง ; หน่วยตั้งต้นคือ plumbagin","พบในเมล็ดงา ; หน่วยตั้งต้นคือ sesamin"],"e":"Phlorotannins แตกต่างจาก gallotannins, ellagitannins และ condensed tannins ทั้งด้านโครงสร้างแหล่งที่พบและ biosynthesis"},
-{"t":"สมบัติ","q":"ข้อใดเป็นสมบัติของ tannins","a":"ละลายน้ำ และละลายในด่างเจือจาง แอลกอฮอล์ glycerol acetone ; สารละลายตกตะกอนโลหะหนัก alkaloids โปรตีน และเจลาติน","w":["ไม่ละลายน้ำ แต่ละลายใน hexane ได้ดี","ไม่ทำปฏิกิริยากับโปรตีนหรือเจลาติน","ละลายเฉพาะใน chloroform","ทำให้เกิดฟองเมื่อเขย่ากับน้ำ"],"e":"อุตสาหกรรมฟอกหนังใช้ tannins; tannin เชิงยาใช้ฤทธิ์ฝาดสมาน (astringent)"},
-{"t":"การทดสอบ","q":"ผลการทดสอบ FeCl3 ที่ใช้แยก hydrolysable tannin กับ condensed tannin เป็นอย่างไร","a":"Hydrolysable tannin ให้สีน้ำเงินดำ (bluish black) ; Condensed tannin ให้สีน้ำตาลดำ/เขียว (brownish/greenish black)","w":["Hydrolysable ให้สีเขียว ; Condensed ให้สีน้ำเงินดำ","ทั้งสองไม่ให้สีใด ๆ","Hydrolysable ให้ตะกอนสีขาว ; Condensed ให้สีเหลืองใส","ทั้งสองให้สีม่วง"],"e":"Tannin + FeCl3 → bluish black (hydrolysable) หรือ brownish black/green (catechol/condensed)"},
-{"t":"การทดสอบ","q":"ข้อใดจับคู่การทดสอบกับผลตอบสนองได้ถูกต้อง","a":"Bromine water ให้ตะกอนเฉพาะ condensed tannin ; น้ำปูนใส (limewater) ให้ตะกอนเฉพาะ hydrolysable tannin","w":["Bromine water ให้ตะกอนเฉพาะ hydrolysable tannin ; limewater ให้ตะกอนเฉพาะ condensed tannin","Bromine water และ limewater ให้ตะกอนกับทั้งสองชนิดเสมอ","Bromine water ไม่ให้ตะกอนกับ tannin ใด ๆ","Limewater ให้ตะกอนกับ alkaloids เท่านั้น"],"e":"Gelatin test: 1% tannin ตกตะกอน gelatin; Goldbeater’s skin test: ได้สีน้ำตาลกับ true tannin"},
-{"t":"การวิเคราะห์","q":"Folin–Ciocalteu method ใช้ตรวจวัดอะไรและวัดที่ความยาวคลื่นใด","a":"วัดปริมาณ phenolics ทั้งหมด จากการเกิดสีน้ำเงินของ tungsten/molybdenum oxide เมื่อ phenols ถูกออกซิไดซ์ วัดที่ประมาณ 740 nm","w":["วัดปริมาณ alkaloids ที่ 254 nm","วัดปริมาณ volatile oils ที่ 365 nm","วัดปริมาณ saponins ที่ 540 nm โดยดูการเกิดฟอง","วัดจุดหลอมเหลวของ tannin"],"e":"Folin–Ciocalteu reagent = phosphotungstic + phosphomolybdic acid; Vanillin assay ใช้กับ flavanols/proanthocyanidins; hide powder method วัด tannin จากน้ำหนักที่ลดลง"},
-{"t":"การวิเคราะห์","q":"วิธีหาปริมาณ tannin แบบ hide powder method อาศัยหลักการใด","a":"เทียบน้ำหนักแห้งของสารสกัดก่อนและหลังการดูดซับ tannin ด้วย hide powder (ผลต่างคือปริมาณ tannin)","w":["วัดการดูดกลืนแสงที่ 254 nm ของสารสกัด","ไทเทรตด้วย 0.1 M KOH","วัดค่า Rf บนแผ่น TLC","วัดมุมการหักเหแสงของสารสกัด"],"e":"อีกวิธี: gravimetric method ด้วย copper acetate เป็นตัวตกตะกอน"},
-{"t":"การสกัด","q":"ข้อใดถูกต้องเกี่ยวกับการสกัด tannins","a":"สกัดด้วยน้ำ แอลกอฮอล์ หรือ acetone ได้ผลดีจากพืชสดหรือตัวอย่างแห้งเยือกแข็ง (freeze-dried) ส่วนตัวอย่างที่ทำแห้งธรรมดาได้ผลต่ำเพราะ tannin รวมกับพอลิเมอร์อื่นแบบผันกลับไม่ได้","w":["ต้องสกัดจากตัวอย่างที่แห้งสนิทด้วย hexane เท่านั้น","สกัดด้วยตัวทำละลายไม่มีขั้ว เช่น petroleum ether ได้ผลดีที่สุด","ต้องสกัดที่อุณหภูมิ 200 °C","ตัวอย่างที่แห้งแล้วให้ผลสกัดสูงสุดเสมอ"],"e":"สกัดด้วย ethyl acetate แยก dimeric proanthocyanidins และ gallotannins ส่วนใหญ่; polymeric ที่มวลโมเลกุลสูงอยู่ในชั้นน้ำ; แยกบริสุทธิ์ด้วย gel filtration ตามด้วย reverse-phase"},
-{"t":"ฤทธิ์ทางเภสัช","q":"ฤทธิ์ทางการแพทย์ที่สำคัญของ tannins เกิดจากสมบัติใด","a":"ฤทธิ์ฝาดสมาน (astringent) เพราะตกตะกอนโปรตีน ทำให้เกิดชั้นป้องกันบนผิว/เยื่อเมือก หดหลอดเลือดฝอย ลดการสูญเสียน้ำ ใช้แก้ท้องเสียและรักษาแผล","w":["ฤทธิ์ระบายแรง จากการกระตุ้นลำไส้ใหญ่","ฤทธิ์ขับปัสสาวะจากการกระตุ้นไต","ฤทธิ์กดประสาทผ่าน GABA receptor","ฤทธิ์ขยายหลอดลมเท่านั้น"],"e":"ฤทธิ์อื่น: antioxidant, antibacterial/antifungal/antiviral, ยับยั้ง 5-lipoxygenase และ ACE, ยับยั้ง glucosyltransferase ของเชื้อฟันผุ"},
-{"t":"ข้อควรระวัง","q":"ข้อควรระวังในการใช้ผลิตภัณฑ์ที่มี tannins ปริมาณสูงคือข้อใด","a":"อาจรบกวนการย่อยโปรตีน ลดการดูดซึมยา/ธาตุเหล็ก และ catechins ขนาดสูง (เช่น >1.5 g/วัน) เสี่ยงต่อตับอักเสบและไตวายได้","w":["ไม่มีผลข้างเคียงใด ๆ ไม่ว่าขนาดใด","เพิ่มการดูดซึมของยาทุกชนิด","ทำให้ระดับโพแทสเซียมในเลือดสูงขึ้นเสมอ","ใช้ได้ไม่จำกัดในหญิงตั้งครรภ์"],"e":"Hydrolysable tannins อาจกระทบต่อแบคทีเรียในทางเดินอาหารและการย่อยโปรตีน"},
-{"t":"พืชสมุนไพร","q":"Turkish galls/Aleppo galls (Galla) ได้มาจากพืชใดและมีองค์ประกอบสำคัญอย่างไร","a":"เกิดบน Quercus infectoria (Fagaceae) จากแมลง Adleria gallaetinctoriae ; มี tannic acid 50–70% (hydrolysable tannin) และ gallic acid 2–4% ใช้ฝาดสมาน ห้ามเลือด และทำหมึก","w":["เกิดบน Hamamelis virginiana ; มี morphine 50–70%","เกิดบน Uncaria gambir ; มี catechin 50–70% เป็นแป้ง","เกิดบน Camellia sinensis ; มี caffeine 50–70%","เกิดบน Rheum palmatum ; มี sennosides 50–70%"],"e":"Oak galls เป็นแหล่งเภสัช tannin; Pharmaceutical tannin เตรียมจาก galls; โกฐพุงปลาคือปูดจากสมอไทย (Combretaceae)"},
-{"t":"พืชสมุนไพร","q":"Hamamelis (witch hazel) leaves มีลักษณะทางเภสัชเวทอย่างไร","a":"ใบ Hamamelis virginiana (Hamamelidaceae) มีทั้ง hydrolysable และ condensed tannins ใช้ฝาดสมานและห้ามเลือด (astringent, haemostatic)","w":["ใบมี alkaloid ใช้ระงับปวดแบบ opioid","ใบมี sennosides ใช้ระบาย","ใบมี volatile oil เท่านั้น ไม่มี tannin","ใบมี cardiac glycosides ใช้บำรุงหัวใจ"],"e":"สารอื่นใน Hamamelis: gallotannins, ellagitannins, proanthocyanidins, bitter principles, volatile oil"},
-{"t":"พืชสมุนไพร","q":"Gambir (pale catechu) ได้มาจากพืชใดและในตำรายาไทยใช้อย่างไร","a":"สารสกัดน้ำแห้งจาก Uncaria gambir (Rubiaceae) ใช้ก้อนสีเสียดเทศแก้ท้องร่วง บิดมูกเลือด สมานแผล","w":["ยางจากใบว่านหางจระเข้ ใช้เป็นยาถ่าย","น้ำมันจากเมล็ดงา ใช้ลดไขมัน","ยางจากฝิ่น ใช้ระงับปวด","สารสกัดเปลือก Cinchona ใช้รักษามาลาเรีย"],"e":"Catechu ให้ catechins เป็นหลัก (pseudotannins/condensed tannin precursor) ห้ามใช้ในผู้ป่วยบางกรณี ตามบัญชียาจากสมุนไพร"},
-{"t":"พืชสมุนไพร","q":"พืชหรือผลิตภัณฑ์ใดเป็นแหล่งของ condensed tannins (proanthocyanidins)","a":"ชาเขียว (ใบชา) โกโก้ เมล็ดองุ่น cranberry เปลือกอบเชย และเปลือกต้น cinchona/oak","w":["ใบมะขามแขกและฝักคูน","รากเจตมูลเพลิงแดง","เมล็ดงาและน้ำมันงา","ใบทองพันชั่ง"],"e":"Pycnogenol (สารสกัดเปลือกสน) และสารสกัดเมล็ดองุ่นมีงานวิจัยด้านความดันและไขมัน; epigallocatechin gallate มีฤทธิ์ต้าน Helicobacter pylori"},
-{"t":"ฤทธิ์ทางเภสัช","q":"EGCG และ epicatechin gallate ในชาเขียวถูกรายงานฤทธิ์ใดที่สอดคล้องกับเนื้อหาบทเรียน","a":"ต้านแบคทีเรีย Helicobacter pylori และฤทธิ์ต้านอนุมูลอิสระ (การลดน้ำหนักจากชาเขียวมีผลเพียงเล็กน้อย)","w":["ลดน้ำหนักได้มากอย่างชัดเจนในทุกการศึกษา","เป็นยาระบายแรง","เป็นสารกดประสาทแบบ benzodiazepine","ทำให้เลือดแข็งตัวเร็วขึ้นเสมอ"],"e":"การศึกษาในคนอ้วนพบว่าชาเขียว catechins 625 mg/วัน ลดไตรกลีเซอรอลได้เล็กน้อยแต่ไม่ลดน้ำหนักมาก"}
-]}
+{
+ "id": "pg04",
+ "no": 4,
+ "title": "Tannins",
+ "file": "4.1 Tannin",
+ "questions": [
+  {
+   "t": "นิยาม",
+   "q": "นิยามของ tannins ที่ถูกต้องคือข้อใด",
+   "a": "phenolics ที่ละลายน้ำ มวลโมเลกุล 500–3,000 ตกตะกอนโปรตีนและเจลาตินได้",
+   "w": [
+    "สารกลุ่ม terpenoids ที่ไม่ละลายน้ำ มวลโมเลกุลต่ำกว่า 200 และไม่ตกตะกอนโปรตีน",
+    "น้ำตาลโมเลกุลใหญ่ที่ละลายน้ำ มวลโมเลกุลสูงกว่า 5,000 และไม่ทำปฏิกิริยากับโปรตีน",
+    "กรดไขมันอิ่มตัวที่ไม่ละลายน้ำ ทำให้กระดาษโปร่งแสง และตกตะกอน alkaloids",
+    "alkaloids ที่มีไนโตรเจนเป็นองค์ประกอบหลัก ละลายใน hexane ได้ดี"
+   ],
+   "e": "Tannin จับกับโปรตีนทำให้ย่อยยาก เช่น การใส่นมในชาช่วยลดความฝาด | รายละเอียดคำตอบ: สารกลุ่ม phenolics ที่ละลายน้ำ มวลโมเลกุล 500–3,000 ตกตะกอนโปรตีน เจลาติน และ alkaloids ได้"
+  },
+  {
+   "t": "การจำแนก",
+   "q": "True tannins แบ่งเป็นกลุ่มใหญ่ได้กี่กลุ่มและมีอะไรบ้าง",
+   "a": "2 กลุ่ม: hydrolysable tannins และ condensed tannins (proanthocyanidins)",
+   "w": [
+    "กลุ่มเดียวคือ gallotannins ซึ่งพบในทุกพืชและสาหร่าย",
+    "3 กลุ่ม คือ alkaloids, glycosides และ saponins ตามโครงสร้างไนโตรเจน",
+    "2 กลุ่ม คือ anthraquinones และ coumarins ตามวิถีชีวสังเคราะห์",
+    "ไม่มีการแบ่งกลุ่มเพราะ tannins ทุกชนิดมีโครงสร้างเหมือนกัน"
+   ],
+   "e": "Hydrolysable และ condensed แตกต่างกันทั้งโครงสร้างและที่มาทางชีวสังเคราะห์ (shikimate pathway ทั้งคู่) | รายละเอียดคำตอบ: 2 กลุ่มหลัก: hydrolysable tannins (gallotannins, ellagitannins) และ condensed tannins (proanthocyanidins) และมี phlorotannins จากสาหร่ายสีน้ำตาล"
+  },
+  {
+   "t": "Hydrolysable tannins",
+   "q": "Hydrolysable tannins มีลักษณะเฉพาะอย่างไร",
+   "a": "เอสเทอร์ของ gallic acid กับน้ำตาล ถูกไฮโดรไลซ์ด้วยกรด ด่างอ่อน หรือ tannase",
+   "w": [
+    "พอลิเมอร์ของ flavan-3-ol ที่ไม่ถูกไฮโดรไลซ์ง่ายและไม่มีน้ำตาลในโมเลกุล",
+    "โมเลกุลเดี่ยวของ anthraquinone ที่ไม่มีหมู่เอสเทอร์และละลายในด่าง",
+    "พอลิเมอร์ของ phloroglucinol ที่พบเฉพาะในสาหร่ายสีน้ำตาล",
+    "สารที่ไม่ละลายน้ำและแอลกอฮอล์ และไม่ถูกย่อยด้วยเอนไซม์ tannase"
+   ],
+   "e": "ตัวอย่างพืชแหล่ง: Chinese/Turkish galls, hamamelis, chestnut, เปลือกผลและเปลือกต้นทับทิม, ใบยูคาลิปตัส, กานพลู, rhubarb | รายละเอียดคำตอบ: เอสเทอร์ของกรดฟีนอลิก (เช่น gallic acid) กับน้ำตาล ถูกไฮโดรไลซ์ด้วยกรด ด่างอ่อน หรือ tannase ได้น้ำตาลกับกรดฟีนอลิก"
+  },
+  {
+   "t": "Hydrolysable tannins",
+   "q": "Gallotannins และ ellagitannins ต่างกันอย่างไร",
+   "a": "Gallotannins = gallic acid + polyol ; Ellagitannins = galloyl coupling เป็น HHDP",
+   "w": [
+    "Gallotannins = เกิดจาก HHDP ; Ellagitannins = gallic acid กับ glucose ที่ไม่มี coupling",
+    "ทั้งสองเป็นพอลิเมอร์ของ catechin ที่เชื่อมด้วยพันธะ C–C",
+    "Gallotannins = พบเฉพาะในสาหร่าย ; Ellagitannins = พบเฉพาะในสัตว์",
+    "ทั้งสองไม่มีน้ำตาลในโมเลกุลและไม่ถูกไฮโดรไลซ์"
+   ],
+   "e": "Ellagitannins พบมากกว่า 500 ชนิด; Tannic acid เป็นตัวอย่าง gallotannin (gallic acid esters of glucose) | รายละเอียดคำตอบ: Gallotannins = เอสเทอร์ของ gallic acid กับ polyol ; Ellagitannins = oxidative coupling ของ galloyl อย่างน้อย 2 หน่วยได้ HHDP"
+  },
+  {
+   "t": "Condensed tannins",
+   "q": "Condensed tannins (proanthocyanidins) มีลักษณะอย่างไร",
+   "a": "พอลิเมอร์ของ flavan-3-ol ที่เชื่อมด้วยพันธะ C–C ไม่ถูกไฮโดรไลซ์ง่าย",
+   "w": [
+    "เอสเทอร์ของ gallic acid กับ glucose ที่ถูกไฮโดรไลซ์ได้ง่ายด้วยกรด",
+    "อนุพันธ์ของ coumarin ที่มี furan ring และไวต่อแสง",
+    "พอลิเมอร์ของ isoprene ที่ไม่ละลายน้ำและตกตะกอนโปรตีน",
+    "สารที่มีไนโตรเจนในโมเลกุลและให้ผลบวกกับ Dragendorff"
+   ],
+   "e": "เมื่อทำปฏิกิริยากับกรดหรือเอนไซม์ จะได้สารสีแดงไม่ละลายเรียก phlobaphenes (เช่นสีแดงของ red cinchona bark); เรียกว่า catechol tannins เพราะให้ catechol | รายละเอียดคำตอบ: โอลิโกเมอร์/พอลิเมอร์ของ flavan-3-ol (catechin) เชื่อมด้วยพันธะ C–C ไม่ถูกไฮโดรไลซ์ง่ายและไม่มีน้ำตาล"
+  },
+  {
+   "t": "Pseudotannins",
+   "q": "Pseudotannins ต่างจาก true tannins อย่างไร",
+   "a": "มวลโมเลกุลต่ำกว่าและไม่ให้ผลบวกกับ goldbeater's skin test",
+   "w": [
+    "มีมวลโมเลกุลสูงกว่าและให้ผลบวกกับ goldbeater's skin test เสมอ",
+    "เป็นพอลิเมอร์ของ phloroglucinol ที่พบเฉพาะในสาหร่ายสีน้ำตาล",
+    "ไม่ใช่สารกลุ่ม phenolics แต่เป็นอนุพันธ์ของ terpenoids",
+    "ตกตะกอนเจลาตินได้ดีกว่า true tannins ในทุกกรณี"
+   ],
+   "e": "ส่วนใหญ่ถ้ามี true tannins มักมี pseudotannins ร่วมด้วย; ipecacuanhic acid ใน ipecac ก็จัดเป็น pseudotannin | รายละเอียดคำตอบ: มีมวลโมเลกุลต่ำกว่าและไม่ให้ผลบวกกับ goldbeater's skin test (เช่น gallic acid, catechins, chlorogenic acid)"
+  },
+  {
+   "t": "Phlorotannins",
+   "q": "Phlorotannins พบที่ใดและมีหน่วยโครงสร้างตั้งต้นอะไร",
+   "a": "สาหร่ายสีน้ำตาล ; หน่วยตั้งต้นคือ phloroglucinol",
+   "w": [
+    "พืชวงศ์ Fagaceae ; หน่วยตั้งต้นคือ catechin",
+    "แมลงที่ผลิต cochineal ; หน่วยตั้งต้นคือ carminic acid",
+    "รากเจตมูลเพลิงแดง ; หน่วยตั้งต้นคือ plumbagin",
+    "เมล็ดงา ; หน่วยตั้งต้นคือ sesamin"
+   ],
+   "e": "Phlorotannins แตกต่างจาก gallotannins, ellagitannins และ condensed tannins ทั้งด้านโครงสร้างแหล่งที่พบและ biosynthesis | รายละเอียดคำตอบ: สาหร่ายสีน้ำตาล (Phaeophyceae) ; หน่วยตั้งต้นคือ phloroglucinol"
+  },
+  {
+   "t": "สมบัติ",
+   "q": "ข้อใดเป็นสมบัติของ tannins",
+   "a": "ละลายน้ำและแอลกอฮอล์ ; ตกตะกอนโปรตีนและเจลาติน",
+   "w": [
+    "ไม่ละลายน้ำ แต่ละลายใน hexane และ chloroform ได้ดี",
+    "ไม่ทำปฏิกิริยากับโปรตีนหรือเจลาติน และไม่ตกตะกอนโลหะหนัก",
+    "ละลายเฉพาะใน chloroform และ petroleum ether เท่านั้น",
+    "ทำให้เกิดฟองคงทนเมื่อเขย่ากับน้ำ และทำให้เม็ดเลือดแดงแตก"
+   ],
+   "e": "อุตสาหกรรมฟอกหนังใช้ tannins; tannin เชิงยาใช้ฤทธิ์ฝาดสมาน (astringent) | รายละเอียดคำตอบ: ละลายน้ำ ละลายในด่างเจือจาง แอลกอฮอล์ glycerol acetone ; ตกตะกอนโลหะหนัก alkaloids โปรตีน เจลาติน"
+  },
+  {
+   "t": "การทดสอบ",
+   "q": "ผลการทดสอบ FeCl3 ที่ใช้แยก hydrolysable tannin กับ condensed tannin เป็นอย่างไร",
+   "a": "Hydrolysable = น้ำเงินดำ ; Condensed = น้ำตาลดำ/เขียว",
+   "w": [
+    "Hydrolysable = สีเขียว ; Condensed = สีน้ำเงินดำ",
+    "ทั้งสองไม่ให้สีใด ๆ กับ FeCl3",
+    "Hydrolysable = ตะกอนสีขาว ; Condensed = สีเหลืองใส",
+    "ทั้งสองให้สีม่วงเข้มเหมือนกัน"
+   ],
+   "e": "Tannin + FeCl3 → bluish black (hydrolysable) หรือ brownish black/green (catechol/condensed) | รายละเอียดคำตอบ: Hydrolysable = สีน้ำเงินดำ ; Condensed = สีน้ำตาลดำ/เขียว (brownish/greenish black)"
+  },
+  {
+   "t": "การทดสอบ",
+   "q": "ข้อใดจับคู่การทดสอบกับผลตอบสนองได้ถูกต้อง",
+   "a": "Bromine water ตะกอนกับ condensed ; น้ำปูนใสตะกอนกับ hydrolysable",
+   "w": [
+    "Bromine water ให้ตะกอนกับ hydrolysable ; limewater ให้ตะกอนกับ condensed",
+    "Bromine water และ limewater ให้ตะกอนกับทั้งสองชนิดเหมือนกัน",
+    "Bromine water ไม่ให้ตะกอนกับ tannin ใด ๆ ; limewater ให้กับ condensed",
+    "Limewater ให้ตะกอนกับ alkaloids ; bromine water ให้ตะกอนกับ hydrolysable"
+   ],
+   "e": "Gelatin test: 1% tannin ตกตะกอน gelatin; Goldbeater’s skin test: ได้สีน้ำตาลกับ true tannin | รายละเอียดคำตอบ: Bromine water ให้ตะกอนกับ condensed tannin ; น้ำปูนใสให้ตะกอนกับ hydrolysable tannin"
+  },
+  {
+   "t": "การวิเคราะห์",
+   "q": "Folin–Ciocalteu method ใช้ตรวจวัดอะไรและวัดที่ความยาวคลื่นใด",
+   "a": "วัดปริมาณ phenolics ทั้งหมด จากสีน้ำเงินของ tungsten/molybdenum oxide ที่ 740 nm",
+   "w": [
+    "วัดปริมาณ alkaloids ทั้งหมด จากสีม่วงของสารเชิงซ้อนกับ bromocresol green ที่ 254 nm",
+    "วัดปริมาณ volatile oils จากการดูดกลืนแสงของ terpenes ที่ 365 nm",
+    "วัดปริมาณ saponins จากความสูงของฟองหลังเขย่า ที่ 540 nm",
+    "วัดจุดหลอมเหลวของ tannin เพื่อตรวจความบริสุทธิ์ที่ 100 °C"
+   ],
+   "e": "Folin–Ciocalteu reagent = phosphotungstic + phosphomolybdic acid; Vanillin assay ใช้กับ flavanols/proanthocyanidins; hide powder method วัด tannin จากน้ำหนักที่ลดลง | รายละเอียดคำตอบ: วัดปริมาณ phenolics ทั้งหมด จากสีน้ำเงินของ tungsten/molybdenum oxide ที่เกิดเมื่อ phenols ถูกออกซิไดซ์ ที่ประมาณ 740 nm"
+  },
+  {
+   "t": "การวิเคราะห์",
+   "q": "วิธีหาปริมาณ tannin แบบ hide powder method อาศัยหลักการใด",
+   "a": "เทียบน้ำหนักแห้งของสารสกัดก่อนและหลังดูดซับ tannin ด้วย hide powder",
+   "w": [
+    "วัดการดูดกลืนแสงที่ 254 nm ของสารสกัดก่อนและหลังเติม hide powder",
+    "ไทเทรตสารสกัดด้วย 0.1 M KOH หลังเติม hide powder",
+    "วัดค่า Rf บนแผ่น TLC เทียบกับ tannic acid มาตรฐาน",
+    "วัดมุมหักเหแสงของสารสกัดก่อนและหลังเติม hide powder"
+   ],
+   "e": "อีกวิธี: gravimetric method ด้วย copper acetate เป็นตัวตกตะกอน | รายละเอียดคำตอบ: เทียบน้ำหนักแห้งของสารสกัดก่อนและหลังดูดซับ tannin ด้วย hide powder (ผลต่างคือปริมาณ tannin)"
+  },
+  {
+   "t": "การสกัด",
+   "q": "ข้อใดถูกต้องเกี่ยวกับการสกัด tannins",
+   "a": "สกัดด้วยน้ำ แอลกอฮอล์ หรือ acetone จากพืชสดหรือ freeze-dried ได้ผลดี",
+   "w": [
+    "ต้องสกัดจากตัวอย่างที่แห้งสนิทด้วย hexane จึงได้ผลดีที่สุด",
+    "สกัดด้วยตัวทำละลายไม่มีขั้ว เช่น petroleum ether ได้ผลดีที่สุด",
+    "ต้องสกัดที่อุณหภูมิ 200 °C เพื่อเพิ่มผลผลิตและป้องกันการเสื่อม",
+    "ตัวอย่างที่ทำแห้งธรรมดาให้ผลสกัดสูงสุดเสมอเพราะ tannin เข้มข้นขึ้น"
+   ],
+   "e": "สกัดด้วย ethyl acetate แยก dimeric proanthocyanidins และ gallotannins ส่วนใหญ่; polymeric ที่มวลโมเลกุลสูงอยู่ในชั้นน้ำ; แยกบริสุทธิ์ด้วย gel filtration ตามด้วย reverse-phase | รายละเอียดคำตอบ: สกัดด้วยน้ำ แอลกอฮอล์ หรือ acetone จากพืชสดหรือ freeze-dried ได้ดี ส่วนตัวอย่างแห้งธรรมดาได้ผลต่ำเพราะ tannin รวมกับพอลิเมอร์อื่น"
+  },
+  {
+   "t": "ฤทธิ์ทางเภสัช",
+   "q": "ฤทธิ์ทางการแพทย์ที่สำคัญของ tannins เกิดจากสมบัติใด",
+   "a": "ฤทธิ์ฝาดสมาน เพราะตกตะกอนโปรตีน ใช้แก้ท้องเสียและรักษาแผล",
+   "w": [
+    "ฤทธิ์ระบายแรง จากการกระตุ้นการบีบตัวของลำไส้ใหญ่ ใช้แก้ท้องผูก",
+    "ฤทธิ์ขับปัสสาวะ จากการกระตุ้นการกรองของไต ใช้ลดบวม",
+    "ฤทธิ์กดประสาท ผ่าน GABA receptor ใช้ช่วยให้นอนหลับ",
+    "ฤทธิ์ขยายหลอดลม จากการกระตุ้น β2 receptor ใช้รักษาหอบหืด"
+   ],
+   "e": "ฤทธิ์อื่น: antioxidant, antibacterial/antifungal/antiviral, ยับยั้ง 5-lipoxygenase และ ACE, ยับยั้ง glucosyltransferase ของเชื้อฟันผุ | รายละเอียดคำตอบ: ฤทธิ์ฝาดสมาน เพราะตกตะกอนโปรตีนเกิดชั้นป้องกันบนผิว/เยื่อเมือก ใช้แก้ท้องเสียและรักษาแผล"
+  },
+  {
+   "t": "ข้อควรระวัง",
+   "q": "ข้อควรระวังในการใช้ผลิตภัณฑ์ที่มี tannins ปริมาณสูงคือข้อใด",
+   "a": "รบกวนการย่อยโปรตีนและลดการดูดซึมยาและธาตุเหล็ก",
+   "w": [
+    "ไม่มีผลข้างเคียงใด ๆ ไม่ว่าขนาดใด จึงใช้ได้ไม่จำกัด",
+    "เพิ่มการดูดซึมของยาและธาตุเหล็กทุกชนิดให้สูงขึ้นมาก",
+    "ทำให้ระดับโพแทสเซียมในเลือดสูงจนหัวใจเต้นผิดจังหวะ",
+    "ปลอดภัยต่อหญิงตั้งครรภ์ในทุกขนาด และไม่ต้องจำกัดปริมาณ"
+   ],
+   "e": "Hydrolysable tannins อาจกระทบต่อแบคทีเรียในทางเดินอาหารและการย่อยโปรตีน | รายละเอียดคำตอบ: อาจรบกวนการย่อยโปรตีน ลดการดูดซึมยาและธาตุเหล็ก และ catechins ขนาดสูง (>1.5 g/วัน) เสี่ยงตับอักเสบ"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "Turkish galls/Aleppo galls (Galla) ได้มาจากพืชใดและมีองค์ประกอบสำคัญอย่างไร",
+   "a": "เกิดบน Quercus infectoria ; มี tannic acid 50–70% ใช้ฝาดสมาน ทำหมึก",
+   "w": [
+    "เกิดบน Hamamelis virginiana ; มี morphine 50–70% ใช้ระงับปวด",
+    "เกิดบน Uncaria gambir ; มี catechin 50–70% ใช้ย้อมสี",
+    "เกิดบน Camellia sinensis ; มี caffeine 50–70% ใช้กระตุ้นประสาท",
+    "เกิดบน Rheum palmatum ; มี sennosides 50–70% ใช้ระบาย"
+   ],
+   "e": "Oak galls เป็นแหล่งเภสัช tannin; Pharmaceutical tannin เตรียมจาก galls; โกฐพุงปลาคือปูดจากสมอไทย (Combretaceae) | รายละเอียดคำตอบ: เกิดบน Quercus infectoria จากแมลง Adleria gallaetinctoriae ; มี tannic acid 50–70% และ gallic acid 2–4% ใช้ฝาดสมาน ห้ามเลือด ทำหมึก"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "Hamamelis (witch hazel) leaves มีลักษณะทางเภสัชเวทอย่างไร",
+   "a": "ใบ Hamamelis virginiana ใช้ฝาดสมานและห้ามเลือด",
+   "w": [
+    "ใบมี alkaloid ใช้ระงับปวดแบบ opioid และกดประสาท",
+    "ใบมี sennosides ใช้เป็นยาระบายกระตุ้นลำไส้ใหญ่",
+    "ใบมี volatile oil เป็นหลัก ไม่มี tannin ใช้ขับลม",
+    "ใบมี cardiac glycosides ใช้บำรุงหัวใจ"
+   ],
+   "e": "สารอื่นใน Hamamelis: gallotannins, ellagitannins, proanthocyanidins, bitter principles, volatile oil | รายละเอียดคำตอบ: ใบ Hamamelis virginiana มีทั้ง hydrolysable และ condensed tannins ใช้ฝาดสมานและห้ามเลือด"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "Gambir (pale catechu) ได้มาจากพืชใดและในตำรายาไทยใช้อย่างไร",
+   "a": "สารสกัดแห้งจาก Uncaria gambir ใช้แก้ท้องร่วง",
+   "w": [
+    "ยางจากใบว่านหางจระเข้ ใช้เป็นยาถ่ายแรงและลดไข้",
+    "น้ำมันจากเมล็ดงา ใช้ลดไขมันและบำรุงผิว",
+    "ยางจากผลฝิ่น ใช้ระงับปวดและแก้ไอ",
+    "สารสกัดเปลือก Cinchona ใช้รักษามาลาเรียและลดไข้"
+   ],
+   "e": "Catechu ให้ catechins เป็นหลัก (pseudotannins/condensed tannin precursor) ห้ามใช้ในผู้ป่วยบางกรณี ตามบัญชียาจากสมุนไพร | รายละเอียดคำตอบ: สารสกัดน้ำแห้งจาก Uncaria gambir (Rubiaceae) ใช้ก้อนสีเสียดเทศแก้ท้องร่วง บิดมูกเลือด สมานแผล"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "พืชหรือผลิตภัณฑ์ใดเป็นแหล่งของ condensed tannins (proanthocyanidins)",
+   "a": "ชาเขียว โกโก้ เมล็ดองุ่น และเปลือกอบเชย",
+   "w": [
+    "ใบมะขามแขก ฝักคูน และรากโกฐน้ำเต้า",
+    "รากเจตมูลเพลิงแดง รากเทียนกิ่ง และเปลือกวอลนัท",
+    "เมล็ดงา น้ำมันงา และถั่วเหลือง",
+    "ใบทองพันชั่ง ใบขี้เหล็ก และเมล็ดเทียนดำ"
+   ],
+   "e": "Pycnogenol (สารสกัดเปลือกสน) และสารสกัดเมล็ดองุ่นมีงานวิจัยด้านความดันและไขมัน; epigallocatechin gallate มีฤทธิ์ต้าน Helicobacter pylori | รายละเอียดคำตอบ: ชาเขียว โกโก้ เมล็ดองุ่น cranberry เปลือกอบเชย และเปลือกต้น cinchona/oak"
+  },
+  {
+   "t": "ฤทธิ์ทางเภสัช",
+   "q": "EGCG และ epicatechin gallate ในชาเขียวถูกรายงานฤทธิ์ใดที่สอดคล้องกับเนื้อหาบทเรียน",
+   "a": "ต้านแบคทีเรีย H. pylori และต้านอนุมูลอิสระ",
+   "w": [
+    "ลดน้ำหนักได้มากอย่างชัดเจนในทุกการศึกษา และเป็นยาระบายแรง",
+    "เป็นยาระบายแรงจากการกระตุ้นลำไส้ใหญ่ และช่วยขับพยาธิ",
+    "เป็นสารกดประสาทแบบ benzodiazepine ที่ช่วยให้นอนหลับลึก",
+    "ทำให้เลือดแข็งตัวเร็วขึ้นเสมอ จึงใช้ห้ามเลือดได้"
+   ],
+   "e": "การศึกษาในคนอ้วนพบว่าชาเขียว catechins 625 mg/วัน ลดไตรกลีเซอรอลได้เล็กน้อยแต่ไม่ลดน้ำหนักมาก | รายละเอียดคำตอบ: ต้านแบคทีเรีย H. pylori และต้านอนุมูลอิสระ (การลดน้ำหนักมีผลเพียงเล็กน้อย)"
+  }
+ ]
+}

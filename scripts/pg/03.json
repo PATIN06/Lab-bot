@@ -1,22 +1,248 @@
-{"id":"pg03","no":3,"title":"Phenolic compounds & Phenylpropanoids","file":"3.1 phenylpropanoids","questions":[
-{"t":"ชีวสังเคราะห์","q":"สารกลุ่ม phenolics ส่วนใหญ่ในพืชสร้างผ่านวิถีใดและเอนไซม์สำคัญตัวแรกคืออะไร","a":"Shikimic acid pathway ผ่าน phenylalanine โดย phenylalanine ammonia lyase (PAL) ได้ cinnamic acid","w":["Mevalonic acid pathway โดยเอนไซม์ HMG-CoA reductase","Malonic acid pathway เท่านั้น โดยเอนไซม์ polyketide synthase","MEP pathway โดยเอนไซม์ geranyl synthase","Calvin cycle โดยเอนไซม์ RuBisCO"],"e":"วิถี shikimate พบในพืช/จุลินทรีย์ ไม่มีในสัตว์; PAL ถูกเหนี่ยวนำได้ด้วยการติดเชื้อรา ธาตุอาหารต่ำ และแสงจัด"},
-{"t":"โครงสร้าง","q":"phenolic compound คือสารที่มีโครงสร้างเด่นอย่างไร","a":"มีหมู่ hydroxyl (–OH) เกาะบนวงแหวนอะโรมาติก (aromatic ring)","w":["มีหมู่ amine เกาะบนวงแหวน pyridine","มีวงแหวน steroid ที่มีหมู่ ketone","เป็นโซ่คาร์บอนอิ่มตัวที่ไม่มีวงแหวน","มี sugar เกาะกับ isoprene unit"],"e":"Phenolics แบ่งตามจำนวนคาร์บอน เช่น C6–C1 (phenolic acids), C6–C3 (phenylpropanoids, coumarins), C6–C3–C6 (flavonoids), lignans, tannins"},
-{"t":"Simple phenolics","q":"สารใดจัดเป็น phenolic glycoside ที่ใช้ทำให้ผิวขาวและ hydroquinone ใช้ในครีมไม่ควรใช้ต่อเนื่องเพราะเหตุใด","a":"Arbutin ; hydroquinone อาจทำให้ผิวด่างขาว (depigmentation)","w":["Salicin ; hydroquinone ทำให้ผิวเข้มขึ้นถาวร","Vanillin ; hydroquinone ทำให้ผิวหนังหนาขึ้น","Aspirin ; hydroquinone ทำให้ผมหงอก","Caffeic acid ; hydroquinone ไม่มีผลข้างเคียง"],"e":"Arbutin ใช้เป็น skin lightening agent และต้านการติดเชื้อทางเดินปัสสาวะ"},
-{"t":"Simple phenolics","q":"ข้อใดถูกต้องเกี่ยวกับ salicin, methyl salicylate และ aspirin","a":"Salicin จากเปลือกไม้ (วงศ์ Salicaceae) ให้ salicylic acid ; methyl salicylate (น้ำมันระกำ) กลั่นจาก Betula lenta ใช้ทาแก้ปวดข้อ/กล้ามเนื้อ ; aspirin คือ acetylsalicylic acid","w":["Salicin เป็นสารกลุ่ม alkaloid ; methyl salicylate ใช้เป็นยาระบาย","Aspirin พบมากในผักโขมโดยธรรมชาติ ; methyl salicylate เป็นสีย้อม","ทั้งสามไม่เกี่ยวข้องกับ salicylic acid","Methyl salicylate ได้จาก vanilla pods"],"e":"Salicylic acid: ลดปวด ต้านอักเสบ ลดไข้; aspirin ได้จาก salicylic acid + acetic anhydride"},
-{"t":"Simple phenolics","q":"วานิลลา (Vanilla planifolia) ให้สารหอม vanillin ในรูปใดและข้อเท็จจริงใดถูกต้อง","a":"ในฝักสดอยู่ในรูป β-D-glucoside ; vanillin ส่วนใหญ่ (>99%) ได้จากการสังเคราะห์/ชีวแปลง ไม่ได้สกัดจากฝัก","w":["ในฝักสดอยู่ในรูป aglycone อิสระล้วน ; vanillin ส่วนใหญ่สกัดจากฝัก","ในฝักอยู่ในรูป alkaloid ; vanillin ได้จากการกลั่นด้วยไอน้ำ","ในฝักอยู่ในรูป tannin ; ไม่ใช้เป็นกลิ่นอาหาร","ไม่พบ vanillin ในพืชเลย"],"e":"การผลิต vanillin 1 kg ต้องใช้ฝักวานิลลาประมาณ 500 kg จึงนิยมสังเคราะห์/ใช้ชีวแปลง เช่น จาก eugenol, ferulic acid"},
-{"t":"Hydroxycinnamic acids","q":"Chlorogenic acid เป็นสารชนิดใดและพบมากในพืชใด","a":"เอสเทอร์ของ caffeic acid กับ quinic acid ; พบมากในกาแฟ (ทำให้กาแฟมีรสเปรี้ยว) และพืชวงศ์ Asteraceae","w":["เอสเทอร์ของ gallic acid กับ glucose ; พบมากในชาเขียว","เอสเทอร์ของ ferulic acid กับ shikimic acid ; พบมากในวานิลลา","เป็นแอลคาลอยด์ ; พบมากในฝิ่น","เป็นไกลโคไซด์ของ anthraquinone ; พบมากในมะขามแขก"],"e":"Rosmarinic acid = เอสเทอร์ของ caffeic acid กับ 3,4-dihydroxyphenyllactic acid พบในวงศ์ Lamiaceae (rosemary, กะเพรา, โหระพา)"},
-{"t":"วงศ์พืช","q":"ลักษณะเด่นของพืชวงศ์ Lamiaceae (Labiatae) คือข้อใด","a":"ลำต้นสี่เหลี่ยม ใบเดี่ยวออกตรงข้าม ดอกกลีบเชื่อมเป็น 2 ปาก (bilabiate) มีต่อมน้ำมันทำให้มีกลิ่นหอม","w":["ลำต้นกลม ใบประกอบออกสลับ ไม่มีกลิ่นหอม","ช่อดอกแบบ capitulum มี involucral bract และ pappus","ช่อดอกแบบ umbel ผลแบบ schizocarp","มีน้ำยางสีขาวและใบออกเป็นวง"],"e":"ตัวอย่าง: สะระแหน่ กะเพรา โหระพา แมงลักคา หญ้าหนวดแมว (ขับปัสสาวะ ระวังโพแทสเซียมสูงในผู้ป่วยโรคหัวใจ/ไต)"},
-{"t":"วงศ์พืช","q":"ลักษณะช่อดอกแบบ capitulum (head) ที่มี disc flower และ ray flower พบในวงศ์ใด","a":"Asteraceae (Compositae) เช่น ทานตะวัน ต้นหนาด สาบเสือ","w":["Lamiaceae","Rubiaceae","Apiaceae","Rutaceae"],"e":"ผลแบบ cypsela (achene) มี pappus; Apiaceae มีช่อดอก umbel และผลแบบ schizocarp; Rubiaceae (กาแฟ ยอ) ใบตรงข้ามมี interpetiolar stipule"},
-{"t":"Coumarins","q":"coumarin และ umbelliferone มีโครงสร้างและบทบาทอย่างไร","a":"coumarin = benzo-α-pyrone (lactone ของ o-hydroxycinnamic acid) ; umbelliferone = 7-hydroxycoumarin ดูดกลืน UV จึงช่วยปกป้องผิวจาก UV","w":["coumarin = benzo-γ-pyrone ; umbelliferone = 5-hydroxycoumarin","coumarin = flavone ที่มีน้ำตาล ; umbelliferone เป็น alkaloid","coumarin = anthraquinone ; umbelliferone = tannin","ทั้งสองไม่ดูดกลืน UV"],"e":"Skimmin = glycoside ของ umbelliferone; aglycone ละลายใน non-polar solvents ส่วน glycoside ละลายน้ำและแอลกอฮอล์"},
-{"t":"Coumarins","q":"ข้อใดจัดเป็น simple coumarins พร้อมแหล่งพืช","a":"Umbelliferone (Apiaceae), aesculin (Aesculus hippocastanum), scopoletin (ยอ Morinda citrifolia)","w":["Psoralen (Ammi majus), bergapten, khellin","Dicoumarol (Melilotus), warfarin, aflatoxin","Podophyllotoxin, sesamin, macelignan","Quercetin, kaempferol, apigenin"],"e":"ชะลูด (Alyxia reinwardtii, Apocynaceae) เปลือกในมีกลิ่นหอมจาก coumarin ใช้แต่งกลิ่นยาหอม"},
-{"t":"Furanocoumarins","q":"Furanocoumarins (psoralen type) มีฤทธิ์และข้อควรระวังอย่างไร","a":"Psoralen จาก Ammi majus ใช้รักษา psoriasis โดยทำปฏิกิริยากับ pyrimidine bases ของ DNA เมื่อโดนแสง จึงเป็น phototoxic","w":["Psoralen เป็นยาระบายที่ไม่ไวต่อแสง","Psoralen ยับยั้งการแข็งตัวของเลือดอย่างเดียว","Furanocoumarin ไม่ทำปฏิกิริยากับ DNA","Furanocoumarin พบเฉพาะในพืชวงศ์ Fabaceae เท่านั้น"],"e":"พบมากในวงศ์ Apiaceae และ Rutaceae; Bergapten (5-methoxypsoralen) ในน้ำมัน bergamot (Citrus bergamia) ใช้ใน suntan preparations"},
-{"t":"Furanocoumarins","q":"เหตุใดการดื่มน้ำเกรปฟรุตจึงมีปฏิกิริยากับยาหลายชนิด","a":"furanocoumarins ในเกรปฟรุตยับยั้งเอนไซม์ CYP3A ที่ตับและลำไส้ ทำให้ความเข้มข้นของยา (เช่น simvastatin, calcium channel blockers) เพิ่มขึ้น","w":["เกรปฟรุตเร่งเอนไซม์ CYP3A ทำให้ยาถูกทำลายเร็วขึ้นเสมอ","เกรปฟรุตจับกับยาแล้วขับออกทางไตทันที","เกรปฟรุตไม่มีผลต่อการเมแทบอลิซึมของยา","เกรปฟรุตลดความเป็นกรดของกระเพาะอาหารเท่านั้น"],"e":"เกรปฟรุตเป็นลูกผสมระหว่าง Citrus sinensis และ C. maxima; ผลเพิ่มความเสี่ยงต่อ hypotension, rhabdomyolysis เป็นต้น"},
-{"t":"Pyranocoumarins","q":"Dicoumarol ที่เป็นต้นแบบของ warfarin เกิดอย่างไร","a":"เกิดจากจุลินทรีย์/รากับ coumarin ในหญ้าหวาน (sweet clover, Melilotus officinalis) ที่เสีย จนได้ bicoumarin ของ 4-hydroxycoumarin ออกฤทธิ์ต้านการแข็งตัวของเลือด","w":["สกัดตรงจาก Ammi visnaga ที่สด ใช้เป็นยาขยายหลอดลม","สร้างโดยปฏิกิริยา photodimerization ของ psoralen","พบในเมล็ดงาโดยธรรมชาติ ใช้ลดไขมัน","เกิดจาก aflatoxin ในถั่วลิสง ใช้ลดความดัน"],"e":"Dicoumarol ใช้เป็น anticoagulant และยาฆ่าหนู; Khellin (furanochromone จาก Ammi visnaga) ใช้ขยายหลอดลมและหลอดเลือดหัวใจ"},
-{"t":"Coumarins","q":"Aflatoxin จาก Aspergillus flavus มีลักษณะอย่างไร","a":"เป็น coumarin-containing fungal toxin ทนความร้อน ไม่สลายง่าย โดย aflatoxin B1 เป็นพิษมากที่สุด","w":["เป็นยาระบายจากรา ที่สลายง่ายด้วยความร้อน","เป็นวิตามินที่ได้จากสาหร่าย","เป็นสารปรุงรสที่ไม่เป็นพิษ","เป็น lignan ที่ใช้เป็นยาต้านมะเร็ง"],"e":"Aflatoxin ผลิตโดย A. flavus และ A. parasiticus; สารกลุ่ม coumarin มีวงแหวน lactone ถูกไฮโดรไลซ์ช้า ๆ ด้วยด่างเจือจาง"},
-{"t":"Lignins & lignans","q":"ข้อใดอธิบายความแตกต่างระหว่าง lignin และ lignans ได้ถูกต้อง","a":"Lignin เป็นพอลิเมอร์แตกกิ่งของ monolignols (p-coumaryl, coniferyl, sinapyl alcohol) ให้ความแข็งแรง ; lignans เป็น dimer ของ monolignols (เช่น pinoresinol)","w":["Lignin เป็น dimer ; lignans เป็นพอลิเมอร์ที่ให้ความแข็งแรง","ทั้งสองเป็นไขมัน (triglycerides)","ทั้งสองเป็น alkaloids","Lignin พบในสัตว์ ; lignans พบเฉพาะในเห็ด"],"e":"Lignin พบมากเป็นอันดับสองในพืช เป็นอุปสรรคต่อการย่อยสลายโดยจุลินทรีย์"},
-{"t":"Lignans","q":"ข้อใดจับคู่ lignan กับแหล่งและการใช้ประโยชน์ได้ถูกต้อง","a":"Podophyllotoxin จาก Podophyllum (Berberidaceae) → อนุพันธ์ etoposide, teniposide ใช้ในเคมีบำบัด ; sesamin จากน้ำมันงา (Sesamum indicum)","w":["Podophyllotoxin จากงา → ใช้เป็นยาระบาย ; sesamin จาก Podophyllum","Macelignan จากงา → เป็นยาชา ; Podophyllotoxin จากจันทน์เทศ","Etoposide จากกาแฟ → ลดความดัน","Sesamin จากกานพลู → ใช้ทาแผล"],"e":"Macelignan เป็น dibenzylbutane-type lignan ของจันทน์เทศ (Myristica fragrans)"},
-{"t":"Flavonoids","q":"โครงสร้างพื้นฐานของ flavonoids และสารตั้งต้นในการสังเคราะห์คืออะไร","a":"C6–C3–C6 (สองวงแหวนอะโรมาติกเชื่อมด้วยสะพาน 3 คาร์บอน) สร้างจาก p-coumaroyl-CoA กับ malonyl-CoA 3 โมเลกุล โดย chalcone synthase ได้ chalcone","w":["C6–C1 สร้างจาก acetyl-CoA ล้วน ๆ โดย PAL","C6–C2 สร้างจาก mevalonate โดย terpene synthase","C5 isoprene unit สร้างจาก geranyl diphosphate","C6–C3 สร้างจาก ornithine โดย decarboxylase"],"e":"Stilbene synthase ให้ stilbenes (เช่น resveratrol) จากสารตั้งต้นเดียวกัน; flavonoids ส่วนใหญ่อยู่ในรูป glycoside; ไม่เปิดวงด้วยด่างเพราะเป็น benzo-γ-pyrone"},
-{"t":"Flavonoids","q":"ข้อใดจับคู่กลุ่ม flavonoid กับตัวอย่างสารและแหล่งอาหารได้ถูกต้อง","a":"Flavanones = naringenin, hesperetin (Citrus) ; Isoflavones = genistein, daidzein (ถั่วเหลือง, phytoestrogens) ; Flavanols = catechins, EGCG (ชาเขียว)","w":["Flavanones = genistein (ถั่วเหลือง) ; Isoflavones = naringenin (ส้ม)","Flavonols = EGCG (ชาเขียว) ; Flavanols = quercetin (หัวหอม)","Anthocyanins = apigenin (ขึ้นฉ่าย) ; Flavones = cyanidin (เบอร์รี่)","Chalcones = quercetin ; Flavones = xanthohumol"],"e":"Flavonols: quercetin, kaempferol (หัวหอม แอปเปิล); Flavones: apigenin, luteolin (ขึ้นฉ่าย พาร์สลีย์ คาโมมายล์); Anthocyanins: cyanidin, delphinidin (เบอร์รี่ ข้าวเหนียวดำ); Chalcones: xanthohumol (hops)"},
-{"t":"Flavonoids","q":"ลักษณะเฉพาะของ isoflavones ที่ต่างจาก flavonoids กลุ่มอื่นคืออะไร","a":"วงแหวน B ย้ายไปติดที่ตำแหน่ง C3 ของวง C (กลุ่มอื่นติดที่ C2) และทำหน้าที่เป็น phytoestrogens","w":["วงแหวน B ติดที่ C2 เหมือนกลุ่มอื่น และไม่มีฤทธิ์คล้ายเอสโตรเจน","ไม่มีวงแหวน C","วงแหวน B ติดที่ C4 และเป็นสีย้อมแดง","เป็นโซ่เปิดที่ไม่มีวงแหวน"],"e":"พบจำกัดในพืชตระกูลถั่ว (soybeans, kudzu); anthocyanins เป็นสีที่เปลี่ยนตาม pH (แดงถึงน้ำเงิน)"},
-{"t":"พืชสมุนไพร","q":"มะหาด (Artocarpus lacucha) และแกแล (Maclura cochinchinensis) ในวงศ์ Moraceae มีสารสำคัญและการใช้อย่างไร","a":"มะหาด: แก่นมี oxyresveratrol (stilbene) ใช้เป็นยาถ่ายพยาธิ (ปวกหาด) ; แกแล: แก่นมี morin, oxyresveratrol บำรุงเลือด ขับน้ำเหลือง","w":["มะหาด: ใบมี sennosides ใช้เป็นยาระบาย ; แกแล: ผลมี thymoquinone","มะหาด: รากมี plumbagin ; แกแล: เมล็ดมี artemisinin","มะหาด: เปลือกมี nicotine ; แกแล: ดอกมี codeine","ทั้งสองไม่มีสาร phenolic"],"e":"ขนุน (Artocarpus heterophyllus) แก่นใช้ย้อมจีวรพระ; หม่อน (Morus alba) ใบขับเสมหะ ผลบำรุง"}
-]}
+{
+ "id": "pg03",
+ "no": 3,
+ "title": "Phenolic compounds & Phenylpropanoids",
+ "file": "3.1 phenylpropanoids",
+ "questions": [
+  {
+   "t": "ชีวสังเคราะห์",
+   "q": "สารกลุ่ม phenolics ส่วนใหญ่ในพืชสร้างผ่านวิถีใดและเอนไซม์สำคัญตัวแรกคืออะไร",
+   "a": "Shikimic acid pathway ผ่าน phenylalanine โดย PAL ได้ cinnamic acid",
+   "w": [
+    "Mevalonic acid pathway โดยเอนไซม์ HMG-CoA reductase ได้ isoprene unit",
+    "Malonic acid pathway ล้วน ๆ โดยเอนไซม์ polyketide synthase ได้ poly-β-keto chain",
+    "MEP pathway โดยเอนไซม์ geranyl synthase ได้ geranyl diphosphate",
+    "Calvin cycle โดยเอนไซม์ RuBisCO ได้ phosphoglycerate"
+   ],
+   "e": "วิถี shikimate พบในพืช/จุลินทรีย์ ไม่มีในสัตว์; PAL ถูกเหนี่ยวนำได้ด้วยการติดเชื้อรา ธาตุอาหารต่ำ และแสงจัด"
+  },
+  {
+   "t": "โครงสร้าง",
+   "q": "phenolic compound คือสารที่มีโครงสร้างเด่นอย่างไร",
+   "a": "มีหมู่ hydroxyl (–OH) เกาะบนวงแหวนอะโรมาติก (aromatic ring)",
+   "w": [
+    "มีหมู่ amine เกาะบนวงแหวน pyridine ซึ่งมีไนโตรเจนเป็นองค์ประกอบ",
+    "มีวงแหวน steroid ที่มีหมู่ ketone ที่ตำแหน่ง C3",
+    "เป็นโซ่คาร์บอนอิ่มตัวที่ไม่มีวงแหวนและมีหมู่ carboxyl",
+    "มี sugar เกาะกับ isoprene unit ผ่านพันธะ glycosidic"
+   ],
+   "e": "Phenolics แบ่งตามจำนวนคาร์บอน เช่น C6–C1 (phenolic acids), C6–C3 (phenylpropanoids, coumarins), C6–C3–C6 (flavonoids), lignans, tannins"
+  },
+  {
+   "t": "Simple phenolics",
+   "q": "สารใดจัดเป็น phenolic glycoside ที่ใช้ทำให้ผิวขาวและ hydroquinone ใช้ในครีมไม่ควรใช้ต่อเนื่องเพราะเหตุใด",
+   "a": "Arbutin ; hydroquinone อาจทำให้ผิวด่างขาว (depigmentation)",
+   "w": [
+    "Salicin ; hydroquinone ทำให้ผิวคล้ำเข้มขึ้นอย่างถาวร",
+    "Vanillin ; hydroquinone ทำให้ผิวหนังหนาขึ้นและแห้ง",
+    "Aspirin ; hydroquinone ทำให้เกิดผมหงอกก่อนวัย",
+    "Caffeic acid ; hydroquinone ไม่มีผลข้างเคียงจึงใช้ต่อเนื่องได้"
+   ],
+   "e": "Arbutin ใช้เป็น skin lightening agent และต้านการติดเชื้อทางเดินปัสสาวะ"
+  },
+  {
+   "t": "Simple phenolics",
+   "q": "ข้อใดถูกต้องเกี่ยวกับ salicin, methyl salicylate และ aspirin",
+   "a": "Salicin ให้ salicylic acid ; methyl salicylate ทาแก้ปวดกล้ามเนื้อ ; aspirin คือ acetylsalicylic acid",
+   "w": [
+    "Salicin เป็นสารกลุ่ม alkaloid จาก Papaveraceae ; methyl salicylate ใช้เป็นยาระบาย ; aspirin คือ salicylic acid ล้วน",
+    "Aspirin พบมากในผักโขมโดยธรรมชาติ ; methyl salicylate เป็นสีย้อมผ้า ; salicin คือ acetylsalicylic acid",
+    "ทั้งสามชนิดไม่เกี่ยวข้องกับ salicylic acid และได้จากแหล่งสังเคราะห์ล้วน",
+    "Methyl salicylate ได้จาก vanilla pods ; salicin ได้จาก Papaver ; aspirin ได้จากเปลือกอบเชย"
+   ],
+   "e": "Salicylic acid: ลดปวด ต้านอักเสบ ลดไข้; aspirin ได้จาก salicylic acid + acetic anhydride | รายละเอียดคำตอบ: Salicin จาก Salicaceae ให้ salicylic acid ; methyl salicylate (น้ำมันระกำ) ทาแก้ปวดกล้ามเนื้อ ; aspirin คือ acetylsalicylic acid"
+  },
+  {
+   "t": "Simple phenolics",
+   "q": "วานิลลา (Vanilla planifolia) ให้สารหอม vanillin ในรูปใดและข้อเท็จจริงใดถูกต้อง",
+   "a": "ในฝักสดเป็น β-D-glucoside ; vanillin ส่วนใหญ่ได้จากการสังเคราะห์",
+   "w": [
+    "ในฝักสดอยู่ในรูป aglycone อิสระล้วน ; vanillin ส่วนใหญ่สกัดจากฝักธรรมชาติ",
+    "ในฝักอยู่ในรูป alkaloid ; vanillin ส่วนใหญ่ได้จากการกลั่นด้วยไอน้ำ",
+    "ในฝักอยู่ในรูป tannin ; vanillin ไม่ใช้เป็นกลิ่นอาหาร",
+    "ไม่พบ vanillin ในพืชเลย ; vanillin ทั้งหมดได้จากปิโตรเลียม"
+   ],
+   "e": "การผลิต vanillin 1 kg ต้องใช้ฝักวานิลลาประมาณ 500 kg จึงนิยมสังเคราะห์/ใช้ชีวแปลง เช่น จาก eugenol, ferulic acid | รายละเอียดคำตอบ: ในฝักสดอยู่ในรูป β-D-glucoside ; vanillin ส่วนใหญ่ (>99%) ได้จากการสังเคราะห์/ชีวแปลง"
+  },
+  {
+   "t": "Hydroxycinnamic acids",
+   "q": "Chlorogenic acid เป็นสารชนิดใดและพบมากในพืชใด",
+   "a": "เอสเทอร์ของ caffeic acid กับ quinic acid ; พบมากในกาแฟ",
+   "w": [
+    "เอสเทอร์ของ gallic acid กับ glucose ; พบมากในชาเขียวและใบฝรั่ง",
+    "เอสเทอร์ของ ferulic acid กับ shikimic acid ; พบมากในวานิลลา",
+    "เป็นแอลคาลอยด์ที่มีไนโตรเจน ; พบมากในฝิ่นและโกโก้",
+    "เป็นไกลโคไซด์ของ anthraquinone ; พบมากในมะขามแขกและคูน"
+   ],
+   "e": "Rosmarinic acid = เอสเทอร์ของ caffeic acid กับ 3,4-dihydroxyphenyllactic acid พบในวงศ์ Lamiaceae (rosemary, กะเพรา, โหระพา) | รายละเอียดคำตอบ: เอสเทอร์ของ caffeic acid กับ quinic acid ; พบมากในกาแฟและพืชวงศ์ Asteraceae"
+  },
+  {
+   "t": "วงศ์พืช",
+   "q": "ลักษณะเด่นของพืชวงศ์ Lamiaceae (Labiatae) คือข้อใด",
+   "a": "ลำต้นสี่เหลี่ยม ใบออกตรงข้าม ดอก 2 ปาก มีต่อมน้ำมัน",
+   "w": [
+    "ลำต้นกลม ใบประกอบออกสลับ ดอกสมมาตรรัศมี และไม่มีกลิ่นหอม",
+    "ช่อดอกแบบ capitulum มี involucral bract และ pappus ที่ผล",
+    "ช่อดอกแบบ umbel ผลแบบ schizocarp แยกเป็นสองซีก",
+    "มีน้ำยางสีขาวและใบออกเป็นวงรอบข้อ ดอกไม่มีกลีบ"
+   ],
+   "e": "ตัวอย่าง: สะระแหน่ กะเพรา โหระพา แมงลักคา หญ้าหนวดแมว (ขับปัสสาวะ ระวังโพแทสเซียมสูงในผู้ป่วยโรคหัวใจ/ไต) | รายละเอียดคำตอบ: ลำต้นสี่เหลี่ยม ใบเดี่ยวออกตรงข้าม ดอกเชื่อมเป็น 2 ปาก (bilabiate) มีต่อมน้ำมันหอม"
+  },
+  {
+   "t": "วงศ์พืช",
+   "q": "ลักษณะช่อดอกแบบ capitulum (head) ที่มี disc flower และ ray flower พบในวงศ์ใด",
+   "a": "Asteraceae เช่น ทานตะวัน",
+   "w": [
+    "Lamiaceae เช่น กะเพรา โหระพา สะระแหน่",
+    "Rubiaceae เช่น ยอ กาแฟ ชิงโคนา",
+    "Apiaceae เช่น ผักชี ขึ้นฉ่าย เทียนข้าวเปลือก",
+    "Rutaceae เช่น ส้ม มะนาว มะกรูด"
+   ],
+   "e": "ผลแบบ cypsela (achene) มี pappus; Apiaceae มีช่อดอก umbel และผลแบบ schizocarp; Rubiaceae (กาแฟ ยอ) ใบตรงข้ามมี interpetiolar stipule | รายละเอียดคำตอบ: Asteraceae (Compositae) เช่น ทานตะวัน สาบเสือ"
+  },
+  {
+   "t": "Coumarins",
+   "q": "coumarin และ umbelliferone มีโครงสร้างและบทบาทอย่างไร",
+   "a": "coumarin = benzo-α-pyrone ; umbelliferone = 7-hydroxycoumarin ดูดกลืน UV",
+   "w": [
+    "coumarin = benzo-γ-pyrone ; umbelliferone = 5-hydroxycoumarin ดูดกลืน UV",
+    "coumarin = flavone ที่มีน้ำตาล ; umbelliferone เป็น alkaloid ที่ดูดกลืน UV",
+    "coumarin = anthraquinone ; umbelliferone = tannin ที่ดูดกลืน UV",
+    "coumarin = benzo-α-pyrone ; umbelliferone ไม่ดูดกลืน UV และเป็นพิษ"
+   ],
+   "e": "Skimmin = glycoside ของ umbelliferone; aglycone ละลายใน non-polar solvents ส่วน glycoside ละลายน้ำและแอลกอฮอล์ | รายละเอียดคำตอบ: coumarin = benzo-α-pyrone ; umbelliferone = 7-hydroxycoumarin ดูดกลืน UV จึงปกป้องผิว"
+  },
+  {
+   "t": "Coumarins",
+   "q": "ข้อใดจัดเป็น simple coumarins พร้อมแหล่งพืช",
+   "a": "Umbelliferone, aesculin, scopoletin (ยอ)",
+   "w": [
+    "Psoralen (Ammi majus), bergapten และ khellin",
+    "Dicoumarol (Melilotus), warfarin และ aflatoxin",
+    "Podophyllotoxin, sesamin และ macelignan",
+    "Quercetin, kaempferol และ apigenin"
+   ],
+   "e": "ชะลูด (Alyxia reinwardtii, Apocynaceae) เปลือกในมีกลิ่นหอมจาก coumarin ใช้แต่งกลิ่นยาหอม | รายละเอียดคำตอบ: Umbelliferone, aesculin (Aesculus hippocastanum), scopoletin (ยอ Morinda citrifolia)"
+  },
+  {
+   "t": "Furanocoumarins",
+   "q": "Furanocoumarins (psoralen type) มีฤทธิ์และข้อควรระวังอย่างไร",
+   "a": "Psoralen ใช้รักษา psoriasis จับ DNA เมื่อโดนแสง จึง phototoxic",
+   "w": [
+    "Psoralen เป็นยาระบายที่ไม่ไวต่อแสงและไม่ทำปฏิกิริยากับ DNA",
+    "Psoralen ยับยั้งการแข็งตัวของเลือดและไม่เป็นพิษต่อแสง",
+    "Furanocoumarin ไม่ทำปฏิกิริยากับ DNA จึงปลอดภัยเมื่อโดนแสงแดด",
+    "Furanocoumarin พบเฉพาะในวงศ์ Fabaceae และไม่ไวต่อแสง"
+   ],
+   "e": "พบมากในวงศ์ Apiaceae และ Rutaceae; Bergapten (5-methoxypsoralen) ในน้ำมัน bergamot (Citrus bergamia) ใช้ใน suntan preparations | รายละเอียดคำตอบ: Psoralen จาก Ammi majus ใช้รักษา psoriasis โดยจับ pyrimidine bases ของ DNA เมื่อโดนแสง จึง phototoxic"
+  },
+  {
+   "t": "Furanocoumarins",
+   "q": "เหตุใดการดื่มน้ำเกรปฟรุตจึงมีปฏิกิริยากับยาหลายชนิด",
+   "a": "furanocoumarins ยับยั้ง CYP3A ทำให้ระดับยาเพิ่มขึ้น",
+   "w": [
+    "เกรปฟรุตเร่งเอนไซม์ CYP3A ทำให้ยาถูกทำลายเร็วขึ้นและระดับยาลดลง",
+    "เกรปฟรุตจับกับยาแล้วขับออกทางไตทันทีจนยาไม่ออกฤทธิ์",
+    "เกรปฟรุตไม่มีผลต่อการเมแทบอลิซึมของยาแต่เปลี่ยนสีปัสสาวะ",
+    "เกรปฟรุตลดความเป็นกรดของกระเพาะจนยาแตกตัวผิดปกติ"
+   ],
+   "e": "เกรปฟรุตเป็นลูกผสมระหว่าง Citrus sinensis และ C. maxima; ผลเพิ่มความเสี่ยงต่อ hypotension, rhabdomyolysis เป็นต้น | รายละเอียดคำตอบ: furanocoumarins ในเกรปฟรุตยับยั้ง CYP3A ที่ตับและลำไส้ ทำให้ระดับยา (เช่น simvastatin) เพิ่มขึ้น"
+  },
+  {
+   "t": "Pyranocoumarins",
+   "q": "Dicoumarol ที่เป็นต้นแบบของ warfarin เกิดอย่างไร",
+   "a": "เกิดจากรากับ coumarin ใน sweet clover ที่เสีย",
+   "w": [
+    "สกัดตรงจาก Ammi visnaga ที่สด ใช้เป็นยาขยายหลอดลม",
+    "สร้างจากปฏิกิริยา photodimerization ของ psoralen เมื่อโดนแสง",
+    "พบในเมล็ดงาโดยธรรมชาติ ใช้ลดไขมันในเลือด",
+    "เกิดจาก aflatoxin ในถั่วลิสงที่ขึ้นรา ใช้ลดความดัน"
+   ],
+   "e": "Dicoumarol ใช้เป็น anticoagulant และยาฆ่าหนู; Khellin (furanochromone จาก Ammi visnaga) ใช้ขยายหลอดลมและหลอดเลือดหัวใจ | รายละเอียดคำตอบ: เกิดจากรากับ coumarin ใน sweet clover (Melilotus officinalis) ที่เสีย ได้ bicoumarin ของ 4-hydroxycoumarin ต้านการแข็งตัวของเลือด"
+  },
+  {
+   "t": "Coumarins",
+   "q": "Aflatoxin จาก Aspergillus flavus มีลักษณะอย่างไร",
+   "a": "fungal toxin ทนความร้อน โดย aflatoxin B1 พิษมากที่สุด",
+   "w": [
+    "เป็นยาระบายจากรา ที่สลายง่ายด้วยความร้อนระหว่างการหุงต้ม",
+    "เป็นวิตามินที่ได้จากสาหร่าย ใช้เสริมการแข็งตัวของเลือด",
+    "เป็นสารปรุงรสจากรา ที่ไม่เป็นพิษต่อตับ",
+    "เป็น lignan จากพืชวงศ์ Berberidaceae ที่ใช้ต้านมะเร็ง"
+   ],
+   "e": "Aflatoxin ผลิตโดย A. flavus และ A. parasiticus; สารกลุ่ม coumarin มีวงแหวน lactone ถูกไฮโดรไลซ์ช้า ๆ ด้วยด่างเจือจาง | รายละเอียดคำตอบ: coumarin-containing fungal toxin ทนความร้อน ไม่สลายง่าย โดย aflatoxin B1 เป็นพิษมากที่สุด"
+  },
+  {
+   "t": "Lignins & lignans",
+   "q": "ข้อใดอธิบายความแตกต่างระหว่าง lignin และ lignans ได้ถูกต้อง",
+   "a": "Lignin = พอลิเมอร์ของ monolignols ; lignans = dimer ของ monolignols",
+   "w": [
+    "Lignin = dimer ของ monolignols ; lignans = พอลิเมอร์ที่ให้ความแข็งแรง",
+    "ทั้งสองเป็นไขมัน (triglycerides) ที่พบในเมล็ดพืชน้ำมัน",
+    "ทั้งสองเป็น alkaloids ที่มีไนโตรเจนในโมเลกุล",
+    "Lignin พบในสัตว์ ; lignans พบเฉพาะในเห็ดและรา"
+   ],
+   "e": "Lignin พบมากเป็นอันดับสองในพืช เป็นอุปสรรคต่อการย่อยสลายโดยจุลินทรีย์ | รายละเอียดคำตอบ: Lignin = พอลิเมอร์แตกกิ่งของ monolignols ให้ความแข็งแรง ; lignans = dimer ของ monolignols (เช่น pinoresinol)"
+  },
+  {
+   "t": "Lignans",
+   "q": "ข้อใดจับคู่ lignan กับแหล่งและการใช้ประโยชน์ได้ถูกต้อง",
+   "a": "Podophyllotoxin จาก Podophyllum → etoposide ; sesamin จากงา",
+   "w": [
+    "Podophyllotoxin จากงา → ใช้เป็นยาระบาย ; sesamin จาก Podophyllum",
+    "Macelignan จากงา → เป็นยาชา ; podophyllotoxin จากจันทน์เทศ",
+    "Etoposide จากกาแฟ → ใช้ลดความดัน ; sesamin จากชาเขียว",
+    "Sesamin จากกานพลู → ใช้ทาแผล ; podophyllotoxin จากวานิลลา"
+   ],
+   "e": "Macelignan เป็น dibenzylbutane-type lignan ของจันทน์เทศ (Myristica fragrans) | รายละเอียดคำตอบ: Podophyllotoxin จาก Podophyllum → etoposide, teniposide ใช้เคมีบำบัด ; sesamin จากน้ำมันงา"
+  },
+  {
+   "t": "Flavonoids",
+   "q": "โครงสร้างพื้นฐานของ flavonoids และสารตั้งต้นในการสังเคราะห์คืออะไร",
+   "a": "C6–C3–C6 สร้างจาก p-coumaroyl-CoA กับ malonyl-CoA โดย chalcone synthase",
+   "w": [
+    "C6–C1 สร้างจาก acetyl-CoA ล้วน ๆ โดยเอนไซม์ PAL ได้ benzoic acid",
+    "C6–C2 สร้างจาก mevalonate โดย terpene synthase ได้ terpenoid",
+    "C5 isoprene unit สร้างจาก geranyl diphosphate ได้ monoterpene",
+    "C6–C3 สร้างจาก ornithine โดย decarboxylase ได้ tropane"
+   ],
+   "e": "Stilbene synthase ให้ stilbenes (เช่น resveratrol) จากสารตั้งต้นเดียวกัน; flavonoids ส่วนใหญ่อยู่ในรูป glycoside; ไม่เปิดวงด้วยด่างเพราะเป็น benzo-γ-pyrone | รายละเอียดคำตอบ: C6–C3–C6 สร้างจาก p-coumaroyl-CoA กับ malonyl-CoA 3 โมเลกุล โดย chalcone synthase ได้ chalcone"
+  },
+  {
+   "t": "Flavonoids",
+   "q": "ข้อใดจับคู่กลุ่ม flavonoid กับตัวอย่างสารและแหล่งอาหารได้ถูกต้อง",
+   "a": "Flavanones = naringenin ; Isoflavones = genistein ; Flavanols = EGCG (ชาเขียว)",
+   "w": [
+    "Flavanones = genistein (ถั่วเหลือง) ; Isoflavones = naringenin (ส้ม) ; Flavanols = EGCG (ชาเขียว)",
+    "Flavonols = EGCG (ชาเขียว) ; Flavanols = quercetin (หัวหอม) ; Flavanones = genistein (ถั่วเหลือง)",
+    "Anthocyanins = apigenin (ขึ้นฉ่าย) ; Flavones = cyanidin (เบอร์รี่) ; Isoflavones = naringenin (ส้ม)",
+    "Chalcones = quercetin (หัวหอม) ; Flavones = xanthohumol (ฮอป) ; Flavanols = genistein (ถั่วเหลือง)"
+   ],
+   "e": "Flavonols: quercetin, kaempferol (หัวหอม แอปเปิล); Flavones: apigenin, luteolin (ขึ้นฉ่าย พาร์สลีย์ คาโมมายล์); Anthocyanins: cyanidin, delphinidin (เบอร์รี่ ข้าวเหนียวดำ); Chalcones: xanthohumol (hops) | รายละเอียดคำตอบ: Flavanones = naringenin (Citrus) ; Isoflavones = genistein, daidzein (ถั่วเหลือง) ; Flavanols = catechins, EGCG (ชาเขียว)"
+  },
+  {
+   "t": "Flavonoids",
+   "q": "ลักษณะเฉพาะของ isoflavones ที่ต่างจาก flavonoids กลุ่มอื่นคืออะไร",
+   "a": "วงแหวน B ติดที่ C3 (กลุ่มอื่นติดที่ C2) และเป็น phytoestrogens",
+   "w": [
+    "วงแหวน B ติดที่ C2 เหมือนกลุ่มอื่น และไม่มีฤทธิ์คล้ายเอสโตรเจน",
+    "ไม่มีวงแหวน C จึงเป็นโมเลกุลแบบเปิด และเป็น phytoestrogens",
+    "วงแหวน B ติดที่ C4 ของวง C และเป็นสีย้อมแดง",
+    "เป็นโซ่เปิดที่ไม่มีวงแหวนและทำหน้าที่เป็นสารต้านการแข็งตัวของเลือด"
+   ],
+   "e": "พบจำกัดในพืชตระกูลถั่ว (soybeans, kudzu); anthocyanins เป็นสีที่เปลี่ยนตาม pH (แดงถึงน้ำเงิน) | รายละเอียดคำตอบ: วงแหวน B ย้ายไปติดที่ C3 ของวง C (กลุ่มอื่นติดที่ C2) และเป็น phytoestrogens"
+  },
+  {
+   "t": "พืชสมุนไพร",
+   "q": "มะหาด (Artocarpus lacucha) และแกแล (Maclura cochinchinensis) ในวงศ์ Moraceae มีสารสำคัญและการใช้อย่างไร",
+   "a": "มะหาด: แก่นมี oxyresveratrol ใช้ถ่ายพยาธิ ; แกแล: แก่นมี morin บำรุงเลือด",
+   "w": [
+    "มะหาด: ใบมี sennosides ใช้เป็นยาระบาย ; แกแล: ผลมี thymoquinone ใช้ขับปัสสาวะ",
+    "มะหาด: รากมี plumbagin ใช้ฆ่าเชื้อ ; แกแล: เมล็ดมี artemisinin ใช้ต้านมาลาเรีย",
+    "มะหาด: เปลือกมี nicotine ใช้กระตุ้นประสาท ; แกแล: ดอกมี codeine ใช้แก้ไอ",
+    "ทั้งสองไม่มีสาร phenolic และใช้เป็นอาหารสัตว์เท่านั้น"
+   ],
+   "e": "ขนุน (Artocarpus heterophyllus) แก่นใช้ย้อมจีวรพระ; หม่อน (Morus alba) ใบขับเสมหะ ผลบำรุง | รายละเอียดคำตอบ: มะหาด: แก่นมี oxyresveratrol (stilbene) ใช้ถ่ายพยาธิ ; แกแล: แก่นมี morin, oxyresveratrol บำรุงเลือด"
+  }
+ ]
+}

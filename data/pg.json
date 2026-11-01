@@ -14,14 +14,14 @@
     {
      "t": "คุณสมบัติ",
      "q": "น้ำมันหอมระเหย (volatile oils) ต่างจากน้ำมันระเหยยาก (fixed oils) อย่างไร",
-     "a": "Volatile oils เป็นสารผสมของ terpenes/phenylpropanoids ระเหยได้ที่อุณหภูมิห้องและไม่ทำให้กระดาษโปร่งแสง ส่วน fixed oils เป็น triglycerides ทำให้กระดาษโปร่งแสง",
+     "a": "Volatile oils เป็นสารผสม terpenes ระเหยได้และไม่ทำกระดาษโปร่งแสง ส่วน fixed oils เป็น triglycerides ทำกระดาษโปร่งแสง",
      "w": [
-      "Volatile oils เป็น triglycerides และทำให้กระดาษโปร่งแสง ส่วน fixed oils ระเหยได้ที่อุณหภูมิห้อง",
-      "ทั้งสองชนิดเป็น triglycerides แต่ต่างกันที่สี",
-      "Volatile oils ไม่ระเหยที่อุณหภูมิห้อง ส่วน fixed oils ระเหยเร็ว",
-      "ทั้งสองชนิดไม่ละลายในตัวทำละลายอินทรีย์ใดเลย"
+      "Volatile oils เป็น triglycerides ไม่ระเหยที่อุณหภูมิห้อง ส่วน fixed oils เป็นสารผสม terpenes ที่ทำให้กระดาษโปร่งแสง",
+      "ทั้งสองชนิดเป็นสารผสม terpenes/phenylpropanoids ระเหยได้ที่อุณหภูมิห้อง และต่างกันที่ปริมาณน้ำในองค์ประกอบ",
+      "Volatile oils เป็น triglycerides ที่ทำให้กระดาษโปร่งแสง ส่วน fixed oils ระเหยได้ที่อุณหภูมิห้อง",
+      "Volatile oils เป็นสารผสม terpenes ที่ไม่ระเหยที่อุณหภูมิห้อง ส่วน fixed oils เป็น triglycerides ที่ระเหยได้ง่าย"
      ],
-     "e": "ตัวอย่าง fixed oil: น้ำมันมะพร้าว; volatile oil ประกอบด้วยสารหลาย ๆ ชนิด มีทั้ง major และ minor components"
+     "e": "ตัวอย่าง fixed oil: น้ำมันมะพร้าว; volatile oil ประกอบด้วยสารหลาย ๆ ชนิด มีทั้ง major และ minor components | รายละเอียดคำตอบ: Volatile oils เป็นสารผสมของ terpenes/phenylpropanoids ระเหยได้ที่อุณหภูมิห้องและไม่ทำให้กระดาษโปร่งแสง ส่วน fixed oils เป็น triglycerides ทำให้กระดาษโปร่งแสง"
     },
     {
      "t": "ชีวสังเคราะห์",
@@ -29,9 +29,9 @@
      "a": "Geranyl diphosphate (C10) และ farnesyl diphosphate (C15)",
      "w": [
       "Farnesyl diphosphate (C15) และ geranyl diphosphate (C10)",
-      "Shikimic acid และ coumaryl alcohol",
-      "Acetyl-CoA และ malonyl-CoA",
-      "Cinnamic acid และ coniferyl alcohol"
+      "Isopentenyl diphosphate (C5) และ geranyl diphosphate (C10)",
+      "Geranylgeranyl diphosphate (C20) และ farnesyl diphosphate (C15)",
+      "Farnesyl diphosphate (C15) และ geranylgeranyl diphosphate (C20)"
      ],
      "e": "Terpenes สร้างผ่าน mevalonate และ deoxyxylulose phosphate pathway; phenylpropanoids สร้างผ่าน shikimate pathway"
     },
@@ -50,24 +50,24 @@
     {
      "t": "การสะสมในพืช",
      "q": "ข้อใดจับคู่ชนิดของ oil gland กับลักษณะการเกิดได้ถูกต้อง",
-     "a": "Schizogenous = เกิดจากการแยกของ middle lamella เป็นช่อง (เช่น Apiaceae, Pinaceae) ; Lysigenous = เกิดจากเซลล์สลายตัวเป็นช่อง (เช่น Rutaceae)",
+     "a": "Schizogenous = middle lamella แยกเป็นช่อง (Apiaceae) ; Lysigenous = เซลล์สลายตัวเป็นช่อง (Rutaceae)",
      "w": [
-      "Schizogenous = เซลล์สลายตัวเป็นช่อง (Rutaceae) ; Lysigenous = middle lamella แยกกัน (Apiaceae)",
-      "Schizogenous และ lysigenous เหมือนกันและพบเฉพาะใน Lamiaceae",
-      "Lysigenous พบเฉพาะใน Pinaceae ที่เป็นต่อมขนบนผิว",
-      "ทั้งสองแบบพบเฉพาะในรากพืช"
+      "Schizogenous = เซลล์สลายตัวเป็นช่อง (Rutaceae) ; Lysigenous = middle lamella แยกเป็นช่อง (Apiaceae)",
+      "Schizogenous = ต่อมขนบนผิวใบ (Lamiaceae) ; Lysigenous = middle lamella แยกเป็นช่อง (Apiaceae)",
+      "Schizogenous = เซลล์สลายตัวเป็นช่อง (Pinaceae) ; Lysigenous = ต่อมขนบนผิวใบ (Lamiaceae)",
+      "Schizogenous = เซลล์สลายตัวเป็นช่อง (Apiaceae) ; Lysigenous = ต่อมขนบนผิวใบ (Rutaceae)"
      ],
      "e": "Schizolysigenous = ผสมทั้งสองแบบ (Rutaceae); Oil cell พบใน Zingiberaceae, Myristicaceae, Lauraceae, Piperaceae; glandular trichome พบใน Lamiaceae, Asteraceae"
     },
     {
      "t": "การสะสมในพืช",
      "q": "พืชวงศ์ใดสะสมน้ำมันหอมระเหยใน glandular trichome หรือ glandular scale บนผิว (epidermis)",
-     "a": "Lamiaceae (เช่น Mentha piperita), Asteraceae และ Piperaceae",
+     "a": "Lamiaceae, Asteraceae และ Piperaceae",
      "w": [
-      "Rutaceae เท่านั้น",
-      "Pinaceae และ Apiaceae เท่านั้น",
-      "Zingiberaceae เท่านั้น",
-      "Myristicaceae เท่านั้น"
+      "Rutaceae, Pinaceae และ Apiaceae",
+      "Zingiberaceae, Myristicaceae และ Lauraceae",
+      "Apiaceae, Rutaceae และ Myrtaceae",
+      "Pinaceae, Lauraceae และ Zingiberaceae"
      ],
      "e": "ต่อมขนสร้างน้ำมันหอมระเหยแล้วเก็บไว้บนผิว เช่น peppermint, lavender, กัญชา"
     },
@@ -76,65 +76,65 @@
      "q": "น้ำมันหอมระเหยชนิดใดมีความหนาแน่นสูงกว่าน้ำ (d > 1)",
      "a": "น้ำมันกานพลู น้ำมันอบเชย และน้ำมันแฝกหอม",
      "w": [
-      "น้ำมันหอมระเหยส่วนใหญ่ทุกชนิด",
-      "น้ำมันเปปเปอร์มินต์และน้ำมันลาเวนเดอร์",
-      "น้ำมันตะไคร้และน้ำมันมะกรูด",
-      "น้ำมันสนและน้ำมันยูคาลิปตัส"
+      "น้ำมันเปปเปอร์มินต์ น้ำมันลาเวนเดอร์ และน้ำมันสะระแหน่",
+      "น้ำมันตะไคร้ น้ำมันมะกรูด และน้ำมันเลมอน",
+      "น้ำมันสน น้ำมันยูคาลิปตัส และน้ำมันส้ม",
+      "น้ำมันกระวาน น้ำมันขิง และน้ำมันผิวมะนาว"
      ],
      "e": "น้ำมันหอมระเหยส่วนมากเบากว่าน้ำ (d < 1) ต้องเติม xylene ในเครื่อง Clevenger เมื่อน้ำมันหนักกว่าน้ำเพื่อให้แยกชั้นได้"
     },
     {
      "t": "การควบคุมคุณภาพ",
      "q": "การควบคุมคุณภาพน้ำมันหอมระเหย ค่า/เครื่องมือใดจับคู่ถูกต้อง",
-     "a": "ดัชนีหักเห = Refractometer ; ค่าเบี่ยงเบนแสง (optical rotation) = Polarimeter",
+     "a": "ดัชนีหักเห = Refractometer ; ค่าเบี่ยงเบนแสง = Polarimeter",
      "w": [
       "ดัชนีหักเห = Polarimeter ; ค่าเบี่ยงเบนแสง = Refractometer",
       "ดัชนีหักเห = pH meter ; ค่าเบี่ยงเบนแสง = Spectrophotometer",
       "ดัชนีหักเห = Viscometer ; ค่าเบี่ยงเบนแสง = Densitometer",
-      "ไม่มีเครื่องมือใดวัดค่าเหล่านี้ได้"
+      "ดัชนีหักเห = Refractometer ; ค่าเบี่ยงเบนแสง = pH meter"
      ],
      "e": "ค่าเหล่านี้มีความจำเพาะต่อน้ำมันแต่ละชนิด ใช้เปรียบเทียบกับค่ามาตรฐานเพื่อบอกความบริสุทธิ์"
     },
     {
      "t": "การควบคุมคุณภาพ",
      "q": "ค่า Acid value ของน้ำมันหอมระเหยที่สูงบ่งบอกถึงอะไร",
-     "a": "การเสื่อมสภาพ ออกซิเดชัน หรือการปลอมปนด้วยสารกรด/ไขมัน (ค่าต่ำ = บริสุทธิ์และสด)",
+     "a": "น้ำมันเสื่อมสภาพหรือถูกออกซิไดซ์",
      "w": [
-      "น้ำมันบริสุทธิ์และสดมาก",
-      "น้ำมันมีค่าความหนาแน่นต่ำเสมอ",
-      "น้ำมันมีค่าการหักเหแสงสูงเสมอ",
-      "น้ำมันไม่มีการเปลี่ยนแปลงใด ๆ"
+      "น้ำมันบริสุทธิ์และสดมาก ไม่มีการปลอมปน",
+      "น้ำมันมีความหนาแน่นลดลงเมื่อเก็บไว้นาน",
+      "น้ำมันมีค่าดัชนีหักเหสูงกว่าปกติเสมอ",
+      "น้ำมันมีปริมาณ terpene hydrocarbons สูงขึ้นมาก"
      ],
-     "e": "วัดโดยละลายน้ำมัน 10 g ใน ethanol:ether (1:1) แล้วไทเทรตด้วย 0.1 M ethanolic KOH โดยใช้ phenolphthalein"
+     "e": "วัดโดยละลายน้ำมัน 10 g ใน ethanol:ether (1:1) แล้วไทเทรตด้วย 0.1 M ethanolic KOH โดยใช้ phenolphthalein | รายละเอียดคำตอบ: น้ำมันเสื่อมสภาพ ถูกออกซิไดซ์ หรือปลอมปนด้วยกรดไขมัน"
     },
     {
      "t": "องค์ประกอบ",
      "q": "สารกลุ่มใดจัดเป็น monoterpene/sesquiterpene hydrocarbons และ phenols ตามลำดับ",
-     "a": "Limonene, α-pinene, zingiberene ; Eugenol, thymol",
+     "a": "Limonene, zingiberene ; Eugenol, thymol",
      "w": [
       "Eugenol, thymol ; Limonene, α-pinene",
       "Menthol, geraniol ; Camphor, carvone",
       "Cinnamaldehyde, citral ; Anethole, myristicin",
       "Linalyl acetate ; Ascaridole"
      ],
-     "e": "Alcohols: geraniol, linalool, menthol; Aldehydes: cinnamaldehyde, citral, citronellal; Ketones: camphor, carvone, thujone; Ethers: anethole, myristicin; Peroxide: ascaridole; Esters: linalyl acetate, menthyl acetate"
+     "e": "Alcohols: geraniol, linalool, menthol; Aldehydes: cinnamaldehyde, citral, citronellal; Ketones: camphor, carvone, thujone; Ethers: anethole, myristicin; Peroxide: ascaridole; Esters: linalyl acetate, menthyl acetate | รายละเอียดคำตอบ: Limonene, α-pinene, zingiberene ; Eugenol, thymol"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "โกฐเชียง (Angelica sinensis) อยู่ในวงศ์ใดและมีสารสำคัญใด",
-     "a": "Apiaceae ; alkyl phthalides (Z-ligustilide), ferulic acid",
+     "a": "Apiaceae ; Z-ligustilide, ferulic acid",
      "w": [
-      "Asteraceae ; artemisinin",
-      "Caprifoliaceae ; valeranone",
-      "Lauraceae ; cinnamaldehyde",
-      "Rutaceae ; bergapten"
+      "Asteraceae ; sesquiterpene lactone (artemisinin)",
+      "Caprifoliaceae ; valepotriates (valeranone)",
+      "Lauraceae ; phenylpropanoid (cinnamaldehyde)",
+      "Rutaceae ; furanocoumarins (bergapten)"
      ],
-     "e": "โกฐเชียง (ตังกุย) บำรุงเลือด ปรับรอบเดือน ไม่ควรใช้ในหญิงตั้งครรภ์ และระวังใช้ร่วมกับยา antiplatelet"
+     "e": "โกฐเชียง (ตังกุย) บำรุงเลือด ปรับรอบเดือน ไม่ควรใช้ในหญิงตั้งครรภ์ และระวังใช้ร่วมกับยา antiplatelet | รายละเอียดคำตอบ: Apiaceae ; alkyl phthalides (Z-ligustilide), ferulic acid"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "ข้อใดจับคู่พิกัดโกฐกับชื่อวิทยาศาสตร์และสารสำคัญได้ถูกต้อง",
-     "a": "โกฐจุฬาลัมพา = Artemisia annua (artemisinin) ; โกฐชฎามังสี = Nardostachys jatamansi (valeranone)",
+     "a": "โกฐจุฬาลัมพา = Artemisia annua ; โกฐชฎามังสี = Nardostachys jatamansi",
      "w": [
       "โกฐเขมา = Artemisia annua ; โกฐกระดูก = Nardostachys jatamansi",
       "โกฐพุงปลา = Atractylodes lancea ; โกฐหัวบัว = Aucklandia lappa",
@@ -146,110 +146,110 @@
     {
      "t": "พืชสมุนไพร",
      "q": "พิกัดเทียน ข้อใดจับคู่ได้ถูกต้อง",
-     "a": "เทียนข้าวเปลือก = Foeniculum vulgare (trans-anethole) ; เทียนดำ = Nigella sativa (thymoquinone) ; เทียนเยาวพานี = Trachyspermum ammi (thymol)",
+     "a": "เทียนข้าวเปลือก = Foeniculum vulgare ; เทียนดำ = Nigella sativa ; เทียนเยาวพานี = Trachyspermum ammi",
      "w": [
-      "เทียนข้าวเปลือก = Nigella sativa ; เทียนดำ = Foeniculum vulgare",
-      "เทียนตาตั๊กแตน = Cuminum cyminum (cuminaldehyde) ; เทียนขาว = Anethum graveolens (carvone)",
-      "เทียนเยาวพานี = Pimpinella anisum ; เทียนสัตตบุษย์ = Trachyspermum ammi",
-      "เทียนแดง = Carum carvi (วงศ์ Apiaceae)"
+      "เทียนข้าวเปลือก = Nigella sativa ; เทียนดำ = Foeniculum vulgare ; เทียนเยาวพานี = Trachyspermum ammi",
+      "เทียนตาตั๊กแตน = Cuminum cyminum ; เทียนขาว = Anethum graveolens ; เทียนเยาวพานี = Trachyspermum ammi",
+      "เทียนเยาวพานี = Pimpinella anisum ; เทียนสัตตบุษย์ = Trachyspermum ammi ; เทียนดำ = Nigella sativa",
+      "เทียนแดง = Carum carvi ; เทียนข้าวเปลือก = Nigella sativa ; เทียนดำ = Cuminum cyminum"
      ],
      "e": "เทียนตาตั๊กแตน = dill (Anethum graveolens, carvone); เทียนขาว = cumin; เทียนสัตตบุษย์ = anise (trans-anethole); เทียนตากบ = caraway (carvone); เทียนแดง = Lepidium sativum (Brassicaceae)"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "สารสำคัญของกานพลู (Syzygium aromaticum) และการใช้ประโยชน์ที่เกี่ยวข้องคือข้อใด",
-     "a": "Eugenol ซึ่งมีฤทธิ์ฆ่าเชื้อและใช้เป็นยาชาเฉพาะที่ ลดการบีบตัวของลำไส้ ขับลม",
+     "a": "Eugenol ใช้เป็นยาชาเฉพาะที่ ฆ่าเชื้อ และขับลม",
      "w": [
-      "Cinnamaldehyde ใช้เป็นยาลดความดัน",
-      "Thymol ใช้ไล่แมลงเท่านั้น",
-      "Linalool ใช้เป็นยาระบาย",
-      "Camphor ใช้เป็นยานอนหลับ"
+      "Cinnamaldehyde ใช้เป็นยาลดความดันและขับปัสสาวะ",
+      "Thymol ใช้เป็นยาระบายและขับพยาธิตัวตืด",
+      "Linalool ใช้เป็นยาระบายและแก้ไอ",
+      "Camphor ใช้เป็นยานอนหลับและลดความดัน"
      ],
      "e": "กานพลูอยู่ในวงศ์ Myrtaceae ใช้ดอกตูมแก่จัด; ตำรับ: ประสะกานพลู ขับลม"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "ข้อใดถูกต้องเกี่ยวกับจันทน์เทศ (Myristica fragrans)",
-     "a": "มี myristicin ที่ทำให้เกิดอาการหลอนเมื่อรับประทานเกินขนาด (ประมาณ 5 g) และ safrole ถูกจัดเป็นสารก่อมะเร็ง",
+     "a": "มี myristicin ทำให้หลอนเมื่อกินเกินขนาด และ safrole เป็นสารก่อมะเร็ง",
      "w": [
-      "ไม่มีสารที่เป็นพิษและรับประทานได้ไม่จำกัด",
-      "เป็นพืชวงศ์ Lamiaceae และสารหลักคือ menthol",
-      "ให้น้ำมันหอมระเหยแต่ไม่มีไขมัน (fixed oils) เลย",
-      "สารสำคัญคือ cinnamaldehyde"
+      "เป็นพืชวงศ์ Lamiaceae มี menthol เป็นสารหลัก ทำให้รู้สึกเย็น",
+      "มีสารหลักคือ cinnamaldehyde และใช้เป็นยาแก้ปวดฟันเป็นหลัก",
+      "เป็นพืชที่ปลอดภัย รับประทานได้ไม่จำกัดปริมาณ",
+      "ให้เฉพาะน้ำมันหอมระเหย ไม่มี fixed oils และมี eugenol เป็นสารหลัก"
      ],
      "e": "วงศ์ Myristicaceae; ดอกจันทน์คือรกหุ้มเมล็ด ลูกจันทน์คือเมล็ด; มี elemicin, myristicin, safrole"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "โป๊ยกั๊ก (Illicium verum) ต่างจาก Illicium anisatum อย่างไร",
-     "a": "I. verum (Chinese star anise) ใช้เป็นเครื่องเทศและขับลม ส่วน I. anisatum (Japanese star anise) เป็นพิษ",
+     "a": "I. verum ใช้เป็นเครื่องเทศและขับลม ส่วน I. anisatum เป็นพิษ",
      "w": [
-      "I. anisatum ปลอดภัยกว่า I. verum",
-      "ทั้งสองชนิดเป็นเครื่องเทศที่ปลอดภัย",
-      "ทั้งสองชนิดเป็นพิษเท่ากัน",
-      "I. verum เป็นพิษส่วน I. anisatum ใช้เป็นเครื่องเทศ"
+      "I. anisatum ใช้เป็นเครื่องเทศและขับลม ส่วน I. verum เป็นพิษ",
+      "ทั้งสองชนิดใช้เป็นเครื่องเทศและขับลมได้ปลอดภัยเท่ากัน",
+      "ทั้งสองชนิดเป็นพิษต่อระบบประสาทในระดับเดียวกัน",
+      "I. anisatum ปลอดภัยกว่า และใช้เป็นเครื่องเทศแทน I. verum"
      ],
      "e": "โป๊ยกั๊กอยู่ในวงศ์ Illiciaceae; สารหลักคือ trans-anethole"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "Chamomile (Matricaria recutita) ช่วยคลายกังวลและช่วยให้หลับด้วยกลไกใด",
-     "a": "Apigenin จับกับ benzodiazepine receptor และทำให้ GABA จับกับ GABA receptor ได้ดีขึ้น",
+     "a": "Apigenin จับ benzodiazepine receptor ช่วยให้ GABA จับได้ดีขึ้น",
      "w": [
-      "Apigenin ยับยั้งเอนไซม์ HMG-CoA reductase",
-      "Bisabolol กระตุ้น adrenergic receptor โดยตรง",
-      "Eugenol ยับยั้ง GABA receptor",
-      "Menthol เพิ่ม dopamine ในสมอง"
+      "Apigenin ยับยั้งเอนไซม์ HMG-CoA reductase ทำให้ไขมันในเลือดลดลง",
+      "Bisabolol กระตุ้น adrenergic receptor โดยตรงทำให้ใจเต้นช้าลง",
+      "Eugenol ยับยั้ง GABA receptor ทำให้ประสาทสงบลง",
+      "Menthol เพิ่ม dopamine ในสมองทำให้ผ่อนคลาย"
      ],
-     "e": "สารสำคัญ: (−)-α-bisabolol (volatile oil), flavonoids (apigenin, quercetin), coumarins, GABA"
+     "e": "สารสำคัญ: (−)-α-bisabolol (volatile oil), flavonoids (apigenin, quercetin), coumarins, GABA | รายละเอียดคำตอบ: Apigenin จับ benzodiazepine receptor ทำให้ GABA จับ receptor ได้ดีขึ้น"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "ลูกซัด (Trigonella foenum-graecum) มีข้อควรระวังในการใช้เรื่องใด",
-     "a": "มี coumarins จึงเสริมฤทธิ์ warfarin ได้",
+     "a": "มี coumarins จึงเสริมฤทธิ์ warfarin ทำให้เลือดออกง่าย",
      "w": [
-      "ทำให้ฤทธิ์ warfarin ลดลง",
-      "ไม่มีปฏิกิริยากับยาใดเลย",
-      "เป็นพิษต่อไตโดยตรงเสมอ",
-      "มี myristicin ทำให้หลอน"
+      "มี coumarins ที่ลดฤทธิ์ warfarin จึงต้องเพิ่มขนาดยา",
+      "มี myristicin จึงทำให้เกิดอาการหลอนเมื่อกินมาก",
+      "มี tannin มากจนทำให้ดูดซึมยาทุกชนิดเพิ่มขึ้น",
+      "เป็นพิษต่อไตโดยตรงจึงห้ามใช้ในผู้ป่วยโรคไต"
      ],
      "e": "ลูกซัดอยู่ในวงศ์ Fabaceae ใช้ขับลม ลดอักเสบของแผล และขับน้ำนมหลังคลอด"
     },
     {
      "t": "การสกัด",
      "q": "น้ำมันหอมระเหยจากเปลือกผลพืชวงศ์ Rutaceae (เช่น ส้ม มะนาว) นิยมสกัดด้วยวิธีใด",
-     "a": "Expression (cold expression) เพราะน้ำมันอยู่ในต่อมน้ำมันที่ผิวเปลือกและใช้การกลั่นด้วยความร้อนไม่เหมาะ",
+     "a": "Cold expression เพราะน้ำมันอยู่ในต่อมที่ผิวเปลือก",
      "w": [
-      "Enfleurage เท่านั้น",
-      "Water distillation เสมอ",
-      "Soxhlet extraction ด้วย water",
-      "Steam distillation เท่านั้นเพราะทนความร้อนสูง"
+      "Enfleurage เพราะน้ำมันในเปลือกผลมีปริมาณน้อยมาก",
+      "Water distillation เพราะเปลือกผลทนความร้อนได้ดี",
+      "Soxhlet extraction ด้วยน้ำ เพราะน้ำมันละลายน้ำได้ดี",
+      "Steam distillation เพราะน้ำมันทนความร้อนสูงได้"
      ],
-     "e": "น้ำมันที่ได้จากการบีบมีสารไม่ระเหย (wax, pigment, furanocoumarins เช่น bergapten) ซึ่งเป็น phototoxic ต้องกำจัดด้วย fractional distillation และเติม antioxidant (BHT/BHA)"
+     "e": "น้ำมันที่ได้จากการบีบมีสารไม่ระเหย (wax, pigment, furanocoumarins เช่น bergapten) ซึ่งเป็น phototoxic ต้องกำจัดด้วย fractional distillation และเติม antioxidant (BHT/BHA) | รายละเอียดคำตอบ: Cold expression เพราะน้ำมันอยู่ในต่อมที่ผิวเปลือกและความร้อนทำให้เสื่อม"
     },
     {
      "t": "การสกัด",
      "q": "Enfleurage มีหลักการและการใช้งานอย่างไร",
-     "a": "ดูดซับสารหอมจากกลีบดอกบอบบางด้วยไขมันที่ไม่มีกลิ่น/สีเคลือบเป็นฟิล์มบนแผ่นกระจก ใช้กับพืชที่มีสารหอมปริมาณน้อย",
+     "a": "ดูดซับสารหอมจากดอกด้วยไขมันไร้กลิ่นบนแผ่นกระจก",
      "w": [
-      "กลั่นด้วยไอน้ำที่ความดันสูงมาก",
-      "ใช้ CO2 วิกฤตยิ่งยวดสกัดสาร",
-      "บีบเปลือกผลไม้ด้วยเครื่องจักร",
-      "ใช้ microwave ให้ความร้อนเท่านั้น"
+      "กลั่นด้วยไอน้ำที่ความดันสูงเพื่อเอาน้ำมันออกจากเปลือกผลไม้",
+      "ใช้ CO2 วิกฤตยิ่งยวดสกัดสารหอมจากดอกไม้ที่บอบบาง",
+      "บีบเปลือกผลไม้ด้วยเครื่องจักรเพื่อเอาน้ำมันจากต่อมที่ผิว",
+      "ใช้ microwave ให้ความร้อนแก่พืชเพื่อไล่สารหอมออก"
      ],
-     "e": "Enfleurage เป็นวิธีดั้งเดิม; วิธีสมัยใหม่ได้แก่ distillation (water, water-steam, steam, microwave-accelerated), solvent extraction และ supercritical CO2"
+     "e": "Enfleurage เป็นวิธีดั้งเดิม; วิธีสมัยใหม่ได้แก่ distillation (water, water-steam, steam, microwave-accelerated), solvent extraction และ supercritical CO2 | รายละเอียดคำตอบ: ดูดซับสารหอมจากกลีบดอกด้วยไขมันไร้กลิ่นบนแผ่นกระจก ใช้กับพืชที่มีสารหอมน้อย"
     },
     {
      "t": "ยางพืช",
      "q": "ข้อใดอธิบายความต่างของ Resin, Oleoresin และ Oleo-gum-resin ได้ถูกต้อง",
-     "a": "Oleoresin = resin ผสมน้ำมันหอมระเหย ; Oleo-gum-resin = resin ผสมน้ำมันหอมระเหยและ gum",
+     "a": "Oleoresin = resin ผสมน้ำมันหอมระเหย ; Oleo-gum-resin = มี gum ด้วย",
      "w": [
-      "Oleoresin = resin ผสม gum ; Oleo-gum-resin = resin ล้วน",
-      "ทั้งสามชนิดเป็นน้ำมันหอมระเหยบริสุทธิ์",
-      "Resin เป็นน้ำมันหอมระเหยที่ละลายในน้ำ",
-      "Oleo-gum-resin ไม่มี resin เป็นองค์ประกอบ"
+      "Oleoresin = resin + gum ; Oleo-gum-resin = resin + น้ำมันหอมระเหย",
+      "Resin = น้ำมันหอมระเหยบริสุทธิ์ ; Oleoresin = resin + gum",
+      "Resin = resin + gum ; Oleoresin = gum + น้ำมันหอมระเหย",
+      "Oleo-gum-resin = gum + น้ำมันหอมระเหย ไม่มี resin ; Oleoresin = resin ล้วน"
      ],
-     "e": "กลุ่มยางไม้ (resins, oleoresin, oleo-gum-resin, balsam) เป็นสารที่เกี่ยวข้องกับ volatile oils"
+     "e": "กลุ่มยางไม้ (resins, oleoresin, oleo-gum-resin, balsam) เป็นสารที่เกี่ยวข้องกับ volatile oils | รายละเอียดคำตอบ: Oleoresin = resin + น้ำมันหอมระเหย ; Oleo-gum-resin = resin + น้ำมันหอมระเหย + gum"
     }
    ]
   },
@@ -262,24 +262,24 @@
     {
      "t": "โครงสร้าง",
      "q": "โครงสร้างแกนกลางของ quinones คืออะไร และแบ่งเป็นกี่ประเภทหลักตามโครงสร้างที่พบในธรรมชาติ",
-     "a": "Cyclohexadienedione (o- หรือ p-quinone) ; แบ่งเป็น benzoquinones, naphthoquinones และ anthraquinones",
+     "a": "Cyclohexadienedione ; แบ่งเป็น benzoquinones, naphthoquinones และ anthraquinones",
      "w": [
-      "Cyclohexane ที่มีหมู่ hydroxyl 2 หมู่ ; แบ่งเป็น 5 ประเภท",
-      "Pyran ring ที่มีหมู่ carbonyl ; แบ่งเป็น flavonoids และ coumarins",
-      "Indole ring ; แบ่งเป็น alkaloids และ terpenoids",
-      "Steroid nucleus ; แบ่งเป็น saponins และ glycosides"
+      "Cyclohexane ที่มีหมู่ hydroxyl 2 หมู่ ; แบ่งเป็น phenols, coumarins และ flavonoids",
+      "Pyran ring ที่มีหมู่ carbonyl ; แบ่งเป็น flavones, isoflavones และ coumarins",
+      "Indole ring ; แบ่งเป็น simple indoles, carbolines และ ergolines",
+      "Steroid nucleus ; แบ่งเป็น saponins, cardenolides และ bufadienolides"
      ],
      "e": "Benzoquinone = dione + benzene; naphthoquinone = dione + naphthalene; anthraquinone = dione + anthracene"
     },
     {
      "t": "ชีวสังเคราะห์",
      "q": "Emodin-type anthraquinones และ alizarin-type anthraquinones สังเคราะห์ผ่านวิถีใดตามลำดับ",
-     "a": "Acetate pathway ; Shikimate pathway ร่วมกับ terpene (mevalonate)",
+     "a": "Acetate pathway ; Shikimate pathway ร่วมกับ mevalonate",
      "w": [
-      "Shikimate pathway ; Acetate pathway",
-      "Mevalonate pathway ล้วน ; Acetate pathway",
-      "Shikimate pathway ทั้งคู่ ; ไม่มีวิถีที่เกี่ยวข้อง",
-      "Acetate pathway ทั้งคู่ ; โดยไม่มี terpene"
+      "Shikimate pathway ; Acetate pathway ร่วมกับ mevalonate",
+      "Mevalonate pathway ล้วน ; Acetate pathway ล้วน",
+      "Shikimate pathway ทั้งคู่ ; ร่วมกับ mevalonate ในบางชนิด",
+      "Acetate pathway ทั้งคู่ ; โดยไม่เกี่ยวกับ terpene"
      ],
      "e": "Emodin-type: 1,8-dihydroxy anthraquinone (เช่น emodin, chrysophanol) = laxative; Alizarin-type: ring A ไม่มีหมู่ substitute, มี –OH ที่ ring C (alizarin, lucidin) = dye"
     },
@@ -288,216 +288,216 @@
      "q": "Thymoquinone เป็นสารสำคัญของพืชชนิดใด",
      "a": "เทียนดำ (Nigella sativa, วงศ์ Ranunculaceae)",
      "w": [
-      "เทียนกิ่ง (Lawsonia inermis)",
-      "ทองพันชั่ง (Rhinacanthus nasutus)",
-      "เจตมูลเพลิงแดง (Plumbago indica)",
-      "มะขามแขก (Senna alexandrina)"
+      "เทียนกิ่ง (Lawsonia inermis, วงศ์ Lythraceae)",
+      "ทองพันชั่ง (Rhinacanthus nasutus, วงศ์ Acanthaceae)",
+      "เจตมูลเพลิงแดง (Plumbago indica, วงศ์ Plumbaginaceae)",
+      "มะขามแขก (Senna alexandrina, วงศ์ Fabaceae)"
      ],
      "e": "Thymoquinone เป็น benzoquinone ใน black cumin มีฤทธิ์ต้านการอักเสบ ปกป้องตับ ต้านอนุมูลอิสระ ขยายหลอดลม"
     },
     {
      "t": "Naphthoquinones",
      "q": "Vitamin K1 (phylloquinone) และ K2 (menaquinone) ต่างกันอย่างไร",
-     "a": "K1 มาจากพืช/สาหร่าย (มี isoprene 4 หน่วยใน side chain) ส่วน K2 มาจากจุลินทรีย์ (มี isoprene 1–13 หน่วย) ทั้งสองเป็นวิตามินที่ละลายในไขมันและเกี่ยวข้องกับการแข็งตัวของเลือด",
+     "a": "K1 มาจากพืช ส่วน K2 มาจากจุลินทรีย์ ทั้งสองละลายในไขมันและเกี่ยวกับการแข็งตัวของเลือด",
      "w": [
-      "K1 มาจากจุลินทรีย์ ส่วน K2 มาจากพืช",
-      "ทั้งสองเป็นวิตามินละลายน้ำและไม่เกี่ยวกับการแข็งตัวของเลือด",
-      "K1 และ K2 เป็น anthraquinones ที่ใช้เป็นยาระบาย",
-      "ทั้งสองเป็น benzoquinones ที่พบในเทียนดำ"
+      "K1 มาจากจุลินทรีย์ (isoprene 1–13 หน่วย) ส่วน K2 มาจากพืช (isoprene 4 หน่วย) ทั้งสองละลายในไขมัน",
+      "ทั้งสองเป็นวิตามินละลายน้ำที่มาจากพืช และไม่เกี่ยวกับการแข็งตัวของเลือด",
+      "K1 และ K2 เป็น anthraquinones จากพืชที่ใช้เป็นยาระบายกระตุ้นลำไส้",
+      "ทั้งสองเป็น benzoquinones ที่พบในเทียนดำและใช้ลดการอักเสบ"
      ],
-     "e": "Vitamin K = naphthoquinone + terpene side chain; เป็น cofactor ในกระบวนการแข็งตัวของเลือด"
+     "e": "Vitamin K = naphthoquinone + terpene side chain; เป็น cofactor ในกระบวนการแข็งตัวของเลือด | รายละเอียดคำตอบ: K1 มาจากพืช (isoprene 4 หน่วย) ส่วน K2 มาจากจุลินทรีย์ (isoprene 1–13 หน่วย) ทั้งสองละลายในไขมันและเกี่ยวกับการแข็งตัวของเลือด"
     },
     {
      "t": "Naphthoquinones",
      "q": "Lawsone (2-hydroxy-1,4-naphthoquinone) พบในพืชชนิดใดและใช้ประโยชน์อย่างไร",
-     "a": "ใบเทียนกิ่ง (Lawsonia inermis, Lythraceae) และเทียนบ้าน (Impatiens balsamina) ใช้ย้อมผม/วาดลวดลายบนผิว และเป็นยาภายนอกฆ่าเชื้อแบคทีเรียและรา",
+     "a": "ใบเทียนกิ่ง ใช้ย้อมผมและฆ่าเชื้อภายนอก",
      "w": [
-      "รากเจตมูลเพลิงแดง ใช้เป็นยาระบายแรง",
-      "ใบทองพันชั่ง ใช้ลดความดันโลหิต",
-      "เมล็ดมะขามแขก ใช้ย้อมผ้า",
-      "ใบวอลนัท ใช้บำรุงตับเท่านั้น"
+      "รากเจตมูลเพลิงแดง ใช้เป็นยาระบายแรงและขับประจำเดือน",
+      "ใบทองพันชั่ง ใช้ลดความดันโลหิตและขับปัสสาวะ",
+      "เมล็ดมะขามแขก ใช้ย้อมผ้าและเป็นยาระบายอ่อน",
+      "ใบวอลนัท ใช้บำรุงตับและลดน้ำตาลในเลือด"
      ],
-     "e": "Lawsone ละลายได้ดีในสารละลายด่าง; ตำรายาไทยใช้ตำพอกรักษาแผลฝีหนอง"
+     "e": "Lawsone ละลายได้ดีในสารละลายด่าง; ตำรายาไทยใช้ตำพอกรักษาแผลฝีหนอง | รายละเอียดคำตอบ: ใบเทียนกิ่งและเทียนบ้าน ใช้ย้อมผมและวาดลวดลายบนผิว และเป็นยาภายนอกฆ่าเชื้อแบคทีเรียและรา"
     },
     {
      "t": "Naphthoquinones",
      "q": "Rhinacanthins พบในพืชใดและมีการใช้ทางยาอย่างไร",
-     "a": "ใบทองพันชั่ง (Rhinacanthus nasutus, Acanthaceae) ใช้ทาภายนอกต้านเชื้อรา รักษากลาก",
+     "a": "ใบทองพันชั่ง ใช้ทาภายนอกรักษากลาก",
      "w": [
-      "รากเจตมูลเพลิงแดง ใช้รักษาแผลในกระเพาะ",
-      "ใบเทียนกิ่ง ใช้เป็นยาระบาย",
-      "ฝักคูน ใช้ลดไข้",
-      "รากโกฐน้ำเต้า ใช้ขับปัสสาวะ"
+      "รากเจตมูลเพลิงแดง (Plumbago indica) ใช้รักษาแผลในกระเพาะ",
+      "ใบเทียนกิ่ง (Lawsonia inermis) ใช้เป็นยาระบายอ่อน",
+      "ฝักคูน (Cassia fistula) ใช้ลดไข้และแก้ปวดฟัน",
+      "รากโกฐน้ำเต้า (Rheum palmatum) ใช้ขับปัสสาวะ"
      ],
-     "e": "ทองพันชั่งเป็นสมุนไพรในวงศ์เดียวกับฟ้าทะลายโจร (Acanthaceae)"
+     "e": "ทองพันชั่งเป็นสมุนไพรในวงศ์เดียวกับฟ้าทะลายโจร (Acanthaceae) | รายละเอียดคำตอบ: ใบทองพันชั่ง (Rhinacanthus nasutus) ใช้ทาภายนอกต้านเชื้อรา รักษากลาก"
     },
     {
      "t": "Naphthoquinones",
      "q": "Plumbagin มีลักษณะและข้อควรระวังอย่างไร",
-     "a": "พบในรากเจตมูลเพลิงแดง (Plumbago indica, Plumbaginaceae) ต้านเชื้อรา/แบคทีเรีย ระคายเคืองผิวหนังรุนแรง เป็นยาร้อนทำให้แท้งได้ และอาจเสริมฤทธิ์ยาต้านการแข็งตัวของเลือด",
+     "a": "พบในรากเจตมูลเพลิงแดง ระคายผิวหนังและทำให้แท้งได้",
      "w": [
-      "พบในใบมะขามแขก เป็นยาระบายที่ปลอดภัยในหญิงตั้งครรภ์",
-      "พบในใบวอลนัท ไม่มีผลข้างเคียงใด ๆ",
-      "พบในเทียนดำ ใช้ลดไขมันในเลือด",
-      "เป็นสีย้อมม่วงแดงจากราก Lithospermum"
+      "พบในใบมะขามแขก เป็นยาระบายที่ปลอดภัยแม้ในหญิงตั้งครรภ์ และไม่ระคายเคืองผิว",
+      "พบในใบวอลนัท เป็นสีย้อมน้ำตาลที่ปลอดภัยต่อผิวหนังทุกกรณี",
+      "พบในเมล็ดเทียนดำ ใช้ลดไขมันในเลือดและไม่มีข้อห้ามใช้",
+      "เป็นสีย้อมม่วงแดงจากราก Lithospermum ที่ใช้รักษาแผลไฟไหม้"
      ],
-     "e": "Plumbagin = 5-hydroxy-2-methyl-1,4-naphthoquinone; ยังพบใน Drosera rotundifolia (sundew) ใช้แก้ปวดเกร็ง แก้ไอ"
+     "e": "Plumbagin = 5-hydroxy-2-methyl-1,4-naphthoquinone; ยังพบใน Drosera rotundifolia (sundew) ใช้แก้ปวดเกร็ง แก้ไอ | รายละเอียดคำตอบ: พบในรากเจตมูลเพลิงแดง ต้านเชื้อรา/แบคทีเรีย ระคายผิวหนังรุนแรง ทำให้แท้งได้ และอาจเสริมฤทธิ์ยาต้านการแข็งตัวของเลือด"
     },
     {
      "t": "Naphthoquinones",
      "q": "Juglone และ Shikonin/Alkannin พบจากพืชใดตามลำดับ",
-     "a": "Juglone จากวอลนัท (Juglans regia) ; Shikonin/alkannin จากราก Lithospermum erythrorhizon (Boraginaceae) ซึ่งเป็นสีย้อมม่วงแดง",
+     "a": "Juglone จากวอลนัท ; Shikonin จากราก Lithospermum",
      "w": [
-      "Juglone จาก Lithospermum ; Shikonin จากวอลนัท",
-      "Juglone จากเทียนดำ ; Shikonin จากมะขามแขก",
-      "ทั้งสองจากต้นสัก",
-      "ทั้งสองจากเจตมูลเพลิงแดง"
+      "Juglone จากราก Lithospermum ; Shikonin จากวอลนัท (Juglans regia)",
+      "Juglone จากเทียนดำ ; Shikonin จากใบมะขามแขก",
+      "Juglone และ Shikonin จากต้นสัก (Tectona grandis)",
+      "Juglone และ Shikonin จากรากเจตมูลเพลิงแดง"
      ],
-     "e": "รากแห้งของ Lithospermum เรียกว่า Koshikon; shikonin/alkannin เป็น enantiomer กัน; ฤทธิ์: ต้านเชื้อ สมานแผล ต้านมะเร็ง"
+     "e": "รากแห้งของ Lithospermum เรียกว่า Koshikon; shikonin/alkannin เป็น enantiomer กัน; ฤทธิ์: ต้านเชื้อ สมานแผล ต้านมะเร็ง | รายละเอียดคำตอบ: Juglone จากวอลนัท (Juglans regia) ; Shikonin จากราก Lithospermum erythrorhizon (สีย้อมม่วงแดง)"
     },
     {
      "t": "อาการแพ้",
      "q": "กลไกการเกิดการแพ้ (dermatitis/skin sensitization) ของ quinones เกิดจากอะไร",
-     "a": "Quinone ถูกออกซิไดซ์แล้วจับกับโปรตีนผ่านหมู่ amine หรือ thiol เกิด hapten-carrier adduct กระตุ้นภูมิคุ้มกัน (เช่น primin, deoxylapachol, delbergione, lawsone)",
+     "a": "Quinone จับโปรตีนทางหมู่ amine/thiol เกิด hapten กระตุ้นภูมิคุ้มกัน",
      "w": [
-      "quinone ยับยั้งเอนไซม์ HMG-CoA reductase",
-      "quinone จับกับ DNA ทำให้เกิดการกลายพันธุ์โดยตรงเท่านั้น",
-      "quinone เปลี่ยนเป็นกรดไขมันอิ่มตัว",
-      "quinone ลด pH ของผิวหนังเท่านั้น"
+      "quinone ยับยั้งเอนไซม์ HMG-CoA reductase ทำให้เกิดการอักเสบของผิวหนัง",
+      "quinone จับกับ DNA ทำให้เกิดการกลายพันธุ์โดยตรงที่เซลล์ผิวหนัง",
+      "quinone เปลี่ยนเป็นกรดไขมันอิ่มตัวที่ระคายเคืองผิวหนัง",
+      "quinone ลด pH ของผิวหนังจนเกิดการไหม้ทางเคมี"
      ],
-     "e": "พบในกลุ่ม benzoquinones และ naphthoquinones; primin จาก Primula obconica, lapachol จากต้นสัก, dalbergiones จาก Dalbergia"
+     "e": "พบในกลุ่ม benzoquinones และ naphthoquinones; primin จาก Primula obconica, lapachol จากต้นสัก, dalbergiones จาก Dalbergia | รายละเอียดคำตอบ: Quinone ถูกออกซิไดซ์แล้วจับกับโปรตีนทางหมู่ amine หรือ thiol เกิด hapten-carrier adduct กระตุ้นภูมิคุ้มกัน"
     },
     {
      "t": "Anthraquinones",
      "q": "คุณสมบัติของ free anthraquinones ข้อใดถูกต้อง",
-     "a": "มีสีเหลือง น้ำตาล ถึงส้มแดง ละลายในด่างได้เกลือสีชมพูแดง ไม่ละลายในกรด และละลายได้ดีใน non-polar solvents เช่น dichloromethane",
+     "a": "สีเหลืองถึงส้มแดง ละลายในด่างได้เกลือสีชมพูแดง",
      "w": [
-      "ไม่มีสี และละลายน้ำได้ดี",
-      "ละลายในกรดได้ดีและตกตะกอนในด่าง",
-      "ไม่ละลายใน non-polar solvents",
-      "ละลายในด่างแล้วได้สารละลายสีเขียว"
+      "ไม่มีสี ละลายน้ำได้ดี และให้เกลือสีน้ำเงินกับด่าง",
+      "ละลายในกรดได้ดี ตกตะกอนในด่าง และไม่ละลายใน non-polar solvents",
+      "ไม่ละลายใน non-polar solvents แต่ละลายในน้ำเย็นได้ดี",
+      "ละลายในด่างแล้วได้สารละลายสีเขียว และละลายในกรดได้ดี"
      ],
-     "e": "พืชสร้างและสะสมสารเป็น glycosides (glucoside, rhamnoside); การสกัดด้วยกรดต้องกรองขณะร้อนเพราะ free anthraquinone ตกตะกอนในกรด"
+     "e": "พืชสร้างและสะสมสารเป็น glycosides (glucoside, rhamnoside); การสกัดด้วยกรดต้องกรองขณะร้อนเพราะ free anthraquinone ตกตะกอนในกรด | รายละเอียดคำตอบ: สีเหลืองถึงส้มแดง ละลายในด่างได้เกลือสีชมพูแดง ไม่ละลายในกรด และละลายดีใน non-polar solvents"
     },
     {
      "t": "Anthraquinones",
      "q": "Anthrone และ anthranol ต่างกันอย่างไร",
-     "a": "Anthrone: สีเหลืองจาง ไม่เรืองแสง ไม่ละลายในด่าง ; Anthranol: สีน้ำตาลเหลือง เรืองแสงแรงที่ UV 365 nm และละลายในด่าง",
+     "a": "Anthrone: ไม่เรืองแสง ไม่ละลายในด่าง ; Anthranol: เรืองแสงแรง ละลายในด่าง",
      "w": [
-      "Anthrone เรืองแสงแรงและละลายในด่าง ; Anthranol ไม่เรืองแสง",
-      "ทั้งสองไม่เรืองแสงและไม่แปลงกัน",
-      "ทั้งสองเป็นรูปออกซิไดซ์ของ anthraquinone ที่เสถียรถาวร",
-      "Anthrone เป็นของแข็งสีน้ำเงิน ; Anthranol เป็นก๊าซ"
+      "Anthrone: เรืองแสงแรงและละลายในด่าง ; Anthranol: ไม่เรืองแสงและไม่ละลายในด่าง",
+      "ทั้งสองไม่เรืองแสง ไม่ละลายในด่าง และไม่เปลี่ยนรูปกลับไปมา",
+      "ทั้งสองเป็นรูปออกซิไดซ์ที่เสถียรถาวรของ anthraquinone",
+      "Anthrone: ผลึกสีน้ำเงินเรืองแสงเขียว ; Anthranol: ของเหลวไม่มีสีละลายน้ำ"
      ],
-     "e": "Anthrone/anthranol เป็น isomer ที่เปลี่ยนกันได้ในสารละลาย; anthranol ใน Aloe เรืองแสงสีเขียวใช้ระบุชนิด; oxanthrone = intermediate; dianthrone = จาก anthrone 2 ตัว (เช่น sennosides)"
+     "e": "Anthrone/anthranol เป็น isomer ที่เปลี่ยนกันได้ในสารละลาย; anthranol ใน Aloe เรืองแสงสีเขียวใช้ระบุชนิด; oxanthrone = intermediate; dianthrone = จาก anthrone 2 ตัว (เช่น sennosides) | รายละเอียดคำตอบ: Anthrone: เหลืองจาง ไม่เรืองแสง ไม่ละลายในด่าง ; Anthranol: น้ำตาลเหลือง เรืองแสงแรงที่ UV 365 nm ละลายในด่าง"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "มะขามแขก (Senna alexandrina) มีสารสำคัญและการใช้อย่างไร",
-     "a": "ใบและฝักอ่อนมี dianthrone glycosides (sennosides A–D) ใช้เป็นยาระบายกระตุ้นลำไส้ใหญ่ (วงศ์ Fabaceae)",
+     "a": "ใบและฝักอ่อนมี sennosides ใช้เป็นยาระบาย",
      "w": [
-      "ราก มี sennosides ใช้ลดความดันโลหิต",
-      "เมล็ด มี thymoquinone ใช้ขับปัสสาวะ",
-      "ใบ มี lawsone ใช้ย้อมผม",
-      "ฝักแก่ มี plumbagin ใช้แก้ปวดเกร็ง"
+      "รากมี sennosides ใช้ลดความดันโลหิตและขับปัสสาวะ",
+      "เมล็ดมี thymoquinone ใช้ขับปัสสาวะและลดน้ำตาล",
+      "ใบมี lawsone ใช้ย้อมผมและเป็นยาระบายอ่อน",
+      "ฝักแก่มี plumbagin ใช้แก้ปวดเกร็งและขับระดู"
      ],
-     "e": "S. alexandrina (Alexandrian senna) และ S. angustifolia (Tinnevelly senna) อยู่ในบัญชียาหลักฯ ยาระบายแก้ท้องผูก"
+     "e": "S. alexandrina (Alexandrian senna) และ S. angustifolia (Tinnevelly senna) อยู่ในบัญชียาหลักฯ ยาระบายแก้ท้องผูก | รายละเอียดคำตอบ: ใบและฝักอ่อนมี sennosides A–D (dianthrone glycosides) ใช้เป็นยาระบายกระตุ้นลำไส้ใหญ่"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "ข้อใดจับคู่สมุนไพรกับสารสำคัญหรือข้อควรระวังได้ถูกต้อง",
-     "a": "ขี้เหล็ก (Senna siamea) = barakol ช่วยให้นอนหลับแต่เป็นพิษต่อตับ ; คูน (Cassia fistula) = เนื้อในฝัก ระบายอ่อน ๆ ห้ามกินเมล็ดและเปลือกฝักเพราะทำให้อาเจียน",
+     "a": "ขี้เหล็ก = barakol เป็นพิษต่อตับ ; คูน = ใช้เนื้อในฝัก ห้ามกินเมล็ด",
      "w": [
-      "ขี้เหล็ก = มี barakol ปลอดภัยต่อตับทุกกรณี ; คูน = เมล็ดใช้เป็นยาระบายหลัก",
-      "ชุมเห็ดไทย = ใบ ใช้รักษากลาก ; ชุมเห็ดเทศ = เมล็ดคั่ว ใช้ชงดื่มทุกวัน",
-      "ขี้เหล็ก = ฝัก ใช้ย้อมสีเท่านั้น ; คูน = ราก ใช้ลดไข้",
-      "ทั้งสองไม่มี anthraquinones เลย"
+      "ขี้เหล็ก = barakol ปลอดภัยต่อตับทุกกรณี ; คูน = เมล็ดใช้เป็นยาระบายหลัก",
+      "ชุมเห็ดไทย = ใบใช้รักษากลาก ; ชุมเห็ดเทศ = เมล็ดคั่วใช้ชงดื่มทุกวัน",
+      "ขี้เหล็ก = ฝักใช้ย้อมสีผ้า ; คูน = รากใช้ลดไข้",
+      "ขี้เหล็ก = ไม่มีสารพิษต่อตับ ; คูน = ไม่มี anthraquinones ในฝัก"
      ],
-     "e": "ชุมเห็ดเทศ (Senna alata) = ใบ ใช้ระบายและรักษากลาก; ชุมเห็ดไทย (Senna tora) = เมล็ดคั่ว ใช้ต่อเนื่องนานทำให้ตามัวและง่วง"
+     "e": "ชุมเห็ดเทศ (Senna alata) = ใบ ใช้ระบายและรักษากลาก; ชุมเห็ดไทย (Senna tora) = เมล็ดคั่ว ใช้ต่อเนื่องนานทำให้ตามัวและง่วง | รายละเอียดคำตอบ: ขี้เหล็ก = barakol ช่วยนอนหลับแต่เป็นพิษต่อตับ ; คูน = เนื้อในฝักระบายอ่อน ห้ามกินเมล็ดและเปลือกฝัก"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "โกฐน้ำเต้า (Rheum palmatum/R. officinale) ถูกเรียกว่า “ยาระบายรู้ปิดรู้เปิด” เพราะเหตุใด",
-     "a": "มี anthraquinones ทำให้ระบาย และมี tannins (gallic acid, catechin) ที่ฝาดสมานช่วยหยุดถ่าย",
+     "a": "มี anthraquinones ระบาย และ tannins ที่ฝาดสมาน",
      "w": [
-      "มี alkaloids ที่ทั้งระบายและห้ามเลือด",
-      "มีเฉพาะ sennosides ที่ใช้ได้ทั้งระบายและห้ามถ่าย",
-      "มี coumarins ที่ปรับสมดุลของลำไส้",
-      "มี saponins ที่ทำให้เกิดฟองในลำไส้"
+      "มี alkaloids ที่ทำให้ระบายและห้ามเลือดในเวลาเดียวกัน",
+      "มี sennosides เพียงชนิดเดียวที่ใช้ได้ทั้งระบายและห้ามถ่าย",
+      "มี coumarins ที่ปรับสมดุลการบีบตัวของลำไส้",
+      "มี saponins ที่ทำให้เกิดฟองและกระตุ้นการบีบตัวของลำไส้"
      ],
-     "e": "โกฐน้ำเต้าอยู่ในวงศ์ Polygonaceae; สารสำคัญ chrysophanol, aloe-emodin, rhein, emodin, physcion"
+     "e": "โกฐน้ำเต้าอยู่ในวงศ์ Polygonaceae; สารสำคัญ chrysophanol, aloe-emodin, rhein, emodin, physcion | รายละเอียดคำตอบ: มี anthraquinones ทำให้ระบาย และมี tannins ที่ฝาดสมานช่วยหยุดถ่าย"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "ยาดำ (Aloe) ได้จากส่วนใดและมีสารสำคัญและข้อควรระวังอย่างไร",
-     "a": "ยางจากใบว่านหางจระเข้ (Aloe vera/A. ferox) มี aloin/barbaloin (C-glycoside) เป็นยาถ่ายแรง ปวดเกร็งท้อง จึงไม่นิยมใช้เดี่ยว ๆ",
+     "a": "ยางจากใบ มี aloin เป็นยาถ่ายแรง ปวดเกร็งท้อง",
      "w": [
       "วุ้นใสจากใบ มี sennosides เป็นยาระบายอ่อนที่ปลอดภัยเสมอ",
-      "ราก มี plumbagin ใช้ลดไข้",
-      "เมล็ด มี thymoquinone ใช้ขับปัสสาวะ",
-      "ดอก มี alizarin ใช้ย้อมสี"
+      "รากว่านหางจระเข้ มี plumbagin ใช้ลดไข้และฆ่าเชื้อ",
+      "เมล็ด มี thymoquinone ใช้ขับปัสสาวะและลดไขมัน",
+      "ดอก มี alizarin ใช้ย้อมสีและเป็นยาถ่ายอ่อน"
      ],
-     "e": "Aloe เป็นวงศ์ Asphodelaceae; วุ้นช่วยบรรเทาแสบผิวหนังจากการฉายรังสี"
+     "e": "Aloe เป็นวงศ์ Asphodelaceae; วุ้นช่วยบรรเทาแสบผิวหนังจากการฉายรังสี | รายละเอียดคำตอบ: ยางจากใบว่านหางจระเข้ มี aloin/barbaloin (C-glycoside) เป็นยาถ่ายแรง ปวดเกร็งท้อง จึงไม่นิยมใช้เดี่ยว ๆ"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "ข้อใดจัดเป็นแหล่งสีย้อม (dye) ที่เป็น alizarin-type หรือ anthraquinone dye",
-     "a": "Madder (Rubia tinctorum, ruberythric acid), cochineal (carminic acid) และครั่ง (laccaic acids)",
+     "a": "Madder, cochineal และครั่ง (laccaic acids)",
      "w": [
-      "มะขามแขก คูน และโกฐน้ำเต้า",
-      "ว่านหางจระเข้ และ cascara",
-      "วอลนัท และ sundew",
-      "เทียนดำ และเทียนกิ่ง"
+      "มะขามแขก คูน และโกฐน้ำเต้า ซึ่งเป็นแหล่ง sennosides",
+      "ว่านหางจระเข้ และ cascara ซึ่งเป็นแหล่ง aloin",
+      "วอลนัท และ sundew ซึ่งเป็นแหล่ง naphthoquinones",
+      "เทียนดำ และเทียนกิ่ง ซึ่งเป็นแหล่ง thymoquinone"
      ],
-     "e": "Cochineal = แมลง Dactylopius coccus → carmine; ครั่ง = laccaic acids A–F ใช้ในตำรับยาเหลืองปิดสมุทร; กลุ่ม emodin-type: rhubarb, aloes, senna, cascara"
+     "e": "Cochineal = แมลง Dactylopius coccus → carmine; ครั่ง = laccaic acids A–F ใช้ในตำรับยาเหลืองปิดสมุทร; กลุ่ม emodin-type: rhubarb, aloes, senna, cascara | รายละเอียดคำตอบ: Madder (ruberythric acid), cochineal (carminic acid) และครั่ง (laccaic acids)"
     },
     {
      "t": "Cascara",
      "q": "เปลือกต้น Rhamnus purshianus (cascara) ควรเก็บอย่างไรก่อนใช้ และเหตุผลคืออะไร",
-     "a": "เก็บในที่แห้งอย่างน้อย 1 ปี เพื่อให้เกิด hydrolysis โดยเอนไซม์ ลดฤทธิ์กระตุ้นการอาเจียน",
+     "a": "เก็บในที่แห้งอย่างน้อย 1 ปี ลดฤทธิ์กระตุ้นการอาเจียน",
      "w": [
-      "ใช้ทันทีหลังเก็บเกี่ยวเพื่อให้ได้สารสำคัญสูงสุด",
-      "แช่น้ำร้อนจัดทันที",
-      "เก็บในที่ชื้น เพื่อให้เกิดการหมัก",
-      "ตากแดดจัด 1 วัน แล้วใช้ได้"
+      "ใช้ทันทีหลังเก็บเกี่ยวเพื่อให้ได้สารสำคัญสูงสุดและออกฤทธิ์เร็ว",
+      "แช่น้ำร้อนจัดทันทีหลังเก็บเพื่อสกัดสารก่อนเสื่อม",
+      "เก็บในที่ชื้นเพื่อให้เกิดการหมักและเพิ่ม glycosides",
+      "ตากแดดจัด 1 วันแล้วนำไปใช้ได้ทันทีโดยไม่ต้องเก็บ"
      ],
-     "e": "สารสำคัญ cascarosides A–D; Frangula bark (Frangula alnus) = glucofrangulins; ทั้งสองวงศ์ Rhamnaceae"
+     "e": "สารสำคัญ cascarosides A–D; Frangula bark (Frangula alnus) = glucofrangulins; ทั้งสองวงศ์ Rhamnaceae | รายละเอียดคำตอบ: เก็บในที่แห้งอย่างน้อย 1 ปี เพื่อให้เกิด hydrolysis โดยเอนไซม์ ลดฤทธิ์กระตุ้นการอาเจียน"
     },
     {
      "t": "กลไก",
      "q": "O-glycosides ของ anthraquinone ออกฤทธิ์ระบายได้อย่างไร",
-     "a": "ไม่ถูกดูดซึมที่ลำไส้เล็ก แต่ถูก hydrolyze ที่ลำไส้ใหญ่ด้วย β-glucosidase ของแบคทีเรีย แล้วถูก reduce เป็น anthrone/anthranol กระตุ้นการบีบตัวของลำไส้",
+     "a": "ถูก hydrolyze ที่ลำไส้ใหญ่ด้วยแบคทีเรีย แล้ว reduce เป็น anthrone/anthranol",
      "w": [
-      "ถูกดูดซึมทั้งหมดที่กระเพาะอาหารแล้วออกฤทธิ์ที่ตับ",
-      "ถูก hydrolyze ที่ลำไส้เล็กด้วยน้ำย่อยของตับอ่อนเท่านั้น",
-      "ออกฤทธิ์โดยดึงน้ำเข้าลำไส้แบบ osmotic ล้วน",
-      "ไม่ต้องอาศัยแบคทีเรียในลำไส้ใหญ่"
+      "ถูกดูดซึมทั้งหมดที่กระเพาะอาหารแล้วออกฤทธิ์ที่ตับโดยตรง",
+      "ถูก hydrolyze ที่ลำไส้เล็กด้วยน้ำย่อยจากตับอ่อนแล้วดูดซึมทันที",
+      "ออกฤทธิ์โดยดึงน้ำเข้าลำไส้แบบ osmotic โดยไม่เปลี่ยนโครงสร้าง",
+      "ถูกเปลี่ยนที่ตับเป็นสารที่กระตุ้นลำไส้ผ่านเลือดโดยไม่ต้องอาศัยแบคทีเรีย"
      ],
-     "e": "Free anthraquinones ถูกดูดซึมที่ลำไส้เล็กและถูก conjugate กับ glucuronic acid ที่ตับ ขับทางปัสสาวะ; ผ่านน้ำนมแม่ได้ จึงไม่ควรใช้ในหญิงให้นมบุตร"
+     "e": "Free anthraquinones ถูกดูดซึมที่ลำไส้เล็กและถูก conjugate กับ glucuronic acid ที่ตับ ขับทางปัสสาวะ; ผ่านน้ำนมแม่ได้ จึงไม่ควรใช้ในหญิงให้นมบุตร | รายละเอียดคำตอบ: ไม่ถูกดูดซึมที่ลำไส้เล็ก ถูก hydrolyze ที่ลำไส้ใหญ่ด้วย β-glucosidase ของแบคทีเรีย แล้ว reduce เป็น anthrone/anthranol"
     },
     {
      "t": "ข้อควรระวัง",
      "q": "ข้อใดเป็นข้อควรระวังของสมุนไพรกลุ่ม anthraquinones",
-     "a": "ไม่ควรใช้ติดต่อกันนาน เสี่ยงเสียน้ำ/โพแทสเซียมและลำไส้ติดการกระตุ้น ไม่ใช้ในเด็กเล็ก หญิงตั้งครรภ์ ลำไส้อุดตัน หรือ IBS และขนาดสูงอาจเป็นพิษต่อไต",
+     "a": "ไม่ควรใช้ต่อเนื่องนาน และห้ามใช้ในหญิงตั้งครรภ์",
      "w": [
-      "ใช้ติดต่อกันนานปลอดภัยและลดการท้องผูกถาวร",
-      "ปลอดภัยสำหรับหญิงตั้งครรภ์และให้นมบุตร",
-      "ใช้ได้ทุกกรณีรวมถึงลำไส้อุดตัน",
-      "ไม่มีผลต่อสมดุลอิเล็กโทรไลต์"
+      "ใช้ติดต่อกันนานปลอดภัยและช่วยแก้ท้องผูกเรื้อรังอย่างถาวร",
+      "ปลอดภัยสำหรับหญิงตั้งครรภ์และให้นมบุตรในทุกขนาดที่ใช้",
+      "ใช้ได้ทุกกรณีรวมถึงผู้ป่วยลำไส้อุดตันหรือลำไส้อักเสบ",
+      "ไม่มีผลต่อสมดุลอิเล็กโทรไลต์แม้ใช้ขนาดสูงต่อเนื่อง"
      ],
-     "e": "ควรเริ่มด้วยขนาดต่ำ และใช้ร่วมกับสมุนไพรขับลมเพื่อลดอาการปวดมวนท้อง"
+     "e": "ควรเริ่มด้วยขนาดต่ำ และใช้ร่วมกับสมุนไพรขับลมเพื่อลดอาการปวดมวนท้อง | รายละเอียดคำตอบ: ไม่ควรใช้ติดต่อกันนานเพราะเสียน้ำ/โพแทสเซียมและลำไส้ติดการกระตุ้น ห้ามใช้ในหญิงตั้งครรภ์ เด็กเล็ก ลำไส้อุดตัน"
     },
     {
      "t": "การตรวจสอบ",
      "q": "ตามสมบัติของ free anthraquinones การทดสอบเบื้องต้นด้วยด่างแอมโมเนียหรือ KOH (Bornträger's test) ให้ผลบวกอย่างไร",
-     "a": "สารละลายเปลี่ยนเป็นสีชมพูแดง เพราะ anthraquinone เกิดเป็นเกลือที่ละลายในด่าง",
+     "a": "สารละลายเปลี่ยนเป็นสีชมพูแดง เพราะเกิดเกลือที่ละลายในด่าง",
      "w": [
-      "สารละลายเปลี่ยนเป็นสีน้ำเงินเขียวเรืองแสงทันที",
-      "เกิดตะกอนสีขาวในชั้นด่าง",
-      "สารละลายใสไม่มีสีเมื่อพบ anthraquinone",
-      "เปลี่ยนเป็นสีเหลืองเขียวเฉพาะเมื่อมีน้ำตาลเท่านั้น"
+      "สารละลายเปลี่ยนเป็นสีน้ำเงินเขียวเรืองแสงทันทีเมื่อพบ anthraquinone",
+      "เกิดตะกอนสีขาวในชั้นด่างเพราะ anthraquinone ไม่ละลายในด่าง",
+      "สารละลายใสไม่มีสีเมื่อพบ anthraquinone เพราะไม่เกิดปฏิกิริยา",
+      "เปลี่ยนเป็นสีเหลืองเขียวเมื่อมีน้ำตาลอยู่ในสารสกัดเท่านั้น"
      ],
-     "e": "Free anthraquinone ละลายในด่างแล้วเกิด salt form สีชมพูแดง; O-glycoside ต้อง hydrolyze (กรด) และสกัดด้วย organic solvent ก่อน; anthranol เรืองแสงที่ UV 365 nm"
+     "e": "Free anthraquinone ละลายในด่างแล้วเกิด salt form สีชมพูแดง; O-glycoside ต้อง hydrolyze (กรด) และสกัดด้วย organic solvent ก่อน; anthranol เรืองแสงที่ UV 365 nm | รายละเอียดคำตอบ: สารละลายเปลี่ยนเป็นสีชมพูแดง เพราะ anthraquinone เกิดเป็นเกลือที่ละลายในด่าง"
     }
    ]
   },
@@ -510,12 +510,12 @@
     {
      "t": "ชีวสังเคราะห์",
      "q": "สารกลุ่ม phenolics ส่วนใหญ่ในพืชสร้างผ่านวิถีใดและเอนไซม์สำคัญตัวแรกคืออะไร",
-     "a": "Shikimic acid pathway ผ่าน phenylalanine โดย phenylalanine ammonia lyase (PAL) ได้ cinnamic acid",
+     "a": "Shikimic acid pathway ผ่าน phenylalanine โดย PAL ได้ cinnamic acid",
      "w": [
-      "Mevalonic acid pathway โดยเอนไซม์ HMG-CoA reductase",
-      "Malonic acid pathway เท่านั้น โดยเอนไซม์ polyketide synthase",
-      "MEP pathway โดยเอนไซม์ geranyl synthase",
-      "Calvin cycle โดยเอนไซม์ RuBisCO"
+      "Mevalonic acid pathway โดยเอนไซม์ HMG-CoA reductase ได้ isoprene unit",
+      "Malonic acid pathway ล้วน ๆ โดยเอนไซม์ polyketide synthase ได้ poly-β-keto chain",
+      "MEP pathway โดยเอนไซม์ geranyl synthase ได้ geranyl diphosphate",
+      "Calvin cycle โดยเอนไซม์ RuBisCO ได้ phosphoglycerate"
      ],
      "e": "วิถี shikimate พบในพืช/จุลินทรีย์ ไม่มีในสัตว์; PAL ถูกเหนี่ยวนำได้ด้วยการติดเชื้อรา ธาตุอาหารต่ำ และแสงจัด"
     },
@@ -524,10 +524,10 @@
      "q": "phenolic compound คือสารที่มีโครงสร้างเด่นอย่างไร",
      "a": "มีหมู่ hydroxyl (–OH) เกาะบนวงแหวนอะโรมาติก (aromatic ring)",
      "w": [
-      "มีหมู่ amine เกาะบนวงแหวน pyridine",
-      "มีวงแหวน steroid ที่มีหมู่ ketone",
-      "เป็นโซ่คาร์บอนอิ่มตัวที่ไม่มีวงแหวน",
-      "มี sugar เกาะกับ isoprene unit"
+      "มีหมู่ amine เกาะบนวงแหวน pyridine ซึ่งมีไนโตรเจนเป็นองค์ประกอบ",
+      "มีวงแหวน steroid ที่มีหมู่ ketone ที่ตำแหน่ง C3",
+      "เป็นโซ่คาร์บอนอิ่มตัวที่ไม่มีวงแหวนและมีหมู่ carboxyl",
+      "มี sugar เกาะกับ isoprene unit ผ่านพันธะ glycosidic"
      ],
      "e": "Phenolics แบ่งตามจำนวนคาร์บอน เช่น C6–C1 (phenolic acids), C6–C3 (phenylpropanoids, coumarins), C6–C3–C6 (flavonoids), lignans, tannins"
     },
@@ -536,216 +536,216 @@
      "q": "สารใดจัดเป็น phenolic glycoside ที่ใช้ทำให้ผิวขาวและ hydroquinone ใช้ในครีมไม่ควรใช้ต่อเนื่องเพราะเหตุใด",
      "a": "Arbutin ; hydroquinone อาจทำให้ผิวด่างขาว (depigmentation)",
      "w": [
-      "Salicin ; hydroquinone ทำให้ผิวเข้มขึ้นถาวร",
-      "Vanillin ; hydroquinone ทำให้ผิวหนังหนาขึ้น",
-      "Aspirin ; hydroquinone ทำให้ผมหงอก",
-      "Caffeic acid ; hydroquinone ไม่มีผลข้างเคียง"
+      "Salicin ; hydroquinone ทำให้ผิวคล้ำเข้มขึ้นอย่างถาวร",
+      "Vanillin ; hydroquinone ทำให้ผิวหนังหนาขึ้นและแห้ง",
+      "Aspirin ; hydroquinone ทำให้เกิดผมหงอกก่อนวัย",
+      "Caffeic acid ; hydroquinone ไม่มีผลข้างเคียงจึงใช้ต่อเนื่องได้"
      ],
      "e": "Arbutin ใช้เป็น skin lightening agent และต้านการติดเชื้อทางเดินปัสสาวะ"
     },
     {
      "t": "Simple phenolics",
      "q": "ข้อใดถูกต้องเกี่ยวกับ salicin, methyl salicylate และ aspirin",
-     "a": "Salicin จากเปลือกไม้ (วงศ์ Salicaceae) ให้ salicylic acid ; methyl salicylate (น้ำมันระกำ) กลั่นจาก Betula lenta ใช้ทาแก้ปวดข้อ/กล้ามเนื้อ ; aspirin คือ acetylsalicylic acid",
+     "a": "Salicin ให้ salicylic acid ; methyl salicylate ทาแก้ปวดกล้ามเนื้อ ; aspirin คือ acetylsalicylic acid",
      "w": [
-      "Salicin เป็นสารกลุ่ม alkaloid ; methyl salicylate ใช้เป็นยาระบาย",
-      "Aspirin พบมากในผักโขมโดยธรรมชาติ ; methyl salicylate เป็นสีย้อม",
-      "ทั้งสามไม่เกี่ยวข้องกับ salicylic acid",
-      "Methyl salicylate ได้จาก vanilla pods"
+      "Salicin เป็นสารกลุ่ม alkaloid จาก Papaveraceae ; methyl salicylate ใช้เป็นยาระบาย ; aspirin คือ salicylic acid ล้วน",
+      "Aspirin พบมากในผักโขมโดยธรรมชาติ ; methyl salicylate เป็นสีย้อมผ้า ; salicin คือ acetylsalicylic acid",
+      "ทั้งสามชนิดไม่เกี่ยวข้องกับ salicylic acid และได้จากแหล่งสังเคราะห์ล้วน",
+      "Methyl salicylate ได้จาก vanilla pods ; salicin ได้จาก Papaver ; aspirin ได้จากเปลือกอบเชย"
      ],
-     "e": "Salicylic acid: ลดปวด ต้านอักเสบ ลดไข้; aspirin ได้จาก salicylic acid + acetic anhydride"
+     "e": "Salicylic acid: ลดปวด ต้านอักเสบ ลดไข้; aspirin ได้จาก salicylic acid + acetic anhydride | รายละเอียดคำตอบ: Salicin จาก Salicaceae ให้ salicylic acid ; methyl salicylate (น้ำมันระกำ) ทาแก้ปวดกล้ามเนื้อ ; aspirin คือ acetylsalicylic acid"
     },
     {
      "t": "Simple phenolics",
      "q": "วานิลลา (Vanilla planifolia) ให้สารหอม vanillin ในรูปใดและข้อเท็จจริงใดถูกต้อง",
-     "a": "ในฝักสดอยู่ในรูป β-D-glucoside ; vanillin ส่วนใหญ่ (>99%) ได้จากการสังเคราะห์/ชีวแปลง ไม่ได้สกัดจากฝัก",
+     "a": "ในฝักสดเป็น β-D-glucoside ; vanillin ส่วนใหญ่ได้จากการสังเคราะห์",
      "w": [
-      "ในฝักสดอยู่ในรูป aglycone อิสระล้วน ; vanillin ส่วนใหญ่สกัดจากฝัก",
-      "ในฝักอยู่ในรูป alkaloid ; vanillin ได้จากการกลั่นด้วยไอน้ำ",
-      "ในฝักอยู่ในรูป tannin ; ไม่ใช้เป็นกลิ่นอาหาร",
-      "ไม่พบ vanillin ในพืชเลย"
+      "ในฝักสดอยู่ในรูป aglycone อิสระล้วน ; vanillin ส่วนใหญ่สกัดจากฝักธรรมชาติ",
+      "ในฝักอยู่ในรูป alkaloid ; vanillin ส่วนใหญ่ได้จากการกลั่นด้วยไอน้ำ",
+      "ในฝักอยู่ในรูป tannin ; vanillin ไม่ใช้เป็นกลิ่นอาหาร",
+      "ไม่พบ vanillin ในพืชเลย ; vanillin ทั้งหมดได้จากปิโตรเลียม"
      ],
-     "e": "การผลิต vanillin 1 kg ต้องใช้ฝักวานิลลาประมาณ 500 kg จึงนิยมสังเคราะห์/ใช้ชีวแปลง เช่น จาก eugenol, ferulic acid"
+     "e": "การผลิต vanillin 1 kg ต้องใช้ฝักวานิลลาประมาณ 500 kg จึงนิยมสังเคราะห์/ใช้ชีวแปลง เช่น จาก eugenol, ferulic acid | รายละเอียดคำตอบ: ในฝักสดอยู่ในรูป β-D-glucoside ; vanillin ส่วนใหญ่ (>99%) ได้จากการสังเคราะห์/ชีวแปลง"
     },
     {
      "t": "Hydroxycinnamic acids",
      "q": "Chlorogenic acid เป็นสารชนิดใดและพบมากในพืชใด",
-     "a": "เอสเทอร์ของ caffeic acid กับ quinic acid ; พบมากในกาแฟ (ทำให้กาแฟมีรสเปรี้ยว) และพืชวงศ์ Asteraceae",
+     "a": "เอสเทอร์ของ caffeic acid กับ quinic acid ; พบมากในกาแฟ",
      "w": [
-      "เอสเทอร์ของ gallic acid กับ glucose ; พบมากในชาเขียว",
+      "เอสเทอร์ของ gallic acid กับ glucose ; พบมากในชาเขียวและใบฝรั่ง",
       "เอสเทอร์ของ ferulic acid กับ shikimic acid ; พบมากในวานิลลา",
-      "เป็นแอลคาลอยด์ ; พบมากในฝิ่น",
-      "เป็นไกลโคไซด์ของ anthraquinone ; พบมากในมะขามแขก"
+      "เป็นแอลคาลอยด์ที่มีไนโตรเจน ; พบมากในฝิ่นและโกโก้",
+      "เป็นไกลโคไซด์ของ anthraquinone ; พบมากในมะขามแขกและคูน"
      ],
-     "e": "Rosmarinic acid = เอสเทอร์ของ caffeic acid กับ 3,4-dihydroxyphenyllactic acid พบในวงศ์ Lamiaceae (rosemary, กะเพรา, โหระพา)"
+     "e": "Rosmarinic acid = เอสเทอร์ของ caffeic acid กับ 3,4-dihydroxyphenyllactic acid พบในวงศ์ Lamiaceae (rosemary, กะเพรา, โหระพา) | รายละเอียดคำตอบ: เอสเทอร์ของ caffeic acid กับ quinic acid ; พบมากในกาแฟและพืชวงศ์ Asteraceae"
     },
     {
      "t": "วงศ์พืช",
      "q": "ลักษณะเด่นของพืชวงศ์ Lamiaceae (Labiatae) คือข้อใด",
-     "a": "ลำต้นสี่เหลี่ยม ใบเดี่ยวออกตรงข้าม ดอกกลีบเชื่อมเป็น 2 ปาก (bilabiate) มีต่อมน้ำมันทำให้มีกลิ่นหอม",
+     "a": "ลำต้นสี่เหลี่ยม ใบออกตรงข้าม ดอก 2 ปาก มีต่อมน้ำมัน",
      "w": [
-      "ลำต้นกลม ใบประกอบออกสลับ ไม่มีกลิ่นหอม",
-      "ช่อดอกแบบ capitulum มี involucral bract และ pappus",
-      "ช่อดอกแบบ umbel ผลแบบ schizocarp",
-      "มีน้ำยางสีขาวและใบออกเป็นวง"
+      "ลำต้นกลม ใบประกอบออกสลับ ดอกสมมาตรรัศมี และไม่มีกลิ่นหอม",
+      "ช่อดอกแบบ capitulum มี involucral bract และ pappus ที่ผล",
+      "ช่อดอกแบบ umbel ผลแบบ schizocarp แยกเป็นสองซีก",
+      "มีน้ำยางสีขาวและใบออกเป็นวงรอบข้อ ดอกไม่มีกลีบ"
      ],
-     "e": "ตัวอย่าง: สะระแหน่ กะเพรา โหระพา แมงลักคา หญ้าหนวดแมว (ขับปัสสาวะ ระวังโพแทสเซียมสูงในผู้ป่วยโรคหัวใจ/ไต)"
+     "e": "ตัวอย่าง: สะระแหน่ กะเพรา โหระพา แมงลักคา หญ้าหนวดแมว (ขับปัสสาวะ ระวังโพแทสเซียมสูงในผู้ป่วยโรคหัวใจ/ไต) | รายละเอียดคำตอบ: ลำต้นสี่เหลี่ยม ใบเดี่ยวออกตรงข้าม ดอกเชื่อมเป็น 2 ปาก (bilabiate) มีต่อมน้ำมันหอม"
     },
     {
      "t": "วงศ์พืช",
      "q": "ลักษณะช่อดอกแบบ capitulum (head) ที่มี disc flower และ ray flower พบในวงศ์ใด",
-     "a": "Asteraceae (Compositae) เช่น ทานตะวัน ต้นหนาด สาบเสือ",
+     "a": "Asteraceae เช่น ทานตะวัน",
      "w": [
-      "Lamiaceae",
-      "Rubiaceae",
-      "Apiaceae",
-      "Rutaceae"
+      "Lamiaceae เช่น กะเพรา โหระพา สะระแหน่",
+      "Rubiaceae เช่น ยอ กาแฟ ชิงโคนา",
+      "Apiaceae เช่น ผักชี ขึ้นฉ่าย เทียนข้าวเปลือก",
+      "Rutaceae เช่น ส้ม มะนาว มะกรูด"
      ],
-     "e": "ผลแบบ cypsela (achene) มี pappus; Apiaceae มีช่อดอก umbel และผลแบบ schizocarp; Rubiaceae (กาแฟ ยอ) ใบตรงข้ามมี interpetiolar stipule"
+     "e": "ผลแบบ cypsela (achene) มี pappus; Apiaceae มีช่อดอก umbel และผลแบบ schizocarp; Rubiaceae (กาแฟ ยอ) ใบตรงข้ามมี interpetiolar stipule | รายละเอียดคำตอบ: Asteraceae (Compositae) เช่น ทานตะวัน สาบเสือ"
     },
     {
      "t": "Coumarins",
      "q": "coumarin และ umbelliferone มีโครงสร้างและบทบาทอย่างไร",
-     "a": "coumarin = benzo-α-pyrone (lactone ของ o-hydroxycinnamic acid) ; umbelliferone = 7-hydroxycoumarin ดูดกลืน UV จึงช่วยปกป้องผิวจาก UV",
+     "a": "coumarin = benzo-α-pyrone ; umbelliferone = 7-hydroxycoumarin ดูดกลืน UV",
      "w": [
-      "coumarin = benzo-γ-pyrone ; umbelliferone = 5-hydroxycoumarin",
-      "coumarin = flavone ที่มีน้ำตาล ; umbelliferone เป็น alkaloid",
-      "coumarin = anthraquinone ; umbelliferone = tannin",
-      "ทั้งสองไม่ดูดกลืน UV"
+      "coumarin = benzo-γ-pyrone ; umbelliferone = 5-hydroxycoumarin ดูดกลืน UV",
+      "coumarin = flavone ที่มีน้ำตาล ; umbelliferone เป็น alkaloid ที่ดูดกลืน UV",
+      "coumarin = anthraquinone ; umbelliferone = tannin ที่ดูดกลืน UV",
+      "coumarin = benzo-α-pyrone ; umbelliferone ไม่ดูดกลืน UV และเป็นพิษ"
      ],
-     "e": "Skimmin = glycoside ของ umbelliferone; aglycone ละลายใน non-polar solvents ส่วน glycoside ละลายน้ำและแอลกอฮอล์"
+     "e": "Skimmin = glycoside ของ umbelliferone; aglycone ละลายใน non-polar solvents ส่วน glycoside ละลายน้ำและแอลกอฮอล์ | รายละเอียดคำตอบ: coumarin = benzo-α-pyrone ; umbelliferone = 7-hydroxycoumarin ดูดกลืน UV จึงปกป้องผิว"
     },
     {
      "t": "Coumarins",
      "q": "ข้อใดจัดเป็น simple coumarins พร้อมแหล่งพืช",
-     "a": "Umbelliferone (Apiaceae), aesculin (Aesculus hippocastanum), scopoletin (ยอ Morinda citrifolia)",
+     "a": "Umbelliferone, aesculin, scopoletin (ยอ)",
      "w": [
-      "Psoralen (Ammi majus), bergapten, khellin",
-      "Dicoumarol (Melilotus), warfarin, aflatoxin",
-      "Podophyllotoxin, sesamin, macelignan",
-      "Quercetin, kaempferol, apigenin"
+      "Psoralen (Ammi majus), bergapten และ khellin",
+      "Dicoumarol (Melilotus), warfarin และ aflatoxin",
+      "Podophyllotoxin, sesamin และ macelignan",
+      "Quercetin, kaempferol และ apigenin"
      ],
-     "e": "ชะลูด (Alyxia reinwardtii, Apocynaceae) เปลือกในมีกลิ่นหอมจาก coumarin ใช้แต่งกลิ่นยาหอม"
+     "e": "ชะลูด (Alyxia reinwardtii, Apocynaceae) เปลือกในมีกลิ่นหอมจาก coumarin ใช้แต่งกลิ่นยาหอม | รายละเอียดคำตอบ: Umbelliferone, aesculin (Aesculus hippocastanum), scopoletin (ยอ Morinda citrifolia)"
     },
     {
      "t": "Furanocoumarins",
      "q": "Furanocoumarins (psoralen type) มีฤทธิ์และข้อควรระวังอย่างไร",
-     "a": "Psoralen จาก Ammi majus ใช้รักษา psoriasis โดยทำปฏิกิริยากับ pyrimidine bases ของ DNA เมื่อโดนแสง จึงเป็น phototoxic",
+     "a": "Psoralen ใช้รักษา psoriasis จับ DNA เมื่อโดนแสง จึง phototoxic",
      "w": [
-      "Psoralen เป็นยาระบายที่ไม่ไวต่อแสง",
-      "Psoralen ยับยั้งการแข็งตัวของเลือดอย่างเดียว",
-      "Furanocoumarin ไม่ทำปฏิกิริยากับ DNA",
-      "Furanocoumarin พบเฉพาะในพืชวงศ์ Fabaceae เท่านั้น"
+      "Psoralen เป็นยาระบายที่ไม่ไวต่อแสงและไม่ทำปฏิกิริยากับ DNA",
+      "Psoralen ยับยั้งการแข็งตัวของเลือดและไม่เป็นพิษต่อแสง",
+      "Furanocoumarin ไม่ทำปฏิกิริยากับ DNA จึงปลอดภัยเมื่อโดนแสงแดด",
+      "Furanocoumarin พบเฉพาะในวงศ์ Fabaceae และไม่ไวต่อแสง"
      ],
-     "e": "พบมากในวงศ์ Apiaceae และ Rutaceae; Bergapten (5-methoxypsoralen) ในน้ำมัน bergamot (Citrus bergamia) ใช้ใน suntan preparations"
+     "e": "พบมากในวงศ์ Apiaceae และ Rutaceae; Bergapten (5-methoxypsoralen) ในน้ำมัน bergamot (Citrus bergamia) ใช้ใน suntan preparations | รายละเอียดคำตอบ: Psoralen จาก Ammi majus ใช้รักษา psoriasis โดยจับ pyrimidine bases ของ DNA เมื่อโดนแสง จึง phototoxic"
     },
     {
      "t": "Furanocoumarins",
      "q": "เหตุใดการดื่มน้ำเกรปฟรุตจึงมีปฏิกิริยากับยาหลายชนิด",
-     "a": "furanocoumarins ในเกรปฟรุตยับยั้งเอนไซม์ CYP3A ที่ตับและลำไส้ ทำให้ความเข้มข้นของยา (เช่น simvastatin, calcium channel blockers) เพิ่มขึ้น",
+     "a": "furanocoumarins ยับยั้ง CYP3A ทำให้ระดับยาเพิ่มขึ้น",
      "w": [
-      "เกรปฟรุตเร่งเอนไซม์ CYP3A ทำให้ยาถูกทำลายเร็วขึ้นเสมอ",
-      "เกรปฟรุตจับกับยาแล้วขับออกทางไตทันที",
-      "เกรปฟรุตไม่มีผลต่อการเมแทบอลิซึมของยา",
-      "เกรปฟรุตลดความเป็นกรดของกระเพาะอาหารเท่านั้น"
+      "เกรปฟรุตเร่งเอนไซม์ CYP3A ทำให้ยาถูกทำลายเร็วขึ้นและระดับยาลดลง",
+      "เกรปฟรุตจับกับยาแล้วขับออกทางไตทันทีจนยาไม่ออกฤทธิ์",
+      "เกรปฟรุตไม่มีผลต่อการเมแทบอลิซึมของยาแต่เปลี่ยนสีปัสสาวะ",
+      "เกรปฟรุตลดความเป็นกรดของกระเพาะจนยาแตกตัวผิดปกติ"
      ],
-     "e": "เกรปฟรุตเป็นลูกผสมระหว่าง Citrus sinensis และ C. maxima; ผลเพิ่มความเสี่ยงต่อ hypotension, rhabdomyolysis เป็นต้น"
+     "e": "เกรปฟรุตเป็นลูกผสมระหว่าง Citrus sinensis และ C. maxima; ผลเพิ่มความเสี่ยงต่อ hypotension, rhabdomyolysis เป็นต้น | รายละเอียดคำตอบ: furanocoumarins ในเกรปฟรุตยับยั้ง CYP3A ที่ตับและลำไส้ ทำให้ระดับยา (เช่น simvastatin) เพิ่มขึ้น"
     },
     {
      "t": "Pyranocoumarins",
      "q": "Dicoumarol ที่เป็นต้นแบบของ warfarin เกิดอย่างไร",
-     "a": "เกิดจากจุลินทรีย์/รากับ coumarin ในหญ้าหวาน (sweet clover, Melilotus officinalis) ที่เสีย จนได้ bicoumarin ของ 4-hydroxycoumarin ออกฤทธิ์ต้านการแข็งตัวของเลือด",
+     "a": "เกิดจากรากับ coumarin ใน sweet clover ที่เสีย",
      "w": [
       "สกัดตรงจาก Ammi visnaga ที่สด ใช้เป็นยาขยายหลอดลม",
-      "สร้างโดยปฏิกิริยา photodimerization ของ psoralen",
-      "พบในเมล็ดงาโดยธรรมชาติ ใช้ลดไขมัน",
-      "เกิดจาก aflatoxin ในถั่วลิสง ใช้ลดความดัน"
+      "สร้างจากปฏิกิริยา photodimerization ของ psoralen เมื่อโดนแสง",
+      "พบในเมล็ดงาโดยธรรมชาติ ใช้ลดไขมันในเลือด",
+      "เกิดจาก aflatoxin ในถั่วลิสงที่ขึ้นรา ใช้ลดความดัน"
      ],
-     "e": "Dicoumarol ใช้เป็น anticoagulant และยาฆ่าหนู; Khellin (furanochromone จาก Ammi visnaga) ใช้ขยายหลอดลมและหลอดเลือดหัวใจ"
+     "e": "Dicoumarol ใช้เป็น anticoagulant และยาฆ่าหนู; Khellin (furanochromone จาก Ammi visnaga) ใช้ขยายหลอดลมและหลอดเลือดหัวใจ | รายละเอียดคำตอบ: เกิดจากรากับ coumarin ใน sweet clover (Melilotus officinalis) ที่เสีย ได้ bicoumarin ของ 4-hydroxycoumarin ต้านการแข็งตัวของเลือด"
     },
     {
      "t": "Coumarins",
      "q": "Aflatoxin จาก Aspergillus flavus มีลักษณะอย่างไร",
-     "a": "เป็น coumarin-containing fungal toxin ทนความร้อน ไม่สลายง่าย โดย aflatoxin B1 เป็นพิษมากที่สุด",
+     "a": "fungal toxin ทนความร้อน โดย aflatoxin B1 พิษมากที่สุด",
      "w": [
-      "เป็นยาระบายจากรา ที่สลายง่ายด้วยความร้อน",
-      "เป็นวิตามินที่ได้จากสาหร่าย",
-      "เป็นสารปรุงรสที่ไม่เป็นพิษ",
-      "เป็น lignan ที่ใช้เป็นยาต้านมะเร็ง"
+      "เป็นยาระบายจากรา ที่สลายง่ายด้วยความร้อนระหว่างการหุงต้ม",
+      "เป็นวิตามินที่ได้จากสาหร่าย ใช้เสริมการแข็งตัวของเลือด",
+      "เป็นสารปรุงรสจากรา ที่ไม่เป็นพิษต่อตับ",
+      "เป็น lignan จากพืชวงศ์ Berberidaceae ที่ใช้ต้านมะเร็ง"
      ],
-     "e": "Aflatoxin ผลิตโดย A. flavus และ A. parasiticus; สารกลุ่ม coumarin มีวงแหวน lactone ถูกไฮโดรไลซ์ช้า ๆ ด้วยด่างเจือจาง"
+     "e": "Aflatoxin ผลิตโดย A. flavus และ A. parasiticus; สารกลุ่ม coumarin มีวงแหวน lactone ถูกไฮโดรไลซ์ช้า ๆ ด้วยด่างเจือจาง | รายละเอียดคำตอบ: coumarin-containing fungal toxin ทนความร้อน ไม่สลายง่าย โดย aflatoxin B1 เป็นพิษมากที่สุด"
     },
     {
      "t": "Lignins & lignans",
      "q": "ข้อใดอธิบายความแตกต่างระหว่าง lignin และ lignans ได้ถูกต้อง",
-     "a": "Lignin เป็นพอลิเมอร์แตกกิ่งของ monolignols (p-coumaryl, coniferyl, sinapyl alcohol) ให้ความแข็งแรง ; lignans เป็น dimer ของ monolignols (เช่น pinoresinol)",
+     "a": "Lignin = พอลิเมอร์ของ monolignols ; lignans = dimer ของ monolignols",
      "w": [
-      "Lignin เป็น dimer ; lignans เป็นพอลิเมอร์ที่ให้ความแข็งแรง",
-      "ทั้งสองเป็นไขมัน (triglycerides)",
-      "ทั้งสองเป็น alkaloids",
-      "Lignin พบในสัตว์ ; lignans พบเฉพาะในเห็ด"
+      "Lignin = dimer ของ monolignols ; lignans = พอลิเมอร์ที่ให้ความแข็งแรง",
+      "ทั้งสองเป็นไขมัน (triglycerides) ที่พบในเมล็ดพืชน้ำมัน",
+      "ทั้งสองเป็น alkaloids ที่มีไนโตรเจนในโมเลกุล",
+      "Lignin พบในสัตว์ ; lignans พบเฉพาะในเห็ดและรา"
      ],
-     "e": "Lignin พบมากเป็นอันดับสองในพืช เป็นอุปสรรคต่อการย่อยสลายโดยจุลินทรีย์"
+     "e": "Lignin พบมากเป็นอันดับสองในพืช เป็นอุปสรรคต่อการย่อยสลายโดยจุลินทรีย์ | รายละเอียดคำตอบ: Lignin = พอลิเมอร์แตกกิ่งของ monolignols ให้ความแข็งแรง ; lignans = dimer ของ monolignols (เช่น pinoresinol)"
     },
     {
      "t": "Lignans",
      "q": "ข้อใดจับคู่ lignan กับแหล่งและการใช้ประโยชน์ได้ถูกต้อง",
-     "a": "Podophyllotoxin จาก Podophyllum (Berberidaceae) → อนุพันธ์ etoposide, teniposide ใช้ในเคมีบำบัด ; sesamin จากน้ำมันงา (Sesamum indicum)",
+     "a": "Podophyllotoxin จาก Podophyllum → etoposide ; sesamin จากงา",
      "w": [
       "Podophyllotoxin จากงา → ใช้เป็นยาระบาย ; sesamin จาก Podophyllum",
-      "Macelignan จากงา → เป็นยาชา ; Podophyllotoxin จากจันทน์เทศ",
-      "Etoposide จากกาแฟ → ลดความดัน",
-      "Sesamin จากกานพลู → ใช้ทาแผล"
+      "Macelignan จากงา → เป็นยาชา ; podophyllotoxin จากจันทน์เทศ",
+      "Etoposide จากกาแฟ → ใช้ลดความดัน ; sesamin จากชาเขียว",
+      "Sesamin จากกานพลู → ใช้ทาแผล ; podophyllotoxin จากวานิลลา"
      ],
-     "e": "Macelignan เป็น dibenzylbutane-type lignan ของจันทน์เทศ (Myristica fragrans)"
+     "e": "Macelignan เป็น dibenzylbutane-type lignan ของจันทน์เทศ (Myristica fragrans) | รายละเอียดคำตอบ: Podophyllotoxin จาก Podophyllum → etoposide, teniposide ใช้เคมีบำบัด ; sesamin จากน้ำมันงา"
     },
     {
      "t": "Flavonoids",
      "q": "โครงสร้างพื้นฐานของ flavonoids และสารตั้งต้นในการสังเคราะห์คืออะไร",
-     "a": "C6–C3–C6 (สองวงแหวนอะโรมาติกเชื่อมด้วยสะพาน 3 คาร์บอน) สร้างจาก p-coumaroyl-CoA กับ malonyl-CoA 3 โมเลกุล โดย chalcone synthase ได้ chalcone",
+     "a": "C6–C3–C6 สร้างจาก p-coumaroyl-CoA กับ malonyl-CoA โดย chalcone synthase",
      "w": [
-      "C6–C1 สร้างจาก acetyl-CoA ล้วน ๆ โดย PAL",
-      "C6–C2 สร้างจาก mevalonate โดย terpene synthase",
-      "C5 isoprene unit สร้างจาก geranyl diphosphate",
-      "C6–C3 สร้างจาก ornithine โดย decarboxylase"
+      "C6–C1 สร้างจาก acetyl-CoA ล้วน ๆ โดยเอนไซม์ PAL ได้ benzoic acid",
+      "C6–C2 สร้างจาก mevalonate โดย terpene synthase ได้ terpenoid",
+      "C5 isoprene unit สร้างจาก geranyl diphosphate ได้ monoterpene",
+      "C6–C3 สร้างจาก ornithine โดย decarboxylase ได้ tropane"
      ],
-     "e": "Stilbene synthase ให้ stilbenes (เช่น resveratrol) จากสารตั้งต้นเดียวกัน; flavonoids ส่วนใหญ่อยู่ในรูป glycoside; ไม่เปิดวงด้วยด่างเพราะเป็น benzo-γ-pyrone"
+     "e": "Stilbene synthase ให้ stilbenes (เช่น resveratrol) จากสารตั้งต้นเดียวกัน; flavonoids ส่วนใหญ่อยู่ในรูป glycoside; ไม่เปิดวงด้วยด่างเพราะเป็น benzo-γ-pyrone | รายละเอียดคำตอบ: C6–C3–C6 สร้างจาก p-coumaroyl-CoA กับ malonyl-CoA 3 โมเลกุล โดย chalcone synthase ได้ chalcone"
     },
     {
      "t": "Flavonoids",
      "q": "ข้อใดจับคู่กลุ่ม flavonoid กับตัวอย่างสารและแหล่งอาหารได้ถูกต้อง",
-     "a": "Flavanones = naringenin, hesperetin (Citrus) ; Isoflavones = genistein, daidzein (ถั่วเหลือง, phytoestrogens) ; Flavanols = catechins, EGCG (ชาเขียว)",
+     "a": "Flavanones = naringenin ; Isoflavones = genistein ; Flavanols = EGCG (ชาเขียว)",
      "w": [
-      "Flavanones = genistein (ถั่วเหลือง) ; Isoflavones = naringenin (ส้ม)",
-      "Flavonols = EGCG (ชาเขียว) ; Flavanols = quercetin (หัวหอม)",
-      "Anthocyanins = apigenin (ขึ้นฉ่าย) ; Flavones = cyanidin (เบอร์รี่)",
-      "Chalcones = quercetin ; Flavones = xanthohumol"
+      "Flavanones = genistein (ถั่วเหลือง) ; Isoflavones = naringenin (ส้ม) ; Flavanols = EGCG (ชาเขียว)",
+      "Flavonols = EGCG (ชาเขียว) ; Flavanols = quercetin (หัวหอม) ; Flavanones = genistein (ถั่วเหลือง)",
+      "Anthocyanins = apigenin (ขึ้นฉ่าย) ; Flavones = cyanidin (เบอร์รี่) ; Isoflavones = naringenin (ส้ม)",
+      "Chalcones = quercetin (หัวหอม) ; Flavones = xanthohumol (ฮอป) ; Flavanols = genistein (ถั่วเหลือง)"
      ],
-     "e": "Flavonols: quercetin, kaempferol (หัวหอม แอปเปิล); Flavones: apigenin, luteolin (ขึ้นฉ่าย พาร์สลีย์ คาโมมายล์); Anthocyanins: cyanidin, delphinidin (เบอร์รี่ ข้าวเหนียวดำ); Chalcones: xanthohumol (hops)"
+     "e": "Flavonols: quercetin, kaempferol (หัวหอม แอปเปิล); Flavones: apigenin, luteolin (ขึ้นฉ่าย พาร์สลีย์ คาโมมายล์); Anthocyanins: cyanidin, delphinidin (เบอร์รี่ ข้าวเหนียวดำ); Chalcones: xanthohumol (hops) | รายละเอียดคำตอบ: Flavanones = naringenin (Citrus) ; Isoflavones = genistein, daidzein (ถั่วเหลือง) ; Flavanols = catechins, EGCG (ชาเขียว)"
     },
     {
      "t": "Flavonoids",
      "q": "ลักษณะเฉพาะของ isoflavones ที่ต่างจาก flavonoids กลุ่มอื่นคืออะไร",
-     "a": "วงแหวน B ย้ายไปติดที่ตำแหน่ง C3 ของวง C (กลุ่มอื่นติดที่ C2) และทำหน้าที่เป็น phytoestrogens",
+     "a": "วงแหวน B ติดที่ C3 (กลุ่มอื่นติดที่ C2) และเป็น phytoestrogens",
      "w": [
       "วงแหวน B ติดที่ C2 เหมือนกลุ่มอื่น และไม่มีฤทธิ์คล้ายเอสโตรเจน",
-      "ไม่มีวงแหวน C",
-      "วงแหวน B ติดที่ C4 และเป็นสีย้อมแดง",
-      "เป็นโซ่เปิดที่ไม่มีวงแหวน"
+      "ไม่มีวงแหวน C จึงเป็นโมเลกุลแบบเปิด และเป็น phytoestrogens",
+      "วงแหวน B ติดที่ C4 ของวง C และเป็นสีย้อมแดง",
+      "เป็นโซ่เปิดที่ไม่มีวงแหวนและทำหน้าที่เป็นสารต้านการแข็งตัวของเลือด"
      ],
-     "e": "พบจำกัดในพืชตระกูลถั่ว (soybeans, kudzu); anthocyanins เป็นสีที่เปลี่ยนตาม pH (แดงถึงน้ำเงิน)"
+     "e": "พบจำกัดในพืชตระกูลถั่ว (soybeans, kudzu); anthocyanins เป็นสีที่เปลี่ยนตาม pH (แดงถึงน้ำเงิน) | รายละเอียดคำตอบ: วงแหวน B ย้ายไปติดที่ C3 ของวง C (กลุ่มอื่นติดที่ C2) และเป็น phytoestrogens"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "มะหาด (Artocarpus lacucha) และแกแล (Maclura cochinchinensis) ในวงศ์ Moraceae มีสารสำคัญและการใช้อย่างไร",
-     "a": "มะหาด: แก่นมี oxyresveratrol (stilbene) ใช้เป็นยาถ่ายพยาธิ (ปวกหาด) ; แกแล: แก่นมี morin, oxyresveratrol บำรุงเลือด ขับน้ำเหลือง",
+     "a": "มะหาด: แก่นมี oxyresveratrol ใช้ถ่ายพยาธิ ; แกแล: แก่นมี morin บำรุงเลือด",
      "w": [
-      "มะหาด: ใบมี sennosides ใช้เป็นยาระบาย ; แกแล: ผลมี thymoquinone",
-      "มะหาด: รากมี plumbagin ; แกแล: เมล็ดมี artemisinin",
-      "มะหาด: เปลือกมี nicotine ; แกแล: ดอกมี codeine",
-      "ทั้งสองไม่มีสาร phenolic"
+      "มะหาด: ใบมี sennosides ใช้เป็นยาระบาย ; แกแล: ผลมี thymoquinone ใช้ขับปัสสาวะ",
+      "มะหาด: รากมี plumbagin ใช้ฆ่าเชื้อ ; แกแล: เมล็ดมี artemisinin ใช้ต้านมาลาเรีย",
+      "มะหาด: เปลือกมี nicotine ใช้กระตุ้นประสาท ; แกแล: ดอกมี codeine ใช้แก้ไอ",
+      "ทั้งสองไม่มีสาร phenolic และใช้เป็นอาหารสัตว์เท่านั้น"
      ],
-     "e": "ขนุน (Artocarpus heterophyllus) แก่นใช้ย้อมจีวรพระ; หม่อน (Morus alba) ใบขับเสมหะ ผลบำรุง"
+     "e": "ขนุน (Artocarpus heterophyllus) แก่นใช้ย้อมจีวรพระ; หม่อน (Morus alba) ใบขับเสมหะ ผลบำรุง | รายละเอียดคำตอบ: มะหาด: แก่นมี oxyresveratrol (stilbene) ใช้ถ่ายพยาธิ ; แกแล: แก่นมี morin, oxyresveratrol บำรุงเลือด"
     }
    ]
   },
@@ -758,242 +758,242 @@
     {
      "t": "นิยาม",
      "q": "นิยามของ tannins ที่ถูกต้องคือข้อใด",
-     "a": "สารกลุ่ม phenolics ที่ละลายน้ำ มวลโมเลกุลประมาณ 500–3,000 สามารถตกตะกอนโปรตีน เจลาติน และ alkaloids ได้",
+     "a": "phenolics ที่ละลายน้ำ มวลโมเลกุล 500–3,000 ตกตะกอนโปรตีนและเจลาตินได้",
      "w": [
-      "สารกลุ่ม terpenoids ที่ไม่ละลายน้ำ มวลโมเลกุลต่ำกว่า 200",
-      "น้ำตาลโมเลกุลใหญ่ที่ไม่ทำปฏิกิริยากับโปรตีน",
-      "กรดไขมันอิ่มตัวที่ทำให้กระดาษโปร่งแสง",
-      "alkaloids ที่มีไนโตรเจนเป็นองค์ประกอบหลัก"
+      "สารกลุ่ม terpenoids ที่ไม่ละลายน้ำ มวลโมเลกุลต่ำกว่า 200 และไม่ตกตะกอนโปรตีน",
+      "น้ำตาลโมเลกุลใหญ่ที่ละลายน้ำ มวลโมเลกุลสูงกว่า 5,000 และไม่ทำปฏิกิริยากับโปรตีน",
+      "กรดไขมันอิ่มตัวที่ไม่ละลายน้ำ ทำให้กระดาษโปร่งแสง และตกตะกอน alkaloids",
+      "alkaloids ที่มีไนโตรเจนเป็นองค์ประกอบหลัก ละลายใน hexane ได้ดี"
      ],
-     "e": "Tannin จับกับโปรตีนทำให้ย่อยยาก เช่น การใส่นมในชาช่วยลดความฝาด"
+     "e": "Tannin จับกับโปรตีนทำให้ย่อยยาก เช่น การใส่นมในชาช่วยลดความฝาด | รายละเอียดคำตอบ: สารกลุ่ม phenolics ที่ละลายน้ำ มวลโมเลกุล 500–3,000 ตกตะกอนโปรตีน เจลาติน และ alkaloids ได้"
     },
     {
      "t": "การจำแนก",
      "q": "True tannins แบ่งเป็นกลุ่มใหญ่ได้กี่กลุ่มและมีอะไรบ้าง",
-     "a": "2 กลุ่มหลัก คือ hydrolysable tannins (gallotannins, ellagitannins) และ condensed tannins (proanthocyanidins) นอกจากนี้ยังมี phlorotannins จากสาหร่ายสีน้ำตาล",
+     "a": "2 กลุ่ม: hydrolysable tannins และ condensed tannins (proanthocyanidins)",
      "w": [
-      "กลุ่มเดียวคือ gallotannins เท่านั้น",
-      "3 กลุ่ม คือ alkaloids, glycosides และ saponins",
-      "2 กลุ่ม คือ anthraquinones และ coumarins",
-      "ไม่มีการแบ่งกลุ่มใด ๆ"
+      "กลุ่มเดียวคือ gallotannins ซึ่งพบในทุกพืชและสาหร่าย",
+      "3 กลุ่ม คือ alkaloids, glycosides และ saponins ตามโครงสร้างไนโตรเจน",
+      "2 กลุ่ม คือ anthraquinones และ coumarins ตามวิถีชีวสังเคราะห์",
+      "ไม่มีการแบ่งกลุ่มเพราะ tannins ทุกชนิดมีโครงสร้างเหมือนกัน"
      ],
-     "e": "Hydrolysable และ condensed แตกต่างกันทั้งโครงสร้างและที่มาทางชีวสังเคราะห์ (shikimate pathway ทั้งคู่)"
+     "e": "Hydrolysable และ condensed แตกต่างกันทั้งโครงสร้างและที่มาทางชีวสังเคราะห์ (shikimate pathway ทั้งคู่) | รายละเอียดคำตอบ: 2 กลุ่มหลัก: hydrolysable tannins (gallotannins, ellagitannins) และ condensed tannins (proanthocyanidins) และมี phlorotannins จากสาหร่ายสีน้ำตาล"
     },
     {
      "t": "Hydrolysable tannins",
      "q": "Hydrolysable tannins มีลักษณะเฉพาะอย่างไร",
-     "a": "เป็นเอสเทอร์ของกรดฟีนอลิก (เช่น gallic acid) กับน้ำตาล (มักเป็น glucose) ถูกไฮโดรไลซ์ด้วยกรด/ด่างอ่อน หรือเอนไซม์ tannase ได้น้ำตาลกับกรดฟีนอลิก",
+     "a": "เอสเทอร์ของ gallic acid กับน้ำตาล ถูกไฮโดรไลซ์ด้วยกรด ด่างอ่อน หรือ tannase",
      "w": [
-      "เป็นพอลิเมอร์ของ flavan-3-ol ที่ไม่ถูกไฮโดรไลซ์และไม่มีน้ำตาล",
-      "เป็นโมเลกุลเดี่ยวของ anthraquinone ที่ไม่มีหมู่เอสเทอร์",
-      "เป็นพอลิเมอร์ของ phloroglucinol ในสาหร่าย",
-      "ไม่ละลายน้ำและแอลกอฮอล์"
+      "พอลิเมอร์ของ flavan-3-ol ที่ไม่ถูกไฮโดรไลซ์ง่ายและไม่มีน้ำตาลในโมเลกุล",
+      "โมเลกุลเดี่ยวของ anthraquinone ที่ไม่มีหมู่เอสเทอร์และละลายในด่าง",
+      "พอลิเมอร์ของ phloroglucinol ที่พบเฉพาะในสาหร่ายสีน้ำตาล",
+      "สารที่ไม่ละลายน้ำและแอลกอฮอล์ และไม่ถูกย่อยด้วยเอนไซม์ tannase"
      ],
-     "e": "ตัวอย่างพืชแหล่ง: Chinese/Turkish galls, hamamelis, chestnut, เปลือกผลและเปลือกต้นทับทิม, ใบยูคาลิปตัส, กานพลู, rhubarb"
+     "e": "ตัวอย่างพืชแหล่ง: Chinese/Turkish galls, hamamelis, chestnut, เปลือกผลและเปลือกต้นทับทิม, ใบยูคาลิปตัส, กานพลู, rhubarb | รายละเอียดคำตอบ: เอสเทอร์ของกรดฟีนอลิก (เช่น gallic acid) กับน้ำตาล ถูกไฮโดรไลซ์ด้วยกรด ด่างอ่อน หรือ tannase ได้น้ำตาลกับกรดฟีนอลิก"
     },
     {
      "t": "Hydrolysable tannins",
      "q": "Gallotannins และ ellagitannins ต่างกันอย่างไร",
-     "a": "Gallotannins เป็นเอสเทอร์ของ gallic acid กับ polyol (มักเป็น glucose) ; Ellagitannins เกิดจาก oxidative coupling ของหน่วย galloyl อย่างน้อย 2 หน่วยเป็น HHDP (hexahydroxydiphenic acid)",
+     "a": "Gallotannins = gallic acid + polyol ; Ellagitannins = galloyl coupling เป็น HHDP",
      "w": [
-      "Gallotannins เกิดจาก HHDP ; Ellagitannins คือ gallic acid glucose ที่ไม่มีการ coupling",
-      "ทั้งสองเป็นพอลิเมอร์ของ catechin",
-      "Gallotannins พบเฉพาะในสาหร่าย ; Ellagitannins พบเฉพาะในสัตว์",
-      "ทั้งสองไม่มีน้ำตาลในโมเลกุล"
+      "Gallotannins = เกิดจาก HHDP ; Ellagitannins = gallic acid กับ glucose ที่ไม่มี coupling",
+      "ทั้งสองเป็นพอลิเมอร์ของ catechin ที่เชื่อมด้วยพันธะ C–C",
+      "Gallotannins = พบเฉพาะในสาหร่าย ; Ellagitannins = พบเฉพาะในสัตว์",
+      "ทั้งสองไม่มีน้ำตาลในโมเลกุลและไม่ถูกไฮโดรไลซ์"
      ],
-     "e": "Ellagitannins พบมากกว่า 500 ชนิด; Tannic acid เป็นตัวอย่าง gallotannin (gallic acid esters of glucose)"
+     "e": "Ellagitannins พบมากกว่า 500 ชนิด; Tannic acid เป็นตัวอย่าง gallotannin (gallic acid esters of glucose) | รายละเอียดคำตอบ: Gallotannins = เอสเทอร์ของ gallic acid กับ polyol ; Ellagitannins = oxidative coupling ของ galloyl อย่างน้อย 2 หน่วยได้ HHDP"
     },
     {
      "t": "Condensed tannins",
      "q": "Condensed tannins (proanthocyanidins) มีลักษณะอย่างไร",
-     "a": "เป็นโอลิโกเมอร์/พอลิเมอร์ของ flavan-3-ol (catechin) ที่เชื่อมด้วยพันธะ C–C ไม่ถูกไฮโดรไลซ์ง่ายและไม่มีน้ำตาล",
+     "a": "พอลิเมอร์ของ flavan-3-ol ที่เชื่อมด้วยพันธะ C–C ไม่ถูกไฮโดรไลซ์ง่าย",
      "w": [
-      "เป็นเอสเทอร์ของ gallic acid กับ glucose ถูกไฮโดรไลซ์ง่าย",
-      "เป็นอนุพันธ์ของ coumarin ที่มี furan ring",
-      "เป็นพอลิเมอร์ของ isoprene",
-      "เป็นสารที่มีไนโตรเจนและให้ผลบวกกับ Dragendorff"
+      "เอสเทอร์ของ gallic acid กับ glucose ที่ถูกไฮโดรไลซ์ได้ง่ายด้วยกรด",
+      "อนุพันธ์ของ coumarin ที่มี furan ring และไวต่อแสง",
+      "พอลิเมอร์ของ isoprene ที่ไม่ละลายน้ำและตกตะกอนโปรตีน",
+      "สารที่มีไนโตรเจนในโมเลกุลและให้ผลบวกกับ Dragendorff"
      ],
-     "e": "เมื่อทำปฏิกิริยากับกรดหรือเอนไซม์ จะได้สารสีแดงไม่ละลายเรียก phlobaphenes (เช่นสีแดงของ red cinchona bark); เรียกว่า catechol tannins เพราะให้ catechol"
+     "e": "เมื่อทำปฏิกิริยากับกรดหรือเอนไซม์ จะได้สารสีแดงไม่ละลายเรียก phlobaphenes (เช่นสีแดงของ red cinchona bark); เรียกว่า catechol tannins เพราะให้ catechol | รายละเอียดคำตอบ: โอลิโกเมอร์/พอลิเมอร์ของ flavan-3-ol (catechin) เชื่อมด้วยพันธะ C–C ไม่ถูกไฮโดรไลซ์ง่ายและไม่มีน้ำตาล"
     },
     {
      "t": "Pseudotannins",
      "q": "Pseudotannins ต่างจาก true tannins อย่างไร",
-     "a": "มีมวลโมเลกุลต่ำกว่า และไม่ให้ผลบวกกับ goldbeater’s skin test (เช่น gallic acid ใน rhubarb, catechins ใน catechu, chlorogenic acid ในกาแฟ)",
+     "a": "มวลโมเลกุลต่ำกว่าและไม่ให้ผลบวกกับ goldbeater's skin test",
      "w": [
-      "มีมวลโมเลกุลสูงกว่าและให้ผลบวกกับ goldbeater’s skin test",
-      "เป็นพอลิเมอร์ของ phloroglucinol จากสาหร่าย",
-      "ไม่ใช่สารกลุ่ม phenolics",
-      "ตกตะกอนเจลาตินได้ดีกว่า true tannins เสมอ"
+      "มีมวลโมเลกุลสูงกว่าและให้ผลบวกกับ goldbeater's skin test เสมอ",
+      "เป็นพอลิเมอร์ของ phloroglucinol ที่พบเฉพาะในสาหร่ายสีน้ำตาล",
+      "ไม่ใช่สารกลุ่ม phenolics แต่เป็นอนุพันธ์ของ terpenoids",
+      "ตกตะกอนเจลาตินได้ดีกว่า true tannins ในทุกกรณี"
      ],
-     "e": "ส่วนใหญ่ถ้ามี true tannins มักมี pseudotannins ร่วมด้วย; ipecacuanhic acid ใน ipecac ก็จัดเป็น pseudotannin"
+     "e": "ส่วนใหญ่ถ้ามี true tannins มักมี pseudotannins ร่วมด้วย; ipecacuanhic acid ใน ipecac ก็จัดเป็น pseudotannin | รายละเอียดคำตอบ: มีมวลโมเลกุลต่ำกว่าและไม่ให้ผลบวกกับ goldbeater's skin test (เช่น gallic acid, catechins, chlorogenic acid)"
     },
     {
      "t": "Phlorotannins",
      "q": "Phlorotannins พบที่ใดและมีหน่วยโครงสร้างตั้งต้นอะไร",
-     "a": "พบในสาหร่ายสีน้ำตาล (brown algae, Phaeophyceae) ; หน่วยตั้งต้นคือ phloroglucinol (1,3,5-trihydroxybenzene)",
+     "a": "สาหร่ายสีน้ำตาล ; หน่วยตั้งต้นคือ phloroglucinol",
      "w": [
-      "พบในพืชวงศ์ Fagaceae ; หน่วยตั้งต้นคือ catechin",
-      "พบในแมลง ; หน่วยตั้งต้นคือ carminic acid",
-      "พบในรากเจตมูลเพลิง ; หน่วยตั้งต้นคือ plumbagin",
-      "พบในเมล็ดงา ; หน่วยตั้งต้นคือ sesamin"
+      "พืชวงศ์ Fagaceae ; หน่วยตั้งต้นคือ catechin",
+      "แมลงที่ผลิต cochineal ; หน่วยตั้งต้นคือ carminic acid",
+      "รากเจตมูลเพลิงแดง ; หน่วยตั้งต้นคือ plumbagin",
+      "เมล็ดงา ; หน่วยตั้งต้นคือ sesamin"
      ],
-     "e": "Phlorotannins แตกต่างจาก gallotannins, ellagitannins และ condensed tannins ทั้งด้านโครงสร้างแหล่งที่พบและ biosynthesis"
+     "e": "Phlorotannins แตกต่างจาก gallotannins, ellagitannins และ condensed tannins ทั้งด้านโครงสร้างแหล่งที่พบและ biosynthesis | รายละเอียดคำตอบ: สาหร่ายสีน้ำตาล (Phaeophyceae) ; หน่วยตั้งต้นคือ phloroglucinol"
     },
     {
      "t": "สมบัติ",
      "q": "ข้อใดเป็นสมบัติของ tannins",
-     "a": "ละลายน้ำ และละลายในด่างเจือจาง แอลกอฮอล์ glycerol acetone ; สารละลายตกตะกอนโลหะหนัก alkaloids โปรตีน และเจลาติน",
+     "a": "ละลายน้ำและแอลกอฮอล์ ; ตกตะกอนโปรตีนและเจลาติน",
      "w": [
-      "ไม่ละลายน้ำ แต่ละลายใน hexane ได้ดี",
-      "ไม่ทำปฏิกิริยากับโปรตีนหรือเจลาติน",
-      "ละลายเฉพาะใน chloroform",
-      "ทำให้เกิดฟองเมื่อเขย่ากับน้ำ"
+      "ไม่ละลายน้ำ แต่ละลายใน hexane และ chloroform ได้ดี",
+      "ไม่ทำปฏิกิริยากับโปรตีนหรือเจลาติน และไม่ตกตะกอนโลหะหนัก",
+      "ละลายเฉพาะใน chloroform และ petroleum ether เท่านั้น",
+      "ทำให้เกิดฟองคงทนเมื่อเขย่ากับน้ำ และทำให้เม็ดเลือดแดงแตก"
      ],
-     "e": "อุตสาหกรรมฟอกหนังใช้ tannins; tannin เชิงยาใช้ฤทธิ์ฝาดสมาน (astringent)"
+     "e": "อุตสาหกรรมฟอกหนังใช้ tannins; tannin เชิงยาใช้ฤทธิ์ฝาดสมาน (astringent) | รายละเอียดคำตอบ: ละลายน้ำ ละลายในด่างเจือจาง แอลกอฮอล์ glycerol acetone ; ตกตะกอนโลหะหนัก alkaloids โปรตีน เจลาติน"
     },
     {
      "t": "การทดสอบ",
      "q": "ผลการทดสอบ FeCl3 ที่ใช้แยก hydrolysable tannin กับ condensed tannin เป็นอย่างไร",
-     "a": "Hydrolysable tannin ให้สีน้ำเงินดำ (bluish black) ; Condensed tannin ให้สีน้ำตาลดำ/เขียว (brownish/greenish black)",
+     "a": "Hydrolysable = น้ำเงินดำ ; Condensed = น้ำตาลดำ/เขียว",
      "w": [
-      "Hydrolysable ให้สีเขียว ; Condensed ให้สีน้ำเงินดำ",
-      "ทั้งสองไม่ให้สีใด ๆ",
-      "Hydrolysable ให้ตะกอนสีขาว ; Condensed ให้สีเหลืองใส",
-      "ทั้งสองให้สีม่วง"
+      "Hydrolysable = สีเขียว ; Condensed = สีน้ำเงินดำ",
+      "ทั้งสองไม่ให้สีใด ๆ กับ FeCl3",
+      "Hydrolysable = ตะกอนสีขาว ; Condensed = สีเหลืองใส",
+      "ทั้งสองให้สีม่วงเข้มเหมือนกัน"
      ],
-     "e": "Tannin + FeCl3 → bluish black (hydrolysable) หรือ brownish black/green (catechol/condensed)"
+     "e": "Tannin + FeCl3 → bluish black (hydrolysable) หรือ brownish black/green (catechol/condensed) | รายละเอียดคำตอบ: Hydrolysable = สีน้ำเงินดำ ; Condensed = สีน้ำตาลดำ/เขียว (brownish/greenish black)"
     },
     {
      "t": "การทดสอบ",
      "q": "ข้อใดจับคู่การทดสอบกับผลตอบสนองได้ถูกต้อง",
-     "a": "Bromine water ให้ตะกอนเฉพาะ condensed tannin ; น้ำปูนใส (limewater) ให้ตะกอนเฉพาะ hydrolysable tannin",
+     "a": "Bromine water ตะกอนกับ condensed ; น้ำปูนใสตะกอนกับ hydrolysable",
      "w": [
-      "Bromine water ให้ตะกอนเฉพาะ hydrolysable tannin ; limewater ให้ตะกอนเฉพาะ condensed tannin",
-      "Bromine water และ limewater ให้ตะกอนกับทั้งสองชนิดเสมอ",
-      "Bromine water ไม่ให้ตะกอนกับ tannin ใด ๆ",
-      "Limewater ให้ตะกอนกับ alkaloids เท่านั้น"
+      "Bromine water ให้ตะกอนกับ hydrolysable ; limewater ให้ตะกอนกับ condensed",
+      "Bromine water และ limewater ให้ตะกอนกับทั้งสองชนิดเหมือนกัน",
+      "Bromine water ไม่ให้ตะกอนกับ tannin ใด ๆ ; limewater ให้กับ condensed",
+      "Limewater ให้ตะกอนกับ alkaloids ; bromine water ให้ตะกอนกับ hydrolysable"
      ],
-     "e": "Gelatin test: 1% tannin ตกตะกอน gelatin; Goldbeater’s skin test: ได้สีน้ำตาลกับ true tannin"
+     "e": "Gelatin test: 1% tannin ตกตะกอน gelatin; Goldbeater’s skin test: ได้สีน้ำตาลกับ true tannin | รายละเอียดคำตอบ: Bromine water ให้ตะกอนกับ condensed tannin ; น้ำปูนใสให้ตะกอนกับ hydrolysable tannin"
     },
     {
      "t": "การวิเคราะห์",
      "q": "Folin–Ciocalteu method ใช้ตรวจวัดอะไรและวัดที่ความยาวคลื่นใด",
-     "a": "วัดปริมาณ phenolics ทั้งหมด จากการเกิดสีน้ำเงินของ tungsten/molybdenum oxide เมื่อ phenols ถูกออกซิไดซ์ วัดที่ประมาณ 740 nm",
+     "a": "วัดปริมาณ phenolics ทั้งหมด จากสีน้ำเงินของ tungsten/molybdenum oxide ที่ 740 nm",
      "w": [
-      "วัดปริมาณ alkaloids ที่ 254 nm",
-      "วัดปริมาณ volatile oils ที่ 365 nm",
-      "วัดปริมาณ saponins ที่ 540 nm โดยดูการเกิดฟอง",
-      "วัดจุดหลอมเหลวของ tannin"
+      "วัดปริมาณ alkaloids ทั้งหมด จากสีม่วงของสารเชิงซ้อนกับ bromocresol green ที่ 254 nm",
+      "วัดปริมาณ volatile oils จากการดูดกลืนแสงของ terpenes ที่ 365 nm",
+      "วัดปริมาณ saponins จากความสูงของฟองหลังเขย่า ที่ 540 nm",
+      "วัดจุดหลอมเหลวของ tannin เพื่อตรวจความบริสุทธิ์ที่ 100 °C"
      ],
-     "e": "Folin–Ciocalteu reagent = phosphotungstic + phosphomolybdic acid; Vanillin assay ใช้กับ flavanols/proanthocyanidins; hide powder method วัด tannin จากน้ำหนักที่ลดลง"
+     "e": "Folin–Ciocalteu reagent = phosphotungstic + phosphomolybdic acid; Vanillin assay ใช้กับ flavanols/proanthocyanidins; hide powder method วัด tannin จากน้ำหนักที่ลดลง | รายละเอียดคำตอบ: วัดปริมาณ phenolics ทั้งหมด จากสีน้ำเงินของ tungsten/molybdenum oxide ที่เกิดเมื่อ phenols ถูกออกซิไดซ์ ที่ประมาณ 740 nm"
     },
     {
      "t": "การวิเคราะห์",
      "q": "วิธีหาปริมาณ tannin แบบ hide powder method อาศัยหลักการใด",
-     "a": "เทียบน้ำหนักแห้งของสารสกัดก่อนและหลังการดูดซับ tannin ด้วย hide powder (ผลต่างคือปริมาณ tannin)",
+     "a": "เทียบน้ำหนักแห้งของสารสกัดก่อนและหลังดูดซับ tannin ด้วย hide powder",
      "w": [
-      "วัดการดูดกลืนแสงที่ 254 nm ของสารสกัด",
-      "ไทเทรตด้วย 0.1 M KOH",
-      "วัดค่า Rf บนแผ่น TLC",
-      "วัดมุมการหักเหแสงของสารสกัด"
+      "วัดการดูดกลืนแสงที่ 254 nm ของสารสกัดก่อนและหลังเติม hide powder",
+      "ไทเทรตสารสกัดด้วย 0.1 M KOH หลังเติม hide powder",
+      "วัดค่า Rf บนแผ่น TLC เทียบกับ tannic acid มาตรฐาน",
+      "วัดมุมหักเหแสงของสารสกัดก่อนและหลังเติม hide powder"
      ],
-     "e": "อีกวิธี: gravimetric method ด้วย copper acetate เป็นตัวตกตะกอน"
+     "e": "อีกวิธี: gravimetric method ด้วย copper acetate เป็นตัวตกตะกอน | รายละเอียดคำตอบ: เทียบน้ำหนักแห้งของสารสกัดก่อนและหลังดูดซับ tannin ด้วย hide powder (ผลต่างคือปริมาณ tannin)"
     },
     {
      "t": "การสกัด",
      "q": "ข้อใดถูกต้องเกี่ยวกับการสกัด tannins",
-     "a": "สกัดด้วยน้ำ แอลกอฮอล์ หรือ acetone ได้ผลดีจากพืชสดหรือตัวอย่างแห้งเยือกแข็ง (freeze-dried) ส่วนตัวอย่างที่ทำแห้งธรรมดาได้ผลต่ำเพราะ tannin รวมกับพอลิเมอร์อื่นแบบผันกลับไม่ได้",
+     "a": "สกัดด้วยน้ำ แอลกอฮอล์ หรือ acetone จากพืชสดหรือ freeze-dried ได้ผลดี",
      "w": [
-      "ต้องสกัดจากตัวอย่างที่แห้งสนิทด้วย hexane เท่านั้น",
+      "ต้องสกัดจากตัวอย่างที่แห้งสนิทด้วย hexane จึงได้ผลดีที่สุด",
       "สกัดด้วยตัวทำละลายไม่มีขั้ว เช่น petroleum ether ได้ผลดีที่สุด",
-      "ต้องสกัดที่อุณหภูมิ 200 °C",
-      "ตัวอย่างที่แห้งแล้วให้ผลสกัดสูงสุดเสมอ"
+      "ต้องสกัดที่อุณหภูมิ 200 °C เพื่อเพิ่มผลผลิตและป้องกันการเสื่อม",
+      "ตัวอย่างที่ทำแห้งธรรมดาให้ผลสกัดสูงสุดเสมอเพราะ tannin เข้มข้นขึ้น"
      ],
-     "e": "สกัดด้วย ethyl acetate แยก dimeric proanthocyanidins และ gallotannins ส่วนใหญ่; polymeric ที่มวลโมเลกุลสูงอยู่ในชั้นน้ำ; แยกบริสุทธิ์ด้วย gel filtration ตามด้วย reverse-phase"
+     "e": "สกัดด้วย ethyl acetate แยก dimeric proanthocyanidins และ gallotannins ส่วนใหญ่; polymeric ที่มวลโมเลกุลสูงอยู่ในชั้นน้ำ; แยกบริสุทธิ์ด้วย gel filtration ตามด้วย reverse-phase | รายละเอียดคำตอบ: สกัดด้วยน้ำ แอลกอฮอล์ หรือ acetone จากพืชสดหรือ freeze-dried ได้ดี ส่วนตัวอย่างแห้งธรรมดาได้ผลต่ำเพราะ tannin รวมกับพอลิเมอร์อื่น"
     },
     {
      "t": "ฤทธิ์ทางเภสัช",
      "q": "ฤทธิ์ทางการแพทย์ที่สำคัญของ tannins เกิดจากสมบัติใด",
-     "a": "ฤทธิ์ฝาดสมาน (astringent) เพราะตกตะกอนโปรตีน ทำให้เกิดชั้นป้องกันบนผิว/เยื่อเมือก หดหลอดเลือดฝอย ลดการสูญเสียน้ำ ใช้แก้ท้องเสียและรักษาแผล",
+     "a": "ฤทธิ์ฝาดสมาน เพราะตกตะกอนโปรตีน ใช้แก้ท้องเสียและรักษาแผล",
      "w": [
-      "ฤทธิ์ระบายแรง จากการกระตุ้นลำไส้ใหญ่",
-      "ฤทธิ์ขับปัสสาวะจากการกระตุ้นไต",
-      "ฤทธิ์กดประสาทผ่าน GABA receptor",
-      "ฤทธิ์ขยายหลอดลมเท่านั้น"
+      "ฤทธิ์ระบายแรง จากการกระตุ้นการบีบตัวของลำไส้ใหญ่ ใช้แก้ท้องผูก",
+      "ฤทธิ์ขับปัสสาวะ จากการกระตุ้นการกรองของไต ใช้ลดบวม",
+      "ฤทธิ์กดประสาท ผ่าน GABA receptor ใช้ช่วยให้นอนหลับ",
+      "ฤทธิ์ขยายหลอดลม จากการกระตุ้น β2 receptor ใช้รักษาหอบหืด"
      ],
-     "e": "ฤทธิ์อื่น: antioxidant, antibacterial/antifungal/antiviral, ยับยั้ง 5-lipoxygenase และ ACE, ยับยั้ง glucosyltransferase ของเชื้อฟันผุ"
+     "e": "ฤทธิ์อื่น: antioxidant, antibacterial/antifungal/antiviral, ยับยั้ง 5-lipoxygenase และ ACE, ยับยั้ง glucosyltransferase ของเชื้อฟันผุ | รายละเอียดคำตอบ: ฤทธิ์ฝาดสมาน เพราะตกตะกอนโปรตีนเกิดชั้นป้องกันบนผิว/เยื่อเมือก ใช้แก้ท้องเสียและรักษาแผล"
     },
     {
      "t": "ข้อควรระวัง",
      "q": "ข้อควรระวังในการใช้ผลิตภัณฑ์ที่มี tannins ปริมาณสูงคือข้อใด",
-     "a": "อาจรบกวนการย่อยโปรตีน ลดการดูดซึมยา/ธาตุเหล็ก และ catechins ขนาดสูง (เช่น >1.5 g/วัน) เสี่ยงต่อตับอักเสบและไตวายได้",
+     "a": "รบกวนการย่อยโปรตีนและลดการดูดซึมยาและธาตุเหล็ก",
      "w": [
-      "ไม่มีผลข้างเคียงใด ๆ ไม่ว่าขนาดใด",
-      "เพิ่มการดูดซึมของยาทุกชนิด",
-      "ทำให้ระดับโพแทสเซียมในเลือดสูงขึ้นเสมอ",
-      "ใช้ได้ไม่จำกัดในหญิงตั้งครรภ์"
+      "ไม่มีผลข้างเคียงใด ๆ ไม่ว่าขนาดใด จึงใช้ได้ไม่จำกัด",
+      "เพิ่มการดูดซึมของยาและธาตุเหล็กทุกชนิดให้สูงขึ้นมาก",
+      "ทำให้ระดับโพแทสเซียมในเลือดสูงจนหัวใจเต้นผิดจังหวะ",
+      "ปลอดภัยต่อหญิงตั้งครรภ์ในทุกขนาด และไม่ต้องจำกัดปริมาณ"
      ],
-     "e": "Hydrolysable tannins อาจกระทบต่อแบคทีเรียในทางเดินอาหารและการย่อยโปรตีน"
+     "e": "Hydrolysable tannins อาจกระทบต่อแบคทีเรียในทางเดินอาหารและการย่อยโปรตีน | รายละเอียดคำตอบ: อาจรบกวนการย่อยโปรตีน ลดการดูดซึมยาและธาตุเหล็ก และ catechins ขนาดสูง (>1.5 g/วัน) เสี่ยงตับอักเสบ"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "Turkish galls/Aleppo galls (Galla) ได้มาจากพืชใดและมีองค์ประกอบสำคัญอย่างไร",
-     "a": "เกิดบน Quercus infectoria (Fagaceae) จากแมลง Adleria gallaetinctoriae ; มี tannic acid 50–70% (hydrolysable tannin) และ gallic acid 2–4% ใช้ฝาดสมาน ห้ามเลือด และทำหมึก",
+     "a": "เกิดบน Quercus infectoria ; มี tannic acid 50–70% ใช้ฝาดสมาน ทำหมึก",
      "w": [
-      "เกิดบน Hamamelis virginiana ; มี morphine 50–70%",
-      "เกิดบน Uncaria gambir ; มี catechin 50–70% เป็นแป้ง",
-      "เกิดบน Camellia sinensis ; มี caffeine 50–70%",
-      "เกิดบน Rheum palmatum ; มี sennosides 50–70%"
+      "เกิดบน Hamamelis virginiana ; มี morphine 50–70% ใช้ระงับปวด",
+      "เกิดบน Uncaria gambir ; มี catechin 50–70% ใช้ย้อมสี",
+      "เกิดบน Camellia sinensis ; มี caffeine 50–70% ใช้กระตุ้นประสาท",
+      "เกิดบน Rheum palmatum ; มี sennosides 50–70% ใช้ระบาย"
      ],
-     "e": "Oak galls เป็นแหล่งเภสัช tannin; Pharmaceutical tannin เตรียมจาก galls; โกฐพุงปลาคือปูดจากสมอไทย (Combretaceae)"
+     "e": "Oak galls เป็นแหล่งเภสัช tannin; Pharmaceutical tannin เตรียมจาก galls; โกฐพุงปลาคือปูดจากสมอไทย (Combretaceae) | รายละเอียดคำตอบ: เกิดบน Quercus infectoria จากแมลง Adleria gallaetinctoriae ; มี tannic acid 50–70% และ gallic acid 2–4% ใช้ฝาดสมาน ห้ามเลือด ทำหมึก"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "Hamamelis (witch hazel) leaves มีลักษณะทางเภสัชเวทอย่างไร",
-     "a": "ใบ Hamamelis virginiana (Hamamelidaceae) มีทั้ง hydrolysable และ condensed tannins ใช้ฝาดสมานและห้ามเลือด (astringent, haemostatic)",
+     "a": "ใบ Hamamelis virginiana ใช้ฝาดสมานและห้ามเลือด",
      "w": [
-      "ใบมี alkaloid ใช้ระงับปวดแบบ opioid",
-      "ใบมี sennosides ใช้ระบาย",
-      "ใบมี volatile oil เท่านั้น ไม่มี tannin",
+      "ใบมี alkaloid ใช้ระงับปวดแบบ opioid และกดประสาท",
+      "ใบมี sennosides ใช้เป็นยาระบายกระตุ้นลำไส้ใหญ่",
+      "ใบมี volatile oil เป็นหลัก ไม่มี tannin ใช้ขับลม",
       "ใบมี cardiac glycosides ใช้บำรุงหัวใจ"
      ],
-     "e": "สารอื่นใน Hamamelis: gallotannins, ellagitannins, proanthocyanidins, bitter principles, volatile oil"
+     "e": "สารอื่นใน Hamamelis: gallotannins, ellagitannins, proanthocyanidins, bitter principles, volatile oil | รายละเอียดคำตอบ: ใบ Hamamelis virginiana มีทั้ง hydrolysable และ condensed tannins ใช้ฝาดสมานและห้ามเลือด"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "Gambir (pale catechu) ได้มาจากพืชใดและในตำรายาไทยใช้อย่างไร",
-     "a": "สารสกัดน้ำแห้งจาก Uncaria gambir (Rubiaceae) ใช้ก้อนสีเสียดเทศแก้ท้องร่วง บิดมูกเลือด สมานแผล",
+     "a": "สารสกัดแห้งจาก Uncaria gambir ใช้แก้ท้องร่วง",
      "w": [
-      "ยางจากใบว่านหางจระเข้ ใช้เป็นยาถ่าย",
-      "น้ำมันจากเมล็ดงา ใช้ลดไขมัน",
-      "ยางจากฝิ่น ใช้ระงับปวด",
-      "สารสกัดเปลือก Cinchona ใช้รักษามาลาเรีย"
+      "ยางจากใบว่านหางจระเข้ ใช้เป็นยาถ่ายแรงและลดไข้",
+      "น้ำมันจากเมล็ดงา ใช้ลดไขมันและบำรุงผิว",
+      "ยางจากผลฝิ่น ใช้ระงับปวดและแก้ไอ",
+      "สารสกัดเปลือก Cinchona ใช้รักษามาลาเรียและลดไข้"
      ],
-     "e": "Catechu ให้ catechins เป็นหลัก (pseudotannins/condensed tannin precursor) ห้ามใช้ในผู้ป่วยบางกรณี ตามบัญชียาจากสมุนไพร"
+     "e": "Catechu ให้ catechins เป็นหลัก (pseudotannins/condensed tannin precursor) ห้ามใช้ในผู้ป่วยบางกรณี ตามบัญชียาจากสมุนไพร | รายละเอียดคำตอบ: สารสกัดน้ำแห้งจาก Uncaria gambir (Rubiaceae) ใช้ก้อนสีเสียดเทศแก้ท้องร่วง บิดมูกเลือด สมานแผล"
     },
     {
      "t": "พืชสมุนไพร",
      "q": "พืชหรือผลิตภัณฑ์ใดเป็นแหล่งของ condensed tannins (proanthocyanidins)",
-     "a": "ชาเขียว (ใบชา) โกโก้ เมล็ดองุ่น cranberry เปลือกอบเชย และเปลือกต้น cinchona/oak",
+     "a": "ชาเขียว โกโก้ เมล็ดองุ่น และเปลือกอบเชย",
      "w": [
-      "ใบมะขามแขกและฝักคูน",
-      "รากเจตมูลเพลิงแดง",
-      "เมล็ดงาและน้ำมันงา",
-      "ใบทองพันชั่ง"
+      "ใบมะขามแขก ฝักคูน และรากโกฐน้ำเต้า",
+      "รากเจตมูลเพลิงแดง รากเทียนกิ่ง และเปลือกวอลนัท",
+      "เมล็ดงา น้ำมันงา และถั่วเหลือง",
+      "ใบทองพันชั่ง ใบขี้เหล็ก และเมล็ดเทียนดำ"
      ],
-     "e": "Pycnogenol (สารสกัดเปลือกสน) และสารสกัดเมล็ดองุ่นมีงานวิจัยด้านความดันและไขมัน; epigallocatechin gallate มีฤทธิ์ต้าน Helicobacter pylori"
+     "e": "Pycnogenol (สารสกัดเปลือกสน) และสารสกัดเมล็ดองุ่นมีงานวิจัยด้านความดันและไขมัน; epigallocatechin gallate มีฤทธิ์ต้าน Helicobacter pylori | รายละเอียดคำตอบ: ชาเขียว โกโก้ เมล็ดองุ่น cranberry เปลือกอบเชย และเปลือกต้น cinchona/oak"
     },
     {
      "t": "ฤทธิ์ทางเภสัช",
      "q": "EGCG และ epicatechin gallate ในชาเขียวถูกรายงานฤทธิ์ใดที่สอดคล้องกับเนื้อหาบทเรียน",
-     "a": "ต้านแบคทีเรีย Helicobacter pylori และฤทธิ์ต้านอนุมูลอิสระ (การลดน้ำหนักจากชาเขียวมีผลเพียงเล็กน้อย)",
+     "a": "ต้านแบคทีเรีย H. pylori และต้านอนุมูลอิสระ",
      "w": [
-      "ลดน้ำหนักได้มากอย่างชัดเจนในทุกการศึกษา",
-      "เป็นยาระบายแรง",
-      "เป็นสารกดประสาทแบบ benzodiazepine",
-      "ทำให้เลือดแข็งตัวเร็วขึ้นเสมอ"
+      "ลดน้ำหนักได้มากอย่างชัดเจนในทุกการศึกษา และเป็นยาระบายแรง",
+      "เป็นยาระบายแรงจากการกระตุ้นลำไส้ใหญ่ และช่วยขับพยาธิ",
+      "เป็นสารกดประสาทแบบ benzodiazepine ที่ช่วยให้นอนหลับลึก",
+      "ทำให้เลือดแข็งตัวเร็วขึ้นเสมอ จึงใช้ห้ามเลือดได้"
      ],
-     "e": "การศึกษาในคนอ้วนพบว่าชาเขียว catechins 625 mg/วัน ลดไตรกลีเซอรอลได้เล็กน้อยแต่ไม่ลดน้ำหนักมาก"
+     "e": "การศึกษาในคนอ้วนพบว่าชาเขียว catechins 625 mg/วัน ลดไตรกลีเซอรอลได้เล็กน้อยแต่ไม่ลดน้ำหนักมาก | รายละเอียดคำตอบ: ต้านแบคทีเรีย H. pylori และต้านอนุมูลอิสระ (การลดน้ำหนักมีผลเพียงเล็กน้อย)"
     }
    ]
   },
@@ -1006,62 +1006,62 @@
     {
      "t": "Glycosides",
      "q": "Glycosides ประกอบด้วยส่วนใดบ้าง และ cyanogenic glycosides เป็นพันธะชนิดใด",
-     "a": "ส่วนน้ำตาล (glycone) เชื่อมกับส่วนที่ไม่ใช่น้ำตาล (aglycone) ; cyanogenic glycosides แม้มีไนโตรเจนแต่เป็น O-glycosides",
+     "a": "glycone เชื่อมกับ aglycone ; cyanogenic glycosides เป็น O-glycosides",
      "w": [
-      "ส่วน aglycone ที่เป็นน้ำตาลล้วน ; cyanogenic glycosides เป็น N-glycosides",
-      "ส่วนกรดอะมิโนเชื่อมกับไขมัน ; เป็น S-glycosides",
-      "ส่วนโปรตีนเชื่อมกับ DNA ; เป็น C-glycosides",
-      "ส่วน terpene เชื่อมกับ steroid ; ไม่มีพันธะ glycosidic"
+      "aglycone ที่เป็นน้ำตาลล้วน ; cyanogenic glycosides เป็น N-glycosides",
+      "กรดอะมิโนเชื่อมกับไขมัน ; cyanogenic glycosides เป็น S-glycosides",
+      "โปรตีนเชื่อมกับ DNA ; cyanogenic glycosides เป็น C-glycosides",
+      "terpene เชื่อมกับ steroid ; cyanogenic glycosides ไม่มีพันธะ glycosidic"
      ],
-     "e": "Glucosinolates (thioglycosides) เป็น S-glycosides; พันธะได้แก่ O-, N-, S-, C-glycosidic"
+     "e": "Glucosinolates (thioglycosides) เป็น S-glycosides; พันธะได้แก่ O-, N-, S-, C-glycosidic | รายละเอียดคำตอบ: glycone (น้ำตาล) เชื่อมกับ aglycone (ส่วนที่ไม่ใช่น้ำตาล) ; cyanogenic glycosides แม้มีไนโตรเจนแต่เป็น O-glycosides"
     },
     {
      "t": "Cyanogenic glycosides",
      "q": "กระบวนการ cyanogenesis ของ cyanogenic glycoside เกิดอย่างไร",
-     "a": "β-glucosidase ย่อยพันธะน้ำตาลได้ α-hydroxynitrile (cyanohydrin) แล้ว α-hydroxynitrile lyase สลายเป็นอัลดีไฮด์/คีโตนกับ HCN",
+     "a": "β-glucosidase ย่อยได้ cyanohydrin แล้ว lyase สลายเป็นอัลดีไฮด์/คีโตนกับ HCN",
      "w": [
-      "Myrosinase ย่อยพันธะ S-glycosidic ได้ isothiocyanate",
-      "PAL เปลี่ยน phenylalanine เป็น cinnamic acid แล้วได้ HCN",
-      "HMG-CoA reductase เปลี่ยนเป็น mevalonate ได้ HCN",
-      "Tannase ไฮโดรไลซ์พันธะเอสเทอร์ได้ HCN"
+      "Myrosinase ย่อยพันธะ S-glycosidic ได้ isothiocyanate แล้วสลายเป็น HCN",
+      "PAL เปลี่ยน phenylalanine เป็น cinnamic acid แล้วสลายเป็น HCN",
+      "HMG-CoA reductase เปลี่ยนสารตั้งต้นเป็น mevalonate แล้วสลายเป็น HCN",
+      "Tannase ไฮโดรไลซ์พันธะเอสเทอร์ได้กรดฟีนอลิกแล้วสลายเป็น HCN"
      ],
-     "e": "ในเนื้อเยื่อที่ไม่เสียหาย glycoside กับเอนไซม์อยู่แยกส่วนกัน เมื่อถูกทำลายจึงสัมผัสกัน เกิด HCN"
+     "e": "ในเนื้อเยื่อที่ไม่เสียหาย glycoside กับเอนไซม์อยู่แยกส่วนกัน เมื่อถูกทำลายจึงสัมผัสกัน เกิด HCN | รายละเอียดคำตอบ: β-glucosidase ย่อยพันธะน้ำตาลได้ cyanohydrin แล้ว α-hydroxynitrile lyase สลายเป็นอัลดีไฮด์/คีโตนกับ HCN"
     },
     {
      "t": "Cyanogenic glycosides",
      "q": "ข้อใดเป็นกลุ่มวงศ์พืชที่พบ cyanogenic glycosides มาก",
-     "a": "Fabaceae, Rosaceae, Linaceae และ Asteraceae (Compositae)",
+     "a": "Fabaceae, Rosaceae, Linaceae และ Asteraceae",
      "w": [
-      "Zingiberaceae และ Myristicaceae",
-      "Lamiaceae เท่านั้น",
-      "Brassicaceae เท่านั้น",
-      "Pinaceae และ Apiaceae เท่านั้น"
+      "Zingiberaceae, Myristicaceae และ Lauraceae",
+      "Lamiaceae, Apiaceae และ Pinaceae",
+      "Brassicaceae, Capparaceae และ Resedaceae",
+      "Pinaceae, Cupressaceae และ Taxaceae"
      ],
      "e": "พบกว่า 2,000 ชนิดจาก ~110 วงศ์; มักพบในส่วนที่กินได้ เช่น เมล็ดแอปเปิล แอปริคอต เชอร์รี พีช พลัม"
     },
     {
      "t": "ตัวอย่างสาร",
      "q": "ข้อใดจับคู่สารกับแหล่งพืชได้ถูกต้อง",
-     "a": "Amygdalin = เมล็ดอัลมอนด์ขม (Prunus dulcis var. amara) ; Linamarin = Linum usitatissimum (ลินิน) และมันสำปะหลัง ; Dhurrin = ข้าวฟ่าง (Sorghum)",
+     "a": "Amygdalin = อัลมอนด์ขม ; Linamarin = ลินินและมันสำปะหลัง ; Dhurrin = ข้าวฟ่าง (Sorghum)",
      "w": [
-      "Amygdalin = Linum usitatissimum ; Linamarin = Prunus serotina",
-      "Dhurrin = มันสำปะหลัง ; Linamarin = Sorghum vulgare",
-      "Prunasin = ข้าวฟ่าง ; Dhurrin = Prunus serotina",
-      "Sambunigrin = Passiflora foetida ; Tetraphyllin B = Sambucus nigra"
+      "Amygdalin = Linum usitatissimum ; Linamarin = Prunus serotina ; Dhurrin = มันสำปะหลัง",
+      "Dhurrin = มันสำปะหลัง ; Linamarin = Sorghum vulgare ; Amygdalin = ลินิน",
+      "Prunasin = ข้าวฟ่าง ; Dhurrin = Prunus serotina ; Linamarin = อัลมอนด์ขม",
+      "Sambunigrin = Passiflora foetida ; Tetraphyllin B = Sambucus nigra ; Amygdalin = ข้าวฟ่าง"
      ],
      "e": "Prunasin = Prunus serotina; Prulaurasin = P. laurocerasus; Manihotoxin (Manihot utilissima, Euphorbiaceae) เหมือน linamarin; Phaseolunatin = Phaseolus lunatus; Sambunigrin = Sambucus nigra; Tetraphyllin B = กะทกรก (Passiflora foetida); Taxiphyllin = หน่อไม้"
     },
     {
      "t": "ตัวอย่างสาร",
      "q": "กะทกรก (Passiflora foetida) มีสารกลุ่ม cyanogenic glycoside ชนิดใดและส่วนใดมีมากที่สุด",
-     "a": "Tetraphyllin B ; พบมากที่สุดในผลอ่อน รองลงมาใบอ่อนและยอดสด",
+     "a": "Tetraphyllin B ; พบมากที่สุดในผลอ่อน",
      "w": [
-      "Dhurrin ; พบมากที่สุดในรากแก่",
-      "Amygdalin ; พบมากที่สุดในผลสุกจัด",
-      "Linamarin ; พบมากที่สุดในเมล็ดแห้ง",
-      "Taxiphyllin ; พบมากที่สุดในเปลือกต้น"
+      "Dhurrin ; พบมากที่สุดในรากแก่ รองลงมาเปลือกต้น",
+      "Amygdalin ; พบมากที่สุดในผลสุกจัด รองลงมาเมล็ดแก่",
+      "Linamarin ; พบมากที่สุดในเมล็ดแห้ง รองลงมาลำต้นแก่",
+      "Taxiphyllin ; พบมากที่สุดในเปลือกต้น รองลงมาราก"
      ],
-     "e": "Sambunigrin ใน Sambucus nigra พบในใบ เปลือก ราก ผลดิบ (ผลสุกเต็มที่ถือว่าปลอดภัย)"
+     "e": "Sambunigrin ใน Sambucus nigra พบในใบ เปลือก ราก ผลดิบ (ผลสุกเต็มที่ถือว่าปลอดภัย) | รายละเอียดคำตอบ: Tetraphyllin B ; พบมากที่สุดในผลอ่อน รองลงมาใบอ่อนและยอดสด"
     },
     {
      "t": "มันสำปะหลัง",
@@ -1078,170 +1078,170 @@
     {
      "t": "มันสำปะหลัง",
      "q": "การบริโภคไซยาไนด์ปริมาณน้อยแต่ต่อเนื่องจากมันสำปะหลังอาจก่อโรคใดตามเนื้อหาบทเรียน",
-     "a": "Tropical ataxic neuropathy, konzo (spastic paraparesis), glucose intolerance และเมื่อขาดไอโอดีนอาจเกิดคอพอกและ cretinism",
+     "a": "Tropical ataxic neuropathy, konzo และ glucose intolerance",
      "w": [
-      "โรคเกาต์และนิ่วในไต",
-      "โรคพิษสุราเรื้อรัง",
-      "โรคลมแดดเท่านั้น",
-      "โรคขาดวิตามินซีเท่านั้น (scurvy)"
+      "โรคเกาต์และนิ่วในไตจากการสะสมกรดยูริกและ oxalate",
+      "โรคพิษสุราเรื้อรังและตับแข็งจากการสะสมของไขมันในตับ",
+      "โรคลมแดดและภาวะขาดน้ำรุนแรงจากการเสียเหงื่อมาก",
+      "โรคเลือดออกตามไรฟัน (scurvy) จากการขาดวิตามินซีเรื้อรัง"
      ],
-     "e": "พิษเรื้อรังที่พบในผู้บริโภคมันสำปะหลังพันธุ์ขม/ไม่ผ่านการแปรรูป"
+     "e": "พิษเรื้อรังที่พบในผู้บริโภคมันสำปะหลังพันธุ์ขม/ไม่ผ่านการแปรรูป | รายละเอียดคำตอบ: Tropical ataxic neuropathy, konzo, glucose intolerance และเมื่อขาดไอโอดีนอาจเกิดคอพอกและ cretinism"
     },
     {
      "t": "การลดพิษ",
      "q": "วิธีใดลดไซยาไนด์ในมันสำปะหลังได้ดีที่สุดตามเนื้อหาบทเรียน",
-     "a": "การสกัดแป้ง (บดขูดแล้วล้างด้วยน้ำปริมาณมาก) ทำให้กำจัด cyanogens ได้หมด",
+     "a": "การสกัดแป้ง (บดขูดแล้วล้างน้ำมาก) กำจัด cyanogens ได้หมด",
      "w": [
       "การต้มทั้งหัวในน้ำปริมาณน้อย ซึ่งกำจัดไซยาไนด์ได้ 100%",
-      "การนึ่ง อบ หรือทอด ซึ่งกำจัดได้มาก",
-      "การตากแห้งซึ่งกำจัดไซยาไนด์ได้ทุกพันธุ์",
-      "การรับประทานดิบทั้งหัวทันที"
+      "การนึ่งหรืออบทั้งหัวโดยไม่ปอกเปลือก ซึ่งกำจัดได้มาก",
+      "การตากแห้งทั้งหัวซึ่งกำจัดไซยาไนด์ได้ทุกพันธุ์",
+      "การรับประทานดิบทั้งหัวทันทีหลังขุด เพื่อรักษาคุณค่าอาหาร"
      ],
-     "e": "การต้มกำจัดได้ราวครึ่งเดียว เพราะ linamarase (β-glucosidase ไวต่อความร้อน) ถูกทำลายที่ 100 °C ทำให้ linamarin ไม่ถูกไฮโดรไลซ์; นึ่ง/อบ/ทอดสูญเสียไซยาไนด์น้อย จึงเหมาะกับพันธุ์หวานเท่านั้น"
+     "e": "การต้มกำจัดได้ราวครึ่งเดียว เพราะ linamarase (β-glucosidase ไวต่อความร้อน) ถูกทำลายที่ 100 °C ทำให้ linamarin ไม่ถูกไฮโดรไลซ์; นึ่ง/อบ/ทอดสูญเสียไซยาไนด์น้อย จึงเหมาะกับพันธุ์หวานเท่านั้น | รายละเอียดคำตอบ: การสกัดแป้ง (บดขูดแล้วล้างน้ำปริมาณมาก) กำจัด cyanogens ได้หมด"
     },
     {
      "t": "การลดพิษ",
      "q": "ข้อใดอธิบายเหตุที่การบดหรือสับมันสำปะหลังทำให้เกิด cyanide",
-     "a": "เมื่อเนื้อเยื่อเสียหาย linamarin ออกจากแวคิวโอลมาพบ linamarase ได้ glucose และ acetone cyanohydrin ซึ่งสลายเป็น HCN และ acetone ที่ pH > 4 และ T > 30 °C",
+     "a": "เนื้อเยื่อเสียหาย linamarin พบ linamarase ได้ cyanohydrin สลายเป็น HCN",
      "w": [
-      "การบดทำให้ linamarase ถูกทำลายทันที จึงไม่เกิด HCN",
-      "การบดทำให้ HCN ถูกเปลี่ยนเป็น linamarin ทั้งหมด",
-      "การบดไม่เกี่ยวกับการปลดปล่อย HCN",
-      "การบดทำให้เกิด glucosinolates แทน"
+      "การบดทำให้ linamarase ถูกทำลายทันที จึงไม่เกิด HCN เลย",
+      "การบดทำให้ HCN ถูกเปลี่ยนกลับเป็น linamarin ทั้งหมด",
+      "การบดไม่เกี่ยวข้องกับการปลดปล่อย HCN เพราะ linamarin เสถียรมาก",
+      "การบดทำให้เกิด glucosinolates แทน จึงปลดปล่อย isothiocyanate"
      ],
-     "e": "ในร่างกายมนุษย์อุณหภูมิและ pH เหมาะต่อการสลาย จึงอันตรายหากกินมันสำปะหลังดิบ; ใบมันสำปะหลังมี linamarase ประสิทธิภาพสูงกว่ารากและ HCN ระเหย/ละลายน้ำออกได้"
+     "e": "ในร่างกายมนุษย์อุณหภูมิและ pH เหมาะต่อการสลาย จึงอันตรายหากกินมันสำปะหลังดิบ; ใบมันสำปะหลังมี linamarase ประสิทธิภาพสูงกว่ารากและ HCN ระเหย/ละลายน้ำออกได้ | รายละเอียดคำตอบ: เนื้อเยื่อเสียหายทำให้ linamarin พบ linamarase ได้ acetone cyanohydrin ที่สลายเป็น HCN ที่ pH > 4 และ T > 30 °C"
     },
     {
      "t": "พืชอาหาร",
      "q": "หน่อไม้ (bamboo shoot) มี cyanogenic glycoside ชนิดใดและควรทำอย่างไรก่อนบริโภค",
-     "a": "Taxiphyllin ซึ่งสลายเร็วในน้ำเดือด จึงควรต้มและแปรรูปเพื่อลดไซยาไนด์ (ไม่ควรเชื่อว่าการเก็บเกี่ยวเพียงอย่างเดียวปลอดภัย)",
+     "a": "Taxiphyllin สลายเร็วในน้ำเดือด จึงควรต้มก่อนกิน",
      "w": [
-      "Linamarin ซึ่งทนความร้อนจึงต้องบริโภคดิบ",
-      "Sinigrin ซึ่งสลายเป็นน้ำมันมัสตาร์ด",
-      "Amygdalin ซึ่งต้องตากแดดจัดเท่านั้น",
-      "ไม่มีสารไซยาโนเจนิกใดในหน่อไม้"
+      "Linamarin ซึ่งทนความร้อนจึงต้องบริโภคดิบเท่านั้น",
+      "Sinigrin ซึ่งสลายเป็นน้ำมันมัสตาร์ดเมื่อถูกต้ม",
+      "Amygdalin ซึ่งต้องตากแดดจัดจึงจะปลอดภัย",
+      "ไม่มีสารไซยาโนเจนิกใดในหน่อไม้ จึงบริโภคดิบได้"
      ],
-     "e": "ปริมาณไซยาไนด์ในหน่อไม้อาจสูงถึง 1000–8000 mg/kg HCN ก่อนแปรรูป"
+     "e": "ปริมาณไซยาไนด์ในหน่อไม้อาจสูงถึง 1000–8000 mg/kg HCN ก่อนแปรรูป | รายละเอียดคำตอบ: Taxiphyllin ซึ่งสลายเร็วในน้ำเดือด จึงควรต้มและแปรรูปเพื่อลดไซยาไนด์"
     },
     {
      "t": "กลไกพิษ",
      "q": "ไซยาไนด์ออกฤทธิ์เป็นพิษต่อร่างกายอย่างไร",
-     "a": "จับกับ ferric ion ใน mitochondrial cytochrome oxidase ยับยั้ง electron transport และ oxidative metabolism → anaerobic glycolysis, lactic acidosis",
+     "a": "จับ ferric ion ใน cytochrome oxidase ยับยั้ง electron transport",
      "w": [
       "ยับยั้งเอนไซม์ cholinesterase ทำให้ acetylcholine สะสม",
-      "ทำให้เกิด methemoglobin ลดการแข็งตัวของเลือด",
-      "ปิดกั้น sodium channel ที่กล้ามเนื้อหัวใจ",
-      "ยับยั้ง HMG-CoA reductase ในตับ"
+      "ทำให้เกิด methemoglobin จนเลือดไม่แข็งตัว",
+      "ปิดกั้น sodium channel ที่กล้ามเนื้อหัวใจทำให้หัวใจหยุดเต้น",
+      "ยับยั้ง HMG-CoA reductase ในตับทำให้ตับวาย"
      ],
-     "e": "HCN พิษสูงทุกช่องทาง กลิ่นคล้ายอัลมอนด์ขม แต่เกิดการล้า (olfactory fatigue) จึงไม่ใช่สัญญาณเตือนที่เชื่อถือได้"
+     "e": "HCN พิษสูงทุกช่องทาง กลิ่นคล้ายอัลมอนด์ขม แต่เกิดการล้า (olfactory fatigue) จึงไม่ใช่สัญญาณเตือนที่เชื่อถือได้ | รายละเอียดคำตอบ: จับ ferric ion ใน cytochrome oxidase ยับยั้ง electron transport → anaerobic glycolysis, lactic acidosis"
     },
     {
      "t": "กลไกพิษ",
      "q": "ข้อใดเป็นอาการของผู้ได้รับไซยาไนด์",
-     "a": "แน่นหน้าอก สับสน เวียนศีรษะ หายใจลำบาก ปวดศีรษะ อาเจียน และเมื่อได้รับปริมาณมากอาจหมดสติ ชัก ความดันผิดปกติ",
+     "a": "แน่นหน้าอก สับสน เวียนศีรษะ หายใจลำบาก อาเจียน หมดสติ",
      "w": [
-      "ผิวเหลืองจากการสะสมของ bilirubin เท่านั้น",
-      "ปัสสาวะสีแดงส้มทุกกรณี",
-      "หัวใจเต้นช้าลงอย่างสม่ำเสมอจนหยุด โดยไม่มีอาการอื่น",
-      "ไม่มีอาการใด ๆ แม้ได้รับขนาดสูง"
+      "ผิวเหลืองจากการสะสมของ bilirubin และปัสสาวะสีเข้ม",
+      "ปัสสาวะสีแดงส้มและผื่นแดงทั่วตัวทุกกรณี",
+      "หัวใจเต้นช้าลงอย่างสม่ำเสมอจนหยุด โดยไม่มีอาการอื่นนำ",
+      "ไม่มีอาการใด ๆ แม้ได้รับขนาดสูง เพราะร่างกายขับออกได้เร็ว"
      ],
-     "e": "ผู้รอดชีวิตจากพิษรุนแรงอาจมีความเสียหายต่อหัวใจ สมอง และเส้นประสาท"
+     "e": "ผู้รอดชีวิตจากพิษรุนแรงอาจมีความเสียหายต่อหัวใจ สมอง และเส้นประสาท | รายละเอียดคำตอบ: แน่นหน้าอก สับสน เวียนศีรษะ หายใจลำบาก ปวดศีรษะ อาเจียน และเมื่อได้รับมากอาจหมดสติ ชัก"
     },
     {
      "t": "การรักษา",
      "q": "หลักการรักษาพิษจากไซยาไนด์ข้อใดถูกต้อง",
-     "a": "ให้การรักษาประคับประคอง (ออกซิเจน, ช่วยหายใจ, IV fluid/vasopressor, NaHCO3 เมื่อ acidosis รุนแรง) และให้ antidote โดยเร็ว ไม่ควรกระตุ้นให้อาเจียน/ไม่ใช้ผงถ่านกัมมันต์เป็นหลัก เพราะดูดซึมเร็ว",
+     "a": "รักษาประคับประคอง (O2 ช่วยหายใจ) และให้ antidote โดยเร็ว",
      "w": [
-      "กระตุ้นให้อาเจียนทันทีและใช้ผงถ่านกัมมันต์เป็นการรักษาหลัก",
-      "รอให้อาการดีขึ้นเองโดยไม่ต้องให้ antidote",
-      "ทำ mouth-to-mouth resuscitation ทุกกรณี",
-      "ให้เฉพาะยาแก้ปวดเท่านั้น"
+      "กระตุ้นให้อาเจียนทันทีและให้ผงถ่านกัมมันต์เป็นการรักษาหลักก่อนส่งโรงพยาบาล",
+      "รอให้อาการดีขึ้นเองและเฝ้าสังเกตโดยไม่ต้องให้ antidote",
+      "ทำ mouth-to-mouth resuscitation ทุกกรณีเพื่อช่วยให้หายใจ",
+      "ให้เฉพาะยาแก้ปวดและยาลดไข้ตามอาการเท่านั้น"
      ],
-     "e": "ห้าม mouth-to-mouth เพราะผู้ช่วยอาจได้รับไซยาไนด์จากลมหายใจ; กรณีกินมันสำปะหลัง ผงถ่านอาจจับ linamarin ได้บางส่วน"
+     "e": "ห้าม mouth-to-mouth เพราะผู้ช่วยอาจได้รับไซยาไนด์จากลมหายใจ; กรณีกินมันสำปะหลัง ผงถ่านอาจจับ linamarin ได้บางส่วน | รายละเอียดคำตอบ: ให้การรักษาประคับประคอง (ออกซิเจน ช่วยหายใจ IV fluid NaHCO3) และให้ antidote โดยเร็ว ไม่ควรกระตุ้นให้อาเจียนหรือใช้ผงถ่านเป็นหลัก"
     },
     {
      "t": "Antidotes",
      "q": "Hydroxocobalamin (vitamin B12a) ใช้แก้พิษไซยาไนด์อย่างไร",
-     "a": "อะตอมโคบอลต์จับกับไซยาไนด์ได้เป็น cyanocobalamin ลด blood cyanide และป้องกัน metabolic acidosis ผลข้างเคียงน้อย เช่น ปัสสาวะสีแดงส้ม ความดันขึ้นชั่วคราว",
+     "a": "โคบอลต์จับไซยาไนด์เป็น cyanocobalamin ลด blood cyanide ผลข้างเคียงน้อย",
      "w": [
-      "ออกซิไดซ์ hemoglobin เป็น methemoglobin เพื่อจับไซยาไนด์",
-      "เพิ่ม metabolism ของไซยาไนด์ด้วยการให้กำมะถัน (sulfur donor) เท่านั้น",
-      "ยับยั้ง cytochrome oxidase เพิ่มเติม",
-      "เป็นยาที่เป็นพิษสูงที่สุดและต้องหลีกเลี่ยงเสมอ"
+      "ออกซิไดซ์ hemoglobin เป็น methemoglobin เพื่อจับไซยาไนด์ แต่ทำให้ความดันต่ำ",
+      "ให้ซัลเฟอร์เพื่อเพิ่ม metabolism ของไซยาไนด์ผ่านเอนไซม์ rhodanese เท่านั้น",
+      "ยับยั้ง cytochrome oxidase เพิ่มเติมเพื่อลดการสร้างพลังงาน",
+      "เป็นยาที่เป็นพิษสูงที่สุด ต้องหลีกเลี่ยงและใช้เมื่อไม่มีทางเลือกอื่น"
      ],
-     "e": "Sodium thiosulfate เพิ่มการเมแทบอลิซึมของไซยาไนด์เป็น thiocyanate; Dicobalt edetate มีผลข้างเคียงรุนแรง"
+     "e": "Sodium thiosulfate เพิ่มการเมแทบอลิซึมของไซยาไนด์เป็น thiocyanate; Dicobalt edetate มีผลข้างเคียงรุนแรง | รายละเอียดคำตอบ: โคบอลต์จับไซยาไนด์เป็น cyanocobalamin ลด blood cyanide ป้องกัน metabolic acidosis ผลข้างเคียงน้อย เช่น ปัสสาวะสีแดงส้ม"
     },
     {
      "t": "Antidotes",
      "q": "Nitrite-based antidotes (sodium nitrite, amyl nitrite, 4-DMAP) มีกลไกและข้อควรระวังอย่างไร",
-     "a": "ออกซิไดซ์ hemoglobin เป็น methemoglobin ซึ่งจับไซยาไนด์เป็น cyanomethemoglobin แต่ทำให้ความดันต่ำและขนส่งออกซิเจนลดลง จึงห้ามใช้เมื่อมี carboxyhemoglobin สูง (เช่น ผู้ป่วยสูดควันไฟ)",
+     "a": "สร้าง methemoglobin จับไซยาไนด์ แต่ห้ามใช้เมื่อ carboxyhemoglobin สูง",
      "w": [
-      "เพิ่มการจับของออกซิเจนกับ hemoglobin โดยไม่มีผลเสียใดเลย",
-      "เป็นสารจับโลหะ (chelator) ที่ปลอดภัยทุกกรณี",
-      "กระตุ้น cytochrome oxidase โดยตรง",
-      "ใช้ได้ดีที่สุดในผู้ป่วย G6PD deficiency"
+      "เพิ่มการจับของออกซิเจนกับ hemoglobin โดยไม่มีผลเสียใด ๆ",
+      "เป็นสารจับโลหะ (chelator) ที่ปลอดภัยทุกกรณีรวมถึงผู้สูดควันไฟ",
+      "กระตุ้น cytochrome oxidase โดยตรงให้ทำงานได้เร็วขึ้น",
+      "ใช้ได้ดีที่สุดในผู้ป่วย G6PD deficiency และผู้สูดควันไฟ"
      ],
-     "e": "ต้องการ methemoglobin 20–30% เพื่อจับไซยาไนด์ได้เหมาะสม; amyl nitrite ให้ methemoglobin เพียง ~7% และผู้ทบทวนวรรณกรรมไม่สนับสนุนการใช้"
+     "e": "ต้องการ methemoglobin 20–30% เพื่อจับไซยาไนด์ได้เหมาะสม; amyl nitrite ให้ methemoglobin เพียง ~7% และผู้ทบทวนวรรณกรรมไม่สนับสนุนการใช้ | รายละเอียดคำตอบ: ออกซิไดซ์ hemoglobin เป็น methemoglobin จับไซยาไนด์ แต่ความดันต่ำและขนส่ง O2 ลด จึงห้ามใช้เมื่อ carboxyhemoglobin สูง (สูดควันไฟ)"
     },
     {
      "t": "Antidotes",
      "q": "ข้อใดเป็นข้อบ่งใช้ antidote ของไซยาไนด์ที่เหมาะสม",
-     "a": "ภาวะ cardiorespiratory collapse ร่วมกับระดับไซยาไนด์ในเลือดสูงหรือหลักฐานชัดเจน ; หากไม่มี collapse หรือวินิจฉัยไม่ชัดควรเลี่ยง antidote ที่พิษสูง (dicobalt edetate)",
+     "a": "ภาวะ cardiorespiratory collapse ร่วมกับหลักฐานไซยาไนด์ชัดเจน",
      "w": [
-      "ใช้ dicobalt edetate ทุกรายแม้อาการเล็กน้อย",
+      "ใช้ dicobalt edetate ทุกรายแม้อาการเล็กน้อยเพื่อความปลอดภัย",
       "ไม่ใช้ antidote ใด ๆ แม้มี cardiorespiratory collapse",
-      "ใช้เฉพาะ amyl nitrite ทุกกรณี",
-      "ใช้ sodium nitrite ในผู้ป่วยที่มี carboxyhemoglobin สูงเป็นอันดับแรก"
+      "ใช้เฉพาะ amyl nitrite ทุกกรณีไม่ว่าอาการรุนแรงเพียงใด",
+      "ใช้ sodium nitrite ในผู้ป่วย carboxyhemoglobin สูงเป็นอันดับแรก"
      ],
-     "e": "Hydroxocobalamin และ sodium thiosulfate มีผลข้างเคียงน้อยจึงใช้ได้ในพิษระดับเบาและป้องกันพิษจาก sodium nitroprusside ขนาดสูง"
+     "e": "Hydroxocobalamin และ sodium thiosulfate มีผลข้างเคียงน้อยจึงใช้ได้ในพิษระดับเบาและป้องกันพิษจาก sodium nitroprusside ขนาดสูง | รายละเอียดคำตอบ: ภาวะ cardiorespiratory collapse ร่วมกับหลักฐานไซยาไนด์ชัดเจน ; ถ้าวินิจฉัยไม่ชัดควรเลี่ยง dicobalt edetate ที่พิษสูง"
     },
     {
      "t": "Glucosinolates",
      "q": "Glucosinolates มีโครงสร้างและพบในพืชกลุ่มใด",
-     "a": "สารกลุ่ม thioglycoside ที่มีทั้งกำมะถันและไนโตรเจน (β-D-thioglucose + sulfonated aldoxime + side chain จากกรดอะมิโน) พบมากในอันดับ Capparales เช่น วงศ์ Brassicaceae (กะหล่ำ)",
+     "a": "thioglycoside ที่มีกำมะถันและไนโตรเจน พบมากในวงศ์ Brassicaceae",
      "w": [
-      "สารกลุ่ม O-glycoside ที่ไม่มีกำมะถัน พบมากในวงศ์ Lamiaceae",
-      "สารกลุ่ม C-glycoside ที่พบเฉพาะในสาหร่าย",
-      "alkaloids ที่พบเฉพาะในวงศ์ Solanaceae",
-      "terpenoid glycosides ที่พบเฉพาะในพืชวงศ์ Apiaceae"
+      "O-glycoside ที่ไม่มีกำมะถัน พบมากในวงศ์ Lamiaceae และ Apiaceae",
+      "C-glycoside ที่ไม่มีไนโตรเจน พบเฉพาะในสาหร่ายสีน้ำตาล",
+      "alkaloids ที่มีไนโตรเจนและกำมะถัน พบเฉพาะในวงศ์ Solanaceae",
+      "terpenoid glycosides ที่ไม่มีกำมะถัน พบเฉพาะในวงศ์ Apiaceae"
      ],
-     "e": "แบ่งเป็น aliphatic (จาก Ala, Met, Ile, Leu, Val), aromatic (Phe, Tyr) และ indole (Trp) glucosinolates; พบมากกว่า 130 ชนิด"
+     "e": "แบ่งเป็น aliphatic (จาก Ala, Met, Ile, Leu, Val), aromatic (Phe, Tyr) และ indole (Trp) glucosinolates; พบมากกว่า 130 ชนิด | รายละเอียดคำตอบ: thioglycoside ที่มีกำมะถันและไนโตรเจน (β-D-thioglucose + sulfonated aldoxime + side chain จากกรดอะมิโน) พบมากในวงศ์ Brassicaceae"
     },
     {
      "t": "Glucosinolates",
      "q": "ข้อใดจับคู่ glucosinolate กับ side chain/กรดอะมิโนต้นทางได้ถูกต้อง",
-     "a": "Sinigrin = 2-propenyl (allyl) ; Glucoraphanin = 4-methylsulfinylbutyl ; Glucobrassicin = indol-3-ylmethyl (จาก tryptophan)",
+     "a": "Sinigrin = 2-propenyl ; Glucoraphanin = 4-methylsulfinylbutyl ; Glucobrassicin = indol-3-ylmethyl",
      "w": [
-      "Sinigrin = indol-3-ylmethyl ; Glucobrassicin = 2-propenyl",
-      "Glucoraphanin = 2-propenyl ; Sinigrin = 4-methylsulfinylbutyl",
-      "Glucobrassicin = 4-methylsulfinylbutyl ; Glucoraphanin = indol-3-ylmethyl",
-      "ทั้งหมดมี side chain เหมือนกัน"
+      "Sinigrin = indol-3-ylmethyl ; Glucobrassicin = 2-propenyl ; Glucoraphanin = 4-methylsulfinylbutyl",
+      "Glucoraphanin = 2-propenyl ; Sinigrin = 4-methylsulfinylbutyl ; Glucobrassicin = indol-3-ylmethyl",
+      "Glucobrassicin = 4-methylsulfinylbutyl ; Glucoraphanin = indol-3-ylmethyl ; Sinigrin = 2-propenyl",
+      "Sinigrin = 4-methylsulfinylbutyl ; Glucoraphanin = indol-3-ylmethyl ; Glucobrassicin = 2-propenyl"
      ],
-     "e": "Glucoiberin = 3-methylsulfinylpropyl; Gluconapin = 3-butenyl; 4-Methoxyglucobrassicin = 4-methoxyindol-3-ylmethyl"
+     "e": "Glucoiberin = 3-methylsulfinylpropyl; Gluconapin = 3-butenyl; 4-Methoxyglucobrassicin = 4-methoxyindol-3-ylmethyl | รายละเอียดคำตอบ: Sinigrin = 2-propenyl ; Glucoraphanin = 4-methylsulfinylbutyl ; Glucobrassicin = indol-3-ylmethyl (จาก tryptophan)"
     },
     {
      "t": "Glucosinolates",
      "q": "Myrosinase เกี่ยวข้องกับ glucosinolates อย่างไร",
-     "a": "เป็น thioglucosidase (β-thioglucoside glucohydrolase) ที่อยู่แยกจาก glucosinolate (idioblast) และสัมผัสกันเมื่อเนื้อเยื่อเสียหาย ไฮโดรไลซ์ได้ผลิตภัณฑ์เช่น isothiocyanates",
+     "a": "thioglucosidase ที่สัมผัส glucosinolate เมื่อเนื้อเยื่อเสียหาย ได้ isothiocyanates",
      "w": [
-      "เป็นเอนไซม์ที่สังเคราะห์ cyanogenic glycosides",
-      "เป็นเอนไซม์ที่ย่อยพันธะเอสเทอร์ของ tannins",
-      "เป็นเอนไซม์ที่สร้าง HCN จาก linamarin",
-      "เป็นฮอร์โมนพืชที่ไม่เกี่ยวข้องกับ glucosinolates"
+      "เอนไซม์ที่สังเคราะห์ cyanogenic glycosides ในแวคิวโอลของเซลล์",
+      "เอนไซม์ที่ย่อยพันธะเอสเทอร์ของ tannins ได้กรดฟีนอลิก",
+      "เอนไซม์ที่สร้าง HCN จาก linamarin เมื่อเนื้อเยื่อเสียหาย",
+      "ฮอร์โมนพืชที่ควบคุมการเจริญเติบโตและไม่เกี่ยวกับ glucosinolates"
      ],
-     "e": "พืชที่สะสม glucosinolates ในแวคิวโอลมี myrosinase เสมอ; ผลิตภัณฑ์ isothiocyanates เช่น sulforaphane (จาก glucoraphanin) มีงานวิจัยด้านต้านมะเร็ง แต่บางชนิดมีฤทธิ์ก่อคอพอก (goitrogenic)"
+     "e": "พืชที่สะสม glucosinolates ในแวคิวโอลมี myrosinase เสมอ; ผลิตภัณฑ์ isothiocyanates เช่น sulforaphane (จาก glucoraphanin) มีงานวิจัยด้านต้านมะเร็ง แต่บางชนิดมีฤทธิ์ก่อคอพอก (goitrogenic) | รายละเอียดคำตอบ: thioglucosidase ที่อยู่แยกจาก glucosinolate (idioblast) สัมผัสกันเมื่อเนื้อเยื่อเสียหาย ไฮโดรไลซ์ได้ isothiocyanates"
     },
     {
      "t": "ข้าวฟ่าง",
      "q": "ข้าวฟ่าง (Sorghum) มี cyanogenic glycoside หลักชนิดใดและมีความเสี่ยงอย่างไร",
-     "a": "Dhurrin ซึ่งพบสูงในต้นอ่อนและใบอ่อน (ลดลงเมื่ออายุมากขึ้น) จึงต้องระวังการได้รับพิษจากส่วนอ่อนของข้าวฟ่าง",
+     "a": "Dhurrin พบสูงในต้นอ่อนและใบอ่อน",
      "w": [
-      "Linamarin ซึ่งสูงที่สุดในเมล็ดแก่",
-      "Amygdalin ซึ่งพบเฉพาะในรากแก่",
-      "Sinigrin ซึ่งพบในส่วนใบแก่",
-      "Prunasin ซึ่งไม่ปลดปล่อย HCN"
+      "Linamarin ซึ่งสูงที่สุดในเมล็ดแก่และรากแห้ง",
+      "Amygdalin ซึ่งพบเฉพาะในรากแก่และไม่เป็นพิษ",
+      "Sinigrin ซึ่งพบสูงที่สุดในใบแก่และเมล็ดแห้ง",
+      "Prunasin ซึ่งไม่ปลดปล่อย HCN จึงปลอดภัยทุกส่วน"
      ],
-     "e": "Dhurrin อาจสูงถึง 30% ของน้ำหนักแห้งของ shoot tips ของต้นกล้า; เป็น p-hydroxymandelonitrile-β-D-glucoside"
+     "e": "Dhurrin อาจสูงถึง 30% ของน้ำหนักแห้งของ shoot tips ของต้นกล้า; เป็น p-hydroxymandelonitrile-β-D-glucoside | รายละเอียดคำตอบ: Dhurrin พบสูงในต้นอ่อนและใบอ่อน (ลดลงเมื่ออายุมากขึ้น) จึงต้องระวังพิษจากส่วนอ่อน"
     }
    ]
   },
@@ -1254,230 +1254,230 @@
     {
      "t": "Cannabis",
      "q": "กลุ่มสารสำคัญหลักที่พบในกัญชา (Cannabis) ตามบทเรียนคืออะไร",
-     "a": "Terpenes, polyphenols (ส่วนใหญ่เป็น flavonoids) และ cannabinoids",
+     "a": "Terpenes, flavonoids และ cannabinoids",
      "w": [
-      "Alkaloids ชนิด isoquinoline เท่านั้น",
-      "Anthraquinones และ naphthoquinones",
-      "Tannins และ saponins เท่านั้น",
-      "Cardiac glycosides และ glucosinolates"
+      "Alkaloids ชนิด isoquinoline, tannins และ saponins",
+      "Anthraquinones, naphthoquinones และ coumarins",
+      "Cardiac glycosides, glucosinolates และ lignans",
+      "Tannins, saponins และ cyanogenic glycosides"
      ],
-     "e": "พบสารมากกว่า 550 ชนิด; cannabinoids สูงที่สุดในส่วนดอกของต้นเพศเมีย; terpenes ไม่มีฤทธิ์ต่อระบบประสาทแต่ให้กลิ่นเฉพาะ"
+     "e": "พบสารมากกว่า 550 ชนิด; cannabinoids สูงที่สุดในส่วนดอกของต้นเพศเมีย; terpenes ไม่มีฤทธิ์ต่อระบบประสาทแต่ให้กลิ่นเฉพาะ | รายละเอียดคำตอบ: Terpenes, polyphenols (ส่วนใหญ่เป็น flavonoids) และ cannabinoids"
     },
     {
      "t": "Cannabis",
      "q": "ลักษณะของพืชกัญชาและโครงสร้างที่สะสม cannabinoids/terpenes คือข้อใด",
-     "a": "เป็นพืชแยกเพศ (dioecious) ; สะสมสารในต่อมขน (glandular trichomes) โดยเฉพาะบนช่อดอกของต้นเพศเมีย",
+     "a": "แยกเพศ ; สะสมสารในต่อมขนบนช่อดอกต้นเพศเมีย",
      "w": [
-      "เป็นพืชสมบูรณ์เพศทุกต้น ; สะสมสารในราก",
-      "เป็นพืชไม่มีดอก ; สะสมสารในเมล็ดเท่านั้น",
-      "เป็นพืชแยกเพศ ; สะสมสารเฉพาะในเปลือกลำต้น",
-      "เป็นพืชใต้ดิน ; สะสมสารในหัว"
+      "สมบูรณ์เพศทุกต้น ; สะสมสารในรากและหัวใต้ดินเป็นหลัก",
+      "ไม่มีดอก ; สะสมสารในเมล็ดและเปลือกผลเท่านั้น",
+      "แยกเพศ ; สะสมสารเฉพาะในเปลือกลำต้นและท่อลำเลียง",
+      "เป็นพืชเลื้อยใต้ดิน ; สะสมสารในหัวและเหง้า"
      ],
-     "e": "เมล็ดกัญชามีน้ำมันประมาณ 40% เส้นใย 30% โปรตีน 25% และกรดไขมันไม่อิ่มตัวสูง (linoleic acid 45–60%)"
+     "e": "เมล็ดกัญชามีน้ำมันประมาณ 40% เส้นใย 30% โปรตีน 25% และกรดไขมันไม่อิ่มตัวสูง (linoleic acid 45–60%) | รายละเอียดคำตอบ: แยกเพศ (dioecious) ; สะสมสารในต่อมขน (glandular trichomes) โดยเฉพาะช่อดอกต้นเพศเมีย"
     },
     {
      "t": "Cannabis",
      "q": "ปัจจัยสิ่งแวดล้อมมีผลต่อสารสำคัญของกัญชาอย่างไร",
-     "a": "อุณหภูมิ ปริมาณฝน ความยาวของวัน/แสง และระดับความสูง มีผลต่อชนิดและปริมาณ secondary metabolites (เช่น เมล็ดที่ปลูกในอังกฤษอุดมด้วย CBD แต่แทบไม่มี THC ส่วนที่ปลูกในซูดานผลิต THC)",
+     "a": "อุณหภูมิ ฝน แสง และความสูงมีผลต่อชนิดและปริมาณสาร (เช่น CBD ในอังกฤษ THC ในซูดาน)",
      "w": [
-      "ไม่มีปัจจัยสิ่งแวดล้อมใดมีผลต่อปริมาณสารสำคัญ",
-      "มีผลเฉพาะต่อสีของใบเท่านั้น",
-      "เมล็ดจากทุกพื้นที่มี THC เท่ากัน",
-      "อุณหภูมิต่ำทำให้สร้าง THC สูงสุดเสมอ"
+      "ไม่มีปัจจัยสิ่งแวดล้อมใดมีผลต่อปริมาณสารสำคัญ เพราะกำหนดด้วยพันธุกรรมเท่านั้น",
+      "มีผลเฉพาะต่อสีของใบและความสูงของต้น ไม่มีผลต่อสารสำคัญ",
+      "เมล็ดจากทุกพื้นที่ทั่วโลกมี THC เท่ากันเสมอ",
+      "อุณหภูมิต่ำทำให้สร้าง THC สูงสุดเสมอ ไม่ว่าสายพันธุ์ใด"
      ],
-     "e": "อุณหภูมิร้อนกระตุ้นการสร้าง THC สูง"
+     "e": "อุณหภูมิร้อนกระตุ้นการสร้าง THC สูง | รายละเอียดคำตอบ: อุณหภูมิ ฝน แสง และความสูงมีผลต่อชนิดและปริมาณสาร (เช่น เมล็ดจากอังกฤษอุดมด้วย CBD แทบไม่มี THC ส่วนจากซูดานผลิต THC)"
     },
     {
      "t": "Cannabis",
      "q": "กัญชงตามประกาศในบทเรียนถูกกำหนดลักษณะอย่างไร",
-     "a": "Cannabis sativa L. subsp. sativa ที่มี THC ในใบและช่อดอกไม่เกิน 1.0% ต่อน้ำหนักแห้ง",
+     "a": "Cannabis sativa subsp. sativa ที่มี THC ไม่เกิน 1.0% ต่อน้ำหนักแห้ง",
      "w": [
-      "Cannabis indica ที่มี THC ไม่เกิน 10%",
-      "Cannabis ruderalis ที่ไม่มี THC เลย",
-      "Cannabis sativa ที่มี THC ไม่เกิน 50%",
-      "พืชใดก็ได้ที่ไม่มี cannabinoids"
+      "Cannabis indica ที่มี THC ในใบและช่อดอกไม่เกิน 10% ต่อน้ำหนักแห้ง",
+      "Cannabis ruderalis ที่ไม่มี THC เลยในทุกส่วนของพืช",
+      "Cannabis sativa ที่มี THC ในใบและช่อดอกไม่เกิน 50% ต่อน้ำหนักแห้ง",
+      "พืชใดก็ได้ที่ไม่มี cannabinoids ในทุกส่วนของพืช"
      ],
-     "e": "กัญชามี 3 สายพันธุ์ที่พบบ่อย: C. sativa, C. indica, C. ruderalis; สารสกัดที่มี CBD เป็นองค์ประกอบ ต้องมี THC ไม่เกิน 0.2% โดยน้ำหนักจึงพ้นนิยามยาเสพติด"
+     "e": "กัญชามี 3 สายพันธุ์ที่พบบ่อย: C. sativa, C. indica, C. ruderalis; สารสกัดที่มี CBD เป็นองค์ประกอบ ต้องมี THC ไม่เกิน 0.2% โดยน้ำหนักจึงพ้นนิยามยาเสพติด | รายละเอียดคำตอบ: Cannabis sativa L. subsp. sativa ที่มี THC ในใบและช่อดอกไม่เกิน 1.0% ต่อน้ำหนักแห้ง"
     },
     {
      "t": "Cannabinoids",
      "q": "Cannabinoids มีโครงสร้างและชีวสังเคราะห์อย่างไร",
-     "a": "เป็น terpenophenolic compounds C21/C22 ประกอบด้วยส่วนอะโรมาติกจาก acetate/malonyl (polyketide) และส่วน isoprenoid (C10, geranyl)",
+     "a": "terpenophenolic C21/C22 จาก polyketide และ isoprenoid (geranyl)",
      "w": [
-      "เป็น alkaloids ที่สร้างจาก tryptophan",
-      "เป็น saponins ที่สร้างจาก squalene",
-      "เป็น anthraquinones ที่สร้างจาก shikimate",
-      "เป็นน้ำตาลที่เชื่อมกับ steroid"
+      "alkaloids ที่สร้างจาก tryptophan และ geranyl diphosphate",
+      "saponins ที่สร้างจาก squalene และต่อกับน้ำตาล",
+      "anthraquinones ที่สร้างจาก shikimate และ mevalonate",
+      "น้ำตาลที่เชื่อมกับ steroid ผ่านพันธะ glycosidic"
      ],
-     "e": "พบมากในใบและช่อดอก; รู้จักมากกว่า 150 ชนิด (THC และ CBD เป็นที่รู้จักที่สุด)"
+     "e": "พบมากในใบและช่อดอก; รู้จักมากกว่า 150 ชนิด (THC และ CBD เป็นที่รู้จักที่สุด) | รายละเอียดคำตอบ: terpenophenolic compounds C21/C22 มีส่วนอะโรมาติกจาก polyketide (acetate/malonyl) และส่วน isoprenoid (geranyl, C10)"
     },
     {
      "t": "Cannabinoids",
      "q": "ข้อใดจับคู่ cannabinoid กับฤทธิ์ได้ถูกต้อง",
-     "a": "Δ9-THC = สารออกฤทธิ์ต่อจิตประสาทหลัก ; CBD = ต้านชัก/ลดอักเสบ ไม่มีฤทธิ์ psychoactive ; Cannabinol = ฤทธิ์ต่ำกว่า ไม่มีฤทธิ์ psychotropic",
+     "a": "THC = psychoactive หลัก ; CBD = ต้านชัก ไม่ psychoactive ; Cannabinol = ฤทธิ์ต่ำ",
      "w": [
-      "CBD = สารออกฤทธิ์ต่อจิตประสาทหลัก ; THC = ต้านชักและไม่มีฤทธิ์ต่อจิตประสาท",
-      "Cannabinol = psychoactive แรงที่สุด ; THC = ไม่มีฤทธิ์",
-      "Cannabichromene = ลดการทำงานของ THC และไม่มีฤทธิ์ต้านเชื้อ",
-      "Δ8-THC = ไม่มีฤทธิ์ใด ๆ"
+      "CBD = psychoactive หลัก ; THC = ต้านชักและไม่ psychoactive ; Cannabinol = ต้านชัก",
+      "Cannabinol = psychoactive แรงที่สุด ; THC = ไม่มีฤทธิ์ ; CBD = กดประสาทแรง",
+      "Cannabichromene = ลดการทำงานของ THC และไม่มีฤทธิ์ต้านเชื้อ ; CBD = psychoactive",
+      "Δ8-THC = ไม่มีฤทธิ์ใด ๆ ; CBD = psychoactive หลัก ; cannabinol = ต้านชัก"
      ],
-     "e": "Cannabichromene อาจเสริมฤทธิ์ THC และต้านเชื้อรา/จุลชีพ/ต้านอักเสบ; Δ8-THC ออกฤทธิ์ใกล้เคียง Δ9-THC แต่พบปริมาณน้อย"
+     "e": "Cannabichromene อาจเสริมฤทธิ์ THC และต้านเชื้อรา/จุลชีพ/ต้านอักเสบ; Δ8-THC ออกฤทธิ์ใกล้เคียง Δ9-THC แต่พบปริมาณน้อย | รายละเอียดคำตอบ: Δ9-THC = psychoactive หลัก ; CBD = ต้านชัก/ลดอักเสบ ไม่ psychoactive ; Cannabinol = ฤทธิ์ต่ำ ไม่ psychotropic"
     },
     {
      "t": "Cannabinoids",
      "q": "THC ในปริมาณสูงเกี่ยวข้องกับผลไม่พึงประสงค์ใดตามบทเรียน",
-     "a": "หวาดระแวง ความจำบกพร่อง เสี่ยงโรคจิต และการเสพติด/cannabis use disorder",
+     "a": "หวาดระแวง ความจำบกพร่อง เสี่ยงโรคจิตและเสพติด",
      "w": [
-      "ทำให้ความจำดีขึ้นอย่างถาวร",
-      "ทำให้ตับแข็งโดยตรงเท่านั้น",
-      "ทำให้เกิดนิ่วในไตเท่านั้น",
-      "ไม่มีผลข้างเคียงใด ๆ"
+      "ทำให้ความจำดีขึ้นอย่างถาวรและลดความวิตกกังวลทุกกรณี",
+      "ทำให้ตับแข็งโดยตรงและเกิดภาวะตับวายเฉียบพลัน",
+      "ทำให้เกิดนิ่วในไตและกระดูกพรุนอย่างรวดเร็ว",
+      "ไม่มีผลข้างเคียงใด ๆ แม้ใช้ในขนาดสูงต่อเนื่อง"
      ],
-     "e": "ควรเริ่มด้วยขนาดต่ำและปรับช้า ๆ; ผู้ใช้ครั้งแรกควรรับประทานก่อนนอนและมีผู้ดูแล"
+     "e": "ควรเริ่มด้วยขนาดต่ำและปรับช้า ๆ; ผู้ใช้ครั้งแรกควรรับประทานก่อนนอนและมีผู้ดูแล | รายละเอียดคำตอบ: หวาดระแวง ความจำบกพร่อง เสี่ยงโรคจิต และการเสพติด (cannabis use disorder)"
     },
     {
      "t": "ข้อบ่งใช้",
      "q": "ข้อใดเป็นภาวะที่ผลิตภัณฑ์กัญชาทางการแพทย์ “ได้ประโยชน์” ตามบทเรียน",
-     "a": "คลื่นไส้อาเจียนจากเคมีบำบัด, ลมชักที่รักษายาก/ดื้อยา, กล้ามเนื้อหดเกร็งใน multiple sclerosis, ปวดประสาทส่วนกลาง และเบื่ออาหารใน AIDS",
+     "a": "คลื่นไส้จากเคมีบำบัด ลมชักดื้อยา กล้ามเนื้อเกร็งใน MS",
      "w": [
-      "การรักษามะเร็งให้หายขาดเป็นลำดับแรก",
-      "โรคติดเชื้อแบคทีเรียทุกชนิด",
-      "ความดันโลหิตสูงทุกระดับเป็นยาตัวแรก",
-      "ท้องผูกเรื้อรังเป็นยาตัวแรก"
+      "การรักษามะเร็งทุกชนิดให้หายขาดเป็นลำดับแรก",
+      "โรคติดเชื้อแบคทีเรียทุกชนิดรวมถึงวัณโรคและปอดบวม",
+      "ความดันโลหิตสูงทุกระดับ ใช้เป็นยาตัวแรกก่อนยาอื่น",
+      "ท้องผูกเรื้อรังและโรคกระเพาะ ใช้เป็นยาตัวแรก"
      ],
-     "e": "การใช้กัญชารักษามะเร็งยังต้องการการศึกษาเพิ่ม; กัญชาทางการแพทย์ไม่แนะนำเป็น first-line therapy และใช้เสริมการรักษามาตรฐาน"
+     "e": "การใช้กัญชารักษามะเร็งยังต้องการการศึกษาเพิ่ม; กัญชาทางการแพทย์ไม่แนะนำเป็น first-line therapy และใช้เสริมการรักษามาตรฐาน | รายละเอียดคำตอบ: คลื่นไส้อาเจียนจากเคมีบำบัด ลมชักดื้อยา กล้ามเนื้อเกร็งใน MS ปวดประสาท และเบื่ออาหารใน AIDS"
     },
     {
      "t": "กฎหมาย/การใช้",
      "q": "ข้อใดถูกต้องเกี่ยวกับการใช้ผลิตภัณฑ์กัญชาทางการแพทย์",
-     "a": "ให้เริ่มด้วยขนาดต่ำและปรับช้า ๆ ; หยุดยาทันทีหากเกิดสับสน กระวนกระวาย ประสาทหลอน หรือโรคจิต ; ลดขนาดเมื่อมึนเวียนศีรษะ สูญเสียการประสานงาน หัวใจเต้นช้า",
+     "a": "เริ่มขนาดต่ำปรับช้า ๆ ; หยุดยาเมื่อสับสนหรือประสาทหลอน ; ลดขนาดเมื่อมึนศีรษะ",
      "w": [
-      "เริ่มขนาดสูงที่สุดเพื่อให้ได้ผลเร็ว",
-      "ไม่ต้องหยุดยาแม้เกิดประสาทหลอน",
-      "ใช้ได้ทันทีเป็นยาตัวแรกของทุกโรค",
-      "ไม่ต้องมีผู้ดูแลแม้ใช้ครั้งแรก"
+      "เริ่มขนาดสูงที่สุดตั้งแต่แรกเพื่อให้ได้ผลเร็ว ; ปรับขนาดลงเมื่อหายเท่านั้น",
+      "ไม่ต้องหยุดยาแม้เกิดประสาทหลอนหรือโรคจิต ; ลดขนาดเฉพาะเมื่อเกิดคลื่นไส้",
+      "ใช้ได้ทันทีเป็นยาตัวแรกของทุกโรค ; ไม่ต้องติดตามอาการข้างเคียง",
+      "ไม่ต้องมีผู้ดูแลแม้ใช้ครั้งแรก ; หยุดยาเมื่อรู้สึกง่วงเท่านั้น"
      ],
-     "e": "กัญชาทางการแพทย์หมายถึงสารสกัดจากกัญชา ไม่รวมถึงพืชหรือส่วนของพืชที่ยังคงสภาพ"
+     "e": "กัญชาทางการแพทย์หมายถึงสารสกัดจากกัญชา ไม่รวมถึงพืชหรือส่วนของพืชที่ยังคงสภาพ | รายละเอียดคำตอบ: เริ่มขนาดต่ำและปรับช้า ๆ ; หยุดยาทันทีหากสับสน กระวนกระวาย ประสาทหลอน ; ลดขนาดเมื่อมึนศีรษะ หัวใจเต้นช้า"
     },
     {
      "t": "Garlic",
      "q": "สารตั้งต้นกลิ่น (flavor precursor) หลักของกระเทียมและหอมใหญ่คืออะไร",
-     "a": "กระเทียม = alliin (S-allyl cysteine sulfoxide) ; หอมใหญ่ = isoalliin (S-(trans-1-propenyl) cysteine sulfoxide)",
+     "a": "กระเทียม = alliin ; หอมใหญ่ = isoalliin",
      "w": [
-      "กระเทียม = isoalliin ; หอมใหญ่ = alliin",
+      "กระเทียม = isoalliin ; หอมใหญ่ = alliin (S-allyl cysteine sulfoxide)",
       "ทั้งสองมี allicin เป็นสารตั้งต้นที่มีอยู่แล้วในเซลล์ที่สมบูรณ์",
-      "ทั้งสองมี curcumin เป็นสารตั้งต้น",
-      "ทั้งสองมี thymoquinone เป็นสารตั้งต้น"
+      "ทั้งสองมี curcumin เป็นสารตั้งต้นของกลิ่น",
+      "ทั้งสองมี thymoquinone เป็นสารตั้งต้นของกลิ่น"
      ],
-     "e": "พืชสกุล Allium (วงศ์ Liliaceae ในบทเรียน) มี cysteine sulfoxides; isoalliin มีส่วนเกี่ยวกับสารที่ทำให้น้ำตาไหลของหอม"
+     "e": "พืชสกุล Allium (วงศ์ Liliaceae ในบทเรียน) มี cysteine sulfoxides; isoalliin มีส่วนเกี่ยวกับสารที่ทำให้น้ำตาไหลของหอม | รายละเอียดคำตอบ: กระเทียม = alliin (S-allyl cysteine sulfoxide) ; หอมใหญ่ = isoalliin"
     },
     {
      "t": "Garlic",
      "q": "เมื่อกระเทียมถูกหั่นหรือบด alliin เปลี่ยนเป็นสารใดและด้วยเอนไซม์ใด",
-     "a": "Alliinase (C–S lyase) เปลี่ยน alliin เป็น allylsulfenic acid, pyruvic acid และ ammonia แล้วสอง allylsulfenic acid รวมเป็น allicin (diallyl thiosulfinate)",
+     "a": "Alliinase เปลี่ยน alliin เป็น allylsulfenic acid แล้วเป็น allicin",
      "w": [
-      "Myrosinase เปลี่ยน alliin เป็น isothiocyanate",
-      "Linamarase เปลี่ยน alliin เป็น HCN",
-      "PAL เปลี่ยน alliin เป็น cinnamic acid",
-      "Tannase เปลี่ยน alliin เป็น gallic acid"
+      "Myrosinase เปลี่ยน alliin เป็น isothiocyanate และ glucose",
+      "Linamarase เปลี่ยน alliin เป็น HCN และ acetone",
+      "PAL เปลี่ยน alliin เป็น cinnamic acid และ ammonia",
+      "Tannase เปลี่ยน alliin เป็น gallic acid และ glucose"
      ],
-     "e": "Alliin ไม่มีกลิ่นและละลายน้ำได้; alliinase อยู่ในแวคิวโอลของ vascular bundle sheath cells แยกจาก alliin"
+     "e": "Alliin ไม่มีกลิ่นและละลายน้ำได้; alliinase อยู่ในแวคิวโอลของ vascular bundle sheath cells แยกจาก alliin | รายละเอียดคำตอบ: Alliinase (C–S lyase) เปลี่ยน alliin เป็น allylsulfenic acid, pyruvic acid, ammonia แล้วรวมเป็น allicin"
     },
     {
      "t": "Garlic",
      "q": "Allicin มีสมบัติและการเปลี่ยนแปลงอย่างไร",
-     "a": "มีฤทธิ์ต้านจุลชีพแรง แต่ถูกเมแทบอไลซ์/สลายเร็วเป็น diallyl sulfide/disulfide/trisulfide, ajoene และ S-allylmercaptocysteine ซึ่งมีกลิ่นแรงจึงจำกัดการใช้ในอาหาร",
+     "a": "ต้านจุลชีพแรง แต่สลายเร็วเป็นสารที่มีกลิ่นแรง",
      "w": [
-      "เสถียรมากและไม่มีกลิ่น",
-      "ไม่มีฤทธิ์ต้านจุลชีพ",
-      "เป็นแอลคาลอยด์ที่ออกฤทธิ์ต่อระบบประสาท",
-      "เป็นสีเหลืองที่ให้สีแก่กระเทียม"
+      "เสถียรมาก ไม่มีกลิ่น และใช้เป็นสารถนอมอาหารได้ดี",
+      "ไม่มีฤทธิ์ต้านจุลชีพ แต่มีฤทธิ์ขับปัสสาวะแรง",
+      "เป็นแอลคาลอยด์ที่ออกฤทธิ์ต่อระบบประสาทส่วนกลาง",
+      "เป็นสารสีเหลืองที่ให้สีแก่กระเทียมและไม่มีกลิ่น"
      ],
-     "e": "กระเทียมมีฤทธิ์: antioxidant, protect หัวใจและหลอดเลือด, anticancer, antidiabetic ฯลฯ; black garlic มี polyphenols/flavonoids สูงกว่ากระเทียมสด"
+     "e": "กระเทียมมีฤทธิ์: antioxidant, protect หัวใจและหลอดเลือด, anticancer, antidiabetic ฯลฯ; black garlic มี polyphenols/flavonoids สูงกว่ากระเทียมสด | รายละเอียดคำตอบ: ต้านจุลชีพแรง แต่สลายเร็วเป็น diallyl sulfide/disulfide, ajoene และ SAMC ซึ่งมีกลิ่นแรง"
     },
     {
      "t": "Turmeric",
      "q": "สารสำคัญของขมิ้นชัน (Curcuma longa) คืออะไร",
-     "a": "Curcuminoids ได้แก่ curcumin, demethoxycurcumin และ bisdemethoxycurcumin (สารสีเหลือง ฤทธิ์ต้านอักเสบ ต้านอนุมูลอิสระ)",
+     "a": "Curcuminoids สารสีเหลือง ต้านอักเสบ ต้านอนุมูลอิสระ",
      "w": [
-      "Cannabinoids ได้แก่ THC และ CBD",
-      "Alliin และ allicin",
-      "Sennosides A–D",
-      "Thymoquinone และ lawsone"
+      "Cannabinoids ได้แก่ THC และ CBD ที่ออกฤทธิ์ต่อจิตประสาท",
+      "Alliin และ allicin ซึ่งเป็นสารกลุ่มกำมะถัน",
+      "Sennosides A–D ซึ่งเป็นสารกลุ่ม anthraquinone",
+      "Thymoquinone และ lawsone ซึ่งเป็นสารกลุ่ม quinone"
      ],
-     "e": "Curcumin-I (curcumin) เป็นสารสีเหลืองหลักของขมิ้น; ขมิ้นมีฤทธิ์ต้านอักเสบ ต้านมะเร็ง ต้านจุลชีพ ลดไขมัน ปกป้องหัวใจและระบบประสาท"
+     "e": "Curcumin-I (curcumin) เป็นสารสีเหลืองหลักของขมิ้น; ขมิ้นมีฤทธิ์ต้านอักเสบ ต้านมะเร็ง ต้านจุลชีพ ลดไขมัน ปกป้องหัวใจและระบบประสาท | รายละเอียดคำตอบ: Curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin) สารสีเหลือง ต้านอักเสบ ต้านอนุมูลอิสระ"
     },
     {
      "t": "Turmeric",
      "q": "โครงสร้างพื้นฐานของ curcuminoids เป็นแบบใด",
-     "a": "Diarylheptanoid (วงแหวนอะโรมาติก 2 วงเชื่อมด้วยโซ่ 7 คาร์บอน) ที่สร้างจาก phenylpropanoid (C6–C3) หน่วยหนึ่งต่อกับอีกหน่วย",
+     "a": "Diarylheptanoid (วงอะโรมาติก 2 วงเชื่อมโซ่ 7 คาร์บอน)",
      "w": [
-      "Anthracene มี ketone 2 หมู่",
-      "Steroid nucleus 4 วง",
-      "Naphthalene มีหมู่ methyl",
-      "Pyrone ring เดี่ยวที่มีน้ำตาล"
+      "Anthracene ที่มีหมู่ ketone 2 หมู่ และมี hydroxyl",
+      "Steroid nucleus 4 วง ที่มีหมู่ lactone ที่ C17",
+      "Naphthalene ที่มีหมู่ methyl และ hydroxyl",
+      "Pyrone ring เดี่ยวที่มีน้ำตาลเกาะอยู่"
      ],
-     "e": "Curcuminoids เป็นสาร polyphenol ในกลุ่ม miscellaneous (ไม่เข้ากลุ่ม flavonoids/tannins/quinones)"
+     "e": "Curcuminoids เป็นสาร polyphenol ในกลุ่ม miscellaneous (ไม่เข้ากลุ่ม flavonoids/tannins/quinones) | รายละเอียดคำตอบ: Diarylheptanoid (วงอะโรมาติก 2 วงเชื่อมด้วยโซ่ 7 คาร์บอน) สร้างจาก phenylpropanoid (C6–C3) สองหน่วย"
     },
     {
      "t": "Annonaceous acetogenins",
      "q": "Annonaceous acetogenins คือสารกลุ่มใดและพบในพืชวงศ์ใด",
-     "a": "สารอนุพันธ์กรดไขมันสายยาว (C32–C34) ที่มีวงแหวน tetrahydrofuran และ γ-lactone พบในพืชวงศ์ Annonaceae (เช่น น้อยหน่า, ทุเรียนเทศ)",
+     "a": "อนุพันธ์กรดไขมันสายยาว C32–C34 พบในวงศ์ Annonaceae (น้อยหน่า)",
      "w": [
-      "สารกลุ่ม anthraquinone ที่พบในวงศ์ Fabaceae",
-      "สารกลุ่ม alkaloid ที่พบในวงศ์ Papaveraceae",
-      "สารกลุ่ม glucosinolate ที่พบในวงศ์ Brassicaceae",
-      "สารกลุ่ม cardiac glycoside ที่พบในวงศ์ Apocynaceae"
+      "สารกลุ่ม anthraquinone ที่พบในวงศ์ Fabaceae (มะขามแขก คูน)",
+      "สารกลุ่ม alkaloid ที่พบในวงศ์ Papaveraceae (ฝิ่น)",
+      "สารกลุ่ม glucosinolate ที่พบในวงศ์ Brassicaceae (กะหล่ำ)",
+      "สารกลุ่ม cardiac glycoside ที่พบในวงศ์ Apocynaceae (ยี่โถ)"
      ],
-     "e": "ออกฤทธิ์ยับยั้ง mitochondrial complex I จึงมีฤทธิ์ cytotoxic/ฆ่าแมลงสูง และอาจเป็นพิษต่อระบบประสาทเมื่อบริโภคมาก"
+     "e": "ออกฤทธิ์ยับยั้ง mitochondrial complex I จึงมีฤทธิ์ cytotoxic/ฆ่าแมลงสูง และอาจเป็นพิษต่อระบบประสาทเมื่อบริโภคมาก | รายละเอียดคำตอบ: อนุพันธ์กรดไขมันสายยาว (C32–C34) มี tetrahydrofuran และ γ-lactone พบในวงศ์ Annonaceae (น้อยหน่า ทุเรียนเทศ)"
     },
     {
      "t": "Annonaceous acetogenins",
      "q": "ข้อควรระวังหรือฤทธิ์ที่รายงานของ annonaceous acetogenins ข้อใดเหมาะสมที่สุด",
-     "a": "มีฤทธิ์ cytotoxic ต่อเซลล์มะเร็งในหลอดทดลอง แต่อาจก่อพิษต่อระบบประสาทเมื่อบริโภคสารสกัดหรือผลิตภัณฑ์เสริมอาหารมากเกินไป",
+     "a": "cytotoxic ต่อเซลล์มะเร็งในหลอดทดลอง แต่อาจเป็นพิษต่อประสาท",
      "w": [
-      "ปลอดภัยทุกขนาดและใช้รักษามะเร็งได้แล้วในมนุษย์",
-      "ใช้เป็นยาลดความดันที่ปลอดภัยที่สุด",
-      "ทำให้เลือดแข็งตัวเร็วขึ้นเสมอ",
-      "ไม่มีฤทธิ์ทางชีวภาพใด ๆ"
+      "ปลอดภัยทุกขนาดและใช้รักษามะเร็งในมนุษย์ได้แล้ว",
+      "ใช้เป็นยาลดความดันที่ปลอดภัยที่สุดและไม่มีผลข้างเคียง",
+      "ทำให้เลือดแข็งตัวเร็วขึ้นเสมอและใช้ห้ามเลือด",
+      "ไม่มีฤทธิ์ทางชีวภาพใด ๆ จึงไม่ต้องระวัง"
      ],
-     "e": "ข้อมูลทางคลินิกในคนยังจำกัด ควรระวังการใช้สารสกัดความเข้มข้นสูง"
+     "e": "ข้อมูลทางคลินิกในคนยังจำกัด ควรระวังการใช้สารสกัดความเข้มข้นสูง | รายละเอียดคำตอบ: cytotoxic ต่อเซลล์มะเร็งในหลอดทดลอง แต่อาจก่อพิษต่อระบบประสาทเมื่อบริโภคสารสกัดมากเกินไป"
     },
     {
      "t": "กัญชา",
      "q": "การใช้กัญชาในตำรับยาแผนไทยและบัญชียาหลักแห่งชาติควรเข้าใจอย่างไร",
-     "a": "มีสารสกัดกัญชาบางชนิดที่บรรจุในบัญชียาหลักแห่งชาติ (เช่น สารสกัดที่มี THC ต่ำ ใช้ในผู้ป่วยมะเร็งระยะท้ายที่นอนไม่หลับ เบื่ออาหาร หรือปวด และคลื่นไส้อาเจียนจากเคมีบำบัด) โดยแพทย์ผู้เชี่ยวชาญเป็นผู้สั่งใช้",
+     "a": "มีสารสกัดกัญชาบางชนิดในบัญชียาหลักฯ ที่แพทย์สั่งใช้",
      "w": [
-      "ใช้ได้โดยทุกคนเองโดยไม่ต้องมีแพทย์",
-      "บรรจุเฉพาะส่วนใบสดเพื่อรับประทานโดยตรง",
-      "ห้ามใช้ทางการแพทย์ในทุกกรณี",
-      "ใช้ได้เฉพาะในเด็กเล็กโดยไม่ต้องมีแพทย์"
+      "ใช้ได้โดยทุกคนเองโดยไม่ต้องมีแพทย์ เพราะเป็นสมุนไพร",
+      "บรรจุเฉพาะใบสดเพื่อรับประทานโดยตรงในทุกโรค",
+      "ห้ามใช้ทางการแพทย์ในทุกกรณีตามกฎหมายยาเสพติด",
+      "ใช้ได้เฉพาะในเด็กเล็กโดยผู้ปกครองซื้อมาใช้เอง"
      ],
-     "e": "ผลิตภัณฑ์เหล่านี้เป็นสารสกัด ไม่ใช่ส่วนของพืชที่ยังคงสภาพ; บางรายการให้สั่งโดยกุมารแพทย์ประสาทหรือแพทย์ผู้มีประสบการณ์"
+     "e": "ผลิตภัณฑ์เหล่านี้เป็นสารสกัด ไม่ใช่ส่วนของพืชที่ยังคงสภาพ; บางรายการให้สั่งโดยกุมารแพทย์ประสาทหรือแพทย์ผู้มีประสบการณ์ | รายละเอียดคำตอบ: มีสารสกัดกัญชาบางชนิดในบัญชียาหลักแห่งชาติ (เช่น THC ต่ำ ใช้ในมะเร็งระยะท้ายที่นอนไม่หลับ ปวด เบื่ออาหาร) โดยแพทย์เป็นผู้สั่งใช้"
     },
     {
      "t": "Garlic",
      "q": "สารที่ทำให้น้ำตาไหล (lachrymatory factor) ของหอมใหญ่มาจากอะไร",
-     "a": "อนุพันธ์ cysteine sulfoxide (isoalliin) ในสกุล Allium",
+     "a": "isoalliin จากหอมใหญ่ (Allium)",
      "w": [
-      "curcuminoids ในขมิ้น",
-      "cannabinoids ในกัญชา",
-      "annonaceous acetogenins",
-      "glucosinolates ในกะหล่ำ"
+      "curcuminoids ในขมิ้นชันที่ถูกหั่น",
+      "cannabinoids ในใบกัญชาที่ถูกบด",
+      "annonaceous acetogenins ในน้อยหน่า",
+      "glucosinolates ในกะหล่ำที่ถูกสับ"
      ],
-     "e": "ความต่างของโครงสร้างอนุพันธ์ cysteine ระหว่างชนิดพืช ทำให้กลิ่นและฤทธิ์ต่างกัน (garlic: S-allyl; onion: S-trans-propenyl)"
+     "e": "ความต่างของโครงสร้างอนุพันธ์ cysteine ระหว่างชนิดพืช ทำให้กลิ่นและฤทธิ์ต่างกัน (garlic: S-allyl; onion: S-trans-propenyl) | รายละเอียดคำตอบ: อนุพันธ์ cysteine sulfoxide (isoalliin) ในสกุล Allium"
     },
     {
      "t": "Cannabis",
      "q": "ข้อใดถูกต้องเกี่ยวกับสารกลุ่ม terpenes ในกัญชา",
-     "a": "เช่น caryophyllene, humulene ทำหน้าที่ป้องกันพืชจากปรสิตและการสูญเสียน้ำ และให้กลิ่นเฉพาะ แต่ไม่ได้มีฤทธิ์ต่อจิตประสาทเอง",
+     "a": "caryophyllene, humulene ให้กลิ่น แต่ไม่ออกฤทธิ์ต่อจิตประสาทเอง",
      "w": [
-      "เป็นสารเสพติดหลักที่มีฤทธิ์ต่อจิตประสาทแรงที่สุด",
-      "ไม่พบในกัญชาเลย",
-      "เป็นสาร cannabinoid ชนิดกรด",
-      "เป็นสารสีเหลืองที่ให้สีแก่ใบ"
+      "เป็นสารเสพติดหลักที่ออกฤทธิ์ต่อจิตประสาทแรงที่สุดของกัญชา",
+      "ไม่พบในกัญชาเลย พบเฉพาะในพืชวงศ์ Lamiaceae",
+      "เป็นสาร cannabinoid ชนิดกรดที่เปลี่ยนเป็น THC เมื่อโดนความร้อน",
+      "เป็นสารสีเหลืองที่ให้สีแก่ใบและเป็นยาระบาย"
      ],
-     "e": "Polyphenols ในใบกัญชาคือ flavonoids (apigenin, luteolin) มีฤทธิ์ antioxidant, anti-inflammatory"
+     "e": "Polyphenols ในใบกัญชาคือ flavonoids (apigenin, luteolin) มีฤทธิ์ antioxidant, anti-inflammatory | รายละเอียดคำตอบ: caryophyllene, humulene ป้องกันพืชจากปรสิตและการสูญเสียน้ำ ให้กลิ่นเฉพาะ แต่ไม่ออกฤทธิ์ต่อจิตประสาทเอง"
     },
     {
      "t": "Cannabis",
@@ -1487,7 +1487,7 @@
       "THC (11%) > CBD (0.8%) > CBC (0.7%) > CBDV (0.5%)",
       "CBC (11%) > THC (0.8%) > CBD (0.7%) > CBDV (0.5%)",
       "CBDV (11%) > CBC (0.8%) > THC (0.7%) > CBD (0.5%)",
-      "ทุกชนิดมีปริมาณเท่ากัน"
+      "THC (0.8%) > CBD (0.7%) > CBDV (11%) > CBC (0.5%)"
      ],
      "e": "ตัวเลขนี้ขึ้นกับสายพันธุ์/สภาพแวดล้อม; แอลคาลอยด์ในกัญชาช่วยป้องกันสัตว์ผู้ล่า"
     }
@@ -1502,242 +1502,242 @@
     {
      "t": "Introduction",
      "q": "ข้อใดอธิบายนิยามของ alkaloids ได้ถูกต้องที่สุดตามบทเรียน",
-     "a": "สารธรรมชาติที่มีไนโตรเจนเป็นองค์ประกอบ (อาจมี O, S, Cl, Br) มักมีสมบัติเป็นด่างและเป็น secondary metabolite ที่มีฤทธิ์ทางชีวภาพ",
+     "a": "สารธรรมชาติที่มีไนโตรเจน มักเป็นด่าง และมีฤทธิ์ทางชีวภาพ",
      "w": [
-      "สารกลุ่ม phenolics ที่ไม่มีไนโตรเจนเลย",
-      "น้ำตาลที่เชื่อมกับ aglycone",
-      "กรดไขมันอิ่มตัวที่ไม่มีไนโตรเจน",
-      "สารประกอบอนินทรีย์ที่เป็นโลหะ"
+      "สารกลุ่ม phenolics ที่ไม่มีไนโตรเจน มีหมู่ hydroxyl บนวงแหวนอะโรมาติก",
+      "น้ำตาลที่เชื่อมกับ aglycone ผ่านพันธะ glycosidic และละลายน้ำ",
+      "กรดไขมันอิ่มตัวสายยาวที่ไม่มีไนโตรเจนและทำให้กระดาษโปร่งแสง",
+      "สารประกอบอนินทรีย์ที่เป็นโลหะหนักและมีฤทธิ์เป็นกรด"
      ],
-     "e": "ชื่อมาจากภาษาอาหรับ al-qali (ขี้เถ้า); alkaloids ส่วนใหญ่เป็นผลึกไม่มีสี ยกเว้นที่ไม่มีออกซิเจน เช่น nicotine, coniine เป็นของเหลว; รสขม (quinine ขมที่สุด)"
+     "e": "ชื่อมาจากภาษาอาหรับ al-qali (ขี้เถ้า); alkaloids ส่วนใหญ่เป็นผลึกไม่มีสี ยกเว้นที่ไม่มีออกซิเจน เช่น nicotine, coniine เป็นของเหลว; รสขม (quinine ขมที่สุด) | รายละเอียดคำตอบ: สารธรรมชาติที่มีไนโตรเจน (อาจมี O, S, Cl, Br) มักเป็นด่าง และเป็น secondary metabolite ที่มีฤทธิ์ทางชีวภาพ"
     },
     {
      "t": "Introduction",
      "q": "ข้อใดถูกต้องเกี่ยวกับการกระจายตัวและสมบัติของ alkaloids",
-     "a": "มักสะสมในอวัยวะสำคัญ เช่น ใบอ่อน ดอก เมล็ด อวัยวะสะสม และอยู่เป็นส่วนผสมของ major และ minor alkaloids ; หมู่ amine ที่พบมาก: tertiary > secondary > primary",
+     "a": "สะสมในอวัยวะสำคัญ เป็นส่วนผสม major/minor alkaloids",
      "w": [
-      "สะสมเท่ากันทุกส่วนของพืชโดยไม่ขึ้นกับอวัยวะ",
-      "พบเป็นสารเดี่ยวสารเดียวเสมอ",
-      "เป็นสารที่ไม่มีไนโตรเจนเสมอ",
-      "พบเฉพาะในสัตว์และเชื้อรา"
+      "สะสมเท่ากันทุกส่วนของพืชโดยไม่ขึ้นกับอวัยวะหรืออายุ",
+      "พบเป็นสารเดี่ยวสารเดียวในพืชแต่ละชนิดเสมอ",
+      "เป็นสารที่ไม่มีไนโตรเจนเสมอ และมีสมบัติเป็นกรด",
+      "พบเฉพาะในสัตว์และเชื้อรา ไม่พบในพืชชั้นสูง"
      ],
-     "e": "Chemotaxonomy: พืชในสกุลใกล้เคียงกันมักมี alkaloid โครงสร้างเกี่ยวข้องกัน เช่น hyoscyamine ใน Solanaceae (Scopolia, Duboisia)"
+     "e": "Chemotaxonomy: พืชในสกุลใกล้เคียงกันมักมี alkaloid โครงสร้างเกี่ยวข้องกัน เช่น hyoscyamine ใน Solanaceae (Scopolia, Duboisia) | รายละเอียดคำตอบ: สะสมในอวัยวะสำคัญ (ใบอ่อน ดอก เมล็ด) เป็นส่วนผสม major/minor alkaloids ; หมู่ amine: tertiary > secondary > primary"
     },
     {
      "t": "การจำแนก",
      "q": "การจำแนก alkaloids ตาม biogenetic system คือข้อใด",
-     "a": "Protoalkaloids (N อยู่นอกวงแหวน เช่น ephedrine, colchicine), true alkaloids (N อยู่ใน heterocycle และมาจากกรดอะมิโน) และ pseudoalkaloids (ไม่ได้มาจากกรดอะมิโน เช่น มาจาก terpenoid/steroid)",
+     "a": "Protoalkaloids, true alkaloids และ pseudoalkaloids",
      "w": [
-      "Primary, secondary และ tertiary alkaloids ตามหมู่ amine เท่านั้น",
-      "Mydriatic, miotic และ hypotensive alkaloids",
-      "Cannabinaceous, rubiaceous และ solanaceous alkaloids",
-      "Heterocyclic และ non-heterocyclic เท่านั้น"
+      "Primary, secondary และ tertiary alkaloids ตามจำนวนหมู่ amine",
+      "Mydriatic, miotic และ hypotensive alkaloids ตามฤทธิ์",
+      "Cannabinaceous, rubiaceous และ solanaceous alkaloids ตามวงศ์พืช",
+      "Heterocyclic และ non-heterocyclic alkaloids ตามโครงสร้างวงแหวน"
      ],
-     "e": "ระบบอื่น: taxonomic (ตามวงศ์พืช), therapeutic (ตามฤทธิ์: mydriatic = atropine/hyoscine; miotic = pilocarpine/physostigmine; hypotensive = reserpine), chemical (heterocyclic/non-heterocyclic)"
+     "e": "ระบบอื่น: taxonomic (ตามวงศ์พืช), therapeutic (ตามฤทธิ์: mydriatic = atropine/hyoscine; miotic = pilocarpine/physostigmine; hypotensive = reserpine), chemical (heterocyclic/non-heterocyclic) | รายละเอียดคำตอบ: Protoalkaloids (N นอกวง เช่น ephedrine) , true alkaloids (N ใน heterocycle จากกรดอะมิโน) และ pseudoalkaloids (ไม่ได้มาจากกรดอะมิโน)"
     },
     {
      "t": "การทดสอบ",
      "q": "Alkaloid precipitants (เช่น Dragendorff’s reagent) ให้ผลบวกเป็นอย่างไร",
-     "a": "ได้ตะกอนสีส้ม–น้ำตาลแดงกับ Dragendorff (bismuth potassium iodide) ; Mayer’s (potassium mercuric iodide) ให้ตะกอนขาวครีม ; Wagner’s (iodine-KI) ให้ตะกอนน้ำตาลแดง",
+     "a": "Dragendorff = ตะกอนส้ม–แดง ; Mayer's = ตะกอนขาวครีม",
      "w": [
-      "Dragendorff’s ให้สารละลายสีน้ำเงินใส ; Mayer’s ให้ตะกอนสีเขียว",
-      "ทั้งสามให้ฟองสบู่คงที่",
-      "ทั้งสามให้สีชมพูแดงในชั้นด่าง",
-      "ไม่มี reagent ใดตกตะกอน alkaloids ได้"
+      "Dragendorff = สารละลายสีน้ำเงินใส ; Mayer's = ตะกอนเขียว ; Wagner's = ฟองสบู่",
+      "ทั้งสามให้ฟองสบู่คงที่เมื่อเขย่ากับชั้นกรด",
+      "ทั้งสามให้สีชมพูแดงในชั้นด่างเหมือน Bornträger's test",
+      "ไม่มี reagent ใดตกตะกอน alkaloids ได้ ต้องใช้ UV เท่านั้น"
      ],
-     "e": "Amines ทำปฏิกิริยากับโลหะหนัก (Hg, Bi) เกิด double salt ผลึกเล็ก; ให้ผลบวกได้ > 80%"
+     "e": "Amines ทำปฏิกิริยากับโลหะหนัก (Hg, Bi) เกิด double salt ผลึกเล็ก; ให้ผลบวกได้ > 80% | รายละเอียดคำตอบ: Dragendorff = ตะกอนส้ม–น้ำตาลแดง ; Mayer's = ตะกอนขาวครีม ; Wagner's = ตะกอนน้ำตาลแดง"
     },
     {
      "t": "การทดสอบ",
      "q": "ข้อใดเป็นสาเหตุของ false positive และ false negative ของการทดสอบ alkaloids ด้วย precipitant",
-     "a": "False positive: โปรตีน กรดอะมิโน tannins coumarins บาง glycosides ฯลฯ ; False negative: protoalkaloids และ quaternary alkaloids",
+     "a": "False positive: โปรตีน tannins ; False negative: protoalkaloids และ quaternary",
      "w": [
-      "False positive: เกลืออนินทรีย์เท่านั้น ; False negative: tertiary alkaloids ทุกชนิด",
-      "False positive ไม่เคยเกิด ; False negative เกิดกับทุก alkaloids",
-      "False positive: วิตามินซี ; False negative: caffeine",
-      "False positive: น้ำมันหอมระเหย ; False negative: morphine"
+      "False positive: เกลืออนินทรีย์ ; False negative: tertiary alkaloids ทุกชนิด",
+      "False positive ไม่เคยเกิด ; False negative เกิดกับ alkaloids ทุกชนิด",
+      "False positive: วิตามินซี ; False negative: caffeine และ morphine",
+      "False positive: น้ำมันหอมระเหย ; False negative: morphine และ atropine"
      ],
-     "e": "ควรยืนยันด้วยการสกัด acid-base และการทดสอบจำเพาะ"
+     "e": "ควรยืนยันด้วยการสกัด acid-base และการทดสอบจำเพาะ | รายละเอียดคำตอบ: False positive: โปรตีน กรดอะมิโน tannins coumarins ; False negative: protoalkaloids และ quaternary alkaloids"
     },
     {
      "t": "การทดสอบ",
      "q": "ข้อใดจับคู่การทดสอบเฉพาะกับกลุ่ม alkaloids ได้ถูกต้อง",
-     "a": "Murexide test = purine alkaloids (caffeine) สีชมพู ; Vitali–Morin = tropane alkaloids (atropine) สีม่วง ; Ehrlich’s reagent = indole alkaloids สีน้ำเงิน",
+     "a": "Murexide = purine ; Vitali–Morin = tropane ; Ehrlich = indole",
      "w": [
       "Murexide = tropane ; Vitali–Morin = indole ; Ehrlich = purine",
-      "Murexide = indole alkaloids ; Ehrlich = tropane",
-      "Vitali–Morin = purine alkaloids ; Murexide = isoquinoline",
-      "ทั้งสามใช้กับ anthraquinones"
+      "Murexide = indole alkaloids ; Ehrlich = tropane ; Vitali–Morin = purine",
+      "Vitali–Morin = purine alkaloids ; Murexide = isoquinoline ; Ehrlich = tropane",
+      "ทั้งสามใช้ตรวจ anthraquinones และให้สีแดง"
      ],
-     "e": "Murexide: purine + KCl + HCl + NH3 vapor → pink; Vitali–Morin: atropine + H2SO4 + KOH in MeOH → purple"
+     "e": "Murexide: purine + KCl + HCl + NH3 vapor → pink; Vitali–Morin: atropine + H2SO4 + KOH in MeOH → purple | รายละเอียดคำตอบ: Murexide = purine (caffeine) สีชมพู ; Vitali–Morin = tropane (atropine) สีม่วง ; Ehrlich = indole สีน้ำเงิน"
     },
     {
      "t": "การสกัด",
      "q": "หลักการ acid–base extraction (Stas–Otto) ของ alkaloids คืออะไร",
-     "a": "Alkaloid ในรูปเกลือละลายน้ำ (ชั้นกรด) ส่วน free base ละลายใน organic solvent (chloroform/dichloromethane) ; เปลี่ยนเกลือเป็น free base ด้วยด่างแล้วสกัดเข้าชั้นอินทรีย์",
+     "a": "Alkaloid เป็นเกลือละลายน้ำ ส่วน free base ละลาย organic solvent",
      "w": [
-      "Alkaloid ละลายเฉพาะในน้ำทั้งรูปเกลือและ free base",
-      "Alkaloid ละลายเฉพาะใน hexane ทุกรูป",
+      "Alkaloid ละลายเฉพาะในน้ำทั้งรูปเกลือและ free base จึงสกัดด้วยน้ำเท่านั้น",
+      "Alkaloid ละลายเฉพาะใน hexane ทั้งสองรูป จึงสกัดด้วย hexane ซ้ำ",
       "เปลี่ยน free base เป็นเกลือด้วยด่างเข้มข้นก่อนสกัดด้วย chloroform",
-      "ใช้การกลั่นด้วยไอน้ำเป็นหลัก"
+      "ใช้การกลั่นด้วยไอน้ำเป็นหลักเพราะ alkaloids ระเหยง่าย"
      ],
-     "e": "มีข้อยกเว้นเช่น ephedrine, colchicine, pilocarpine และ quaternary bases (berberine) ที่ละลายน้ำได้; quinine sulfate ละลายน้ำได้น้อยกว่า quinine HCl"
+     "e": "มีข้อยกเว้นเช่น ephedrine, colchicine, pilocarpine และ quaternary bases (berberine) ที่ละลายน้ำได้; quinine sulfate ละลายน้ำได้น้อยกว่า quinine HCl | รายละเอียดคำตอบ: Alkaloid เป็นเกลือละลายน้ำ (ชั้นกรด) ส่วน free base ละลายใน organic solvent ; เติมด่างเปลี่ยนเกลือเป็น free base แล้วสกัดเข้าชั้นอินทรีย์"
     },
     {
      "t": "Tropane alkaloids",
      "q": "Atropine ต่างจาก (−)-hyoscyamine อย่างไร และมีฤทธิ์อะไร",
-     "a": "Atropine เป็น racemic mixture ((±)-hyoscyamine) ที่เกิดระหว่างการสกัด ; ฤทธิ์ anticholinergic ขยายม่านตา ลดการหลั่งและการเกร็งตัว (antispasmodic)",
+     "a": "Atropine เป็น racemic mixture ((±)-hyoscyamine) ; anticholinergic ขยายม่านตา",
      "w": [
-      "Atropine เป็น isomer เดียวที่พบในธรรมชาติ ; มีฤทธิ์ cholinergic",
+      "Atropine เป็น isomer เดียวที่พบในธรรมชาติ ; มีฤทธิ์ cholinergic หดม่านตา",
       "Atropine เป็น quaternary alkaloid ; มีฤทธิ์กระตุ้นการหลั่งน้ำลาย",
-      "Atropine และ hyoscyamine เหมือนกันทุกประการ ไม่มีความแตกต่าง",
-      "Atropine ไม่ใช่ tropane alkaloid ; มีฤทธิ์เป็น analgesic"
+      "Atropine และ hyoscyamine เหมือนกันทุกประการ ; ฤทธิ์ระงับปวดแบบ opioid",
+      "Atropine ไม่ใช่ tropane alkaloid ; ฤทธิ์กระตุ้นประสาทส่วนกลาง"
      ],
-     "e": "Racemization ขึ้นกับ pH ตัวทำละลาย และอุณหภูมิ ป้องกันได้ด้วยการใช้ toluene; พบใน Atropa belladonna, Duboisia, Hyoscyamus niger"
+     "e": "Racemization ขึ้นกับ pH ตัวทำละลาย และอุณหภูมิ ป้องกันได้ด้วยการใช้ toluene; พบใน Atropa belladonna, Duboisia, Hyoscyamus niger | รายละเอียดคำตอบ: Atropine เป็น racemic mixture ((±)-hyoscyamine) ที่เกิดระหว่างสกัด ; anticholinergic ขยายม่านตา ลดการหลั่งและการเกร็ง"
     },
     {
      "t": "Tropane alkaloids",
      "q": "Hyoscine (scopolamine) ได้จากพืชใดและมีการใช้อย่างไร",
-     "a": "ใบ Duboisia spp. และเมล็ดลำโพง (Datura metel) ; เป็นเอสเทอร์ของ scopine กับ tropic acid ใช้ป้องกันเมารถเมาเรือ (anti-motion sickness)",
+     "a": "ใบ Duboisia และเมล็ดลำโพง ; ใช้ป้องกันเมารถเมาเรือ",
      "w": [
-      "เปลือก Cinchona ; ใช้รักษามาลาเรีย",
-      "ใบโคคา ; ใช้เป็นยาชาเฉพาะที่",
-      "ฝักฝิ่น ; ใช้ระงับปวด",
-      "ราก Rauvolfia ; ใช้ลดความดัน"
+      "เปลือก Cinchona ; เอสเทอร์ของ quinine ใช้รักษามาลาเรีย",
+      "ใบโคคา ; เอสเทอร์ของ ecgonine ใช้เป็นยาชาเฉพาะที่",
+      "ฝักฝิ่น ; อนุพันธ์ morphinane ใช้ระงับปวด",
+      "ราก Rauvolfia ; indole alkaloid ใช้ลดความดัน"
      ],
-     "e": "Atroscine (racemate) ไม่ใช้ประโยชน์ทางการแพทย์; Duboisia ให้ alkaloid ~5%"
+     "e": "Atroscine (racemate) ไม่ใช้ประโยชน์ทางการแพทย์; Duboisia ให้ alkaloid ~5% | รายละเอียดคำตอบ: ใบ Duboisia และเมล็ดลำโพง (Datura metel) ; เอสเทอร์ของ scopine กับ tropic acid ใช้ป้องกันเมารถเมาเรือ"
     },
     {
      "t": "Tropane alkaloids",
      "q": "Cocaine จาก Erythroxylum coca มีลักษณะทางเภสัชวิทยาอย่างไร",
-     "a": "เป็นยาชาเฉพาะที่ชนิดแรกจากธรรมชาติ มีฤทธิ์ sympathomimetic (หัวใจเต้นเร็ว หลอดเลือดหดตัว ความดันสูง ม่านตาขยาย) และทำให้เสพติด",
+     "a": "ยาชาเฉพาะที่จากธรรมชาติ มีฤทธิ์ sympathomimetic และเสพติด",
      "w": [
-      "เป็นยาลดความดันและขยายหลอดเลือดอย่างเดียว",
-      "เป็นยาถ่ายพยาธิที่ไม่เสพติด",
-      "เป็น anticholinergic ที่ลดอัตราการเต้นหัวใจเสมอ",
-      "เป็นยาต้านมาลาเรีย"
+      "ยาลดความดันและขยายหลอดเลือดที่ไม่เสพติด",
+      "ยาถ่ายพยาธิที่ไม่เสพติดและไม่มีผลต่อหัวใจ",
+      "anticholinergic ที่ลดอัตราการเต้นหัวใจเสมอและทำให้ม่านตาหด",
+      "ยาต้านมาลาเรียที่ออกฤทธิ์ต่อเชื้อในเม็ดเลือดแดง"
      ],
-     "e": "เมื่อสลายตัวได้ benzoic acid + methanol → methyl benzoate กลิ่นเฉพาะ ใช้ตรวจสอบ cocaine; วงศ์ Erythroxylaceae"
+     "e": "เมื่อสลายตัวได้ benzoic acid + methanol → methyl benzoate กลิ่นเฉพาะ ใช้ตรวจสอบ cocaine; วงศ์ Erythroxylaceae | รายละเอียดคำตอบ: ยาชาเฉพาะที่ชนิดแรกจากธรรมชาติ มีฤทธิ์ sympathomimetic (หัวใจเต้นเร็ว หลอดเลือดหดตัว ม่านตาขยาย) และเสพติด"
     },
     {
      "t": "Pyrrolizidine / Piperidine",
      "q": "ข้อใดถูกต้องเกี่ยวกับ pyrrolizidine alkaloids และ piperine",
-     "a": "Pyrrolizidine alkaloids (เช่น senecionine ในสกุล Senecio) ไม่มีความสำคัญเชิงเภสัชวิทยาและเป็นพิษต่อตับ ; Piperine จากพริกไทย (Piper nigrum) ให้รสเผ็ดและฤทธิ์ขับลม",
+     "a": "Pyrrolizidine alkaloids เป็นพิษต่อตับ ; piperine จากพริกไทย รสเผ็ด",
      "w": [
       "Pyrrolizidine alkaloids ใช้เป็นยาบำรุงตับ ; piperine เป็นยาลดความดัน",
       "Pyrrolizidine พบในพริกไทย ; piperine พบใน Senecio",
-      "ทั้งสองเป็น tropane alkaloids",
-      "ทั้งสองไม่มีไนโตรเจน"
+      "ทั้งสองเป็น tropane alkaloids ที่มีฤทธิ์ anticholinergic",
+      "ทั้งสองไม่มีไนโตรเจนและเป็นสารกลุ่ม terpenoids"
      ],
-     "e": "พริกไทยดำมี volatile oil 1–2.5% และ piperine 5–9%; ดีปลี (Piper longum) ก็มี piperine; วงศ์ Piperaceae"
+     "e": "พริกไทยดำมี volatile oil 1–2.5% และ piperine 5–9%; ดีปลี (Piper longum) ก็มี piperine; วงศ์ Piperaceae | รายละเอียดคำตอบ: Pyrrolizidine alkaloids (senecionine ในสกุล Senecio) ไม่มีความสำคัญเชิงเภสัชวิทยาและพิษต่อตับ ; Piperine จากพริกไทย รสเผ็ดและขับลม"
     },
     {
      "t": "Piperidine / Nicotinic",
      "q": "ข้อใดจับคู่ alkaloid กับพืชและฤทธิ์ได้ถูกต้อง",
-     "a": "Nicotine = ใบยาสูบ (Nicotiana tabacum) ออกฤทธิ์ต่อระบบประสาทอัตโนมัติ ใช้เป็นยาฆ่าแมลง ; Arecoline = เมล็ดหมาก (Areca catechu) กระตุ้น parasympathetic ใช้ถ่ายพยาธิ",
+     "a": "Nicotine = ใบยาสูบ ใช้ฆ่าแมลง ; Arecoline = เมล็ดหมาก ใช้ถ่ายพยาธิ",
      "w": [
-      "Nicotine = เมล็ดหมาก ; Arecoline = ใบยาสูบ",
-      "Nicotine = ฝักฝิ่น ; Arecoline = รากระย่อม",
-      "Nicotine = เปลือก Cinchona ; Arecoline = เมล็ดแสลงใจ",
-      "Nicotine และ arecoline ไม่ใช่ alkaloids"
+      "Nicotine = เมล็ดหมาก ; Arecoline = ใบยาสูบ (สลับกัน)",
+      "Nicotine = ฝักฝิ่น ใช้ระงับปวด ; Arecoline = รากระย่อม ใช้ลดความดัน",
+      "Nicotine = เปลือก Cinchona ใช้ต้านมาลาเรีย ; Arecoline = เมล็ดแสลงใจ กระตุ้น CNS",
+      "Nicotine และ arecoline ไม่ใช่ alkaloids แต่เป็น terpenoids"
      ],
-     "e": "Nicotine ในใบยาสูบ 2–8% เป็นของเหลวไม่มีสี เปลี่ยนเป็นสีน้ำตาลเมื่อสัมผัสอากาศ; Pelletierine จากเปลือกรากทับทิมขับพยาธิไส้เดือน; Lobeline จาก Lobelia inflata ช่วยเลิกบุหรี่"
+     "e": "Nicotine ในใบยาสูบ 2–8% เป็นของเหลวไม่มีสี เปลี่ยนเป็นสีน้ำตาลเมื่อสัมผัสอากาศ; Pelletierine จากเปลือกรากทับทิมขับพยาธิไส้เดือน; Lobeline จาก Lobelia inflata ช่วยเลิกบุหรี่ | รายละเอียดคำตอบ: Nicotine = ใบยาสูบ ออกฤทธิ์ต่อระบบประสาทอัตโนมัติ ใช้ฆ่าแมลง ; Arecoline = เมล็ดหมาก กระตุ้น parasympathetic ใช้ถ่ายพยาธิ"
     },
     {
      "t": "Protoalkaloids",
      "q": "Ephedrine และ pseudoephedrine จาก Ephedra (มาฮวง) ต่างกันในด้านฤทธิ์อย่างไร",
-     "a": "Ephedrine ขยายหลอดลม (bronchodilator) และขยายม่านตา ; Pseudoephedrine ลดอาการคัดจมูก (nasal decongestant) ; ทั้งสองเป็น protoalkaloids",
+     "a": "Ephedrine ขยายหลอดลม ; Pseudoephedrine ลดอาการคัดจมูก ; ทั้งสองเป็น protoalkaloids",
      "w": [
       "Ephedrine เป็น nasal decongestant เท่านั้น ; pseudoephedrine ขยายหลอดลมเท่านั้น",
-      "ทั้งสองเป็น true alkaloids ที่มี N ในวงแหวน",
-      "ทั้งสองเป็นยาชาเฉพาะที่",
-      "ทั้งสองไม่มีฤทธิ์ต่อระบบประสาทสั่งงานอัตโนมัติ"
+      "ทั้งสองเป็น true alkaloids ที่มี N ในวงแหวน และขยายหลอดลม",
+      "ทั้งสองเป็นยาชาเฉพาะที่ และเป็น protoalkaloids",
+      "ทั้งสองไม่มีฤทธิ์ต่อระบบประสาทอัตโนมัติ และเป็น pseudoalkaloids"
      ],
-     "e": "Ephedra เป็นวงศ์ Gnetaceae; จากธรรมชาติ: d(−)-ephedrine, d(+)-pseudoephedrine; mescaline จาก Lophophora williamsii (peyote) ทำให้หลอนประสาท"
+     "e": "Ephedra เป็นวงศ์ Gnetaceae; จากธรรมชาติ: d(−)-ephedrine, d(+)-pseudoephedrine; mescaline จาก Lophophora williamsii (peyote) ทำให้หลอนประสาท | รายละเอียดคำตอบ: Ephedrine ขยายหลอดลมและม่านตา ; Pseudoephedrine ลดอาการคัดจมูก ; ทั้งสองเป็น protoalkaloids"
     },
     {
      "t": "Opium alkaloids",
      "q": "ข้อใดจัดเป็น morphinane type และ benzylisoquinoline type ของ opium alkaloids ตามลำดับ",
-     "a": "Morphinane: morphine, codeine, thebaine ; Benzyl(tetrahydro)isoquinoline: papaverine, noscapine (narcotine)",
+     "a": "Morphinane: morphine, codeine ; Benzylisoquinoline: papaverine, noscapine",
      "w": [
       "Morphinane: papaverine, noscapine ; Benzylisoquinoline: morphine, codeine",
-      "Morphinane: caffeine ; Benzylisoquinoline: atropine",
-      "Morphinane: quinine ; Benzylisoquinoline: strychnine",
-      "ทั้งสองกลุ่มไม่มีสารใดเลยในฝิ่น"
+      "Morphinane: caffeine, theophylline ; Benzylisoquinoline: atropine, hyoscine",
+      "Morphinane: quinine, quinidine ; Benzylisoquinoline: strychnine, brucine",
+      "Morphinane: berberine, palmatine ; Benzylisoquinoline: ephedrine, cocaine"
      ],
-     "e": "Morphine, codeine, thebaine เป็นด่างแก่และพิษสูง; noscapine, narceine, papaverine เป็นด่างอ่อนและพิษต่ำ; Papaver somniferum วงศ์ Papaveraceae มี alkaloids > 40 ชนิด"
+     "e": "Morphine, codeine, thebaine เป็นด่างแก่และพิษสูง; noscapine, narceine, papaverine เป็นด่างอ่อนและพิษต่ำ; Papaver somniferum วงศ์ Papaveraceae มี alkaloids > 40 ชนิด | รายละเอียดคำตอบ: Morphinane: morphine, codeine, thebaine ; Benzylisoquinoline: papaverine, noscapine"
     },
     {
      "t": "Opium alkaloids",
      "q": "ข้อใดถูกต้องเกี่ยวกับ morphine, codeine, papaverine และ noscapine",
-     "a": "Morphine แรงกว่า codeine (codeine ใช้แก้ไอได้ เสพติดยากกว่า) ; papaverine คลายกล้ามเนื้อเรียบ ; noscapine เป็นยาแก้ไอที่ไม่เสพติด",
+     "a": "Morphine แรงกว่า codeine ; papaverine คลายกล้ามเนื้อเรียบ ; noscapine ไม่เสพติด",
      "w": [
-      "Codeine แรงกว่า morphine และเสพติดง่ายกว่า",
-      "Papaverine เป็นยากดการหายใจที่เสพติดรุนแรง",
-      "Noscapine เสพติดรุนแรงและใช้เป็นยานอนหลับ",
-      "ทั้งสี่ชนิดเป็นยากระตุ้นหัวใจ"
+      "Codeine แรงกว่า morphine และเสพติดง่ายกว่า ; papaverine คลายกล้ามเนื้อเรียบ",
+      "Papaverine เป็นยากดการหายใจที่เสพติดรุนแรง ; noscapine ระงับปวดแรง",
+      "Noscapine เสพติดรุนแรงและใช้เป็นยานอนหลับ ; codeine แก้ไอไม่ได้",
+      "ทั้งสี่ชนิดเป็นยากระตุ้นหัวใจที่ไม่เสพติด"
      ],
-     "e": "Morphine ละลายใน NaOH (หมู่ phenolic) แต่ codeine ไม่ละลายและตกตะกอน; morphine + conc. H2SO4 → apomorphine ใช้เป็น emetic และในโรคพาร์กินสัน; heroin = diacetylmorphine แรงขึ้น 2–4 เท่า"
+     "e": "Morphine ละลายใน NaOH (หมู่ phenolic) แต่ codeine ไม่ละลายและตกตะกอน; morphine + conc. H2SO4 → apomorphine ใช้เป็น emetic และในโรคพาร์กินสัน; heroin = diacetylmorphine แรงขึ้น 2–4 เท่า | รายละเอียดคำตอบ: Morphine แรงกว่า codeine (codeine ใช้แก้ไอ เสพติดยากกว่า) ; papaverine คลายกล้ามเนื้อเรียบ ; noscapine แก้ไอไม่เสพติด"
     },
     {
      "t": "Isoquinoline alkaloids",
      "q": "Berberine (protoberberine alkaloid) พบในพืชใดและมีฤทธิ์อย่างไร",
-     "a": "พบในวงศ์ Berberidaceae (Berberis, Mahonia), Ranunculaceae (Hydrastis) และขมิ้นเครือ (Arcangelisia flava, Menispermaceae) ; ฤทธิ์ต้านเชื้อบิดอะมีบา ต้านแบคทีเรีย ต้านการอักเสบ เจริญอาหาร",
+     "a": "Berberis และขมิ้นเครือ ; ต้านบิดอะมีบา",
      "w": [
-      "พบในใบยาสูบ ; ฤทธิ์ขยายม่านตา",
-      "พบในฝักฝิ่น ; ฤทธิ์ระงับปวดแรง",
-      "พบในเปลือก Cinchona ; ฤทธิ์ต้านมาลาเรียเท่านั้น",
-      "พบในรากทับทิม ; ฤทธิ์ถ่ายพยาธิ"
+      "ใบยาสูบ ; ฤทธิ์ขยายม่านตาและกระตุ้นระบบประสาท",
+      "ฝักฝิ่น ; ฤทธิ์ระงับปวดแรงและกดการหายใจ",
+      "เปลือก Cinchona ; ฤทธิ์ต้านมาลาเรียและลดไข้",
+      "รากทับทิม ; ฤทธิ์ถ่ายพยาธิตัวตืด"
      ],
-     "e": "บอระเพ็ด (Tinospora crispa) มี columbamine, picroretin ลดไข้ เจริญอาหาร; Jateorhiza palmata (calumba) ใช้เป็น bitter tonic"
+     "e": "บอระเพ็ด (Tinospora crispa) มี columbamine, picroretin ลดไข้ เจริญอาหาร; Jateorhiza palmata (calumba) ใช้เป็น bitter tonic | รายละเอียดคำตอบ: Berberidaceae (Berberis, Mahonia), Hydrastis และขมิ้นเครือ (Arcangelisia flava) ; ต้านบิดอะมีบา ต้านแบคทีเรีย ต้านอักเสบ เจริญอาหาร"
     },
     {
      "t": "Isoquinoline alkaloids",
      "q": "Curare (tubocurarine) มีฤทธิ์ทางเภสัชวิทยาอย่างไรและใช้ประโยชน์อย่างไร",
-     "a": "เป็น neuromuscular junction blocker ทำให้กล้ามเนื้อลายคลายตัว/อัมพาท ใช้เป็นยาคลายกล้ามเนื้อก่อนผ่าตัด ; สารที่มี quaternary nitrogen 2 อะตอมในระยะเหมาะสมมีฤทธิ์นี้",
+     "a": "neuromuscular junction blocker ใช้คลายกล้ามเนื้อก่อนผ่าตัด",
      "w": [
       "กระตุ้นกล้ามเนื้อลายให้หดตัวแรงขึ้น ใช้ในผู้ป่วยกล้ามเนื้ออ่อนแรง",
-      "เป็นยาชาเฉพาะที่ที่ใช้ทางจักษุ",
-      "เป็นสารกระตุ้นการอาเจียน",
-      "เป็นยาลดความดันที่ออกฤทธิ์ต่อหลอดเลือด"
+      "เป็นยาชาเฉพาะที่ที่ใช้ทางจักษุและทันตกรรม",
+      "เป็นสารกระตุ้นการอาเจียนที่ใช้ในกรณีได้รับพิษ",
+      "เป็นยาลดความดันที่ออกฤทธิ์ขยายหลอดเลือดโดยตรง"
      ],
-     "e": "Menispermaceous curare มี (+)-tubocurarine; Loganiaceous curare มี toxiferines (C-toxiferin I พิษแรงที่สุด)"
+     "e": "Menispermaceous curare มี (+)-tubocurarine; Loganiaceous curare มี toxiferines (C-toxiferin I พิษแรงที่สุด) | รายละเอียดคำตอบ: neuromuscular junction blocker ทำให้กล้ามเนื้อลายคลายตัว ใช้เป็นยาคลายกล้ามเนื้อก่อนผ่าตัด"
     },
     {
      "t": "Tetrahydroisoquinoline",
      "q": "Emetine จากรากไอเปแคก (Cephaëlis ipecacuanha) มีฤทธิ์และการใช้ที่ถูกต้องคือข้อใด",
-     "a": "Ipecac ใช้ขับเสมหะและกระตุ้นการอาเจียน และ emetine ใช้รักษาบิดอะมีบา (expectorant: emetine > cephaëline ; emetic: emetine < cephaëline)",
+     "a": "Ipecac ขับเสมหะ ; emetine รักษาบิดอะมีบา",
      "w": [
-      "Emetine เป็นยาแก้อาเจียนและใช้ป้องกันเมารถ",
+      "Emetine เป็นยาแก้อาเจียนที่ใช้ป้องกันเมารถ",
       "Emetine เป็นยาชาเฉพาะที่ที่ไม่เป็นพิษ",
-      "Emetine เป็นยาขยายม่านตา",
-      "Emetine ใช้รักษาโรคเกาต์"
+      "Emetine เป็นยาขยายม่านตาที่ใช้ตรวจจอประสาทตา",
+      "Emetine ใช้รักษาโรคเกาต์และลดกรดยูริก"
      ],
-     "e": "สารสำคัญใน ipecac ~3%: emetine, cephaëline, psychotrine; ขนาดสูงเป็นพิษต่อหัวใจ (bradycardia, hypotension); ไอเปแคกอยู่ในวงศ์ Rubiaceae; Galantamine (Amaryllidaceae) = acetylcholinesterase inhibitor ใช้ใน Alzheimer’s"
+     "e": "สารสำคัญใน ipecac ~3%: emetine, cephaëline, psychotrine; ขนาดสูงเป็นพิษต่อหัวใจ (bradycardia, hypotension); ไอเปแคกอยู่ในวงศ์ Rubiaceae; Galantamine (Amaryllidaceae) = acetylcholinesterase inhibitor ใช้ใน Alzheimer’s | รายละเอียดคำตอบ: Ipecac ขับเสมหะและกระตุ้นอาเจียน ; emetine รักษาบิดอะมีบา"
     },
     {
      "t": "Phenethylisoquinoline / Indole",
      "q": "ข้อใดจับคู่ alkaloid กับพืชและการใช้ได้ถูกต้อง",
-     "a": "Colchicine = Colchicum autumnale/Gloriosa superba ใช้รักษาโรคเกาต์กำเริบ (พิษสูง ไม่ควรใช้สมุนไพรรักษาเอง) ; Reserpine = Rauvolfia serpentina (ระย่อมน้อย) ลดความดันโลหิต ; Strychnine = เมล็ดแสลงใจ กระตุ้น CNS ทำให้ชัก",
+     "a": "Colchicine = Colchicum รักษาเกาต์ ; Reserpine = ระย่อมน้อย ลดความดัน ; Strychnine = แสลงใจ ทำให้ชัก",
      "w": [
-      "Colchicine = ฝิ่น ใช้ระงับปวดรุนแรง ; Reserpine = ใบยาสูบ ใช้เลิกบุหรี่",
-      "Strychnine = ระย่อมน้อย ลดความดัน ; Reserpine = แสลงใจ ทำให้ชัก",
-      "Colchicine = Cinchona รักษามาลาเรีย ; Strychnine = ไอเปแคก ขับเสมหะ",
-      "ทั้งสามชนิดเป็นสารกลุ่ม anthraquinone"
+      "Colchicine = ฝิ่น ใช้ระงับปวดรุนแรง ; Reserpine = ใบยาสูบ ใช้เลิกบุหรี่ ; Strychnine = ยาฆ่าแมลง",
+      "Strychnine = ระย่อมน้อย ลดความดัน ; Reserpine = แสลงใจ ทำให้ชัก ; Colchicine = ฝิ่น",
+      "Colchicine = Cinchona รักษามาลาเรีย ; Strychnine = ไอเปแคก ขับเสมหะ ; Reserpine = ฝิ่น",
+      "ทั้งสามชนิดเป็นสารกลุ่ม anthraquinone ที่ใช้เป็นยาระบาย"
      ],
-     "e": "Strychnos nux-vomica มี strychnine ~50% และ brucine ~40% (brucine พิษน้อยกว่า); ergot alkaloids จาก Claviceps purpurea (ergometrine, ergotamine) ทำให้มดลูกบีบตัว ใช้ช่วยคลอด และระวัง ergotism; Vinca alkaloids (vincristine, vinblastine) จาก Catharanthus roseus เป็นยาต้านมะเร็ง"
+     "e": "Strychnos nux-vomica มี strychnine ~50% และ brucine ~40% (brucine พิษน้อยกว่า); ergot alkaloids จาก Claviceps purpurea (ergometrine, ergotamine) ทำให้มดลูกบีบตัว ใช้ช่วยคลอด และระวัง ergotism; Vinca alkaloids (vincristine, vinblastine) จาก Catharanthus roseus เป็นยาต้านมะเร็ง | รายละเอียดคำตอบ: Colchicine = Colchicum/Gloriosa รักษาเกาต์กำเริบ (พิษสูง) ; Reserpine = ระย่อมน้อย ลดความดัน ; Strychnine = เมล็ดแสลงใจ กระตุ้น CNS ทำให้ชัก"
     },
     {
      "t": "Indole alkaloids",
      "q": "Vinca alkaloids จาก Catharanthus roseus และ quinine จาก Cinchona มีการใช้ทางเภสัชวิทยาอย่างไรตามลำดับ",
-     "a": "Vincristine/vinblastine = ยาต้านมะเร็ง (antineoplastic) ; Quinine (วงศ์ Rubiaceae) = ยาต้านมาลาเรีย และเป็น alkaloid ที่ขมที่สุด",
+     "a": "Vincristine/vinblastine = ต้านมะเร็ง ; Quinine = ต้านมาลาเรียและขมที่สุด",
      "w": [
       "Vincristine/vinblastine = ยาระบาย ; Quinine = ยาขยายหลอดลม",
       "Vincristine/vinblastine = ยาชาเฉพาะที่ ; Quinine = ยานอนหลับ",
-      "Vincristine/vinblastine = ยาขับปัสสาวะ ; Quinine = ยาแก้ปวดฝิ่น",
-      "ทั้งสองไม่มีฤทธิ์ทางเภสัชวิทยา"
+      "Vincristine/vinblastine = ยาขับปัสสาวะ ; Quinine = ยาแก้ปวดกลุ่มฝิ่น",
+      "Vincristine/vinblastine = ยาต้านมาลาเรีย ; Quinine = ยาต้านมะเร็ง"
      ],
-     "e": "Catharanthus roseus (วงศ์ Apocynaceae) มี monomeric และ dimeric indole alkaloids; Mitragyna speciosa (กระท่อม) และ Pausinystalia yohimbe ก็จัดเป็น Rubiaceous alkaloids; Yohimbine เป็น α-antagonist"
+     "e": "Catharanthus roseus (วงศ์ Apocynaceae) มี monomeric และ dimeric indole alkaloids; Mitragyna speciosa (กระท่อม) และ Pausinystalia yohimbe ก็จัดเป็น Rubiaceous alkaloids; Yohimbine เป็น α-antagonist | รายละเอียดคำตอบ: Vincristine/vinblastine = ต้านมะเร็ง ; Quinine (Rubiaceae) = ต้านมาลาเรียและเป็น alkaloid ที่ขมที่สุด"
     }
    ]
   }
