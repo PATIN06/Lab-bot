@@ -1,22 +1,248 @@
-{"id":"rg02","no":2,"title":"Quality document for drug registration (ASEAN guidelines)","file":"2_Document for drug registration quality_guideline","questions":[
-{"t":"Process validation","q":"Process validation ตาม ASEAN Guideline มีความหมายและข้อกำหนดขั้นต่ำอย่างไร","a":"เป็นการยืนยันว่ากระบวนการผลิตให้ผลิตภัณฑ์ที่มีคุณภาพตามกำหนดอย่างสม่ำเสมอ โดยทั่วไปต้องทวนสอบสำเร็จอย่างน้อย 3 batch การผลิตติดต่อกันก่อนวางจำหน่าย","w":["ทำเพียง 1 batch ก็เพียงพอก่อนวางจำหน่าย","ต้องทำ 10 batch ติดต่อกันทุกผลิตภัณฑ์","ไม่ต้องทำเมื่อผลิตในระดับ pilot scale","ทำเฉพาะการทดสอบทางคลินิกในผู้ป่วย"],"e":"คำว่า validation ใช้กับการทวนสอบขั้นสุดท้ายที่ production scale"},
-{"t":"Process validation","q":"ข้อใดเป็นทางเลือกในการยื่นข้อมูล process validation (Option 1) ตาม ASEAN guideline","a":"แนบ process validation protocol และรายงาน PV ของ 3 production batches ติดต่อกันที่ผ่านการทวนสอบ","w":["แนบเฉพาะแบบคำขอ ย.1","แนบเฉพาะใบรับรอง GMP","แนบเฉพาะ BE study","ไม่ต้องแนบเอกสารใด"],"e":"Option 2: คำรับรองว่าจะส่ง PV report + protocol และรายงาน 1 pilot batch + pharmaceutical development; Option 3: คำรับรองว่าข้อมูล PV เหมือนที่ยื่นต่อหน่วยงานกำกับดูแลอ้างอิง"},
-{"t":"Process validation","q":"เนื้อหา validation scheme (protocol) ควรมีข้อมูลใดบ้าง","a":"คำอธิบายกระบวนการผลิต สรุป critical process, specification ของผลิตภัณฑ์สำเร็จรูป, วิธีวิเคราะห์, in-process controls, sampling plan, วิธีบันทึก/ประเมินผล และอุปกรณ์/เครื่องมือสำคัญ","w":["เฉพาะราคาวัตถุดิบ","เฉพาะรายชื่อผู้ถือหุ้น","เฉพาะข้อมูลการโฆษณา","เฉพาะข้อมูลการจัดส่ง"],"e":"Validation report ประกอบด้วย summary, introduction, batches used, equipment, critical steps/parameters, acceptance criteria, tabulation of results, batch analysis, evaluation (รวม statistical process control), deviations/OOS, conclusion"},
-{"t":"Analytical validation","q":"ข้อใดเป็น typical validation characteristics ตาม ASEAN Guidelines for Validation of Analytical Procedures","a":"Accuracy, precision, specificity, detection limit, quantitation limit, linearity, range และ robustness","w":["Color, odor, taste และ appearance","Price, brand, volume และ shelf space","Speed, cost, size และ weight","Hardness, friability, disintegration และ dissolution"],"e":"การเลือกหัวข้อที่ต้องประเมินขึ้นกับชนิดของวิธี (identification, impurities test, assay, dissolution)"},
-{"t":"Analytical validation","q":"ข้อใดถูกต้องเกี่ยวกับ linearity และ range","a":"Linearity ควรใช้อย่างน้อย 5 ความเข้มข้น และรายงาน correlation coefficient, y-intercept, slope, residual sum of squares ; Range ขั้นต่ำ: assay 80–120%, content uniformity 70–130%, dissolution ±20%","w":["Linearity ใช้เพียง 2 ความเข้มข้น ; Range ของ assay 50–150%","Linearity ไม่ต้องรายงาน slope ; Range ของ content uniformity 80–120%","Linearity ใช้ 3 ความเข้มข้น ; Range ของ dissolution ±50%","Linearity รายงานเฉพาะ R² ; Range ของ assay 90–110%"],"e":"Impurities: จาก reporting level ถึง 120% ของ specification; ถ้า assay และ purity ทำร่วมกัน ให้ครอบคลุมจาก reporting level ของ impurities ถึง 120% ของ assay specification"},
-{"t":"Analytical validation","q":"การประเมิน accuracy ตามคำแนะนำควรทำอย่างไรและรายงานอย่างไร","a":"ใช้ไม่น้อยกว่า 9 การวัดที่อย่างน้อย 3 ระดับความเข้มข้นครอบคลุม range รายงานเป็นร้อยละการคืนกลับ (% recovery = Q found / Q added × 100)","w":["ใช้ 1 การวัดที่ 1 ระดับ รายงานเป็น %RSD","ใช้ 3 การวัดที่ระดับเดียว รายงานเป็น LOD","ใช้ 9 การวัดที่ระดับเดียว รายงานเป็น R²","ไม่ต้องรายงานเป็นตัวเลข"],"e":"Accuracy = closeness ของค่าที่หาได้กับค่าจริงตามธรรมเนียม/ค่าอ้างอิง (trueness)"},
-{"t":"Analytical validation","q":"Precision แบ่งเป็น 3 ระดับ ข้อใดจับคู่ได้ถูกต้อง","a":"Repeatability = ภายใต้สภาวะเดียวกันในช่วงเวลาสั้น (≥9 การวัดครอบคลุม range หรือ ≥6 การวัดที่ 100%) ; Intermediate precision = ภายในห้องปฏิบัติการเดียวกันต่างวัน/ผู้วิเคราะห์/เครื่องมือ ; Reproducibility = ระหว่างห้องปฏิบัติการ (ไม่เป็นส่วนของเอกสารขึ้นทะเบียน)","w":["Repeatability = ระหว่างห้องปฏิบัติการ ; Reproducibility = ภายในวันเดียวกัน","Intermediate precision = ต่างตัวอย่างต่างชนิด ; Repeatability = ต่างผู้ผลิต","ทั้งสามหมายถึงการวัดครั้งเดียวกัน","Reproducibility จำเป็นต้องยื่นในเอกสารขึ้นทะเบียนทุกกรณี"],"e":"รายงาน SD, RSD (coefficient of variation) และ confidence interval สำหรับแต่ละระดับ"},
-{"t":"Analytical validation","q":"สูตรและเกณฑ์ของ detection limit (DL) และ quantitation limit (QL) ตาม ICH/ASEAN คือข้อใด","a":"DL = 3.3 σ/S (หรือ S/N ≈ 3:1 หรือ 2:1) ; QL = 10 σ/S (หรือ S/N ≈ 10:1)","w":["DL = 10 σ/S (S/N 10:1) ; QL = 3.3 σ/S (S/N 3:1)","DL = σ/S ; QL = 2σ/S","DL = QL เสมอ","DL = 100 σ/S ; QL = 1000 σ/S"],"e":"σ = ส่วนเบี่ยงเบนมาตรฐานของ response, S = slope ของ calibration curve"},
-{"t":"Analytical validation","q":"Robustness ของวิธีวิเคราะห์ด้วย LC ประเมินจากการเปลี่ยนแปลงเล็กน้อยที่ตั้งใจของปัจจัยใด","a":"pH และองค์ประกอบของ mobile phase, คอลัมน์ต่าง lot/ผู้ผลิต, อุณหภูมิ และ flow rate","w":["ชื่อผู้ผลิตยาและสีของบรรจุภัณฑ์","จำนวนผู้ป่วยในการศึกษาทางคลินิก","ราคาของตัวทำละลาย","วันที่ผลิตตัวอย่างเท่านั้น"],"e":"ผลการ evaluate robustness ควรนำไปกำหนด system suitability parameters (เช่น resolution) เพื่อให้วิธียังใช้ได้ทุกครั้ง"},
-{"t":"Stability","q":"สภาวะ long-term stability ตาม ASEAN (Climatic zone IVb: hot and very humid) คือข้อใด","a":"30 ± 2 °C / 75 ± 5% RH","w":["21 °C / 45% RH","25 °C / 60% RH","30 °C / 35% RH","30 °C / 65% RH"],"e":"Temperate 21/45 (เยอรมนี เดนมาร์ก อังกฤษ); subtropical 25/60 (ญี่ปุ่น เกาหลี สเปน); hot-dry 30/35 (อียิปต์ อิหร่าน); hot-humid 30/65 (จีน ไต้หวัน); hot-very humid 30/75 (ประเทศอาเซียน)"},
-{"t":"Stability","q":"ความถี่ในการทดสอบ long-term และ accelerated stability ตาม ASEAN คือข้อใด","a":"Long term: 0, 3, 6, 9, 12, 18, 24 เดือน และทุกปีตลอดอายุที่เสนอ ; Accelerated: 0, 3 และ 6 เดือน","w":["Long term: ทุก 1 สัปดาห์ ; Accelerated: ทุก 1 วัน","Long term: เฉพาะเดือนที่ 24 ; Accelerated: เฉพาะเดือนที่ 1","Long term: 0, 1, 2 เดือน ; Accelerated: 0, 12, 24 เดือน","ไม่มีกำหนดความถี่"],"e":"Accelerated studies: 40 ± 2 °C / 75 ± 5% RH"},
-{"t":"Stability","q":"สภาวะ accelerated และ stress testing ตาม ASEAN guideline สำหรับกรณีทั่วไปคือข้อใด","a":"Accelerated: 40 ± 2 °C / 75 ± 5% RH ; Stress testing: 40 °C/75% RH หรือสภาวะที่รุนแรงกว่า","w":["Accelerated: 25 °C/60% RH ; Stress: 5 °C","Accelerated: 30 °C/35% RH ; Stress: 21 °C/45% RH","Accelerated: 5 °C ; Stress: -20 °C เท่านั้น","Accelerated: อุณหภูมิห้องโดยไม่ระบุ RH"],"e":"ภาชนะที่ทนไอน้ำ (impermeable) long term = 30 ± 2 °C โดยไม่ระบุ RH"},
-{"t":"Stability","q":"ผลิตภัณฑ์ที่ต้องเก็บในตู้เย็นและช่องแช่แข็งมีสภาวะเก็บรักษาตาม ASEAN คือข้อใด","a":"ตู้เย็น: 5 ± 3 °C ; ช่องแช่แข็ง: −20 ± 5 °C","w":["ตู้เย็น: 30 ± 2 °C ; ช่องแช่แข็ง: 5 ± 3 °C","ตู้เย็น: 40 °C ; ช่องแช่แข็ง: 25 °C","ตู้เย็น: −20 °C ; ช่องแช่แข็ง: 5 °C","ตู้เย็นและช่องแช่แข็ง: 21 °C"],"e":"สำหรับผลิตภัณฑ์ที่เก็บในตู้เย็น ยังต้องมีสภาวะ accelerated ที่ 25 ± 2 °C / 60% RH ± 5% ด้วย"},
-{"t":"Stability","q":"จำนวน batch ขั้นต่ำของการศึกษา stability สำหรับ NCE drug products และ generic products ตาม ASEAN คือเท่าใด","a":"NCE: อย่างน้อย 3 batches ; Generic: อย่างน้อย 2 batches","w":["NCE: 1 batch ; Generic: 10 batches","NCE: 2 batches ; Generic: 3 batches","NCE และ Generic: 1 batch เท่ากัน","NCE และ Generic: 10 batches เท่ากัน"],"e":"Variations (Major/Minor) มีข้อกำหนดข้อมูล stability ตามลักษณะของการเปลี่ยนแปลง (ASEAN Variation Guideline)"},
-{"t":"Stability report","q":"รายงานการศึกษา stability ที่ดีควรประกอบด้วยหัวข้อใด","a":"Responsibility, summary (ชื่อยา ระยะเวลาศึกษา อายุยา), objective, test material, composition, packaging, storage condition/schedule, analytical procedures, reference standard, results (chemical/physical stability), discussion/conclusion และตารางผล","w":["เฉพาะรูปถ่ายผู้ศึกษา","เฉพาะรายชื่อผู้ซื้อยา","เฉพาะราคาและส่วนลด","เฉพาะข้อมูลเส้นทางขนส่ง"],"e":"ตัวอย่างพารามิเตอร์ของยาเม็ด paracetamol: appearance, hardness (>70 N), friability (<2%), content 95–105%, degradation product (p-aminophenol <0.005%), microbial limits"},
-{"t":"Quality document","q":"ข้อใดจัดเป็น Drug Substance (S) section ของเอกสารด้านคุณภาพ","a":"S1 General information, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference standards, S6 Container closure system, S7 Stability","w":["S1 Batch formula, S2 Stability protocol, S3 Pricing","S1 Marketing plan, S2 Clinical trial, S3 Labeling","S1 Toxicology, S2 Pharmacology, S3 Pharmacokinetics","S1 Patent, S2 Trademark, S3 Copyright"],"e":"S2 ประกอบด้วย manufacturer(s), description of manufacturing process and process controls, control of materials, control of critical steps, process validation, manufacturing process development"},
-{"t":"Reference","q":"แหล่งอ้างอิงมาตรฐานสำหรับเอกสารด้านคุณภาพของการขึ้นทะเบียนยาแบบ ASEAN ได้แก่ข้อใด","a":"ตำรายาแผนปัจจุบันที่รัฐมนตรีประกาศ, ICH guidelines และ ASEAN guidelines","w":["เฉพาะข้อกำหนดภายในของบริษัท","เฉพาะประสบการณ์ของผู้ผลิต","เฉพาะบทความโฆษณา","เฉพาะข้อกำหนดของผู้จัดจำหน่าย"],"e":"ตำรายา เช่น Thai Pharmacopoeia II, International Pharmacopoeia 5th, USP 39-NF 34, BP 2016, Ph.Eur. 8th, JP 17th"},
-{"t":"Specificity","q":"Specificity ของวิธีวิเคราะห์หมายถึงข้อใด","a":"ความสามารถในการประเมิน analyte ได้อย่างชัดเจนในที่ที่มีส่วนประกอบอื่นซึ่งคาดว่าอาจมีอยู่ เช่น impurities, degradants และ matrix (ความไม่จำเพาะของวิธีหนึ่งอาจชดเชยด้วยวิธีอื่น)","w":["ความสามารถในการวัดปริมาณต่ำสุดที่ตรวจพบได้","ความใกล้เคียงของผลกับค่าจริง","ความทนทานต่อการเปลี่ยนแปลงสภาวะเล็กน้อย","ช่วงความเข้มข้นที่วิธีใช้ได้"],"e":"specificity ต้องประเมินสำหรับ identification, impurities และ assay"},
-{"t":"Pharmaceutical development","q":"เนื้อหาของ pharmaceutical development ที่ประกอบการยื่นข้อมูล process validation (ตัวเลือก 2) ควรครอบคลุมอะไร","a":"เหตุผลการเลือกรูปแบบยา ส่วนประกอบ สูตรตำรับ กระบวนการผลิต (รวมการทำให้ปราศจากเชื้อ) บรรจุภัณฑ์ คุณลักษณะทางจุลชีววิทยา และความเข้ากันได้กับ diluent/อุปกรณ์ตลอด shelf life","w":["เฉพาะข้อมูลราคาและการตลาดของผลิตภัณฑ์","เฉพาะประวัติของผู้ก่อตั้งบริษัท","เฉพาะการเลือกสถานที่ตั้งสำนักงาน","เฉพาะแผนการจ้างพนักงาน"],"e":"รายละเอียดสอดคล้องกับ P.2 ใน ACTD"},
-{"t":"Variation","q":"ASEAN Variation Guideline เกี่ยวข้องกับเรื่องใด","a":"การเปลี่ยนแปลงภายหลังขึ้นทะเบียน แบ่งเป็น Major variation (MaV) และ Minor variation (MiV) ซึ่งมีข้อกำหนดข้อมูลต่างกัน","w":["การเปลี่ยนแปลงราคายา","การเปลี่ยนวันหยุดของบริษัท","การเปลี่ยนสีของฉลากเท่านั้น","การเปลี่ยนเลขที่ใบอนุญาตผลิตเท่านั้น"],"e":"ข้อมูล stability ของ variation ขึ้นกับชนิดของการเปลี่ยนแปลง (critical dosage form หรือ unstable drug substance ต้องใช้ข้อมูลมากกว่า)"}
-]}
+{
+ "id": "rg02",
+ "no": 2,
+ "title": "Quality document for drug registration (ASEAN guidelines)",
+ "file": "2_Document for drug registration quality_guideline",
+ "questions": [
+  {
+   "t": "Process validation",
+   "q": "Process validation ตาม ASEAN Guideline มีความหมายและข้อกำหนดขั้นต่ำอย่างไร",
+   "a": "ยืนยันคุณภาพที่สม่ำเสมอของกระบวนการ ทวนสอบอย่างน้อย 3 batch ติดต่อกัน",
+   "w": [
+    "ยืนยันคุณภาพของวัตถุดิบก่อนผลิต โดยทั่วไปทวนสอบเพียง 1 batch ก็เพียงพอ",
+    "ยืนยันความคงตัวของยาตลอดอายุยา โดยทั่วไปต้องทวนสอบ 10 batch ติดต่อกัน",
+    "ยืนยันความปลอดภัยทางคลินิก และไม่ต้องทำเมื่อผลิตในระดับ pilot scale",
+    "ยืนยันความเท่าเทียมทางชีวภาพ โดยทวนสอบเฉพาะการทดสอบในผู้ป่วย"
+   ],
+   "e": "คำว่า validation ใช้กับการทวนสอบขั้นสุดท้ายที่ production scale | รายละเอียดคำตอบ: เป็นการยืนยันว่ากระบวนการผลิตให้ผลิตภัณฑ์ที่มีคุณภาพตามกำหนดอย่างสม่ำเสมอ โดยทั่วไปต้องทวนสอบสำเร็จอย่างน้อย 3 batch การผลิตติดต่อกันก่อนวางจำหน่าย"
+  },
+  {
+   "t": "Process validation",
+   "q": "ข้อใดเป็นทางเลือกในการยื่นข้อมูล process validation (Option 1) ตาม ASEAN guideline",
+   "a": "แนบ validation protocol และรายงาน PV ของ 3 batches ติดต่อกัน",
+   "w": [
+    "แนบแบบคำขอ ย.1 และหนังสือมอบอำนาจของผู้ยื่นคำขอเพียงอย่างเดียว",
+    "แนบใบรับรอง GMP ของสถานที่ผลิตแทนรายงาน validation",
+    "แนบรายงาน BE study ของ 1 production batch แทนรายงาน PV",
+    "ไม่ต้องแนบเอกสารใด เพียงรับรองด้วยตนเองว่าผ่านการ validate แล้ว"
+   ],
+   "e": "Option 2: คำรับรองว่าจะส่ง PV report + protocol และรายงาน 1 pilot batch + pharmaceutical development; Option 3: คำรับรองว่าข้อมูล PV เหมือนที่ยื่นต่อหน่วยงานกำกับดูแลอ้างอิง | รายละเอียดคำตอบ: แนบ process validation protocol และรายงาน PV ของ 3 production batches ติดต่อกันที่ผ่านการทวนสอบ"
+  },
+  {
+   "t": "Process validation",
+   "q": "เนื้อหา validation scheme (protocol) ควรมีข้อมูลใดบ้าง",
+   "a": "กระบวนการผลิต critical process, specification และ in-process controls",
+   "w": [
+    "ราคาวัตถุดิบ ต้นทุนการผลิต อัตรากำไร และแผนการจำหน่ายของผลิตภัณฑ์",
+    "รายชื่อผู้ถือหุ้น โครงสร้างองค์กร และประวัติการดำเนินงานของบริษัท",
+    "ข้อมูลการโฆษณา ช่องทางตลาด และกลุ่มลูกค้าเป้าหมายของผลิตภัณฑ์",
+    "ข้อมูลการจัดส่ง เส้นทางขนส่ง และตารางการกระจายสินค้า"
+   ],
+   "e": "Validation report ประกอบด้วย summary, introduction, batches used, equipment, critical steps/parameters, acceptance criteria, tabulation of results, batch analysis, evaluation (รวม statistical process control), deviations/OOS, conclusion | รายละเอียดคำตอบ: คำอธิบายกระบวนการผลิต สรุป critical process, specification ของผลิตภัณฑ์สำเร็จรูป, วิธีวิเคราะห์, in-process controls, sampling plan, วิธีบันทึก/ประเมินผล และอุปกรณ์/เครื่องมือสำคัญ"
+  },
+  {
+   "t": "Analytical validation",
+   "q": "ข้อใดเป็น typical validation characteristics ตาม ASEAN Guidelines for Validation of Analytical Procedures",
+   "a": "Accuracy, precision, specificity, DL, QL, linearity, range, robustness",
+   "w": [
+    "Color, odor, taste, appearance และ pH ของสารละลายตัวอย่าง",
+    "Price, brand, volume, shelf space และส่วนแบ่งการตลาด",
+    "Speed, cost, size, weight และความสะดวกในการใช้งาน",
+    "Hardness, friability, disintegration, dissolution และ weight variation"
+   ],
+   "e": "การเลือกหัวข้อที่ต้องประเมินขึ้นกับชนิดของวิธี (identification, impurities test, assay, dissolution) | รายละเอียดคำตอบ: Accuracy, precision, specificity, detection limit, quantitation limit, linearity, range และ robustness"
+  },
+  {
+   "t": "Analytical validation",
+   "q": "ข้อใดถูกต้องเกี่ยวกับ linearity และ range",
+   "a": "Linearity ≥ 5 ความเข้มข้น รายงาน slope, intercept ; Range assay 80–120%, CU 70–130%",
+   "w": [
+    "Linearity ใช้ 2 ความเข้มข้น รายงานเฉพาะ slope ; Range ของ assay 50–150%",
+    "Linearity ใช้ 5 ความเข้มข้น ไม่ต้องรายงาน slope ; Range ของ content uniformity 80–120%",
+    "Linearity ใช้ 3 ความเข้มข้น รายงาน y-intercept ; Range ของ dissolution ±50%",
+    "Linearity ใช้ 5 ความเข้มข้น รายงานเฉพาะ R² ; Range ของ assay 90–110%"
+   ],
+   "e": "Impurities: จาก reporting level ถึง 120% ของ specification; ถ้า assay และ purity ทำร่วมกัน ให้ครอบคลุมจาก reporting level ของ impurities ถึง 120% ของ assay specification | รายละเอียดคำตอบ: Linearity ควรใช้อย่างน้อย 5 ความเข้มข้น และรายงาน correlation coefficient, y-intercept, slope, residual sum of squares ; Range ขั้นต่ำ: assay 80–120%, content uniformity 70–130%, dissolution ±20%"
+  },
+  {
+   "t": "Analytical validation",
+   "q": "การประเมิน accuracy ตามคำแนะนำควรทำอย่างไรและรายงานอย่างไร",
+   "a": "ใช้ไม่น้อยกว่า 9 การวัดที่ 3 ระดับความเข้มข้น รายงานเป็น % recovery",
+   "w": [
+    "ใช้ 3 การวัดที่ระดับความเข้มข้นเดียว รายงานเป็น %RSD",
+    "ใช้ 6 การวัดที่ระดับ 100% เพียงระดับเดียว รายงานเป็น LOD",
+    "ใช้ 9 การวัดที่ระดับเดียว รายงานเป็น correlation coefficient (R²)",
+    "ใช้ 9 การวัดที่ 3 ระดับ รายงานเป็นค่า slope ของ calibration curve"
+   ],
+   "e": "Accuracy = closeness ของค่าที่หาได้กับค่าจริงตามธรรมเนียม/ค่าอ้างอิง (trueness) | รายละเอียดคำตอบ: ใช้ไม่น้อยกว่า 9 การวัดที่อย่างน้อย 3 ระดับความเข้มข้นครอบคลุม range รายงานเป็นร้อยละการคืนกลับ (% recovery = Q found / Q added × 100)"
+  },
+  {
+   "t": "Analytical validation",
+   "q": "Precision แบ่งเป็น 3 ระดับ ข้อใดจับคู่ได้ถูกต้อง",
+   "a": "Repeatability = สภาวะเดียวกัน ; Intermediate = ต่างวัน/ผู้วิเคราะห์ ; Reproducibility = ต่างห้องปฏิบัติการ",
+   "w": [
+    "Repeatability = ระหว่างห้องปฏิบัติการ ; Intermediate = สภาวะเดียวกันช่วงเวลาสั้น ; Reproducibility = ต่างวัน/ผู้วิเคราะห์",
+    "Repeatability = ต่างผู้ผลิต ; Intermediate = ต่างตัวอย่างต่างชนิด ; Reproducibility = ภายในวันเดียวกัน",
+    "ทั้งสามหมายถึงการวัดซ้ำในห้องปฏิบัติการเดียวกัน แต่ต่างกันที่จำนวนซ้ำ",
+    "Reproducibility ต้องยื่นในเอกสารขึ้นทะเบียนทุกกรณี ; Repeatability ต่างห้องปฏิบัติการ"
+   ],
+   "e": "รายงาน SD, RSD (coefficient of variation) และ confidence interval สำหรับแต่ละระดับ | รายละเอียดคำตอบ: Repeatability = ภายใต้สภาวะเดียวกันในช่วงเวลาสั้น (≥9 การวัดครอบคลุม range หรือ ≥6 การวัดที่ 100%) ; Intermediate precision = ภายในห้องปฏิบัติการเดียวกันต่างวัน/ผู้วิเคราะห์/เครื่องมือ ; Reproducibility = ระหว่างห้องปฏิบัติการ (ไม่เป็นส่วนของเอกสารขึ้นทะเบียน)"
+  },
+  {
+   "t": "Analytical validation",
+   "q": "สูตรและเกณฑ์ของ detection limit (DL) และ quantitation limit (QL) ตาม ICH/ASEAN คือข้อใด",
+   "a": "DL = 3.3 σ/S ; QL = 10 σ/S",
+   "w": [
+    "DL = 10 σ/S (S/N 10:1) ; QL = 3.3 σ/S (S/N 3:1)",
+    "DL = σ/S ; QL = 2σ/S",
+    "DL = QL เสมอ",
+    "DL = 100 σ/S ; QL = 1000 σ/S"
+   ],
+   "e": "σ = ส่วนเบี่ยงเบนมาตรฐานของ response, S = slope ของ calibration curve | รายละเอียดคำตอบ: DL = 3.3 σ/S (หรือ S/N ≈ 3:1 หรือ 2:1) ; QL = 10 σ/S (หรือ S/N ≈ 10:1)"
+  },
+  {
+   "t": "Analytical validation",
+   "q": "Robustness ของวิธีวิเคราะห์ด้วย LC ประเมินจากการเปลี่ยนแปลงเล็กน้อยที่ตั้งใจของปัจจัยใด",
+   "a": "pH/mobile phase, ต่าง lot ของคอลัมน์, อุณหภูมิ และ flow rate",
+   "w": [
+    "ชื่อผู้ผลิตยา สีของบรรจุภัณฑ์ และขนาดของฉลากผลิตภัณฑ์",
+    "จำนวนผู้ป่วย เพศ และอายุของกลุ่มตัวอย่างในการศึกษาทางคลินิก",
+    "ราคาของตัวทำละลาย ยี่ห้อขวดบรรจุ และอายุของเครื่องมือ",
+    "วันที่ผลิตตัวอย่าง ชื่อผู้วิเคราะห์ และเลขที่ห้องปฏิบัติการ"
+   ],
+   "e": "ผลการ evaluate robustness ควรนำไปกำหนด system suitability parameters (เช่น resolution) เพื่อให้วิธียังใช้ได้ทุกครั้ง | รายละเอียดคำตอบ: pH และองค์ประกอบของ mobile phase, คอลัมน์ต่าง lot/ผู้ผลิต, อุณหภูมิ และ flow rate"
+  },
+  {
+   "t": "Stability",
+   "q": "สภาวะ long-term stability ตาม ASEAN (Climatic zone IVb: hot and very humid) คือข้อใด",
+   "a": "30 ± 2 °C / 75 ± 5% RH",
+   "w": [
+    "21 °C / 45% RH",
+    "25 °C / 60% RH",
+    "30 °C / 35% RH",
+    "30 °C / 65% RH"
+   ],
+   "e": "Temperate 21/45 (เยอรมนี เดนมาร์ก อังกฤษ); subtropical 25/60 (ญี่ปุ่น เกาหลี สเปน); hot-dry 30/35 (อียิปต์ อิหร่าน); hot-humid 30/65 (จีน ไต้หวัน); hot-very humid 30/75 (ประเทศอาเซียน)"
+  },
+  {
+   "t": "Stability",
+   "q": "ความถี่ในการทดสอบ long-term และ accelerated stability ตาม ASEAN คือข้อใด",
+   "a": "Long term: 0, 3, 6, 9, 12, 18, 24 เดือน ; Accelerated: 0, 3, 6 เดือน",
+   "w": [
+    "Long term: ทุก 1 สัปดาห์ตลอดอายุยา ; Accelerated: ทุก 1 วันเป็นเวลา 1 เดือน",
+    "Long term: เฉพาะเดือนที่ 24 เพียงครั้งเดียว ; Accelerated: เฉพาะเดือนที่ 1",
+    "Long term: 0, 1, 2 เดือน ; Accelerated: 0, 12, 24 เดือน",
+    "ไม่มีกำหนดความถี่ ผู้ผลิตเลือกทดสอบเมื่อสะดวก"
+   ],
+   "e": "Accelerated studies: 40 ± 2 °C / 75 ± 5% RH | รายละเอียดคำตอบ: Long term: 0, 3, 6, 9, 12, 18, 24 เดือน และทุกปีตลอดอายุที่เสนอ ; Accelerated: 0, 3 และ 6 เดือน"
+  },
+  {
+   "t": "Stability",
+   "q": "สภาวะ accelerated และ stress testing ตาม ASEAN guideline สำหรับกรณีทั่วไปคือข้อใด",
+   "a": "Accelerated: 40 ± 2 °C / 75 ± 5% RH ; Stress: ≥ 40 °C",
+   "w": [
+    "Accelerated: 25 °C/60% RH ; Stress: 5 °C",
+    "Accelerated: 30 °C/35% RH ; Stress: 21 °C/45% RH",
+    "Accelerated: 5 °C ; Stress: -20 °C เท่านั้น",
+    "Accelerated: อุณหภูมิห้องโดยไม่ระบุ RH"
+   ],
+   "e": "ภาชนะที่ทนไอน้ำ (impermeable) long term = 30 ± 2 °C โดยไม่ระบุ RH | รายละเอียดคำตอบ: Accelerated: 40 ± 2 °C / 75 ± 5% RH ; Stress testing: 40 °C/75% RH หรือสภาวะที่รุนแรงกว่า"
+  },
+  {
+   "t": "Stability",
+   "q": "ผลิตภัณฑ์ที่ต้องเก็บในตู้เย็นและช่องแช่แข็งมีสภาวะเก็บรักษาตาม ASEAN คือข้อใด",
+   "a": "ตู้เย็น: 5 ± 3 °C ; ช่องแช่แข็ง: −20 ± 5 °C",
+   "w": [
+    "ตู้เย็น: 30 ± 2 °C ; ช่องแช่แข็ง: 5 ± 3 °C",
+    "ตู้เย็น: 40 °C ; ช่องแช่แข็ง: 25 °C",
+    "ตู้เย็น: −20 °C ; ช่องแช่แข็ง: 5 °C",
+    "ตู้เย็นและช่องแช่แข็ง: 21 °C"
+   ],
+   "e": "สำหรับผลิตภัณฑ์ที่เก็บในตู้เย็น ยังต้องมีสภาวะ accelerated ที่ 25 ± 2 °C / 60% RH ± 5% ด้วย"
+  },
+  {
+   "t": "Stability",
+   "q": "จำนวน batch ขั้นต่ำของการศึกษา stability สำหรับ NCE drug products และ generic products ตาม ASEAN คือเท่าใด",
+   "a": "NCE: ≥ 3 batches ; Generic: ≥ 2 batches",
+   "w": [
+    "NCE: 1 batch ; Generic: 10 batches",
+    "NCE: 2 batches ; Generic: 3 batches",
+    "NCE และ Generic: 1 batch เท่ากัน",
+    "NCE และ Generic: 10 batches เท่ากัน"
+   ],
+   "e": "Variations (Major/Minor) มีข้อกำหนดข้อมูล stability ตามลักษณะของการเปลี่ยนแปลง (ASEAN Variation Guideline) | รายละเอียดคำตอบ: NCE: อย่างน้อย 3 batches ; Generic: อย่างน้อย 2 batches"
+  },
+  {
+   "t": "Stability report",
+   "q": "รายงานการศึกษา stability ที่ดีควรประกอบด้วยหัวข้อใด",
+   "a": "ชื่อยา ระยะเวลาศึกษา สภาวะเก็บรักษา วิธีวิเคราะห์ และผลการศึกษา",
+   "w": [
+    "รูปถ่ายผู้ศึกษา ประวัติการทำงาน และใบประกาศนียบัตรของทีมวิจัย",
+    "รายชื่อผู้ซื้อยา ใบสั่งซื้อ และข้อตกลงการจัดจำหน่ายล่วงหน้า",
+    "ราคา ส่วนลด และเงื่อนไขการชำระเงินของผลิตภัณฑ์ที่ศึกษา",
+    "ข้อมูลเส้นทางขนส่ง ผู้ให้บริการ และตารางการเดินทางของสินค้า"
+   ],
+   "e": "ตัวอย่างพารามิเตอร์ของยาเม็ด paracetamol: appearance, hardness (>70 N), friability (<2%), content 95–105%, degradation product (p-aminophenol <0.005%), microbial limits | รายละเอียดคำตอบ: Responsibility, summary (ชื่อยา ระยะเวลาศึกษา อายุยา), objective, test material, composition, packaging, storage condition/schedule, analytical procedures, reference standard, results (chemical/physical stability), discussion/conclusion และตารางผล"
+  },
+  {
+   "t": "Quality document",
+   "q": "ข้อใดจัดเป็น Drug Substance (S) section ของเอกสารด้านคุณภาพ",
+   "a": "S1 General info, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference, S6 Container closure, S7 Stability",
+   "w": [
+    "S1 Batch formula, S2 Manufacturing process, S3 Pricing, S4 Labeling, S5 Marketing, S6 Packaging, S7 Distribution",
+    "S1 Marketing plan, S2 Clinical trial, S3 Labeling, S4 Regulatory status, S5 Pricing, S6 Patents, S7 Sales",
+    "S1 Toxicology, S2 Pharmacology, S3 Pharmacokinetics, S4 Clinical efficacy, S5 Safety, S6 Dose, S7 Review",
+    "S1 Patent, S2 Trademark, S3 Copyright, S4 Trade secret, S5 GI, S6 Licence, S7 Royalty"
+   ],
+   "e": "S2 ประกอบด้วย manufacturer(s), description of manufacturing process and process controls, control of materials, control of critical steps, process validation, manufacturing process development | รายละเอียดคำตอบ: S1 General information, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference standards, S6 Container closure, S7 Stability"
+  },
+  {
+   "t": "Reference",
+   "q": "แหล่งอ้างอิงมาตรฐานสำหรับเอกสารด้านคุณภาพของการขึ้นทะเบียนยาแบบ ASEAN ได้แก่ข้อใด",
+   "a": "ตำรายาที่รัฐมนตรีประกาศ, ICH และ ASEAN guidelines",
+   "w": [
+    "ข้อกำหนดภายในของบริษัทผู้ผลิตที่จัดทำขึ้นเองเป็นหลัก",
+    "ประสบการณ์ของผู้ผลิตและผลการใช้ยาในผู้ป่วยที่ผ่านมา",
+    "บทความโฆษณาและเอกสารทางการตลาดของผลิตภัณฑ์คู่แข่ง",
+    "ข้อกำหนดของผู้จัดจำหน่ายและเงื่อนไขในสัญญาซื้อขาย"
+   ],
+   "e": "ตำรายา เช่น Thai Pharmacopoeia II, International Pharmacopoeia 5th, USP 39-NF 34, BP 2016, Ph.Eur. 8th, JP 17th | รายละเอียดคำตอบ: ตำรายาแผนปัจจุบันที่รัฐมนตรีประกาศ, ICH guidelines และ ASEAN guidelines"
+  },
+  {
+   "t": "Specificity",
+   "q": "Specificity ของวิธีวิเคราะห์หมายถึงข้อใด",
+   "a": "ประเมิน analyte ได้ชัดเจนแม้มี impurities, degradants หรือ matrix",
+   "w": [
+    "ความสามารถในการวัดปริมาณต่ำสุดของ analyte ที่ตรวจพบได้ในตัวอย่าง",
+    "ความใกล้เคียงของผลที่วัดได้กับค่าจริงหรือค่าอ้างอิงที่ยอมรับ",
+    "ความทนทานของวิธีต่อการเปลี่ยนแปลงสภาวะเล็กน้อยที่ตั้งใจ",
+    "ช่วงความเข้มข้นที่วิธีวิเคราะห์ให้ผลเป็นเส้นตรงและแม่นยำ"
+   ],
+   "e": "specificity ต้องประเมินสำหรับ identification, impurities และ assay | รายละเอียดคำตอบ: ความสามารถในการประเมิน analyte ได้อย่างชัดเจนในที่ที่มีส่วนประกอบอื่นซึ่งคาดว่าอาจมีอยู่ เช่น impurities, degradants และ matrix (ความไม่จำเพาะของวิธีหนึ่งอาจชดเชยด้วยวิธีอื่น)"
+  },
+  {
+   "t": "Pharmaceutical development",
+   "q": "เนื้อหาของ pharmaceutical development ที่ประกอบการยื่นข้อมูล process validation (ตัวเลือก 2) ควรครอบคลุมอะไร",
+   "a": "เหตุผลเลือกรูปแบบยา สูตรตำรับ กระบวนการผลิต และบรรจุภัณฑ์",
+   "w": [
+    "ข้อมูลราคา การตลาด และกลยุทธ์การแข่งขันกับผลิตภัณฑ์ใกล้เคียง",
+    "ประวัติของผู้ก่อตั้งบริษัท โครงสร้างองค์กร และเป้าหมายทางธุรกิจ",
+    "การเลือกสถานที่ตั้งสำนักงาน ผังโรงงาน และแผนขยายกิจการ",
+    "แผนการจ้างพนักงาน อัตราค่าจ้าง และตารางการฝึกอบรม"
+   ],
+   "e": "รายละเอียดสอดคล้องกับ P.2 ใน ACTD | รายละเอียดคำตอบ: เหตุผลการเลือกรูปแบบยา ส่วนประกอบ สูตรตำรับ กระบวนการผลิต (รวมการทำให้ปราศจากเชื้อ) บรรจุภัณฑ์ คุณลักษณะทางจุลชีววิทยา และความเข้ากันได้กับ diluent/อุปกรณ์ตลอด shelf life"
+  },
+  {
+   "t": "Variation",
+   "q": "ASEAN Variation Guideline เกี่ยวข้องกับเรื่องใด",
+   "a": "การเปลี่ยนแปลงหลังขึ้นทะเบียน: Major (MaV) และ Minor (MiV)",
+   "w": [
+    "การเปลี่ยนแปลงราคายาและเงื่อนไขการเบิกจ่ายหลังขึ้นทะเบียน",
+    "การเปลี่ยนวันหยุดของบริษัทและตารางเวลาทำงานของพนักงาน",
+    "การเปลี่ยนสีของฉลากและขนาดตัวอักษรบนกล่องเท่านั้น",
+    "การเปลี่ยนเลขที่ใบอนุญาตผลิตและชื่อผู้มีอำนาจลงนามเท่านั้น"
+   ],
+   "e": "ข้อมูล stability ของ variation ขึ้นกับชนิดของการเปลี่ยนแปลง (critical dosage form หรือ unstable drug substance ต้องใช้ข้อมูลมากกว่า) | รายละเอียดคำตอบ: การเปลี่ยนแปลงภายหลังขึ้นทะเบียน แบ่งเป็น Major variation (MaV) และ Minor variation (MiV) ซึ่งมีข้อกำหนดข้อมูลต่างกัน"
+  }
+ ]
+}

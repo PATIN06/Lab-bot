@@ -14,19 +14,19 @@
     {
      "t": "กฎหมาย",
      "q": "กฎหมายหลักที่ใช้ควบคุมการขึ้นทะเบียนตำรับยาในประเทศไทยคือข้อใด",
-     "a": "พระราชบัญญัติยา พ.ศ. 2510 (แก้ไขเพิ่มเติม ฉบับที่ 6 พ.ศ. 2562)",
+     "a": "พ.ร.บ.ยา พ.ศ. 2510 (ฉบับที่ 6)",
      "w": [
-      "พระราชบัญญัติอาหาร พ.ศ. 2522",
-      "พระราชบัญญัติเครื่องสำอาง พ.ศ. 2558",
-      "พระราชบัญญัติวัตถุอันตราย พ.ศ. 2535",
-      "พระราชบัญญัติสมุนไพร พ.ศ. 2535"
+      "พ.ร.บ.ผลิตภัณฑ์สมุนไพร พ.ศ. 2562",
+      "พ.ร.บ.วัตถุที่ออกฤทธิ์ต่อจิตและประสาท พ.ศ. 2518",
+      "พ.ร.บ.ยาเสพติดให้โทษ พ.ศ. 2522",
+      "พ.ร.บ.เครื่องมือแพทย์ พ.ศ. 2551"
      ],
-     "e": "ลำดับกฎหมายที่เกี่ยวข้อง: พ.ร.บ. กฎกระทรวง ประกาศกระทรวงสาธารณสุข ประกาศ อย. ประกาศกองยา คำสั่ง และระเบียบ"
+     "e": "ลำดับกฎหมายที่เกี่ยวข้อง: พ.ร.บ. กฎกระทรวง ประกาศกระทรวงสาธารณสุข ประกาศ อย. ประกาศกองยา คำสั่ง และระเบียบ | รายละเอียดคำตอบ: พระราชบัญญัติยา พ.ศ. 2510 (แก้ไขเพิ่มเติม ฉบับที่ 6 พ.ศ. 2562)"
     },
     {
      "t": "กฎหมาย",
      "q": "คำนิยาม “ยา” ตามมาตรา 4 แห่ง พ.ร.บ.ยา ไม่รวมข้อใด",
-     "a": "วัตถุที่มุ่งหมายใช้เป็นอาหารเพื่อบริโภคทั่วไปโดยไม่มีวัตถุประสงค์ทางการรักษา",
+     "a": "วัตถุที่ใช้เป็นอาหารบริโภคทั่วไปโดยไม่มีวัตถุประสงค์ทางการรักษา",
      "w": [
       "วัตถุที่รับรองไว้ในตำรายาที่รัฐมนตรีประกาศ",
       "วัตถุที่มุ่งหมายสำหรับวินิจฉัย บำบัด บรรเทา รักษา หรือป้องกันโรค",
@@ -38,34 +38,34 @@
     {
      "t": "กฎหมาย",
      "q": "ตามพระราชบัญญัติการอำนวยความสะดวกในการพิจารณาอนุญาตของทางราชการ พ.ศ. 2558 ผู้อนุญาตต้องจัดทำอะไร",
-     "a": "คู่มือสำหรับประชาชน ระบุหลักเกณฑ์ วิธีการ เงื่อนไข ขั้นตอน ระยะเวลาพิจารณา และเอกสารที่ต้องยื่น",
+     "a": "คู่มือสำหรับประชาชน ระบุขั้นตอน ระยะเวลา และเอกสารที่ต้องยื่น",
      "w": [
-      "รายงานผลการประเมินทางคลินิกของทุกผลิตภัณฑ์",
-      "รายชื่อผู้ผลิตต่างประเทศทั้งหมด",
-      "ใบรับรอง GMP ของผู้ยื่นคำขอทุกราย",
-      "ราคากลางของยาทุกชนิด"
+      "รายงานผลการประเมินความเสี่ยงของผู้ประกอบการที่ยื่นขออนุญาตทุกราย",
+      "รายชื่อผู้ผลิตต่างประเทศที่ได้รับการรับรองมาตรฐาน GMP ทั้งหมด",
+      "แผนปฏิบัติการตรวจสอบสถานที่ผลิตยาประจำปีของทุกจังหวัด",
+      "ตารางราคากลางและอัตราค่าธรรมเนียมของยาแต่ละประเภท"
      ],
-     "e": "ศูนย์กลางข้อมูลคู่มือสำหรับประชาชนอยู่ที่ info.go.th (มาตรา 7)"
+     "e": "ศูนย์กลางข้อมูลคู่มือสำหรับประชาชนอยู่ที่ info.go.th (มาตรา 7) | รายละเอียดคำตอบ: คู่มือสำหรับประชาชน ระบุหลักเกณฑ์ วิธีการ เงื่อนไข ขั้นตอน ระยะเวลาพิจารณา และเอกสารที่ต้องยื่น"
     },
     {
      "t": "ACTD",
      "q": "ตั้งแต่ 1 มกราคม 2552 ผู้ยื่นขอขึ้นทะเบียนตำรับยาใหม่ ยาสามัญ ยาสามัญใหม่ และยาชีววัตถุ ต้องยื่นคำขอแบบใด",
      "a": "แบบ ASEAN Harmonization เพียงแบบเดียว (ACTD)",
      "w": [
-      "แบบเดิมของประเทศไทยเท่านั้น",
-      "แบบ FDA ของสหรัฐอเมริกา",
-      "แบบ EMA ของสหภาพยุโรป",
-      "แบบเฉพาะขององค์การอนามัยโลก (WHO) เท่านั้น"
+      "แบบเดิมของประเทศไทย ควบคู่กับแบบ ACTD ตามความสมัครใจ",
+      "แบบ CTD ของสหภาพยุโรป (EU-CTD) เพียงแบบเดียว",
+      "แบบ CTD ของ ICH เท่านั้น โดยไม่ใช้ ACTD",
+      "แบบเฉพาะขององค์การอนามัยโลก (WHO) เพียงแบบเดียว"
      ],
      "e": "ข้อมูลประกอบต้องเป็นไปตาม ASEAN Common Technical Requirements (ACTR)"
     },
     {
      "t": "ACTD",
      "q": "ข้อใดเป็น ASEAN Technical Guidelines ที่ใช้ประกอบการขึ้นทะเบียนตำรับยา",
-     "a": "Analytical validation, BA/BE studies, process validation และ stability study",
+     "a": "Analytical validation, BA/BE, process validation และ stability study",
      "w": [
       "Clinical trial protocol, GMP audit, pharmacovigilance และ labeling",
-      "Patent search, trademark, copyright และ license",
+      "Patent search, trademark, copyright และ license agreement",
       "Pricing, reimbursement, tender และ import duty",
       "Packaging design, branding, advertising และ distribution"
      ],
@@ -74,182 +74,182 @@
     {
      "t": "ACTD",
      "q": "ASEAN Common Technical Dossier (ACTD) จัดเป็นกี่ส่วนและมีอะไรบ้าง",
-     "a": "4 ส่วน: Part I Administrative data and product information, Part II Quality, Part III Nonclinical, Part IV Clinical",
+     "a": "4 ส่วน: Administrative, Quality, Nonclinical, Clinical",
      "w": [
-      "5 modules ที่ Module 1 เป็นข้อมูลเฉพาะภูมิภาค",
-      "3 ส่วน: Quality, Safety, Efficacy เท่านั้น",
-      "6 ส่วนตามลำดับขั้นตอนการผลิต",
-      "2 ส่วน: Administrative และ Technical"
+      "5 modules: Module 1 ข้อมูลเฉพาะภูมิภาค ถึง Module 5 รายงานทางคลินิก",
+      "3 ส่วน: Quality, Safety และ Efficacy ตามหลักการของ ICH",
+      "6 ส่วน ตามลำดับขั้นตอนการผลิตตั้งแต่วัตถุดิบถึงการบรรจุ",
+      "2 ส่วน: Administrative information และ Technical information"
      ],
-     "e": "ICH CTD แบ่งเป็น 5 modules โดย Module 1 เป็น region specific ส่วน Module 2–5 ใช้ร่วมกันทุกภูมิภาค; ACTD Part III และ IV ยื่นเมื่อร้องขอ (upon request) ในบางกรณี"
+     "e": "ICH CTD แบ่งเป็น 5 modules โดย Module 1 เป็น region specific ส่วน Module 2–5 ใช้ร่วมกันทุกภูมิภาค; ACTD Part III และ IV ยื่นเมื่อร้องขอ (upon request) ในบางกรณี | รายละเอียดคำตอบ: 4 ส่วน: Part I Administrative data and product information, Part II Quality, Part III Nonclinical, Part IV Clinical"
     },
     {
      "t": "นิยามยา",
      "q": "ข้อใดจัดเป็น “ยาใหม่” (New Drugs) ตามนิยามในบทเรียน",
-     "a": "ตำรับยาที่มีตัวยาสำคัญใหม่ (NCE) ข้อบ่งใช้ใหม่ สูตรผสมใหม่ ระบบนำส่งใหม่ ช่องทางให้ยาใหม่ รูปแบบใหม่ หรือความแรงใหม่ของยาใหม่ที่ได้รับอนุมัติแล้ว",
+     "a": "ตัวยาสำคัญใหม่ (NCE) ข้อบ่งใช้ใหม่ หรือสูตรผสมใหม่ของยาใหม่",
      "w": [
-      "ตำรับที่เหมือนยาต้นแบบทุกประการทั้งตัวยา ความแรง และรูปแบบ",
-      "ตำรับวิตามินและเกลือแร่ที่ไม่มีตัวยาสำคัญใหม่",
-      "ยาที่ขึ้นทะเบียนก่อนปี พ.ศ. 2534 ทุกชนิด",
-      "ยาสมุนไพรทุกชนิดที่ผลิตในประเทศ"
+      "ตำรับที่มีตัวยา ความแรง และรูปแบบเหมือนยาต้นแบบที่อนุมัติแล้วทุกประการ",
+      "ตำรับวิตามินและเกลือแร่ที่ไม่มีตัวยาสำคัญใหม่และไม่มีข้อบ่งใช้ใหม่",
+      "ยาที่ขึ้นทะเบียนไว้ก่อน พ.ศ. 2534 และไม่มีการเปลี่ยนแปลงสูตรตำรับ",
+      "ยาแผนโบราณที่ผลิตตามตำรับยาที่รัฐมนตรีประกาศไว้"
      ],
-     "e": "7 ประเภท: NCE, New Indication, New Combination, New Delivery System, New Route, New Dosage Form, New Strength"
+     "e": "7 ประเภท: NCE, New Indication, New Combination, New Delivery System, New Route, New Dosage Form, New Strength | รายละเอียดคำตอบ: ตำรับยาที่มีตัวยาสำคัญใหม่ (NCE) ข้อบ่งใช้ใหม่ สูตรผสมใหม่ ระบบนำส่งใหม่ ช่องทางให้ยาใหม่ รูปแบบใหม่ หรือความแรงใหม่ของยาใหม่ที่ได้รับอนุมัติแล้ว"
     },
     {
      "t": "นิยามยา",
      "q": "ยาสามัญ (Generic drugs) หมายถึงข้อใด",
-     "a": "ยาที่มีสูตรตัวยาสำคัญและรูปแบบเหมือนกับยาที่เคยขึ้นทะเบียนเป็นยาสามัญ หรือยาประเภทวิตามินและเกลือแร่ที่ไม่มีตัวยาสำคัญใหม่ และต้องไม่มีข้อบ่งใช้ใหม่",
+     "a": "สูตรตัวยาและรูปแบบเหมือนยาที่เคยขึ้นทะเบียน ไม่มีข้อบ่งใช้ใหม่",
      "w": [
-      "ยาที่มีข้อบ่งใช้ใหม่ทุกชนิด",
-      "ยาที่มีตัวยาสำคัญใหม่ที่ไม่เคยขึ้นทะเบียนมาก่อน",
-      "ยาที่ไม่ต้องมีหลักฐานคุณภาพใด ๆ",
-      "ยาที่นำเข้าจากต่างประเทศเท่านั้น"
+      "ตำรับที่มีข้อบ่งใช้ใหม่ซึ่งยังไม่เคยได้รับอนุมัติมาก่อนในประเทศไทย",
+      "ตำรับที่มีตัวยาสำคัญใหม่ที่ไม่เคยขึ้นทะเบียนมาก่อนในประเทศไทย",
+      "ตำรับที่ได้รับการยกเว้นการยื่นหลักฐานด้านคุณภาพของผลิตภัณฑ์",
+      "ตำรับที่นำเข้าจากต่างประเทศและไม่มีการผลิตภายในประเทศ"
      ],
-     "e": "ยาสามัญใหม่ (New Generic Drugs) เทียบกับยาต้นแบบที่เป็นยาใหม่ที่ขึ้นทะเบียนตั้งแต่ พ.ศ. 2534"
+     "e": "ยาสามัญใหม่ (New Generic Drugs) เทียบกับยาต้นแบบที่เป็นยาใหม่ที่ขึ้นทะเบียนตั้งแต่ พ.ศ. 2534 | รายละเอียดคำตอบ: ยาที่มีสูตรตัวยาสำคัญและรูปแบบเหมือนกับยาที่เคยขึ้นทะเบียนเป็นยาสามัญ หรือยาประเภทวิตามินและเกลือแร่ที่ไม่มีตัวยาสำคัญใหม่ และต้องไม่มีข้อบ่งใช้ใหม่"
     },
     {
      "t": "นิยามยา",
      "q": "ข้อใดถูกต้องเกี่ยวกับยาสามัญใหม่ (New Generic Drugs)",
-     "a": "มีตัวยา ความแรง และรูปแบบเหมือนยาต้นแบบที่เป็นยาใหม่ซึ่งอนุมัติตั้งแต่ พ.ศ. 2534 ทุกประการ และต้องยื่นหลักฐานความสมมูลของผลิตภัณฑ์ (Product interchangeability equivalence evidence)",
+     "a": "เหมือนยาต้นแบบที่อนุมัติตั้งแต่ พ.ศ. 2534 และต้องมีหลักฐานความสมมูล",
      "w": [
-      "ไม่ต้องยื่นหลักฐานความสมมูลใด ๆ",
-      "ต้องมีข้อบ่งใช้ใหม่เสมอ",
-      "เป็นยาที่เทียบกับยาสามัญชนิดอื่นที่ขึ้นทะเบียนก่อน พ.ศ. 2510 เท่านั้น",
-      "ต้องเป็นยาที่มีตัวยาสำคัญใหม่ (NCE) เสมอ"
+      "ไม่ต้องยื่นหลักฐานความสมมูลใด ๆ เพราะเป็นยาที่ผลิตภายในประเทศ",
+      "ต้องมีข้อบ่งใช้ใหม่เสมอจึงจะขึ้นทะเบียนเป็นยาสามัญใหม่ได้",
+      "เทียบกับยาสามัญชนิดอื่นที่ขึ้นทะเบียนก่อน พ.ศ. 2510 เท่านั้น",
+      "ต้องมีตัวยาสำคัญใหม่ (NCE) เสมอและยื่นข้อมูลทางคลินิกครบ"
      ],
-     "e": "หลักฐานความสมมูล (เช่น BE study) ใช้ประกอบการพิจารณาความเท่าเทียมกันทางประสิทธิผลกับยาต้นแบบ"
+     "e": "หลักฐานความสมมูล (เช่น BE study) ใช้ประกอบการพิจารณาความเท่าเทียมกันทางประสิทธิผลกับยาต้นแบบ | รายละเอียดคำตอบ: มีตัวยา ความแรง และรูปแบบเหมือนยาต้นแบบที่เป็นยาใหม่ซึ่งอนุมัติตั้งแต่ พ.ศ. 2534 ทุกประการ และต้องยื่นหลักฐานความสมมูลของผลิตภัณฑ์ (Product interchangeability equivalence evidence)"
     },
     {
      "t": "ACTD Part I",
      "q": "เอกสารใดจัดอยู่ใน Part I Administrative data and product information",
-     "a": "แบบคำขอขึ้นทะเบียน (แบบ ย.1) ใบรับรอง GMP หนังสือรับรองผลิตภัณฑ์ ฉลากและเอกสารกำกับยา คำรับรองผู้ยื่นคำขอ และหนังสือมอบอำนาจ",
+     "a": "แบบคำขอ (ย.1) ใบรับรอง GMP หนังสือรับรองผลิตภัณฑ์ ฉลาก และหนังสือมอบอำนาจ",
      "w": [
-      "ข้อมูลการศึกษาทางพิษวิทยา (toxicology)",
-      "ข้อมูลการศึกษา bioavailability และ bioequivalence",
-      "ข้อมูล specification ของตัวยาสำคัญ (S.4)",
-      "ข้อมูลการผลิตระดับ batch formula (P3.1)"
+      "ข้อมูลการศึกษาทางพิษวิทยา (toxicology) และเภสัชวิทยาในสัตว์ทดลอง",
+      "ข้อมูลการศึกษา bioavailability และ bioequivalence ในอาสาสมัคร",
+      "ข้อมูล specification และ analytical method ของตัวยาสำคัญ (S.4)",
+      "ข้อมูลสูตรการผลิตระดับ batch formula และ process validation (P.3)"
      ],
-     "e": "Part II = Quality; Part III = Nonclinical (pharmacology, pharmacokinetics, toxicology); Part IV = Clinical"
+     "e": "Part II = Quality; Part III = Nonclinical (pharmacology, pharmacokinetics, toxicology); Part IV = Clinical | รายละเอียดคำตอบ: แบบคำขอขึ้นทะเบียน (แบบ ย.1) ใบรับรอง GMP หนังสือรับรองผลิตภัณฑ์ ฉลากและเอกสารกำกับยา คำรับรองผู้ยื่นคำขอ และหนังสือมอบอำนาจ"
     },
     {
      "t": "ACTD Part III-IV",
      "q": "ข้อใดจัดอยู่ใน Part III Nonclinical และ Part IV Clinical ตามลำดับ",
-     "a": "Part III: pharmacology, pharmacokinetics, toxicology ; Part IV: BA/BE, human PK/PD, efficacy and safety, post-marketing data",
+     "a": "Part III: pharmacology, PK, toxicology ; Part IV: BA/BE, efficacy, safety",
      "w": [
-      "Part III: BA/BE ; Part IV: toxicology",
-      "Part III: stability study ; Part IV: batch analysis",
-      "Part III: labeling ; Part IV: GMP certificate",
-      "Part III และ IV: เฉพาะแบบคำขอ ย.1"
+      "Part III: BA/BE และ human PK ; Part IV: toxicology และ pharmacology",
+      "Part III: stability study ; Part IV: batch analysis และ specification",
+      "Part III: labeling และ package insert ; Part IV: GMP certificate",
+      "Part III: process validation ; Part IV: impurity profile"
      ],
-     "e": "Part IV ยังมี studies using human biomaterials และ references"
+     "e": "Part IV ยังมี studies using human biomaterials และ references | รายละเอียดคำตอบ: Part III: pharmacology, pharmacokinetics, toxicology ; Part IV: BA/BE, human PK/PD, efficacy and safety, post-marketing data"
     },
     {
      "t": "ACTD Part II",
      "q": "ใน Part II Quality ตัวอักษร S และ P หมายถึงข้อใด",
-     "a": "S = Drug Substance (ตัวยาสำคัญ) ; P = Drug Product (ผลิตภัณฑ์สำเร็จรูป)",
+     "a": "S = Drug Substance ; P = Drug Product (ผลิตภัณฑ์สำเร็จรูป)",
      "w": [
-      "S = Safety ; P = Potency",
-      "S = Stability ; P = Purity",
-      "S = Sterility ; P = Packaging",
-      "S = Specification ; P = Protocol"
+      "S = Safety (ความปลอดภัย) ; P = Potency (ความแรงของยา)",
+      "S = Stability (ความคงตัว) ; P = Purity (ความบริสุทธิ์)",
+      "S = Sterility (ความปราศจากเชื้อ) ; P = Packaging (บรรจุภัณฑ์)",
+      "S = Specification (ข้อกำหนด) ; P = Protocol (โปรโตคอล)"
      ],
      "e": "S1 General information, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference standards, S6 Container closure, S7 Stability; P1–P9 ของ drug product (P9 = Product interchangeability equivalence evidence)"
     },
     {
      "t": "Drug substance",
      "q": "S.3.2 Impurities ใน ACTD ต้องรายงานสารเจือปนกลุ่มใดบ้าง",
-     "a": "Organic impurities (starting materials, by-products, intermediates, degradation products), inorganic impurities (reagents, catalysts, heavy metals) และ residual solvents",
+     "a": "Organic impurities, inorganic impurities และ residual solvents",
      "w": [
-      "เฉพาะสารเจือปนที่เป็นจุลินทรีย์",
-      "เฉพาะเม็ดสีและสารแต่งกลิ่น",
-      "เฉพาะสารเจือปนจากบรรจุภัณฑ์",
-      "ไม่ต้องรายงานสารเจือปนใด ๆ ในตัวยาสำคัญ"
+      "เฉพาะ organic impurities ที่เกิดจาก degradation product ของตัวยา",
+      "เฉพาะ residual solvents และความชื้นที่เหลือจากการทำให้แห้ง",
+      "เฉพาะ inorganic impurities เช่น heavy metals และเถ้าซัลเฟต",
+      "เฉพาะ microbial limit และ endotoxin ของตัวยาสำคัญ"
      ],
-     "e": "S.3.1 Elucidation of structure ใช้ข้อมูล IR, UV, NMR, MS, elemental analysis และพิจารณา isomerism/stereochemistry"
+     "e": "S.3.1 Elucidation of structure ใช้ข้อมูล IR, UV, NMR, MS, elemental analysis และพิจารณา isomerism/stereochemistry | รายละเอียดคำตอบ: Organic impurities (starting materials, by-products, intermediates, degradation products), inorganic impurities (reagents, catalysts, heavy metals) และ residual solvents"
     },
     {
      "t": "Drug substance",
      "q": "วิธีวิเคราะห์ใน S.4 ที่เป็น compendial method และ in-house method ต้องแสดงข้อมูลอะไรตามลำดับ",
-     "a": "Compendial = method verification data ; In-house/alternative = method validation data ตาม ASEAN Guidelines for Validation of Analytical Procedures และ ICH Q2(R1)",
+     "a": "Compendial = method verification ; In-house = method validation",
      "w": [
-      "Compendial = validation data ; In-house = ไม่ต้องมีข้อมูลใด",
-      "ทั้งสองแบบต้องแสดง clinical trial data",
-      "ทั้งสองแบบต้องแสดง pharmacokinetic data",
-      "ทั้งสองแบบไม่ต้องแสดงข้อมูลเพิ่มเติม"
+      "Compendial = full validation data ; In-house = method verification เท่านั้น",
+      "ทั้งสองแบบต้องแสดง clinical trial data ของวิธีวิเคราะห์",
+      "ทั้งสองแบบต้องแสดง pharmacokinetic data ของตัวยา",
+      "ทั้งสองแบบไม่ต้องแสดงข้อมูล validation หรือ verification เพิ่มเติม"
      ],
-     "e": "S.4.1 Specification (tests, acceptance criteria), S.4.2 Analytical procedures, S.4.3 Validation, S.4.4 Batch analyses"
+     "e": "S.4.1 Specification (tests, acceptance criteria), S.4.2 Analytical procedures, S.4.3 Validation, S.4.4 Batch analyses | รายละเอียดคำตอบ: Compendial = method verification data ; In-house/alternative = method validation data ตาม ASEAN Guidelines for Validation of Analytical Procedures และ ICH Q2(R1)"
     },
     {
      "t": "Drug substance",
      "q": "ข้อมูลใดต้องรายงานใน S.7 Stability ของตัวยาสำคัญ",
-     "a": "Stress testing (heat, humidity, oxidation, photolysis, acid/base) ผล accelerated และ long-term testing รวมถึงสภาวะเก็บรักษาที่เสนอและ re-test period",
+     "a": "Stress, accelerated, long-term testing และ re-test period",
      "w": [
-      "เฉพาะราคาขายและต้นทุนการผลิต",
-      "เฉพาะรูปถ่ายของบรรจุภัณฑ์",
-      "เฉพาะข้อมูลทางคลินิกของผู้ป่วย",
-      "เฉพาะรายชื่อผู้ผลิตที่ปรึกษา"
+      "ราคาขายและต้นทุนการผลิตต่อหน่วยของตัวยาสำคัญ",
+      "ผลการศึกษา bioequivalence เปรียบเทียบกับยาต้นแบบ",
+      "ข้อมูลการทดลองทางคลินิกระยะที่ 3 ของผู้ป่วย",
+      "รายชื่อผู้ผลิตและผู้รับจ้างผลิตตัวยาสำคัญ"
      ],
-     "e": "ผลควรแสดงเป็นตาราง กราฟ หรือบรรยาย; ใช้ shelf life สำหรับ drug product"
+     "e": "ผลควรแสดงเป็นตาราง กราฟ หรือบรรยาย; ใช้ shelf life สำหรับ drug product | รายละเอียดคำตอบ: Stress testing (heat, humidity, oxidation, photolysis, acid/base) ผล accelerated และ long-term testing รวมถึงสภาวะเก็บรักษาที่เสนอและ re-test period"
     },
     {
      "t": "Drug product",
      "q": "P.2 Pharmaceutical development มีวัตถุประสงค์และเนื้อหาอย่างไร",
-     "a": "อธิบายการพัฒนาสูตรตำรับ ความเข้ากันได้ของตัวยากับ excipients คุณสมบัติทางกายภาพ-เคมี การพัฒนากระบวนการผลิต ระบบบรรจุ และคุณลักษณะทางจุลชีววิทยา",
+     "a": "อธิบายการพัฒนาสูตรตำรับ excipients กระบวนการผลิต และระบบบรรจุ",
      "w": [
-      "รวบรวมเฉพาะผลการศึกษาทางคลินิกระยะที่ 3",
-      "รวบรวมใบอนุญาตผลิตและ GMP",
-      "รวบรวมเฉพาะราคาและการตลาด",
-      "รวบรวมเฉพาะฉลาก"
+      "รวบรวมผลการศึกษาทางคลินิกระยะที่ 3 และรายงานความปลอดภัยของยา",
+      "รวบรวมใบอนุญาตผลิต ใบรับรอง GMP และผลการตรวจประเมินสถานที่ผลิต",
+      "รวบรวมข้อมูลราคา การตลาด และแผนการจัดจำหน่ายของผลิตภัณฑ์",
+      "รวบรวมเฉพาะฉลาก เอกสารกำกับยา และข้อความโฆษณา"
      ],
-     "e": "P2.1 Development studies, P2.2 Components, P2.3 Finished product (overages, physicochemical/biological properties), P2.4 Process, P2.5 Container closure, P2.6 Microbiological, P2.7 Compatibility"
+     "e": "P2.1 Development studies, P2.2 Components, P2.3 Finished product (overages, physicochemical/biological properties), P2.4 Process, P2.5 Container closure, P2.6 Microbiological, P2.7 Compatibility | รายละเอียดคำตอบ: อธิบายการพัฒนาสูตรตำรับ ความเข้ากันได้ของตัวยากับ excipients คุณสมบัติทางกายภาพ-เคมี การพัฒนากระบวนการผลิต ระบบบรรจุ และคุณลักษณะทางจุลชีววิทยา"
     },
     {
      "t": "Drug product",
      "q": "P.3 Manufacture ประกอบด้วยข้อมูลใดบ้าง",
-     "a": "Batch formula (P3.1), manufacturing process และ process control พร้อม flow diagram (P3.2), controls of critical steps และ process validation",
+     "a": "Batch formula, manufacturing process และ process validation",
      "w": [
-      "เฉพาะผลการทดสอบ BE ของอาสาสมัคร",
-      "เฉพาะข้อมูลสิทธิบัตรของตัวยา",
-      "เฉพาะการควบคุมราคายา",
-      "เฉพาะข้อมูลการตลาดและโฆษณา"
+      "ผลการทดสอบ BE ในอาสาสมัครและรายงาน PK เปรียบเทียบกับยาต้นแบบ",
+      "ข้อมูลสิทธิบัตรของตัวยา อายุสิทธิบัตร และผู้ถือสิทธิ",
+      "ข้อกำหนดการควบคุมราคายาและเงื่อนไขการเบิกจ่ายตามสิทธิ",
+      "ข้อมูลการตลาด โฆษณา และแผนกระจายสินค้าของผลิตภัณฑ์"
      ],
-     "e": "ต้องระบุจำนวนหน่วยยาต่อ batch และคำอธิบายกระบวนการผลิตที่ละเอียดเพียงพอ"
+     "e": "ต้องระบุจำนวนหน่วยยาต่อ batch และคำอธิบายกระบวนการผลิตที่ละเอียดเพียงพอ | รายละเอียดคำตอบ: Batch formula (P3.1), manufacturing process และ process control พร้อม flow diagram (P3.2), controls of critical steps และ process validation"
     },
     {
      "t": "เภสัชตำรับ",
      "q": "ข้อใดเป็นเภสัชตำรับที่ อย. ยอมรับตามประกาศกระทรวงสาธารณสุขเรื่องระบุตำรายา",
      "a": "USP, BP, Ph.Eur., IP, Thai Pharmacopoeia (TP) และ JP",
      "w": [
-      "เฉพาะตำรายาจีนโบราณ",
-      "เฉพาะ USP เท่านั้น",
-      "เฉพาะตำราที่บริษัทผู้ผลิตจัดทำเอง",
-      "ไม่มีเภสัชตำรับใดได้รับการยอมรับ"
+      "เฉพาะ USP, BP และ Ph.Eur. ส่วนตำรายาอื่นไม่ยอมรับ",
+      "ตำรายาจีนโบราณและตำรายาอายุรเวทเป็นหลักเท่านั้น",
+      "ตำรับที่บริษัทผู้ผลิตจัดทำขึ้นเองและยื่นรับรองเป็นรายผลิตภัณฑ์",
+      "ไม่มีเภสัชตำรับใดได้รับการยอมรับ ต้องใช้วิธีของผู้ผลิตเท่านั้น"
      ],
      "e": "ตัวอย่างฉบับ: USP 39-NF 34, BP 2016, Ph.Eur. 8th, IP 5th, TP II Vol I Part 1, JP 17th (ตามประกาศ พ.ศ. 2561 และ 2562)"
     },
     {
      "t": "กฎหมาย",
      "q": "ข้อใดเป็นการพัฒนาระบบการขึ้นทะเบียนยาให้สอดคล้องกันของประเทศในภูมิภาคอาเซียน",
-     "a": "ASEAN Common Technical Requirements (ACTR) และ ASEAN Common Technical Dossier (ACTD)",
+     "a": "ASEAN Common Technical Requirements (ACTR) และ ACTD",
      "w": [
-      "ASEAN Free Trade Area (AFTA) tariff schedule",
-      "ASEAN Tourism Agreement",
-      "ASEAN Banking Integration Framework",
-      "ASEAN Fisheries Protocol"
+      "ASEAN Free Trade Area (AFTA) และตารางภาษีนำเข้ายา",
+      "ASEAN Tourism Agreement ว่าด้วยการท่องเที่ยวเชิงสุขภาพ",
+      "ASEAN Banking Integration Framework ว่าด้วยการเงินการธนาคาร",
+      "ASEAN Fisheries Protocol ว่าด้วยการประมงและทรัพยากรทะเล"
      ],
-     "e": "ACTD ฉบับ ธันวาคม 2016 ใช้เป็นแนวทางการขึ้นทะเบียนยาใหม่ ยาสามัญ ยาสามัญใหม่ และยาชีววัตถุ"
+     "e": "ACTD ฉบับ ธันวาคม 2016 ใช้เป็นแนวทางการขึ้นทะเบียนยาใหม่ ยาสามัญ ยาสามัญใหม่ และยาชีววัตถุ | รายละเอียดคำตอบ: ASEAN Common Technical Requirements (ACTR) และ ASEAN Common Technical Dossier (ACTD)"
     },
     {
      "t": "ACTD Part II",
      "q": "ข้อมูลใดต้องแสดงใน P.1 Description and Composition of the Drug Product",
-     "a": "รูปแบบยา องค์ประกอบทั้งหมดต่อหน่วย (ชนิดสาร ฟังก์ชัน ปริมาณ รวมทั้ง overage ถ้ามี) และชนิดบรรจุภัณฑ์",
+     "a": "รูปแบบยา องค์ประกอบต่อหน่วย และชนิดบรรจุภัณฑ์",
      "w": [
-      "เฉพาะผลการทดสอบทางพิษวิทยา",
-      "เฉพาะข้อมูลสิทธิบัตร",
-      "เฉพาะรายชื่อผู้จัดจำหน่าย",
-      "เฉพาะข้อมูลราคายา"
+      "ผลการทดสอบทางพิษวิทยาและเภสัชวิทยาของตำรับยาในสัตว์ทดลอง",
+      "ข้อมูลสิทธิบัตรของสูตรตำรับ และผู้ถือสิทธิบัตรในประเทศไทย",
+      "รายชื่อผู้จัดจำหน่าย ผู้นำเข้า และสถานที่เก็บรักษายา",
+      "ข้อมูลราคายา ต้นทุนการผลิต และส่วนลดทางการค้า"
      ],
-     "e": "P4 Control of excipients, P5 Control of finished product, P6 Reference standards, P7 Container closure system, P8 Stability, P9 Product interchangeability equivalence evidence"
+     "e": "P4 Control of excipients, P5 Control of finished product, P6 Reference standards, P7 Container closure system, P8 Stability, P9 Product interchangeability equivalence evidence | รายละเอียดคำตอบ: รูปแบบยา องค์ประกอบทั้งหมดต่อหน่วย (ชนิดสาร ฟังก์ชัน ปริมาณ รวมทั้ง overage ถ้ามี) และชนิดบรรจุภัณฑ์"
     }
    ]
   },
@@ -262,110 +262,110 @@
     {
      "t": "Process validation",
      "q": "Process validation ตาม ASEAN Guideline มีความหมายและข้อกำหนดขั้นต่ำอย่างไร",
-     "a": "เป็นการยืนยันว่ากระบวนการผลิตให้ผลิตภัณฑ์ที่มีคุณภาพตามกำหนดอย่างสม่ำเสมอ โดยทั่วไปต้องทวนสอบสำเร็จอย่างน้อย 3 batch การผลิตติดต่อกันก่อนวางจำหน่าย",
+     "a": "ยืนยันคุณภาพที่สม่ำเสมอของกระบวนการ ทวนสอบอย่างน้อย 3 batch ติดต่อกัน",
      "w": [
-      "ทำเพียง 1 batch ก็เพียงพอก่อนวางจำหน่าย",
-      "ต้องทำ 10 batch ติดต่อกันทุกผลิตภัณฑ์",
-      "ไม่ต้องทำเมื่อผลิตในระดับ pilot scale",
-      "ทำเฉพาะการทดสอบทางคลินิกในผู้ป่วย"
+      "ยืนยันคุณภาพของวัตถุดิบก่อนผลิต โดยทั่วไปทวนสอบเพียง 1 batch ก็เพียงพอ",
+      "ยืนยันความคงตัวของยาตลอดอายุยา โดยทั่วไปต้องทวนสอบ 10 batch ติดต่อกัน",
+      "ยืนยันความปลอดภัยทางคลินิก และไม่ต้องทำเมื่อผลิตในระดับ pilot scale",
+      "ยืนยันความเท่าเทียมทางชีวภาพ โดยทวนสอบเฉพาะการทดสอบในผู้ป่วย"
      ],
-     "e": "คำว่า validation ใช้กับการทวนสอบขั้นสุดท้ายที่ production scale"
+     "e": "คำว่า validation ใช้กับการทวนสอบขั้นสุดท้ายที่ production scale | รายละเอียดคำตอบ: เป็นการยืนยันว่ากระบวนการผลิตให้ผลิตภัณฑ์ที่มีคุณภาพตามกำหนดอย่างสม่ำเสมอ โดยทั่วไปต้องทวนสอบสำเร็จอย่างน้อย 3 batch การผลิตติดต่อกันก่อนวางจำหน่าย"
     },
     {
      "t": "Process validation",
      "q": "ข้อใดเป็นทางเลือกในการยื่นข้อมูล process validation (Option 1) ตาม ASEAN guideline",
-     "a": "แนบ process validation protocol และรายงาน PV ของ 3 production batches ติดต่อกันที่ผ่านการทวนสอบ",
+     "a": "แนบ validation protocol และรายงาน PV ของ 3 batches ติดต่อกัน",
      "w": [
-      "แนบเฉพาะแบบคำขอ ย.1",
-      "แนบเฉพาะใบรับรอง GMP",
-      "แนบเฉพาะ BE study",
-      "ไม่ต้องแนบเอกสารใด"
+      "แนบแบบคำขอ ย.1 และหนังสือมอบอำนาจของผู้ยื่นคำขอเพียงอย่างเดียว",
+      "แนบใบรับรอง GMP ของสถานที่ผลิตแทนรายงาน validation",
+      "แนบรายงาน BE study ของ 1 production batch แทนรายงาน PV",
+      "ไม่ต้องแนบเอกสารใด เพียงรับรองด้วยตนเองว่าผ่านการ validate แล้ว"
      ],
-     "e": "Option 2: คำรับรองว่าจะส่ง PV report + protocol และรายงาน 1 pilot batch + pharmaceutical development; Option 3: คำรับรองว่าข้อมูล PV เหมือนที่ยื่นต่อหน่วยงานกำกับดูแลอ้างอิง"
+     "e": "Option 2: คำรับรองว่าจะส่ง PV report + protocol และรายงาน 1 pilot batch + pharmaceutical development; Option 3: คำรับรองว่าข้อมูล PV เหมือนที่ยื่นต่อหน่วยงานกำกับดูแลอ้างอิง | รายละเอียดคำตอบ: แนบ process validation protocol และรายงาน PV ของ 3 production batches ติดต่อกันที่ผ่านการทวนสอบ"
     },
     {
      "t": "Process validation",
      "q": "เนื้อหา validation scheme (protocol) ควรมีข้อมูลใดบ้าง",
-     "a": "คำอธิบายกระบวนการผลิต สรุป critical process, specification ของผลิตภัณฑ์สำเร็จรูป, วิธีวิเคราะห์, in-process controls, sampling plan, วิธีบันทึก/ประเมินผล และอุปกรณ์/เครื่องมือสำคัญ",
+     "a": "กระบวนการผลิต critical process, specification และ in-process controls",
      "w": [
-      "เฉพาะราคาวัตถุดิบ",
-      "เฉพาะรายชื่อผู้ถือหุ้น",
-      "เฉพาะข้อมูลการโฆษณา",
-      "เฉพาะข้อมูลการจัดส่ง"
+      "ราคาวัตถุดิบ ต้นทุนการผลิต อัตรากำไร และแผนการจำหน่ายของผลิตภัณฑ์",
+      "รายชื่อผู้ถือหุ้น โครงสร้างองค์กร และประวัติการดำเนินงานของบริษัท",
+      "ข้อมูลการโฆษณา ช่องทางตลาด และกลุ่มลูกค้าเป้าหมายของผลิตภัณฑ์",
+      "ข้อมูลการจัดส่ง เส้นทางขนส่ง และตารางการกระจายสินค้า"
      ],
-     "e": "Validation report ประกอบด้วย summary, introduction, batches used, equipment, critical steps/parameters, acceptance criteria, tabulation of results, batch analysis, evaluation (รวม statistical process control), deviations/OOS, conclusion"
+     "e": "Validation report ประกอบด้วย summary, introduction, batches used, equipment, critical steps/parameters, acceptance criteria, tabulation of results, batch analysis, evaluation (รวม statistical process control), deviations/OOS, conclusion | รายละเอียดคำตอบ: คำอธิบายกระบวนการผลิต สรุป critical process, specification ของผลิตภัณฑ์สำเร็จรูป, วิธีวิเคราะห์, in-process controls, sampling plan, วิธีบันทึก/ประเมินผล และอุปกรณ์/เครื่องมือสำคัญ"
     },
     {
      "t": "Analytical validation",
      "q": "ข้อใดเป็น typical validation characteristics ตาม ASEAN Guidelines for Validation of Analytical Procedures",
-     "a": "Accuracy, precision, specificity, detection limit, quantitation limit, linearity, range และ robustness",
+     "a": "Accuracy, precision, specificity, DL, QL, linearity, range, robustness",
      "w": [
-      "Color, odor, taste และ appearance",
-      "Price, brand, volume และ shelf space",
-      "Speed, cost, size และ weight",
-      "Hardness, friability, disintegration และ dissolution"
+      "Color, odor, taste, appearance และ pH ของสารละลายตัวอย่าง",
+      "Price, brand, volume, shelf space และส่วนแบ่งการตลาด",
+      "Speed, cost, size, weight และความสะดวกในการใช้งาน",
+      "Hardness, friability, disintegration, dissolution และ weight variation"
      ],
-     "e": "การเลือกหัวข้อที่ต้องประเมินขึ้นกับชนิดของวิธี (identification, impurities test, assay, dissolution)"
+     "e": "การเลือกหัวข้อที่ต้องประเมินขึ้นกับชนิดของวิธี (identification, impurities test, assay, dissolution) | รายละเอียดคำตอบ: Accuracy, precision, specificity, detection limit, quantitation limit, linearity, range และ robustness"
     },
     {
      "t": "Analytical validation",
      "q": "ข้อใดถูกต้องเกี่ยวกับ linearity และ range",
-     "a": "Linearity ควรใช้อย่างน้อย 5 ความเข้มข้น และรายงาน correlation coefficient, y-intercept, slope, residual sum of squares ; Range ขั้นต่ำ: assay 80–120%, content uniformity 70–130%, dissolution ±20%",
+     "a": "Linearity ≥ 5 ความเข้มข้น รายงาน slope, intercept ; Range assay 80–120%, CU 70–130%",
      "w": [
-      "Linearity ใช้เพียง 2 ความเข้มข้น ; Range ของ assay 50–150%",
-      "Linearity ไม่ต้องรายงาน slope ; Range ของ content uniformity 80–120%",
-      "Linearity ใช้ 3 ความเข้มข้น ; Range ของ dissolution ±50%",
-      "Linearity รายงานเฉพาะ R² ; Range ของ assay 90–110%"
+      "Linearity ใช้ 2 ความเข้มข้น รายงานเฉพาะ slope ; Range ของ assay 50–150%",
+      "Linearity ใช้ 5 ความเข้มข้น ไม่ต้องรายงาน slope ; Range ของ content uniformity 80–120%",
+      "Linearity ใช้ 3 ความเข้มข้น รายงาน y-intercept ; Range ของ dissolution ±50%",
+      "Linearity ใช้ 5 ความเข้มข้น รายงานเฉพาะ R² ; Range ของ assay 90–110%"
      ],
-     "e": "Impurities: จาก reporting level ถึง 120% ของ specification; ถ้า assay และ purity ทำร่วมกัน ให้ครอบคลุมจาก reporting level ของ impurities ถึง 120% ของ assay specification"
+     "e": "Impurities: จาก reporting level ถึง 120% ของ specification; ถ้า assay และ purity ทำร่วมกัน ให้ครอบคลุมจาก reporting level ของ impurities ถึง 120% ของ assay specification | รายละเอียดคำตอบ: Linearity ควรใช้อย่างน้อย 5 ความเข้มข้น และรายงาน correlation coefficient, y-intercept, slope, residual sum of squares ; Range ขั้นต่ำ: assay 80–120%, content uniformity 70–130%, dissolution ±20%"
     },
     {
      "t": "Analytical validation",
      "q": "การประเมิน accuracy ตามคำแนะนำควรทำอย่างไรและรายงานอย่างไร",
-     "a": "ใช้ไม่น้อยกว่า 9 การวัดที่อย่างน้อย 3 ระดับความเข้มข้นครอบคลุม range รายงานเป็นร้อยละการคืนกลับ (% recovery = Q found / Q added × 100)",
+     "a": "ใช้ไม่น้อยกว่า 9 การวัดที่ 3 ระดับความเข้มข้น รายงานเป็น % recovery",
      "w": [
-      "ใช้ 1 การวัดที่ 1 ระดับ รายงานเป็น %RSD",
-      "ใช้ 3 การวัดที่ระดับเดียว รายงานเป็น LOD",
-      "ใช้ 9 การวัดที่ระดับเดียว รายงานเป็น R²",
-      "ไม่ต้องรายงานเป็นตัวเลข"
+      "ใช้ 3 การวัดที่ระดับความเข้มข้นเดียว รายงานเป็น %RSD",
+      "ใช้ 6 การวัดที่ระดับ 100% เพียงระดับเดียว รายงานเป็น LOD",
+      "ใช้ 9 การวัดที่ระดับเดียว รายงานเป็น correlation coefficient (R²)",
+      "ใช้ 9 การวัดที่ 3 ระดับ รายงานเป็นค่า slope ของ calibration curve"
      ],
-     "e": "Accuracy = closeness ของค่าที่หาได้กับค่าจริงตามธรรมเนียม/ค่าอ้างอิง (trueness)"
+     "e": "Accuracy = closeness ของค่าที่หาได้กับค่าจริงตามธรรมเนียม/ค่าอ้างอิง (trueness) | รายละเอียดคำตอบ: ใช้ไม่น้อยกว่า 9 การวัดที่อย่างน้อย 3 ระดับความเข้มข้นครอบคลุม range รายงานเป็นร้อยละการคืนกลับ (% recovery = Q found / Q added × 100)"
     },
     {
      "t": "Analytical validation",
      "q": "Precision แบ่งเป็น 3 ระดับ ข้อใดจับคู่ได้ถูกต้อง",
-     "a": "Repeatability = ภายใต้สภาวะเดียวกันในช่วงเวลาสั้น (≥9 การวัดครอบคลุม range หรือ ≥6 การวัดที่ 100%) ; Intermediate precision = ภายในห้องปฏิบัติการเดียวกันต่างวัน/ผู้วิเคราะห์/เครื่องมือ ; Reproducibility = ระหว่างห้องปฏิบัติการ (ไม่เป็นส่วนของเอกสารขึ้นทะเบียน)",
+     "a": "Repeatability = สภาวะเดียวกัน ; Intermediate = ต่างวัน/ผู้วิเคราะห์ ; Reproducibility = ต่างห้องปฏิบัติการ",
      "w": [
-      "Repeatability = ระหว่างห้องปฏิบัติการ ; Reproducibility = ภายในวันเดียวกัน",
-      "Intermediate precision = ต่างตัวอย่างต่างชนิด ; Repeatability = ต่างผู้ผลิต",
-      "ทั้งสามหมายถึงการวัดครั้งเดียวกัน",
-      "Reproducibility จำเป็นต้องยื่นในเอกสารขึ้นทะเบียนทุกกรณี"
+      "Repeatability = ระหว่างห้องปฏิบัติการ ; Intermediate = สภาวะเดียวกันช่วงเวลาสั้น ; Reproducibility = ต่างวัน/ผู้วิเคราะห์",
+      "Repeatability = ต่างผู้ผลิต ; Intermediate = ต่างตัวอย่างต่างชนิด ; Reproducibility = ภายในวันเดียวกัน",
+      "ทั้งสามหมายถึงการวัดซ้ำในห้องปฏิบัติการเดียวกัน แต่ต่างกันที่จำนวนซ้ำ",
+      "Reproducibility ต้องยื่นในเอกสารขึ้นทะเบียนทุกกรณี ; Repeatability ต่างห้องปฏิบัติการ"
      ],
-     "e": "รายงาน SD, RSD (coefficient of variation) และ confidence interval สำหรับแต่ละระดับ"
+     "e": "รายงาน SD, RSD (coefficient of variation) และ confidence interval สำหรับแต่ละระดับ | รายละเอียดคำตอบ: Repeatability = ภายใต้สภาวะเดียวกันในช่วงเวลาสั้น (≥9 การวัดครอบคลุม range หรือ ≥6 การวัดที่ 100%) ; Intermediate precision = ภายในห้องปฏิบัติการเดียวกันต่างวัน/ผู้วิเคราะห์/เครื่องมือ ; Reproducibility = ระหว่างห้องปฏิบัติการ (ไม่เป็นส่วนของเอกสารขึ้นทะเบียน)"
     },
     {
      "t": "Analytical validation",
      "q": "สูตรและเกณฑ์ของ detection limit (DL) และ quantitation limit (QL) ตาม ICH/ASEAN คือข้อใด",
-     "a": "DL = 3.3 σ/S (หรือ S/N ≈ 3:1 หรือ 2:1) ; QL = 10 σ/S (หรือ S/N ≈ 10:1)",
+     "a": "DL = 3.3 σ/S ; QL = 10 σ/S",
      "w": [
       "DL = 10 σ/S (S/N 10:1) ; QL = 3.3 σ/S (S/N 3:1)",
       "DL = σ/S ; QL = 2σ/S",
       "DL = QL เสมอ",
       "DL = 100 σ/S ; QL = 1000 σ/S"
      ],
-     "e": "σ = ส่วนเบี่ยงเบนมาตรฐานของ response, S = slope ของ calibration curve"
+     "e": "σ = ส่วนเบี่ยงเบนมาตรฐานของ response, S = slope ของ calibration curve | รายละเอียดคำตอบ: DL = 3.3 σ/S (หรือ S/N ≈ 3:1 หรือ 2:1) ; QL = 10 σ/S (หรือ S/N ≈ 10:1)"
     },
     {
      "t": "Analytical validation",
      "q": "Robustness ของวิธีวิเคราะห์ด้วย LC ประเมินจากการเปลี่ยนแปลงเล็กน้อยที่ตั้งใจของปัจจัยใด",
-     "a": "pH และองค์ประกอบของ mobile phase, คอลัมน์ต่าง lot/ผู้ผลิต, อุณหภูมิ และ flow rate",
+     "a": "pH/mobile phase, ต่าง lot ของคอลัมน์, อุณหภูมิ และ flow rate",
      "w": [
-      "ชื่อผู้ผลิตยาและสีของบรรจุภัณฑ์",
-      "จำนวนผู้ป่วยในการศึกษาทางคลินิก",
-      "ราคาของตัวทำละลาย",
-      "วันที่ผลิตตัวอย่างเท่านั้น"
+      "ชื่อผู้ผลิตยา สีของบรรจุภัณฑ์ และขนาดของฉลากผลิตภัณฑ์",
+      "จำนวนผู้ป่วย เพศ และอายุของกลุ่มตัวอย่างในการศึกษาทางคลินิก",
+      "ราคาของตัวทำละลาย ยี่ห้อขวดบรรจุ และอายุของเครื่องมือ",
+      "วันที่ผลิตตัวอย่าง ชื่อผู้วิเคราะห์ และเลขที่ห้องปฏิบัติการ"
      ],
-     "e": "ผลการ evaluate robustness ควรนำไปกำหนด system suitability parameters (เช่น resolution) เพื่อให้วิธียังใช้ได้ทุกครั้ง"
+     "e": "ผลการ evaluate robustness ควรนำไปกำหนด system suitability parameters (เช่น resolution) เพื่อให้วิธียังใช้ได้ทุกครั้ง | รายละเอียดคำตอบ: pH และองค์ประกอบของ mobile phase, คอลัมน์ต่าง lot/ผู้ผลิต, อุณหภูมิ และ flow rate"
     },
     {
      "t": "Stability",
@@ -382,26 +382,26 @@
     {
      "t": "Stability",
      "q": "ความถี่ในการทดสอบ long-term และ accelerated stability ตาม ASEAN คือข้อใด",
-     "a": "Long term: 0, 3, 6, 9, 12, 18, 24 เดือน และทุกปีตลอดอายุที่เสนอ ; Accelerated: 0, 3 และ 6 เดือน",
+     "a": "Long term: 0, 3, 6, 9, 12, 18, 24 เดือน ; Accelerated: 0, 3, 6 เดือน",
      "w": [
-      "Long term: ทุก 1 สัปดาห์ ; Accelerated: ทุก 1 วัน",
-      "Long term: เฉพาะเดือนที่ 24 ; Accelerated: เฉพาะเดือนที่ 1",
+      "Long term: ทุก 1 สัปดาห์ตลอดอายุยา ; Accelerated: ทุก 1 วันเป็นเวลา 1 เดือน",
+      "Long term: เฉพาะเดือนที่ 24 เพียงครั้งเดียว ; Accelerated: เฉพาะเดือนที่ 1",
       "Long term: 0, 1, 2 เดือน ; Accelerated: 0, 12, 24 เดือน",
-      "ไม่มีกำหนดความถี่"
+      "ไม่มีกำหนดความถี่ ผู้ผลิตเลือกทดสอบเมื่อสะดวก"
      ],
-     "e": "Accelerated studies: 40 ± 2 °C / 75 ± 5% RH"
+     "e": "Accelerated studies: 40 ± 2 °C / 75 ± 5% RH | รายละเอียดคำตอบ: Long term: 0, 3, 6, 9, 12, 18, 24 เดือน และทุกปีตลอดอายุที่เสนอ ; Accelerated: 0, 3 และ 6 เดือน"
     },
     {
      "t": "Stability",
      "q": "สภาวะ accelerated และ stress testing ตาม ASEAN guideline สำหรับกรณีทั่วไปคือข้อใด",
-     "a": "Accelerated: 40 ± 2 °C / 75 ± 5% RH ; Stress testing: 40 °C/75% RH หรือสภาวะที่รุนแรงกว่า",
+     "a": "Accelerated: 40 ± 2 °C / 75 ± 5% RH ; Stress: ≥ 40 °C",
      "w": [
       "Accelerated: 25 °C/60% RH ; Stress: 5 °C",
       "Accelerated: 30 °C/35% RH ; Stress: 21 °C/45% RH",
       "Accelerated: 5 °C ; Stress: -20 °C เท่านั้น",
       "Accelerated: อุณหภูมิห้องโดยไม่ระบุ RH"
      ],
-     "e": "ภาชนะที่ทนไอน้ำ (impermeable) long term = 30 ± 2 °C โดยไม่ระบุ RH"
+     "e": "ภาชนะที่ทนไอน้ำ (impermeable) long term = 30 ± 2 °C โดยไม่ระบุ RH | รายละเอียดคำตอบ: Accelerated: 40 ± 2 °C / 75 ± 5% RH ; Stress testing: 40 °C/75% RH หรือสภาวะที่รุนแรงกว่า"
     },
     {
      "t": "Stability",
@@ -418,86 +418,86 @@
     {
      "t": "Stability",
      "q": "จำนวน batch ขั้นต่ำของการศึกษา stability สำหรับ NCE drug products และ generic products ตาม ASEAN คือเท่าใด",
-     "a": "NCE: อย่างน้อย 3 batches ; Generic: อย่างน้อย 2 batches",
+     "a": "NCE: ≥ 3 batches ; Generic: ≥ 2 batches",
      "w": [
       "NCE: 1 batch ; Generic: 10 batches",
       "NCE: 2 batches ; Generic: 3 batches",
       "NCE และ Generic: 1 batch เท่ากัน",
       "NCE และ Generic: 10 batches เท่ากัน"
      ],
-     "e": "Variations (Major/Minor) มีข้อกำหนดข้อมูล stability ตามลักษณะของการเปลี่ยนแปลง (ASEAN Variation Guideline)"
+     "e": "Variations (Major/Minor) มีข้อกำหนดข้อมูล stability ตามลักษณะของการเปลี่ยนแปลง (ASEAN Variation Guideline) | รายละเอียดคำตอบ: NCE: อย่างน้อย 3 batches ; Generic: อย่างน้อย 2 batches"
     },
     {
      "t": "Stability report",
      "q": "รายงานการศึกษา stability ที่ดีควรประกอบด้วยหัวข้อใด",
-     "a": "Responsibility, summary (ชื่อยา ระยะเวลาศึกษา อายุยา), objective, test material, composition, packaging, storage condition/schedule, analytical procedures, reference standard, results (chemical/physical stability), discussion/conclusion และตารางผล",
+     "a": "ชื่อยา ระยะเวลาศึกษา สภาวะเก็บรักษา วิธีวิเคราะห์ และผลการศึกษา",
      "w": [
-      "เฉพาะรูปถ่ายผู้ศึกษา",
-      "เฉพาะรายชื่อผู้ซื้อยา",
-      "เฉพาะราคาและส่วนลด",
-      "เฉพาะข้อมูลเส้นทางขนส่ง"
+      "รูปถ่ายผู้ศึกษา ประวัติการทำงาน และใบประกาศนียบัตรของทีมวิจัย",
+      "รายชื่อผู้ซื้อยา ใบสั่งซื้อ และข้อตกลงการจัดจำหน่ายล่วงหน้า",
+      "ราคา ส่วนลด และเงื่อนไขการชำระเงินของผลิตภัณฑ์ที่ศึกษา",
+      "ข้อมูลเส้นทางขนส่ง ผู้ให้บริการ และตารางการเดินทางของสินค้า"
      ],
-     "e": "ตัวอย่างพารามิเตอร์ของยาเม็ด paracetamol: appearance, hardness (>70 N), friability (<2%), content 95–105%, degradation product (p-aminophenol <0.005%), microbial limits"
+     "e": "ตัวอย่างพารามิเตอร์ของยาเม็ด paracetamol: appearance, hardness (>70 N), friability (<2%), content 95–105%, degradation product (p-aminophenol <0.005%), microbial limits | รายละเอียดคำตอบ: Responsibility, summary (ชื่อยา ระยะเวลาศึกษา อายุยา), objective, test material, composition, packaging, storage condition/schedule, analytical procedures, reference standard, results (chemical/physical stability), discussion/conclusion และตารางผล"
     },
     {
      "t": "Quality document",
      "q": "ข้อใดจัดเป็น Drug Substance (S) section ของเอกสารด้านคุณภาพ",
-     "a": "S1 General information, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference standards, S6 Container closure system, S7 Stability",
+     "a": "S1 General info, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference, S6 Container closure, S7 Stability",
      "w": [
-      "S1 Batch formula, S2 Stability protocol, S3 Pricing",
-      "S1 Marketing plan, S2 Clinical trial, S3 Labeling",
-      "S1 Toxicology, S2 Pharmacology, S3 Pharmacokinetics",
-      "S1 Patent, S2 Trademark, S3 Copyright"
+      "S1 Batch formula, S2 Manufacturing process, S3 Pricing, S4 Labeling, S5 Marketing, S6 Packaging, S7 Distribution",
+      "S1 Marketing plan, S2 Clinical trial, S3 Labeling, S4 Regulatory status, S5 Pricing, S6 Patents, S7 Sales",
+      "S1 Toxicology, S2 Pharmacology, S3 Pharmacokinetics, S4 Clinical efficacy, S5 Safety, S6 Dose, S7 Review",
+      "S1 Patent, S2 Trademark, S3 Copyright, S4 Trade secret, S5 GI, S6 Licence, S7 Royalty"
      ],
-     "e": "S2 ประกอบด้วย manufacturer(s), description of manufacturing process and process controls, control of materials, control of critical steps, process validation, manufacturing process development"
+     "e": "S2 ประกอบด้วย manufacturer(s), description of manufacturing process and process controls, control of materials, control of critical steps, process validation, manufacturing process development | รายละเอียดคำตอบ: S1 General information, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference standards, S6 Container closure, S7 Stability"
     },
     {
      "t": "Reference",
      "q": "แหล่งอ้างอิงมาตรฐานสำหรับเอกสารด้านคุณภาพของการขึ้นทะเบียนยาแบบ ASEAN ได้แก่ข้อใด",
-     "a": "ตำรายาแผนปัจจุบันที่รัฐมนตรีประกาศ, ICH guidelines และ ASEAN guidelines",
+     "a": "ตำรายาที่รัฐมนตรีประกาศ, ICH และ ASEAN guidelines",
      "w": [
-      "เฉพาะข้อกำหนดภายในของบริษัท",
-      "เฉพาะประสบการณ์ของผู้ผลิต",
-      "เฉพาะบทความโฆษณา",
-      "เฉพาะข้อกำหนดของผู้จัดจำหน่าย"
+      "ข้อกำหนดภายในของบริษัทผู้ผลิตที่จัดทำขึ้นเองเป็นหลัก",
+      "ประสบการณ์ของผู้ผลิตและผลการใช้ยาในผู้ป่วยที่ผ่านมา",
+      "บทความโฆษณาและเอกสารทางการตลาดของผลิตภัณฑ์คู่แข่ง",
+      "ข้อกำหนดของผู้จัดจำหน่ายและเงื่อนไขในสัญญาซื้อขาย"
      ],
-     "e": "ตำรายา เช่น Thai Pharmacopoeia II, International Pharmacopoeia 5th, USP 39-NF 34, BP 2016, Ph.Eur. 8th, JP 17th"
+     "e": "ตำรายา เช่น Thai Pharmacopoeia II, International Pharmacopoeia 5th, USP 39-NF 34, BP 2016, Ph.Eur. 8th, JP 17th | รายละเอียดคำตอบ: ตำรายาแผนปัจจุบันที่รัฐมนตรีประกาศ, ICH guidelines และ ASEAN guidelines"
     },
     {
      "t": "Specificity",
      "q": "Specificity ของวิธีวิเคราะห์หมายถึงข้อใด",
-     "a": "ความสามารถในการประเมิน analyte ได้อย่างชัดเจนในที่ที่มีส่วนประกอบอื่นซึ่งคาดว่าอาจมีอยู่ เช่น impurities, degradants และ matrix (ความไม่จำเพาะของวิธีหนึ่งอาจชดเชยด้วยวิธีอื่น)",
+     "a": "ประเมิน analyte ได้ชัดเจนแม้มี impurities, degradants หรือ matrix",
      "w": [
-      "ความสามารถในการวัดปริมาณต่ำสุดที่ตรวจพบได้",
-      "ความใกล้เคียงของผลกับค่าจริง",
-      "ความทนทานต่อการเปลี่ยนแปลงสภาวะเล็กน้อย",
-      "ช่วงความเข้มข้นที่วิธีใช้ได้"
+      "ความสามารถในการวัดปริมาณต่ำสุดของ analyte ที่ตรวจพบได้ในตัวอย่าง",
+      "ความใกล้เคียงของผลที่วัดได้กับค่าจริงหรือค่าอ้างอิงที่ยอมรับ",
+      "ความทนทานของวิธีต่อการเปลี่ยนแปลงสภาวะเล็กน้อยที่ตั้งใจ",
+      "ช่วงความเข้มข้นที่วิธีวิเคราะห์ให้ผลเป็นเส้นตรงและแม่นยำ"
      ],
-     "e": "specificity ต้องประเมินสำหรับ identification, impurities และ assay"
+     "e": "specificity ต้องประเมินสำหรับ identification, impurities และ assay | รายละเอียดคำตอบ: ความสามารถในการประเมิน analyte ได้อย่างชัดเจนในที่ที่มีส่วนประกอบอื่นซึ่งคาดว่าอาจมีอยู่ เช่น impurities, degradants และ matrix (ความไม่จำเพาะของวิธีหนึ่งอาจชดเชยด้วยวิธีอื่น)"
     },
     {
      "t": "Pharmaceutical development",
      "q": "เนื้อหาของ pharmaceutical development ที่ประกอบการยื่นข้อมูล process validation (ตัวเลือก 2) ควรครอบคลุมอะไร",
-     "a": "เหตุผลการเลือกรูปแบบยา ส่วนประกอบ สูตรตำรับ กระบวนการผลิต (รวมการทำให้ปราศจากเชื้อ) บรรจุภัณฑ์ คุณลักษณะทางจุลชีววิทยา และความเข้ากันได้กับ diluent/อุปกรณ์ตลอด shelf life",
+     "a": "เหตุผลเลือกรูปแบบยา สูตรตำรับ กระบวนการผลิต และบรรจุภัณฑ์",
      "w": [
-      "เฉพาะข้อมูลราคาและการตลาดของผลิตภัณฑ์",
-      "เฉพาะประวัติของผู้ก่อตั้งบริษัท",
-      "เฉพาะการเลือกสถานที่ตั้งสำนักงาน",
-      "เฉพาะแผนการจ้างพนักงาน"
+      "ข้อมูลราคา การตลาด และกลยุทธ์การแข่งขันกับผลิตภัณฑ์ใกล้เคียง",
+      "ประวัติของผู้ก่อตั้งบริษัท โครงสร้างองค์กร และเป้าหมายทางธุรกิจ",
+      "การเลือกสถานที่ตั้งสำนักงาน ผังโรงงาน และแผนขยายกิจการ",
+      "แผนการจ้างพนักงาน อัตราค่าจ้าง และตารางการฝึกอบรม"
      ],
-     "e": "รายละเอียดสอดคล้องกับ P.2 ใน ACTD"
+     "e": "รายละเอียดสอดคล้องกับ P.2 ใน ACTD | รายละเอียดคำตอบ: เหตุผลการเลือกรูปแบบยา ส่วนประกอบ สูตรตำรับ กระบวนการผลิต (รวมการทำให้ปราศจากเชื้อ) บรรจุภัณฑ์ คุณลักษณะทางจุลชีววิทยา และความเข้ากันได้กับ diluent/อุปกรณ์ตลอด shelf life"
     },
     {
      "t": "Variation",
      "q": "ASEAN Variation Guideline เกี่ยวข้องกับเรื่องใด",
-     "a": "การเปลี่ยนแปลงภายหลังขึ้นทะเบียน แบ่งเป็น Major variation (MaV) และ Minor variation (MiV) ซึ่งมีข้อกำหนดข้อมูลต่างกัน",
+     "a": "การเปลี่ยนแปลงหลังขึ้นทะเบียน: Major (MaV) และ Minor (MiV)",
      "w": [
-      "การเปลี่ยนแปลงราคายา",
-      "การเปลี่ยนวันหยุดของบริษัท",
-      "การเปลี่ยนสีของฉลากเท่านั้น",
-      "การเปลี่ยนเลขที่ใบอนุญาตผลิตเท่านั้น"
+      "การเปลี่ยนแปลงราคายาและเงื่อนไขการเบิกจ่ายหลังขึ้นทะเบียน",
+      "การเปลี่ยนวันหยุดของบริษัทและตารางเวลาทำงานของพนักงาน",
+      "การเปลี่ยนสีของฉลากและขนาดตัวอักษรบนกล่องเท่านั้น",
+      "การเปลี่ยนเลขที่ใบอนุญาตผลิตและชื่อผู้มีอำนาจลงนามเท่านั้น"
      ],
-     "e": "ข้อมูล stability ของ variation ขึ้นกับชนิดของการเปลี่ยนแปลง (critical dosage form หรือ unstable drug substance ต้องใช้ข้อมูลมากกว่า)"
+     "e": "ข้อมูล stability ของ variation ขึ้นกับชนิดของการเปลี่ยนแปลง (critical dosage form หรือ unstable drug substance ต้องใช้ข้อมูลมากกว่า) | รายละเอียดคำตอบ: การเปลี่ยนแปลงภายหลังขึ้นทะเบียน แบ่งเป็น Major variation (MaV) และ Minor variation (MiV) ซึ่งมีข้อกำหนดข้อมูลต่างกัน"
     }
    ]
   },
@@ -510,50 +510,50 @@
     {
      "t": "ACTD",
      "q": "ASEAN Common Technical Dossier (ACTD) คืออะไร",
-     "a": "แนวปฏิบัติร่วมกันที่ตกลงกันของรูปแบบเอกสารการขึ้นทะเบียนผลิตภัณฑ์ยาสำหรับมนุษย์ เพื่อยื่นต่อหน่วยงานกำกับดูแลในภูมิภาคอาเซียน",
+     "a": "แนวปฏิบัติร่วมของรูปแบบเอกสารขึ้นทะเบียนยาในอาเซียน",
      "w": [
-      "กฎหมายที่กำหนดราคายาในอาเซียน",
-      "ตำรายาฉบับเดียวของประเทศอาเซียน",
-      "ใบอนุญาตผลิตยาที่ใช้ร่วมกันในอาเซียน",
-      "ฐานข้อมูลรายชื่อผู้ผลิตยาทั่วโลก"
+      "กฎหมายร่วมของอาเซียนที่กำหนดราคายาและเพดานกำไรของผู้ผลิต",
+      "ตำรายาฉบับเดียวที่ทุกประเทศอาเซียนใช้ร่วมกันในการตรวจวิเคราะห์",
+      "ใบอนุญาตผลิตยาที่ผู้ผลิตรายหนึ่งใช้ผลิตในทุกประเทศอาเซียนได้",
+      "ฐานข้อมูลรายชื่อผู้ผลิตยาทั่วโลกที่อาเซียนรวบรวมไว้"
      ],
-     "e": "ผู้ยื่นปรับรูปแบบได้ตามความเหมาะสมเพื่อให้การประเมินเข้าใจง่าย; ACTR = ASEAN Common Technical Requirements"
+     "e": "ผู้ยื่นปรับรูปแบบได้ตามความเหมาะสมเพื่อให้การประเมินเข้าใจง่าย; ACTR = ASEAN Common Technical Requirements | รายละเอียดคำตอบ: แนวปฏิบัติร่วมกันที่ตกลงกันของรูปแบบเอกสารการขึ้นทะเบียนผลิตภัณฑ์ยาสำหรับมนุษย์ เพื่อยื่นต่อหน่วยงานกำกับดูแลในภูมิภาคอาเซียน"
     },
     {
      "t": "ACTD",
      "q": "ACTD แบ่งเป็น 4 ส่วน ข้อใดอธิบายเนื้อหาของแต่ละส่วนได้ถูกต้อง",
-     "a": "Part 1 สารบัญ ข้อมูลธุรการและข้อมูลผลิตภัณฑ์ ; Part 2 เอกสารด้านคุณภาพ ; Part 3 เอกสารที่ไม่ใช่ข้อมูลทางคลินิก (ศึกษาในสัตว์ทดลอง) ; Part 4 เอกสารทางคลินิก",
+     "a": "Part 1 ธุรการ ; Part 2 คุณภาพ ; Part 3 non-clinical ; Part 4 คลินิก",
      "w": [
-      "Part 1 เอกสารทางคลินิก ; Part 2 เอกสารที่ไม่ใช่ทางคลินิก ; Part 3 คุณภาพ ; Part 4 ธุรการ",
-      "Part 1 คุณภาพ ; Part 2 ธุรการ ; Part 3 ทางคลินิก ; Part 4 ที่ไม่ใช่ทางคลินิก",
-      "ทั้ง 4 ส่วนเป็นเอกสารด้านราคาและการตลาด",
-      "Part 1–4 เป็นเอกสารด้านคุณภาพทั้งหมด"
+      "Part 1 คลินิก ; Part 2 non-clinical ; Part 3 คุณภาพ ; Part 4 ธุรการ",
+      "Part 1 คุณภาพ ; Part 2 ธุรการ ; Part 3 คลินิก ; Part 4 non-clinical",
+      "Part 1 non-clinical ; Part 2 คลินิก ; Part 3 ธุรการ ; Part 4 คุณภาพ",
+      "Part 1 ธุรการ ; Part 2 non-clinical ; Part 3 คุณภาพ ; Part 4 คลินิก"
      ],
-     "e": "Part 3 สำหรับ NCE แต่ไม่จำเป็นสำหรับ MiV (minor variation) ในบางกรณี"
+     "e": "Part 3 สำหรับ NCE แต่ไม่จำเป็นสำหรับ MiV (minor variation) ในบางกรณี | รายละเอียดคำตอบ: Part 1 สารบัญ ข้อมูลธุรการและข้อมูลผลิตภัณฑ์ ; Part 2 เอกสารด้านคุณภาพ ; Part 3 เอกสารที่ไม่ใช่ข้อมูลทางคลินิก (ศึกษาในสัตว์ทดลอง) ; Part 4 เอกสารทางคลินิก"
     },
     {
      "t": "ประเภทผลิตภัณฑ์",
      "q": "ตัวย่อ NCE, GP, Biotech, MaV และ MiV หมายถึงข้อใดตามลำดับ",
-     "a": "New Chemical Entity, Generic Product, ผลิตภัณฑ์จากเทคโนโลยีชีวภาพ, Major Variation และ Minor Variation",
+     "a": "New Chemical Entity, Generic Product, Biotech, Major และ Minor Variation",
      "w": [
       "New Clinical Evidence, Good Practice, Biotech, Major Vote และ Minor Vote",
       "National Chemical Entity, Government Product, Biologics, Major Version และ Minor Version",
       "New Compound Evaluation, Generic Patent, Biopharma, Maximum Variation และ Minimum Variation",
       "Nonclinical Evidence, General Pharmacy, Biotech, Main Variant และ Minor Variant"
      ],
-     "e": "Major variation = การเปลี่ยนแปลงที่ส่งผลต่อวิธีการให้ยา ความแรง/posology หรือข้อบ่งใช้ อาจต้องยื่นข้อมูลเพิ่ม; Minor variation = ไม่กระทบสิ่งเหล่านี้หรือตัวยาสำคัญ"
+     "e": "Major variation = การเปลี่ยนแปลงที่ส่งผลต่อวิธีการให้ยา ความแรง/posology หรือข้อบ่งใช้ อาจต้องยื่นข้อมูลเพิ่ม; Minor variation = ไม่กระทบสิ่งเหล่านี้หรือตัวยาสำคัญ | รายละเอียดคำตอบ: New Chemical Entity, Generic Product, ผลิตภัณฑ์จากเทคโนโลยีชีวภาพ, Major Variation และ Minor Variation"
     },
     {
      "t": "Nonclinical",
      "q": "Part III Nonclinical document ประกอบด้วย section ใดบ้าง",
-     "a": "Section A Table of contents, B Nonclinical overview, C Nonclinical written and tabulated summaries, D Nonclinical study reports, E List of key literature references",
+     "a": "A สารบัญ, B Nonclinical overview, C summaries, D study reports, E references",
      "w": [
       "Section A Pricing, B Marketing, C Sales, D Distribution, E Logistics",
       "Section A Batch records, B Process validation, C Stability, D GMP, E Labeling",
       "Section A Patents, B Trademark, C Copyright, D Designs, E Trade secrets",
       "Section A Clinical, B Quality, C Administrative, D Legal, E Financial"
      ],
-     "e": "เอกสารเน้นข้อมูลด้านเภสัชวิทยา เภสัชจลนศาสตร์ และพิษวิทยาจากการศึกษาในสัตว์ทดลอง"
+     "e": "เอกสารเน้นข้อมูลด้านเภสัชวิทยา เภสัชจลนศาสตร์ และพิษวิทยาจากการศึกษาในสัตว์ทดลอง | รายละเอียดคำตอบ: Section A Table of contents, B Nonclinical overview, C Nonclinical written and tabulated summaries, D Nonclinical study reports, E List of key literature references"
     },
     {
      "t": "Nonclinical",
@@ -570,158 +570,158 @@
     {
      "t": "Nonclinical Overview",
      "q": "Section B: Nonclinical overview มีวัตถุประสงค์อะไร",
-     "a": "ให้ภาพรวมเชิงวิเคราะห์ วิจารณ์ และเชื่อมโยงข้อมูลที่ไม่ใช่ทางคลินิกทั้งหมดกับคุณภาพยาและผลทางคลินิก เพื่อสนับสนุนความปลอดภัยของการใช้ผลิตภัณฑ์ (อ้างอิงข้าม section ได้)",
+     "a": "ภาพรวมเชิงวิเคราะห์เชื่อมโยงข้อมูล nonclinical กับความปลอดภัย",
      "w": [
-      "เป็นเพียงสารบัญของเอกสาร",
-      "เป็นการคัดลอกรายงานการศึกษาทุกฉบับทั้งหมด",
-      "เป็นเอกสารเฉพาะราคาและการตลาด",
-      "เป็นรายการอุปกรณ์ในห้องปฏิบัติการ"
+      "เป็นสารบัญของเอกสาร nonclinical ที่ระบุเลขหน้าของแต่ละรายงาน",
+      "เป็นการคัดลอกรายงานการศึกษาทุกฉบับมารวมไว้ในเล่มเดียว",
+      "เป็นเอกสารสรุปราคาและแผนการตลาดของผลิตภัณฑ์ใหม่",
+      "เป็นรายการอุปกรณ์และสารเคมีที่ใช้ในห้องปฏิบัติการสัตว์ทดลอง"
      ],
-     "e": "ประกอบด้วย overview of nonclinical testing strategy, pharmacology, pharmacokinetics, toxicology, integrated overview and conclusion, list of literature citation"
+     "e": "ประกอบด้วย overview of nonclinical testing strategy, pharmacology, pharmacokinetics, toxicology, integrated overview and conclusion, list of literature citation | รายละเอียดคำตอบ: ให้ภาพรวมเชิงวิเคราะห์ วิจารณ์ และเชื่อมโยงข้อมูลที่ไม่ใช่ทางคลินิกทั้งหมดกับคุณภาพยาและผลทางคลินิก เพื่อสนับสนุนความปลอดภัยของการใช้ผลิตภัณฑ์ (อ้างอิงข้าม section ได้)"
     },
     {
      "t": "Nonclinical Summary",
      "q": "Section C: Nonclinical written and tabulated summaries ควรมีลักษณะอย่างไร",
-     "a": "ไม่ควรเกิน 100–150 หน้า ประกอบด้วยบทสรุปแบบบรรยายและแบบตารางของ pharmacology, pharmacokinetics และ toxicology จัดลำดับตาม species และ route of administration",
+     "a": "ไม่เกิน 100–150 หน้า สรุป pharmacology, PK, toxicology ตาม species",
      "w": [
-      "ต้องเกิน 1,000 หน้าเสมอ",
-      "ต้องเป็นตารางอย่างเดียวห้ามมีคำบรรยาย",
-      "ต้องเขียนเฉพาะเรื่องราคาและกำไร",
-      "ไม่ต้องจัดลำดับตาม species"
+      "ต้องเกิน 1,000 หน้าเสมอ เพื่อให้ครบทุกรายงานที่ทำ",
+      "ต้องเป็นตารางอย่างเดียว ห้ามมีคำบรรยายประกอบ",
+      "ต้องเขียนเฉพาะ pharmacology โดยไม่ต้องมี toxicology",
+      "ไม่ต้องจัดลำดับตาม species เพราะรวมข้อมูลทุก species ไว้ด้วยกัน"
      ],
-     "e": "ยังมี introduction สั้น ๆ เกี่ยวกับโครงสร้างยา ข้อบ่งใช้ และขนาดยา"
+     "e": "ยังมี introduction สั้น ๆ เกี่ยวกับโครงสร้างยา ข้อบ่งใช้ และขนาดยา | รายละเอียดคำตอบ: ไม่ควรเกิน 100–150 หน้า ประกอบด้วยบทสรุปแบบบรรยายและแบบตารางของ pharmacology, pharmacokinetics และ toxicology จัดลำดับตาม species และ route of administration"
     },
     {
      "t": "Pharmacology",
      "q": "หัวข้อใดอยู่ใน Pharmacology section ของ nonclinical summary",
-     "a": "Primary pharmacodynamics, secondary pharmacodynamics, safety pharmacology และ pharmacodynamic drug interactions",
+     "a": "Primary/secondary pharmacodynamics และ safety pharmacology",
      "w": [
-      "Absorption, distribution, metabolism และ excretion",
+      "Absorption, distribution, metabolism และ excretion ของสาร",
       "Single dose toxicity, repeat dose toxicity และ genotoxicity",
-      "Batch formula, process validation และ stability",
-      "Labeling, leaflet และ GMP certificate"
+      "Batch formula, process validation และ stability ของผลิตภัณฑ์",
+      "Labeling, leaflet และ GMP certificate ของผู้ผลิต"
      ],
-     "e": "ตัวอย่างหัวข้อ: in vitro (เช่น isolated rat atria), in vivo (haemodynamic effects), pharmacodynamics of metabolite; safety pharmacology: cardiovascular, visual, CNS; interaction เช่น กับ warfarin"
+     "e": "ตัวอย่างหัวข้อ: in vitro (เช่น isolated rat atria), in vivo (haemodynamic effects), pharmacodynamics of metabolite; safety pharmacology: cardiovascular, visual, CNS; interaction เช่น กับ warfarin | รายละเอียดคำตอบ: Primary pharmacodynamics, secondary pharmacodynamics, safety pharmacology และ pharmacodynamic drug interactions"
     },
     {
      "t": "Pharmacokinetics",
      "q": "Pharmacokinetics section ของ nonclinical summary ประกอบด้วยหัวข้อใดบ้าง",
-     "a": "Methods of analysis (bioanalytical), absorption, distribution, metabolism, excretion, PK drug interaction และ other PK studies",
+     "a": "Methods of analysis, ADME และ PK drug interaction",
      "w": [
-      "Carcinogenicity, genotoxicity และ local tolerance",
-      "Primary และ secondary pharmacodynamics เท่านั้น",
-      "Raw material specification และ container closure",
-      "Package insert และ advertising"
+      "Carcinogenicity, genotoxicity และ local tolerance ของสาร",
+      "Primary และ secondary pharmacodynamics ของสารสำคัญ",
+      "Raw material specification และ container closure system",
+      "Package insert, advertising และข้อความบนฉลาก"
      ],
-     "e": "ตัวอย่าง: plasma protein binding, cardiac distribution, placenta transfer, in vitro/in vivo metabolism, interspecies metabolism, elimination parameters, total and renal clearance"
+     "e": "ตัวอย่าง: plasma protein binding, cardiac distribution, placenta transfer, in vitro/in vivo metabolism, interspecies metabolism, elimination parameters, total and renal clearance | รายละเอียดคำตอบ: Methods of analysis (bioanalytical), absorption, distribution, metabolism, excretion, PK drug interaction และ other PK studies"
     },
     {
      "t": "Toxicology",
      "q": "หัวข้อใดจัดอยู่ใน Toxicology section",
-     "a": "Single dose, repeat dose, genotoxicity, carcinogenicity, reproductive and developmental toxicity, local tolerance และ other toxicity studies",
+     "a": "Single/repeat dose, genotoxicity, carcinogenicity",
      "w": [
-      "Absorption และ distribution เท่านั้น",
-      "Primary pharmacodynamics เท่านั้น",
-      "Stability และ shelf life",
-      "Bioequivalence studies ในอาสาสมัคร"
+      "Absorption, distribution และ metabolism ของสารในสัตว์ทดลอง",
+      "Primary pharmacodynamics และ safety pharmacology ของสาร",
+      "Stability, shelf life และ container closure ของผลิตภัณฑ์",
+      "Bioequivalence studies ในอาสาสมัครสุขภาพดี"
      ],
-     "e": "Reproductive toxicity แบ่งเป็น fertility/early embryonic development, embryo-fetal development และ pre- and post-natal development รวมถึง maternal function"
+     "e": "Reproductive toxicity แบ่งเป็น fertility/early embryonic development, embryo-fetal development และ pre- and post-natal development รวมถึง maternal function | รายละเอียดคำตอบ: Single dose, repeat dose, genotoxicity, carcinogenicity, reproductive and developmental toxicity, local tolerance และ other toxicity studies"
     },
     {
      "t": "Nonclinical",
      "q": "แนวทาง/แหล่งอ้างอิงใดเกี่ยวข้องกับการศึกษา nonclinical สำหรับ ACTR",
-     "a": "Guidelines to ACTR on Nonclinical Data และ ICH guidelines เช่น M3 (nonclinical safety studies) และ safety pharmacology guideline",
+     "a": "Guidelines to ACTR on Nonclinical Data และ ICH M3",
      "w": [
-      "ASEAN Tourism Agreement",
-      "Codex Alimentarius",
-      "ISO 9001 เกี่ยวกับการบริหารคุณภาพทั่วไปเท่านั้น",
-      "WTO Trade Facilitation Agreement"
+      "ASEAN Tourism Agreement และข้อตกลงการท่องเที่ยวเชิงสุขภาพ",
+      "Codex Alimentarius ว่าด้วยมาตรฐานอาหารระหว่างประเทศ",
+      "ISO 9001 ว่าด้วยการบริหารคุณภาพองค์กรทั่วไปเท่านั้น",
+      "WTO Trade Facilitation Agreement ว่าด้วยพิธีการศุลกากร"
      ],
-     "e": "มีแนวทางเฉพาะด้านเภสัชจลนศาสตร์ (tissue distribution after repeated dosing) และ toxicokinetics ด้วย"
+     "e": "มีแนวทางเฉพาะด้านเภสัชจลนศาสตร์ (tissue distribution after repeated dosing) และ toxicokinetics ด้วย | รายละเอียดคำตอบ: Guidelines to ACTR on Nonclinical Data และ ICH guidelines เช่น M3 (nonclinical safety studies) และ safety pharmacology guideline"
     },
     {
      "t": "Tabulated Summary",
      "q": "Tabulated summary ของ pharmacology/PK ควรแสดงข้อมูลอะไร",
-     "a": "ชนิดการศึกษา ระบบทดสอบ/สปีชีส์ เส้นทางการให้ยา สถานที่ทดสอบ เลขที่รายงาน และตำแหน่งของรายงานในเอกสาร (location in dossier)",
+     "a": "ชนิดการศึกษา สปีชีส์ เส้นทางให้ยา และเลขที่รายงาน",
      "w": [
-      "เฉพาะชื่อผู้ซื้อยา",
-      "เฉพาะราคาและส่วนลด",
-      "เฉพาะรูปถ่ายอุปกรณ์",
-      "เฉพาะชื่อรถขนส่ง"
+      "ชื่อผู้ซื้อยา ราคาซื้อ และเงื่อนไขการชำระเงินของผลิตภัณฑ์",
+      "ราคา ส่วนลด และโปรโมชันที่ใช้ในการขายผลิตภัณฑ์",
+      "รูปถ่ายอุปกรณ์ในห้องทดลอง และใบรับรองการสอบเทียบเครื่องมือ",
+      "ชื่อรถขนส่ง เส้นทางการเดินทาง และตารางการส่งมอบตัวอย่าง"
      ],
-     "e": "ในตาราง PK อาจระบุ จำนวนสัตว์/เพศ สภาวะการให้อาหาร vehicle/formulation วิธีและขนาดยา ตัวอย่างที่ใช้ analyte วิธีวิเคราะห์ และค่า PK parameters"
+     "e": "ในตาราง PK อาจระบุ จำนวนสัตว์/เพศ สภาวะการให้อาหาร vehicle/formulation วิธีและขนาดยา ตัวอย่างที่ใช้ analyte วิธีวิเคราะห์ และค่า PK parameters | รายละเอียดคำตอบ: ชนิดการศึกษา ระบบทดสอบ/สปีชีส์ เส้นทางการให้ยา สถานที่ทดสอบ เลขที่รายงาน และตำแหน่งของรายงานในเอกสาร (location in dossier)"
     },
     {
      "t": "Nonclinical",
      "q": "ข้อมูล nonclinical มีความสำคัญต่อการขึ้นทะเบียนยาใหม่อย่างไร",
-     "a": "ใช้ประเมินเบื้องต้นด้านฤทธิ์ ความปลอดภัย และกลไกก่อนทดลองในมนุษย์ และสนับสนุนความปลอดภัยของการใช้ทางคลินิก",
+     "a": "ประเมินฤทธิ์และความปลอดภัยก่อนทดลองในมนุษย์",
      "w": [
-      "ใช้กำหนดราคาขายยาเท่านั้น",
-      "ใช้ออกแบบโฆษณาเท่านั้น",
-      "ไม่มีความสำคัญต่อการประเมินความปลอดภัย",
-      "ใช้แทนข้อมูลคุณภาพ (Part II) ทั้งหมดได้"
+      "ใช้กำหนดราคาขายยาและส่วนลดการค้าตามต้นทุนการวิจัยเท่านั้น",
+      "ใช้ออกแบบข้อความโฆษณาและสื่อการตลาดของผลิตภัณฑ์เท่านั้น",
+      "ไม่มีความสำคัญต่อการประเมินความปลอดภัยของยาในมนุษย์",
+      "ใช้แทนข้อมูลคุณภาพ (Part II) ได้ทั้งหมดเมื่อเป็น NCE"
      ],
-     "e": "สำหรับ NCE ต้องยื่น Part III; ผลิตภัณฑ์บางประเภท (เช่น MiV หรือ generic) อาจไม่ต้องยื่นทั้งหมด"
+     "e": "สำหรับ NCE ต้องยื่น Part III; ผลิตภัณฑ์บางประเภท (เช่น MiV หรือ generic) อาจไม่ต้องยื่นทั้งหมด | รายละเอียดคำตอบ: ใช้ประเมินเบื้องต้นด้านฤทธิ์ ความปลอดภัย และกลไก ก่อนทดลองในมนุษย์ และสนับสนุนความปลอดภัยทางคลินิก"
     },
     {
      "t": "Nonclinical",
      "q": "ยาประเภทใดตามตัวย่อในเอกสารต้องยื่นข้อมูล nonclinical หัวข้อ pharmacology ตามตารางของ ACTD",
-     "a": "NCE, Biotech, RT (route), S/P (strength/posology), IND (indication), MiV และ GP ตามที่ระบุในตารางข้อกำหนดของแต่ละหัวข้อ",
+     "a": "NCE, Biotech, RT, S/P, IND, MiV และ GP ตามตารางข้อกำหนด",
      "w": [
-      "เฉพาะยาสมุนไพรเท่านั้น",
-      "เฉพาะเครื่องมือแพทย์เท่านั้น",
-      "เฉพาะเครื่องสำอางเท่านั้น",
-      "ไม่มีผลิตภัณฑ์ใดต้องยื่น"
+      "เฉพาะยาสมุนไพรที่ผลิตภายในประเทศและมีการใช้มานานแล้ว",
+      "เฉพาะเครื่องมือแพทย์ที่ใช้งานร่วมกับยาฉีดเท่านั้น",
+      "เฉพาะเครื่องสำอางที่มีส่วนผสมของสารออกฤทธิ์ทางยา",
+      "ไม่มีผลิตภัณฑ์ใดต้องยื่นข้อมูลหัวข้อนี้ในตาราง ACTD"
      ],
-     "e": "ตารางแต่ละหัวข้อ (เช่น 1.1 primary pharmacology, 3.2 repeat dose toxicity) ระบุประเภทผลิตภัณฑ์ที่ต้องยื่นอย่างชัดเจน"
+     "e": "ตารางแต่ละหัวข้อ (เช่น 1.1 primary pharmacology, 3.2 repeat dose toxicity) ระบุประเภทผลิตภัณฑ์ที่ต้องยื่นอย่างชัดเจน | รายละเอียดคำตอบ: NCE, Biotech, RT (route), S/P (strength/posology), IND (indication), MiV และ GP ตามที่ระบุในตารางข้อกำหนดของแต่ละหัวข้อ"
     },
     {
      "t": "Nonclinical",
      "q": "การศึกษา safety pharmacology ใน nonclinical มักประเมินระบบใด",
-     "a": "ระบบหัวใจและหลอดเลือด ระบบประสาทส่วนกลาง และระบบอื่น เช่น การมองเห็น (visual system)",
+     "a": "ระบบหัวใจ ระบบประสาทส่วนกลาง และระบบอื่น",
      "w": [
-      "เฉพาะระบบสืบพันธุ์",
-      "เฉพาะระบบผิวหนังเท่านั้น",
-      "เฉพาะระบบย่อยอาหารเท่านั้น",
-      "ไม่ประเมินระบบใดเลย"
+      "ระบบสืบพันธุ์และพัฒนาการของตัวอ่อนในครรภ์เป็นหลัก",
+      "ระบบผิวหนังและความระคายเคืองเฉพาะที่เท่านั้น",
+      "ระบบย่อยอาหารและการดูดซึมของยาผ่านลำไส้เท่านั้น",
+      "ไม่ประเมินระบบอวัยวะใดเลย เพราะทำเฉพาะ in vitro"
      ],
-     "e": "Safety pharmacology เป็นการศึกษาผลที่ไม่พึงประสงค์ของยาต่อหน้าที่สำคัญของร่างกายก่อนใช้ในมนุษย์"
+     "e": "Safety pharmacology เป็นการศึกษาผลที่ไม่พึงประสงค์ของยาต่อหน้าที่สำคัญของร่างกายก่อนใช้ในมนุษย์ | รายละเอียดคำตอบ: ระบบหัวใจและหลอดเลือด ระบบประสาทส่วนกลาง และระบบอื่น เช่น การมองเห็น (visual system)"
     },
     {
      "t": "Toxicology",
      "q": "Genotoxicity และ carcinogenicity ใน toxicology section ศึกษาเรื่องใด",
-     "a": "ศักยภาพของสารในการทำลายสารพันธุกรรม/ก่อกลายพันธุ์ และการก่อมะเร็งจากการได้รับสารเป็นเวลานาน",
+     "a": "ศักยภาพในการก่อกลายพันธุ์ และก่อมะเร็งจากการได้รับสารนาน ๆ",
      "w": [
-      "ความสามารถในการละลายของสารในน้ำเท่านั้น",
-      "ความสามารถในการดูดซึมผ่านผิวหนังเท่านั้น",
-      "ราคาของสารเมื่อผลิตในระดับอุตสาหกรรม",
-      "ความนิยมของสารในตลาด"
+      "ความสามารถในการละลายของสารในน้ำและตัวทำละลายอินทรีย์",
+      "ความสามารถในการดูดซึมผ่านผิวหนังและเยื่อบุทางเดินอาหาร",
+      "ราคาของสารเมื่อผลิตในระดับอุตสาหกรรมเต็มรูปแบบ",
+      "ความนิยมของสารในตลาดและความต้องการของผู้บริโภค"
      ],
-     "e": "แต่ละหัวข้อต้องรายงานผลการค้นพบหลัก (main experimental findings) และความเกี่ยวข้องของผลการทดลอง (relevance of findings)"
+     "e": "แต่ละหัวข้อต้องรายงานผลการค้นพบหลัก (main experimental findings) และความเกี่ยวข้องของผลการทดลอง (relevance of findings) | รายละเอียดคำตอบ: ศักยภาพของสารในการทำลายสารพันธุกรรม/ก่อกลายพันธุ์ และก่อมะเร็งจากการได้รับสารนาน ๆ"
     },
     {
      "t": "ACTD",
      "q": "ข้อใดถูกต้องเกี่ยวกับ ACTD Part 4 Clinical document",
-     "a": "เป็นข้อมูลการศึกษาทางคลินิกทั้งหมด เช่น BA/BE, human PK/PD, efficacy and safety",
+     "a": "ข้อมูลการศึกษาทางคลินิก เช่น BA/BE, human PK/PD, efficacy and safety",
      "w": [
-      "เป็นข้อมูลการศึกษาในสัตว์ทดลองทั้งหมด",
-      "เป็นข้อมูลการผลิตและควบคุมคุณภาพทั้งหมด",
-      "เป็นเฉพาะแบบคำขอและฉลาก",
-      "เป็นเฉพาะข้อมูลสิทธิบัตร"
+      "ข้อมูลการศึกษาในสัตว์ทดลองทั้งหมด เช่น toxicology และ pharmacology",
+      "ข้อมูลการผลิตและควบคุมคุณภาพทั้งหมด เช่น stability และ specification",
+      "แบบคำขอ ฉลาก และเอกสารกำกับยาของผลิตภัณฑ์เท่านั้น",
+      "ข้อมูลสิทธิบัตร อายุสิทธิบัตร และผู้ถือสิทธิของตัวยา"
      ],
      "e": "ACTD แบ่ง Part 3 และ Part 4 ที่ยื่นเมื่อร้องขอ (upon request) ในบางกรณีตามประเภทผลิตภัณฑ์"
     },
     {
      "t": "Nonclinical",
      "q": "ใน nonclinical overview คำว่า “integrated overview and conclusion” คืออะไร",
-     "a": "การสรุปภาพรวมที่เชื่อมโยงข้อมูล pharmacology, pharmacokinetics และ toxicology เข้าด้วยกัน พร้อมข้อสรุปเกี่ยวกับความปลอดภัยของผลิตภัณฑ์",
+     "a": "ภาพรวมเชื่อมโยง pharmacology, PK, toxicology พร้อมข้อสรุปความปลอดภัย",
      "w": [
-      "รายการราคายา",
-      "รายชื่อผู้สนับสนุนทุนวิจัย",
-      "รายการอุปกรณ์ที่ใช้ในห้องแล็บ",
-      "รายงานบัญชีการเงินของบริษัท"
+      "รายการราคายาและเงื่อนไขการเบิกจ่ายของผลิตภัณฑ์ที่ขอขึ้นทะเบียน",
+      "รายชื่อผู้สนับสนุนทุนวิจัยและผู้ร่วมวิจัยของโครงการ",
+      "รายการอุปกรณ์ที่ใช้ในห้องปฏิบัติการและสถานที่ทำวิจัย",
+      "รายงานบัญชีการเงินของบริษัทผู้ยื่นขอขึ้นทะเบียน"
      ],
-     "e": "ควรแนบรายการเอกสารอ้างอิงที่สำคัญ (list of key literature references) ด้วย"
+     "e": "ควรแนบรายการเอกสารอ้างอิงที่สำคัญ (list of key literature references) ด้วย | รายละเอียดคำตอบ: การสรุปภาพรวมที่เชื่อมโยงข้อมูล pharmacology, pharmacokinetics และ toxicology เข้าด้วยกัน พร้อมข้อสรุปเกี่ยวกับความปลอดภัยของผลิตภัณฑ์"
     },
     {
      "t": "Pharmacokinetics",
@@ -738,14 +738,14 @@
     {
      "t": "ACTD",
      "q": "หลักการที่ทำให้ ACTD แตกต่างจากแบบคำขอเดิมของประเทศไทยคือข้อใด",
-     "a": "เป็นรูปแบบเอกสารที่ประสานกันในภูมิภาคอาเซียน ผู้ยื่นใช้ชุดเอกสารเดียวยื่นต่อหลายประเทศได้ง่ายขึ้น",
+     "a": "เป็นรูปแบบเอกสารที่ประสานกันในอาเซียน ใช้ชุดเดียวยื่นหลายประเทศ",
      "w": [
-      "เป็นเอกสารที่เฉพาะประเทศไทยเท่านั้น",
-      "เป็นเอกสารที่ใช้ได้เฉพาะกับยาสมุนไพร",
-      "เป็นเอกสารที่ไม่ต้องมีข้อมูลคุณภาพ",
-      "เป็นเอกสารที่ยื่นด้วยลายมือเท่านั้น"
+      "เป็นเอกสารที่ใช้ได้เฉพาะในประเทศไทยและไม่ยอมรับในประเทศอื่น",
+      "เป็นเอกสารที่ใช้ได้เฉพาะกับยาสมุนไพรและผลิตภัณฑ์เสริมอาหาร",
+      "เป็นเอกสารที่ไม่ต้องมีข้อมูลคุณภาพ ความปลอดภัย หรือประสิทธิภาพ",
+      "เป็นเอกสารที่ต้องยื่นเป็นกระดาษด้วยลายมือและส่งทางไปรษณีย์เท่านั้น"
      ],
-     "e": "ACTD พัฒนาตามแนว ICH CTD แต่ปรับเป็น 4 ส่วนและให้ Module/Part ทั่วไปใช้ร่วมกัน"
+     "e": "ACTD พัฒนาตามแนว ICH CTD แต่ปรับเป็น 4 ส่วนและให้ Module/Part ทั่วไปใช้ร่วมกัน | รายละเอียดคำตอบ: เป็นรูปแบบเอกสารที่ประสานกันในภูมิภาคอาเซียน ผู้ยื่นใช้ชุดเอกสารเดียวยื่นต่อหลายประเทศได้ง่ายขึ้น"
     }
    ]
   },
@@ -758,242 +758,242 @@
     {
      "t": "บทบาท อย.",
      "q": "บทบาทหน้าที่ของ อย. (Thai FDA) จัดกลุ่มได้เป็น 5 ด้านหลักตามเนื้อหาข้อใดถูกต้อง",
-     "a": "Pre-marketing control, post-marketing control, surveillance program for consumers’ safety, consumer education และ technical support/cooperation กับหน่วยงานอื่น",
+     "a": "Pre-marketing, post-marketing, surveillance, consumer education และ technical support",
      "w": [
-      "เฉพาะการกำหนดราคายาและควบคุมกำไรของผู้ผลิต",
-      "เฉพาะการโฆษณาและการตลาดของผู้ผลิต",
-      "เฉพาะการจัดซื้อยาให้โรงพยาบาลของรัฐ",
-      "เฉพาะการฝึกอบรมบุคลากรภายในหน่วยงาน"
+      "การกำหนดราคายา ควบคุมกำไรของผู้ผลิต จัดซื้อยา ให้โรงพยาบาลรัฐ และฝึกอบรมบุคลากร",
+      "การโฆษณา การตลาด การส่งออก การนำเข้า และการให้เงินทุนแก่ผู้ผลิตยา",
+      "การผลิตยาจำหน่าย การจัดซื้อยา การจัดสรรงบประมาณ การวิจัยตลาด และการบริการสุขภาพ",
+      "การเรียนการสอนในคณะเภสัชศาสตร์ การออกใบอนุญาตวิชาชีพ การรับรองหลักสูตร การวิจัยพื้นฐาน และการให้ทุน"
      ],
-     "e": "Pre-marketing: ควบคุมสถานที่ผลิต คุณภาพ และโฆษณาก่อนวางตลาด; Post-marketing: สุ่มตรวจและติดตามความสม่ำเสมอของการผลิต"
+     "e": "Pre-marketing: ควบคุมสถานที่ผลิต คุณภาพ และโฆษณาก่อนวางตลาด; Post-marketing: สุ่มตรวจและติดตามความสม่ำเสมอของการผลิต | รายละเอียดคำตอบ: Pre-marketing control, post-marketing control, surveillance program for consumers’ safety, consumer education และ technical support/cooperation กับหน่วยงานอื่น"
     },
     {
      "t": "บทบาท อย.",
      "q": "ข้อใดเป็นหน้าที่ของกองยา (Bureau of Drug Control) ตามเนื้อหา",
-     "a": "อนุมัติการขึ้นทะเบียนตำรับยา อนุมัติ/ติดตามการเปลี่ยนแปลง (variation) ติดตามยาในท้องตลาด ตรวจสอบโฆษณา ตรวจ GMP และพิจารณาการศึกษาทางคลินิก",
+     "a": "อนุมัติขึ้นทะเบียน ติดตามยาในท้องตลาด ตรวจโฆษณา ตรวจ GMP และพิจารณาการศึกษาทางคลินิก",
      "w": [
-      "ตัดสินการเลือกตั้งภายในกระทรวง",
-      "ผลิตยาจำหน่ายแข่งขันกับภาคเอกชนโดยตรง",
-      "กำหนดค่าจ้างของแพทย์ทุกโรงพยาบาล",
-      "จัดการเรียนการสอนในคณะเภสัชศาสตร์"
+      "กำหนดราคายา ควบคุมกำไร จัดซื้อยาให้โรงพยาบาลรัฐ และกำหนดค่าตอบแทนแพทย์",
+      "ผลิตยาจำหน่ายแข่งกับภาคเอกชน รับรองหลักสูตรเภสัชศาสตร์ และออกใบอนุญาตวิชาชีพ",
+      "พิจารณาการเลือกตั้งภายในกระทรวง จัดการงบประมาณ และจัดสรรบุคลากร",
+      "จัดการเรียนการสอนในคณะเภสัชศาสตร์ ฝึกอบรมแพทย์ และออกประกาศนียบัตรวิชาชีพ"
      ],
-     "e": "ยังออกหนังสือรับรองผลิตภัณฑ์ยารูปแบบ WHO (CPP) เพื่อการส่งออก และพัฒนานโยบายยาแห่งชาติ"
+     "e": "ยังออกหนังสือรับรองผลิตภัณฑ์ยารูปแบบ WHO (CPP) เพื่อการส่งออก และพัฒนานโยบายยาแห่งชาติ | รายละเอียดคำตอบ: อนุมัติการขึ้นทะเบียนตำรับยา อนุมัติ/ติดตามการเปลี่ยนแปลง (variation) ติดตามยาในท้องตลาด ตรวจสอบโฆษณา ตรวจ GMP และพิจารณาการศึกษาทางคลินิก"
     },
     {
      "t": "คณะกรรมการยา",
      "q": "คณะกรรมการยาตาม พ.ร.บ.ยา มีลักษณะอย่างไร",
-     "a": "แต่งตั้งโดยรัฐมนตรีว่าการกระทรวงสาธารณสุขทุก 2 ปี มีกรรมการประจำ 14 คน (5 คนโดยตำแหน่ง) และแต่งตั้งอนุกรรมการเพื่อช่วยงานเฉพาะด้าน",
+     "a": "แต่งตั้งโดยรัฐมนตรีฯ ทุก 2 ปี กรรมการประจำ 14 คน และมีอนุกรรมการ",
      "w": [
-      "แต่งตั้งทุก 10 ปี มีกรรมการ 3 คน",
-      "แต่งตั้งโดยผู้ผลิตยาเอง ไม่มีอนุกรรมการ",
-      "ไม่มีอำนาจอนุมัติหรือเพิกถอนทะเบียนตำรับยา",
-      "เป็นคณะกรรมการเฉพาะกิจที่ไม่มีวาระ"
+      "แต่งตั้งโดยรัฐมนตรีว่าการกระทรวงสาธารณสุขทุก 10 ปี มีกรรมการประจำ 3 คน",
+      "แต่งตั้งโดยผู้ผลิตยาเอง ไม่มีอนุกรรมการ และไม่มีวาระดำรงตำแหน่ง",
+      "ไม่มีอำนาจอนุมัติหรือเพิกถอนทะเบียนตำรับยา ทำหน้าที่ให้คำปรึกษาเท่านั้น",
+      "เป็นคณะกรรมการเฉพาะกิจที่ไม่มีวาระ และแต่งตั้งโดยนายกรัฐมนตรี"
      ],
-     "e": "มีอำนาจอนุมัติหรือเพิกถอนทะเบียนตำรับยา กำหนดมาตรฐาน หลักเกณฑ์ และพักหรือเพิกถอนใบอนุญาตผลิต นำเข้า จำหน่าย"
+     "e": "มีอำนาจอนุมัติหรือเพิกถอนทะเบียนตำรับยา กำหนดมาตรฐาน หลักเกณฑ์ และพักหรือเพิกถอนใบอนุญาตผลิต นำเข้า จำหน่าย | รายละเอียดคำตอบ: แต่งตั้งโดยรัฐมนตรีว่าการกระทรวงสาธารณสุขทุก 2 ปี มีกรรมการประจำ 14 คน (5 คนโดยตำแหน่ง) และแต่งตั้งอนุกรรมการเพื่อช่วยงานเฉพาะด้าน"
     },
     {
      "t": "คณะกรรมการยา",
      "q": "อนุกรรมการชุดใดในรายการต่อไปนี้ที่เกี่ยวข้องกับยาชีววัตถุโดยตรง",
-     "a": "อนุกรรมการพิจารณาอนุมัติการขึ้นทะเบียนตำรับยาแผนปัจจุบันสำหรับมนุษย์ที่เป็นยาชีววัตถุ และอนุกรรมการกำหนดหลักเกณฑ์ยาชีววัตถุ",
+     "a": "อนุกรรมการอนุมัติทะเบียนยาชีววัตถุ และกำหนดหลักเกณฑ์ยาชีววัตถุ",
      "w": [
-      "อนุกรรมการพิจารณาการขึ้นทะเบียนตำรับยาแผนโบราณเท่านั้น",
-      "อนุกรรมการเกี่ยวกับยาสัตว์เท่านั้น",
-      "อนุกรรมการพิจารณาโฆษณาเท่านั้น",
-      "ไม่มีอนุกรรมการชุดใดเกี่ยวข้องกับยาชีววัตถุ"
+      "อนุกรรมการพิจารณาการขึ้นทะเบียนตำรับยาแผนโบราณและยาสมุนไพรเท่านั้น",
+      "อนุกรรมการเกี่ยวกับยาสำหรับสัตว์และผลิตภัณฑ์ที่ใช้ในสัตว์เท่านั้น",
+      "อนุกรรมการพิจารณาการโฆษณายาและสื่อโฆษณาเท่านั้น",
+      "ไม่มีอนุกรรมการชุดใดเกี่ยวข้องกับยาชีววัตถุโดยตรง"
      ],
-     "e": "มีอนุกรรมการ 19 ชุด เช่น ยาใหม่ ยาสามัญ ยาชีววัตถุ ยาสัตว์ การประเมินซ้ำยาที่ขึ้นทะเบียน ความปลอดภัยการใช้ยา โฆษณายา GMP ความสมมูลทางชีวภาพ (BE) และ GCP inspection"
+     "e": "มีอนุกรรมการ 19 ชุด เช่น ยาใหม่ ยาสามัญ ยาชีววัตถุ ยาสัตว์ การประเมินซ้ำยาที่ขึ้นทะเบียน ความปลอดภัยการใช้ยา โฆษณายา GMP ความสมมูลทางชีวภาพ (BE) และ GCP inspection | รายละเอียดคำตอบ: อนุกรรมการพิจารณาอนุมัติการขึ้นทะเบียนตำรับยาแผนปัจจุบันสำหรับมนุษย์ที่เป็นยาชีววัตถุ และอนุกรรมการกำหนดหลักเกณฑ์ยาชีววัตถุ"
     },
     {
      "t": "ATMPs",
      "q": "ผลิตภัณฑ์การแพทย์ขั้นสูง (ATMPs) คืออะไรและมีกี่ประเภทหลัก",
-     "a": "ผลิตภัณฑ์ทางการแพทย์สำหรับมนุษย์ที่มีส่วนผสมของยีน เซลล์ หรือเนื้อเยื่อที่มีชีวิต แบ่งเป็น 4 ประเภท: gene therapy, somatic cell therapy, tissue engineered products และ combined ATMPs",
+     "a": "ผลิตภัณฑ์จากยีน เซลล์ หรือเนื้อเยื่อมีชีวิต แบ่งเป็น 4 ประเภท",
      "w": [
-      "ยาเม็ดเคลือบฟิล์มชนิดใหม่ มี 2 ประเภท",
-      "เครื่องมือแพทย์ที่ไม่มีเซลล์ มี 3 ประเภท",
-      "วัคซีนชนิดเชื้อตายเท่านั้น มี 1 ประเภท",
-      "สมุนไพรที่สกัดแล้ว มี 5 ประเภท"
+      "ยาเม็ดเคลือบฟิล์มชนิดใหม่ที่ปลดปล่อยยาช้า แบ่งเป็น 2 ประเภท",
+      "เครื่องมือแพทย์ที่ไม่มีเซลล์หรือยีนเป็นส่วนผสม แบ่งเป็น 3 ประเภท",
+      "วัคซีนชนิดเชื้อตายที่ใช้ป้องกันโรคติดเชื้อ แบ่งเป็น 1 ประเภท",
+      "สมุนไพรที่สกัดแล้วและผลิตภัณฑ์เสริมอาหาร แบ่งเป็น 5 ประเภท"
      ],
-     "e": "Combined ATMPs = เซลล์หรือเนื้อเยื่อร่วมกับเครื่องมือแพทย์"
+     "e": "Combined ATMPs = เซลล์หรือเนื้อเยื่อร่วมกับเครื่องมือแพทย์ | รายละเอียดคำตอบ: ผลิตภัณฑ์ทางการแพทย์สำหรับมนุษย์ที่มีส่วนผสมของยีน เซลล์ หรือเนื้อเยื่อที่มีชีวิต แบ่งเป็น 4 ประเภท: gene therapy, somatic cell therapy, tissue engineered products และ combined ATMPs"
     },
     {
      "t": "ATMPs",
      "q": "ข้อควรระวังในการรักษาด้วย ATMPs คือข้อใด",
-     "a": "ข้อมูลความปลอดภัยระยะยาวยังจำกัด การใช้เซลล์จากผู้อื่นอาจเกิดการปฏิเสธหรือติดเชื้อ และการผลิตที่ไม่ได้มาตรฐาน GMP เสี่ยงต่อการปนเปื้อนและคุณภาพเบี่ยงเบน",
+     "a": "ข้อมูลระยะยาวจำกัด เซลล์จากผู้อื่นอาจถูกปฏิเสธ และเสี่ยงปนเปื้อน",
      "w": [
-      "ปลอดภัยทุกกรณีและมีข้อมูลระยะยาวครบถ้วน",
-      "ไม่มีความเสี่ยงต่อการติดเชื้อเลย",
-      "ไม่ต้องผลิตตามมาตรฐาน GMP",
-      "ใช้ได้เฉพาะในสัตว์เท่านั้น"
+      "ปลอดภัยทุกกรณีและมีข้อมูลความปลอดภัยระยะยาวครบถ้วนแล้ว",
+      "ไม่มีความเสี่ยงต่อการติดเชื้อหรือการปนเปื้อนไม่ว่าผลิตที่ใด",
+      "ไม่จำเป็นต้องผลิตตามมาตรฐาน GMP เพราะเป็นผลิตภัณฑ์เฉพาะราย",
+      "ใช้ได้เฉพาะในสัตว์ทดลอง จึงไม่มีความเสี่ยงต่อมนุษย์"
      ],
-     "e": "ATMPs ช่วยขยายโอกาสรักษาโรคที่การรักษาแบบเดิมไม่ได้ผลหรือยังไม่มีทางรักษา"
+     "e": "ATMPs ช่วยขยายโอกาสรักษาโรคที่การรักษาแบบเดิมไม่ได้ผลหรือยังไม่มีทางรักษา | รายละเอียดคำตอบ: ข้อมูลความปลอดภัยระยะยาวยังจำกัด การใช้เซลล์จากผู้อื่นอาจเกิดการปฏิเสธหรือติดเชื้อ และการผลิตที่ไม่ได้มาตรฐาน GMP เสี่ยงต่อการปนเปื้อนและคุณภาพเบี่ยงเบน"
     },
     {
      "t": "นิยาม",
      "q": "ยาชีววัตถุ (biological products) หมายถึงข้อใด",
-     "a": "ยาหรือผลิตภัณฑ์ทางการแพทย์ที่ผลิตจากสิ่งมีชีวิตหรือชิ้นส่วนของสิ่งมีชีวิต (ไม่รวมพืช) หรือผลิตด้วยเทคโนโลยีชีวภาพ เช่น พันธุวิศวกรรมหรือ recombinant DNA เพื่อรักษา ป้องกัน หรือวินิจฉัยโรค",
+     "a": "ยาที่ผลิตจากสิ่งมีชีวิต (ไม่รวมพืช) หรือเทคโนโลยีชีวภาพ",
      "w": [
-      "ยาที่สังเคราะห์ทางเคมีล้วนจากปิโตรเลียม",
-      "ยาสมุนไพรที่ได้จากพืชทุกชนิด",
-      "เครื่องสำอางที่มีสารสกัดจากพืช",
-      "อาหารเสริมที่ผลิตจากแร่ธาตุ"
+      "ยาที่สังเคราะห์ทางเคมีล้วนจากปิโตรเลียมและสารตั้งต้นอนินทรีย์",
+      "ยาสมุนไพรที่ได้จากพืชทุกชนิดและผ่านการสกัดด้วยตัวทำละลาย",
+      "เครื่องสำอางที่มีสารสกัดจากพืชเป็นส่วนผสมหลักของผลิตภัณฑ์",
+      "อาหารเสริมที่ผลิตจากแร่ธาตุและวิตามินสังเคราะห์"
      ],
-     "e": "ตัวอย่าง: วัคซีน สารก่อภูมิต้านทานเพื่อรักษา/วินิจฉัยภูมิแพ้ ผลิตภัณฑ์ปลูกถ่าย สารแทนน้ำเลือด (plasma substitute)"
+     "e": "ตัวอย่าง: วัคซีน สารก่อภูมิต้านทานเพื่อรักษา/วินิจฉัยภูมิแพ้ ผลิตภัณฑ์ปลูกถ่าย สารแทนน้ำเลือด (plasma substitute) | รายละเอียดคำตอบ: ยาหรือผลิตภัณฑ์ทางการแพทย์ที่ผลิตจากสิ่งมีชีวิตหรือชิ้นส่วนของสิ่งมีชีวิต (ไม่รวมพืช) หรือผลิตด้วยเทคโนโลยีชีวภาพ เช่น พันธุวิศวกรรมหรือ recombinant DNA เพื่อรักษา ป้องกัน หรือวินิจฉัยโรค"
     },
     {
      "t": "ประเภทยาชีววัตถุ",
      "q": "ยาชีววัตถุแบ่งเป็นกี่ประเภทหลักในการกำกับดูแลของไทย",
-     "a": "3 ประเภท: ยาชีววัตถุใหม่ (new biological products), ยาชีววัตถุที่ไม่ใช่ยาชีววัตถุใหม่ (conventional) และยาชีววัตถุคล้ายคลึง (biosimilars)",
+     "a": "3 ประเภท: ยาชีววัตถุใหม่, conventional และ biosimilars",
      "w": [
-      "2 ประเภท: ยาใหม่และยาเก่า",
-      "4 ประเภท: ยาเม็ด ยาน้ำ ยาฉีด ยาทา",
-      "5 ประเภท: ตามสีของฉลาก",
-      "ไม่มีการแบ่งประเภท"
+      "2 ประเภท: ยาชีววัตถุใหม่ และยาชีววัตถุเก่าที่เลิกใช้แล้ว",
+      "4 ประเภท: ยาเม็ด ยาน้ำ ยาฉีด และยาทา ตามรูปแบบเภสัชภัณฑ์",
+      "5 ประเภท: จำแนกตามสีของฉลากและขนาดของบรรจุภัณฑ์",
+      "ไม่มีการแบ่งประเภท ทุกรายการกำกับดูแลเหมือนกันทั้งหมด"
      ],
-     "e": "คำนิยามยาชีววัตถุใหม่มี 9 ข้อ เช่น ตัวยาใหม่ ข้อบ่งใช้ใหม่ สูตรผสมใหม่ ช่องทางให้ยาใหม่ รูปแบบ/ความแรงใหม่ วิธีผลิตทางพันธุวิศวกรรมใหม่ แหล่งกำเนิดใหม่ และการเปลี่ยนจากเชื้อตายเป็นเชื้อเป็น/กลับกัน"
+     "e": "คำนิยามยาชีววัตถุใหม่มี 9 ข้อ เช่น ตัวยาใหม่ ข้อบ่งใช้ใหม่ สูตรผสมใหม่ ช่องทางให้ยาใหม่ รูปแบบ/ความแรงใหม่ วิธีผลิตทางพันธุวิศวกรรมใหม่ แหล่งกำเนิดใหม่ และการเปลี่ยนจากเชื้อตายเป็นเชื้อเป็น/กลับกัน | รายละเอียดคำตอบ: 3 ประเภท: ยาชีววัตถุใหม่ (new biological products), ยาชีววัตถุที่ไม่ใช่ยาชีววัตถุใหม่ (conventional) และยาชีววัตถุคล้ายคลึง (biosimilars)"
     },
     {
      "t": "ยาชีววัตถุใหม่",
      "q": "ข้อใดจัดเป็นยาชีววัตถุใหม่ตามนิยาม",
-     "a": "ตำรับที่มีตัวยาสำคัญใหม่/สายพันธุ์ใหม่ที่ไม่เคยขึ้นทะเบียนในไทย หรือมีข้อบ่งใช้ใหม่ ช่องทางให้ยาใหม่ หรือแหล่งกำเนิดใหม่ (new source of origin)",
+     "a": "ตัวยา/สายพันธุ์ใหม่ที่ไม่เคยขึ้นทะเบียน หรือข้อบ่งใช้ใหม่",
      "w": [
-      "ตำรับที่เหมือนยาชีววัตถุอ้างอิงทุกประการและไม่ต้องเปรียบเทียบ",
-      "ตำรับยาเม็ดสามัญที่เป็นยาเคมีสังเคราะห์",
-      "ยาสมุนไพรชงดื่ม",
-      "เครื่องมือแพทย์ที่ไม่มีตัวยา"
+      "ตำรับที่เหมือนยาชีววัตถุอ้างอิงทุกประการ และไม่ต้องเปรียบเทียบใด ๆ",
+      "ตำรับยาเม็ดสามัญที่เป็นยาเคมีสังเคราะห์ซึ่งขึ้นทะเบียนแล้ว",
+      "ยาสมุนไพรชงดื่มที่ผลิตตามตำรับยาแผนไทย",
+      "เครื่องมือแพทย์ที่ไม่มีตัวยาออกฤทธิ์เป็นส่วนประกอบ"
      ],
-     "e": "รวมถึงการเปลี่ยนแปลงชนิดตัวยาจากเชื้อตายมาเป็นเชื้อเป็น หรือจากเชื้อเป็นมาเป็นเชื้อตาย"
+     "e": "รวมถึงการเปลี่ยนแปลงชนิดตัวยาจากเชื้อตายมาเป็นเชื้อเป็น หรือจากเชื้อเป็นมาเป็นเชื้อตาย | รายละเอียดคำตอบ: ตำรับที่มีตัวยาสำคัญใหม่/สายพันธุ์ใหม่ที่ไม่เคยขึ้นทะเบียนในไทย หรือมีข้อบ่งใช้ใหม่ ช่องทางให้ยาใหม่ หรือแหล่งกำเนิดใหม่ (new source of origin)"
     },
     {
      "t": "การขึ้นทะเบียน",
      "q": "การขึ้นทะเบียนยาชีววัตถุใหม่และวัคซีนมีกี่ขั้นตอนและคืออะไร",
-     "a": "2 ขั้นตอน: (1) ยื่นขออนุญาตผลิต/นำหรือสั่งยาตัวอย่างเข้ามาเพื่อขอขึ้นทะเบียน (2) ยื่นคำขอขึ้นทะเบียนตำรับยา",
+     "a": "2 ขั้นตอน: ขออนุญาตนำเข้ายาตัวอย่าง แล้วยื่นคำขอขึ้นทะเบียน",
      "w": [
       "1 ขั้นตอน: ยื่นขอขึ้นทะเบียนตำรับยาทันทีโดยไม่ต้องมียาตัวอย่าง",
-      "3 ขั้นตอน: โฆษณา จัดจำหน่าย และเก็บเงิน",
-      "4 ขั้นตอน: ผลิต ขาย ส่งออก นำเข้า",
-      "ไม่มีขั้นตอนที่กำหนด"
+      "3 ขั้นตอน: ขออนุญาตโฆษณา ขออนุญาตจัดจำหน่าย และชำระค่าธรรมเนียม",
+      "4 ขั้นตอน: ขออนุญาตผลิต ขาย ส่งออก และนำเข้าตามลำดับ",
+      "ไม่มีขั้นตอนที่กำหนดไว้ ผู้ยื่นเลือกดำเนินการเองได้ตามความเหมาะสม"
      ],
-     "e": "คำขออนุญาตนำหรือสั่งยาตัวอย่างเข้ามาเพื่อขอขึ้นทะเบียนตำรับยาเป็นขั้นตอนแรก"
+     "e": "คำขออนุญาตนำหรือสั่งยาตัวอย่างเข้ามาเพื่อขอขึ้นทะเบียนตำรับยาเป็นขั้นตอนแรก | รายละเอียดคำตอบ: 2 ขั้นตอน: (1) ขออนุญาตผลิต/นำเข้ายาตัวอย่างเพื่อขอขึ้นทะเบียน (2) ยื่นคำขอขึ้นทะเบียนตำรับยา"
     },
     {
      "t": "การขึ้นทะเบียน",
      "q": "ตามหลักเกณฑ์ที่ อย. ประกาศปี 2566 สำหรับยาชีววัตถุใหม่ เอกสารกำกับยาที่ต้องยื่นคืออะไร",
-     "a": "เอกสารกำกับยาภาษาอังกฤษ และเอกสารข้อมูลยาสำหรับผู้ป่วยภาษาไทย (patient information leaflet) ไม่จำเป็นต้องยื่นเอกสารกำกับยาภาษาไทย",
+     "a": "เอกสารกำกับยาภาษาอังกฤษ และเอกสารผู้ป่วยภาษาไทย",
      "w": [
-      "เอกสารกำกับยาภาษาไทยเท่านั้น",
-      "ไม่ต้องยื่นเอกสารกำกับยาใด ๆ",
-      "เอกสารภาษาจีนเท่านั้น",
-      "เอกสารภาษาญี่ปุ่นเท่านั้น"
+      "เอกสารกำกับยาภาษาไทยเท่านั้น และไม่ต้องยื่นเอกสารสำหรับผู้ป่วย",
+      "ไม่ต้องยื่นเอกสารกำกับยาใด ๆ เพราะ อย. จัดทำให้เอง",
+      "เอกสารกำกับยาภาษาจีนเท่านั้น พร้อมคำแปลภาษาอังกฤษโดยไม่ต้องรับรอง",
+      "เอกสารกำกับยาภาษาญี่ปุ่นเท่านั้น พร้อมเอกสารสำหรับผู้ป่วยภาษาไทย"
      ],
-     "e": "ใช้ checklist ของ ASEAN CTD ตรวจสอบเอกสารให้ครบทุกส่วน (administrative, quality, non-clinical, clinical)"
+     "e": "ใช้ checklist ของ ASEAN CTD ตรวจสอบเอกสารให้ครบทุกส่วน (administrative, quality, non-clinical, clinical) | รายละเอียดคำตอบ: เอกสารกำกับยาภาษาอังกฤษ และเอกสารข้อมูลยาสำหรับผู้ป่วยภาษาไทย (patient information leaflet) ไม่จำเป็นต้องยื่นเอกสารกำกับยาภาษาไทย"
     },
     {
      "t": "เงื่อนไขยาใหม่",
      "q": "เงื่อนไขหนึ่งของการขึ้นทะเบียนยาใหม่ (New Drugs) ตามคำรับรองคือข้อใด",
-     "a": "ระบุบนฉลากว่า “ใช้เฉพาะในสถานพยาบาลเท่านั้น” มี protocol ติดตามความปลอดภัย แจ้งปริมาณนำเข้า/ผลิต/ที่เก็บ และทำบัญชีจำหน่ายแก่สถานพยาบาลรายงาน อย.",
+     "a": "ระบุบนฉลากว่าใช้เฉพาะในสถานพยาบาล และมี protocol ติดตามความปลอดภัย",
      "w": [
-      "ไม่ต้องรายงานการจำหน่ายใด ๆ ต่อ อย.",
-      "ขายได้ในร้านสะดวกซื้อทั่วไป",
-      "ห้ามระบุข้อมูลบนฉลาก",
-      "ไม่ต้องมีการติดตามความปลอดภัย"
+      "ไม่ต้องรายงานการจำหน่ายใด ๆ ต่อ อย. และจำหน่ายได้ทุกช่องทาง",
+      "ขายได้ในร้านสะดวกซื้อทั่วไป โดยไม่ต้องมีเภสัชกรประจำ",
+      "ห้ามระบุข้อความใด ๆ เกี่ยวกับสถานที่ใช้บนฉลากผลิตภัณฑ์",
+      "ไม่ต้องมีการติดตามความปลอดภัย เพราะผ่านการศึกษาก่อนอนุมัติแล้ว"
      ],
-     "e": "เป็นมาตรการติดตามความปลอดภัยภายหลังออกสู่ตลาดของยาใหม่"
+     "e": "เป็นมาตรการติดตามความปลอดภัยภายหลังออกสู่ตลาดของยาใหม่ | รายละเอียดคำตอบ: ระบุบนฉลากว่า “ใช้เฉพาะในสถานพยาบาลเท่านั้น” มี protocol ติดตามความปลอดภัย แจ้งปริมาณนำเข้า/ผลิต/ที่เก็บ และทำบัญชีจำหน่ายแก่สถานพยาบาลรายงาน อย."
     },
     {
      "t": "Biosimilar",
      "q": "ยาชีววัตถุคล้ายคลึง (Similar biological products, SBP) หมายถึงข้อใด",
-     "a": "ยาชีววัตถุที่มีลักษณะคล้ายคลึงกันด้านคุณภาพ ความปลอดภัย และประสิทธิภาพ เมื่อเทียบกับยาชีววัตถุอ้างอิง (RBP) ที่ขึ้นทะเบียนแล้วอย่างเต็มรูปแบบ",
+     "a": "ยาชีววัตถุที่คล้ายคลึงยาอ้างอิง (RBP) ด้านคุณภาพและประสิทธิภาพ",
      "w": [
-      "ยาที่เหมือนกับยาเคมีสังเคราะห์ทุกประการ",
-      "ยาที่ไม่ต้องเทียบกับยาใดเลย",
-      "ยาที่ทดลองเฉพาะในหลอดทดลอง",
-      "ยาที่ผลิตจากพืชสมุนไพรเท่านั้น"
+      "ยาที่เหมือนกับยาเคมีสังเคราะห์ทุกประการและไม่ต้องเทียบกับยาใด",
+      "ยาที่ไม่ต้องเทียบกับยาอ้างอิงและยื่นเฉพาะข้อมูลราคา",
+      "ยาที่ทดลองเฉพาะในหลอดทดลองโดยไม่ต้องศึกษาในสัตว์หรือคน",
+      "ยาที่ผลิตจากพืชสมุนไพรและผ่านการสกัดด้วยแอลกอฮอล์"
      ],
-     "e": "ชื่อเรียกต่างประเทศ: biosimilars (EMA), follow-on biologics (US FDA), similar biotherapeutic product (WHO), subsequent-entry biologics (Canada)"
+     "e": "ชื่อเรียกต่างประเทศ: biosimilars (EMA), follow-on biologics (US FDA), similar biotherapeutic product (WHO), subsequent-entry biologics (Canada) | รายละเอียดคำตอบ: ยาชีววัตถุที่มีลักษณะคล้ายคลึงกันด้านคุณภาพ ความปลอดภัย และประสิทธิภาพ เมื่อเทียบกับยาชีววัตถุอ้างอิง (RBP) ที่ขึ้นทะเบียนแล้วอย่างเต็มรูปแบบ"
     },
     {
      "t": "Biosimilar",
      "q": "Comparability exercise ของยาชีววัตถุคล้ายคลึงคืออะไร",
-     "a": "การเปรียบเทียบ SBP กับ RBP แบบ head-to-head ในการศึกษาเดียวกันด้วยวิธีเหมือนกัน เพื่อพิสูจน์ความคล้ายคลึงด้านคุณภาพ ความปลอดภัย และประสิทธิภาพ แบบ stepwise (quality → in vitro → in vivo → clinic)",
+     "a": "เปรียบเทียบ SBP กับ RBP แบบ head-to-head ทีละขั้น (stepwise)",
      "w": [
-      "การเปรียบเทียบราคาของ SBP กับ RBP",
-      "การเปรียบเทียบสีของบรรจุภัณฑ์",
-      "การเปรียบเทียบเฉพาะรสชาติของยา",
-      "การเปรียบเทียบชื่อการค้าเท่านั้น"
+      "การเปรียบเทียบราคาขายของ SBP กับ RBP ในท้องตลาด",
+      "การเปรียบเทียบสีและรูปแบบของบรรจุภัณฑ์ระหว่างสองผลิตภัณฑ์",
+      "การเปรียบเทียบรสชาติและกลิ่นของยาระหว่างสองผลิตภัณฑ์",
+      "การเปรียบเทียบชื่อการค้าและเครื่องหมายการค้าระหว่างสองผลิตภัณฑ์"
      ],
-     "e": "การศึกษาต้องไวพอ (sensitive) ทั้งการออกแบบ เป้าหมาย และกลุ่มประชากรเพื่อตรวจพบความแตกต่าง"
+     "e": "การศึกษาต้องไวพอ (sensitive) ทั้งการออกแบบ เป้าหมาย และกลุ่มประชากรเพื่อตรวจพบความแตกต่าง | รายละเอียดคำตอบ: การเปรียบเทียบ SBP กับ RBP แบบ head-to-head ในการศึกษาเดียวกันด้วยวิธีเหมือนกัน เพื่อพิสูจน์ความคล้ายคลึงด้านคุณภาพ ความปลอดภัย และประสิทธิภาพ แบบ stepwise (quality → in vitro → in vivo → clinic)"
     },
     {
      "t": "Biosimilar",
      "q": "ข้อใดเป็นประเด็นสำคัญของยาชีววัตถุคล้ายคลึงในประเทศไทย",
-     "a": "RBP ต้องเป็นยาที่ขึ้นทะเบียนในไทยด้วยเอกสารเต็มรูปแบบ ; SBP จะใช้เป็น RBP ไม่ได้ ; ตัวยาสำคัญต้องคล้ายคลึงในระดับโมเลกุลและชีวภาพ และรูปแบบผลิตภัณฑ์ ความแรง วิธีใช้ ควรเหมือนกัน",
+     "a": "RBP ขึ้นทะเบียนในไทยด้วยเอกสารเต็ม ; SBP ใช้เป็น RBP ไม่ได้",
      "w": [
-      "SBP ใช้เป็น RBP ของ SBP ตัวอื่นได้",
-      "RBP ไม่จำเป็นต้องขึ้นทะเบียนในไทย",
-      "ตัวยาสำคัญของ SBP ต่างจาก RBP อย่างมากได้",
-      "วิธีบริหารยาของ SBP ต่างจาก RBP ได้โดยไม่ต้องมีเหตุผล"
+      "SBP ใช้เป็น RBP ของ SBP ตัวอื่นได้ และ RBP ไม่ต้องขึ้นทะเบียนในไทย",
+      "RBP ไม่จำเป็นต้องขึ้นทะเบียนในไทย และตัวยาสำคัญต่างได้มาก",
+      "ตัวยาสำคัญของ SBP ต่างจาก RBP อย่างมากได้ ถ้าประสิทธิภาพใกล้เคียง",
+      "วิธีบริหารยาของ SBP ต่างจาก RBP ได้โดยไม่ต้องมีเหตุผลรองรับ"
      ],
-     "e": "หากความแรง รูปแบบ สูตร หรือส่วนประกอบต่างจาก RBP ต้องมีเหตุผลประกอบและต้องไม่ส่งผลต่อความปลอดภัย"
+     "e": "หากความแรง รูปแบบ สูตร หรือส่วนประกอบต่างจาก RBP ต้องมีเหตุผลประกอบและต้องไม่ส่งผลต่อความปลอดภัย | รายละเอียดคำตอบ: RBP ต้องเป็นยาที่ขึ้นทะเบียนในไทยด้วยเอกสารเต็มรูปแบบ ; SBP จะใช้เป็น RBP ไม่ได้ ; ตัวยาสำคัญต้องคล้ายคลึงในระดับโมเลกุลและชีวภาพ และรูปแบบผลิตภัณฑ์ ความแรง วิธีใช้ ควรเหมือนกัน"
     },
     {
      "t": "Biosimilar",
      "q": "การประเมินความคล้ายคลึงของ biosimilar ต้องพิจารณาจากอะไรเป็นหลัก",
-     "a": "วิธีวิเคราะห์ที่ state-of-the-art กระบวนการผลิต และ clinical models ; หลักการนี้ใช้ได้กับผลิตภัณฑ์ที่มีความบริสุทธิ์สูงและระบุคุณลักษณะได้ชัดเจน",
+     "a": "วิธีวิเคราะห์ state-of-the-art กระบวนการผลิต และ clinical models",
      "w": [
-      "รูปแบบบรรจุภัณฑ์และสีฉลากเท่านั้น",
-      "จำนวนโฆษณาในโทรทัศน์",
-      "ราคาขายปลีก",
-      "ชื่อบริษัทผู้ผลิตเท่านั้น"
+      "รูปแบบบรรจุภัณฑ์ สีฉลาก และชื่อการค้าของผลิตภัณฑ์เท่านั้น",
+      "จำนวนโฆษณาในโทรทัศน์ และงบประมาณการตลาดของผู้ผลิต",
+      "ราคาขายปลีก ส่วนลดการค้า และเงื่อนไขการเบิกจ่ายของผลิตภัณฑ์",
+      "ชื่อบริษัทผู้ผลิต ประเทศที่ผลิต และจำนวนพนักงานของโรงงาน"
      ],
-     "e": "EMA มีแนวทาง guideline on similar biological medicinal products และ product-class specific guidelines; ไทยก็มี product-class specific guidelines เช่นกัน"
+     "e": "EMA มีแนวทาง guideline on similar biological medicinal products และ product-class specific guidelines; ไทยก็มี product-class specific guidelines เช่นกัน | รายละเอียดคำตอบ: วิธีวิเคราะห์ที่ state-of-the-art กระบวนการผลิต และ clinical models ; หลักการนี้ใช้ได้กับผลิตภัณฑ์ที่มีความบริสุทธิ์สูงและระบุคุณลักษณะได้ชัดเจน"
     },
     {
      "t": "Biosimilar",
      "q": "จากผังของ EMA เมื่อพิสูจน์ similarity กับ reference product แล้ว ข้อมูลที่ต้องยื่นของ biosimilar ต่างจาก originator biologic อย่างไร",
-     "a": "ยื่น full dossier ของคุณภาพ แต่ nonclinical/clinical เป็น reduced dossier โดยใช้ head-to-head comparison กับ reference product เป็นหลัก",
+     "a": "full dossier ด้านคุณภาพ แต่ nonclinical/clinical เป็น reduced dossier",
      "w": [
-      "ต้องยื่นข้อมูลมากกว่ายาต้นแบบทุกส่วน",
-      "ไม่ต้องยื่นข้อมูลคุณภาพ",
-      "ไม่ต้องเปรียบเทียบกับ reference product",
-      "ยื่นเฉพาะราคาและการตลาด"
+      "ต้องยื่นข้อมูลมากกว่ายาต้นแบบในทุกส่วนทั้งคุณภาพและคลินิก",
+      "ไม่ต้องยื่นข้อมูลคุณภาพ ยื่นเฉพาะข้อมูลทางคลินิกที่ลดทอนแล้ว",
+      "ไม่ต้องเปรียบเทียบกับ reference product ยื่นเฉพาะข้อมูลของตนเอง",
+      "ยื่นเฉพาะราคาและแผนการตลาดโดยไม่ต้องมีข้อมูลทางวิทยาศาสตร์"
      ],
-     "e": "Proof of similarity with a reference product เป็นฐานของการอนุมัติ"
+     "e": "Proof of similarity with a reference product เป็นฐานของการอนุมัติ | รายละเอียดคำตอบ: ยื่น full dossier ของคุณภาพ แต่ nonclinical/clinical เป็น reduced dossier โดยใช้ head-to-head comparison กับ reference product เป็นหลัก"
     },
     {
      "t": "ASEAN CTD",
      "q": "ในการเตรียมเอกสารขึ้นทะเบียนยาชีววัตถุ ใช้เอกสารรูปแบบใดเป็นรายการตรวจสอบความครบถ้วน",
-     "a": "Checklist ของ ASEAN Common Technical Document (ครอบคลุม Part administrative, quality, non-clinical, clinical)",
+     "a": "Checklist ของ ASEAN Common Technical Document",
      "w": [
-      "ใบเสร็จรับเงินค่าโฆษณา",
-      "รายชื่อลูกค้าของบริษัท",
-      "ตารางกำหนดการส่งสินค้า",
-      "ผลสำรวจความพึงพอใจของผู้บริโภค"
+      "ใบเสร็จรับเงินค่าโฆษณาและค่าใช้จ่ายด้านการตลาดของผลิตภัณฑ์",
+      "รายชื่อลูกค้าของบริษัทและประวัติการซื้อขายผลิตภัณฑ์ที่ผ่านมา",
+      "ตารางกำหนดการส่งสินค้าและรายงานสต็อกในคลังสินค้า",
+      "ผลสำรวจความพึงพอใจของผู้บริโภคต่อผลิตภัณฑ์คู่แข่ง"
      ],
-     "e": "ยาชีววัตถุและยาใหม่ใช้ ASEAN Harmonization dossier เหมือนยาเคมี"
+     "e": "ยาชีววัตถุและยาใหม่ใช้ ASEAN Harmonization dossier เหมือนยาเคมี | รายละเอียดคำตอบ: Checklist ของ ASEAN Common Technical Document (ครอบคลุม administrative, quality, non-clinical, clinical)"
     },
     {
      "t": "บทบาท อย.",
      "q": "Surveillance program for consumers’ safety ของ อย. มีเป้าหมายอย่างไร",
-     "a": "ตรวจจับผลไม่พึงประสงค์หรือผลลัพธ์ที่ไม่คาดคิดจากการใช้ผลิตภัณฑ์ โดยรวบรวม สรุป ตีความ และรายงานข้อมูล เช่น ผ่านศูนย์ติดตามอาการอันไม่พึงประสงค์จากผลิตภัณฑ์สุขภาพ",
+     "a": "ตรวจจับผลไม่พึงประสงค์ผ่านศูนย์ติดตามอาการอันไม่พึงประสงค์",
      "w": [
-      "ตรวจสอบราคาขายปลีกของผลิตภัณฑ์เท่านั้น",
-      "จัดงานแสดงสินค้าเท่านั้น",
-      "แจกของรางวัลให้ผู้บริโภค",
-      "ตรวจสอบผู้ผลิตเฉพาะก่อนวางตลาด"
+      "ตรวจสอบราคาขายปลีกและส่วนลดของผลิตภัณฑ์ในร้านยาเท่านั้น",
+      "จัดงานแสดงสินค้าและนิทรรศการเพื่อส่งเสริมการขายเท่านั้น",
+      "แจกของรางวัลและสิทธิพิเศษให้ผู้บริโภคที่รายงานผลิตภัณฑ์",
+      "ตรวจสอบผู้ผลิตเฉพาะก่อนวางตลาดและไม่ติดตามหลังจำหน่าย"
      ],
-     "e": "ข้อมูลแลกเปลี่ยนกับหน่วยงานทั้งในและต่างประเทศ"
+     "e": "ข้อมูลแลกเปลี่ยนกับหน่วยงานทั้งในและต่างประเทศ | รายละเอียดคำตอบ: ตรวจจับผลไม่พึงประสงค์หรือผลลัพธ์ที่ไม่คาดคิดจากการใช้ผลิตภัณฑ์ โดยรวบรวม สรุป ตีความ และรายงานข้อมูล เช่น ผ่านศูนย์ติดตามอาการอันไม่พึงประสงค์จากผลิตภัณฑ์สุขภาพ"
     },
     {
      "t": "บทบาท อย.",
      "q": "Post-marketing control ของ อย. มีวัตถุประสงค์ข้อใด",
-     "a": "ตรวจสอบสถานที่ผลิตและคุณภาพผลิตภัณฑ์ที่ได้รับอนุมัติแล้ว ให้ยังคงเป็นไปตามมาตรฐานและกฎหมาย เช่น สุ่มตัวอย่างตรวจสอบเป็นระยะ",
+     "a": "ตรวจสถานที่ผลิตและคุณภาพของผลิตภัณฑ์ที่อนุมัติแล้วเป็นระยะ",
      "w": [
-      "ควบคุมสถานที่ผลิตก่อนที่ยาจะวางตลาดเท่านั้น",
-      "ให้ความรู้ผู้บริโภคผ่านสื่อเท่านั้น",
-      "จัดสัมมนาวิชาการร่วมกับมหาวิทยาลัยเท่านั้น",
-      "กำหนดราคาขายส่งของยาทุกชนิด"
+      "ควบคุมสถานที่ผลิตก่อนที่ยาจะวางตลาด และตรวจเฉพาะครั้งแรกครั้งเดียว",
+      "ให้ความรู้ผู้บริโภคผ่านสื่อและแคมเปญสุขภาพเท่านั้น",
+      "จัดสัมมนาวิชาการร่วมกับมหาวิทยาลัยและหน่วยงานวิจัยเท่านั้น",
+      "กำหนดราคาขายส่งของยาทุกชนิดและควบคุมอัตรากำไรของร้านยา"
      ],
-     "e": "ผลิตภัณฑ์ที่อนุมัติแล้วจะถูกทบทวนเป็นระยะเพื่อยืนยันความสม่ำเสมอของการผลิตและมาตรฐานผลิตภัณฑ์"
+     "e": "ผลิตภัณฑ์ที่อนุมัติแล้วจะถูกทบทวนเป็นระยะเพื่อยืนยันความสม่ำเสมอของการผลิตและมาตรฐานผลิตภัณฑ์ | รายละเอียดคำตอบ: ตรวจสอบสถานที่ผลิตและคุณภาพผลิตภัณฑ์ที่อนุมัติแล้ว ให้ยังเป็นไปตามมาตรฐานและกฎหมาย เช่น สุ่มตัวอย่างตรวจเป็นระยะ"
     }
    ]
   },
@@ -1008,125 +1008,125 @@
      "q": "การพัฒนายาใหม่ใช้เวลาประมาณเท่าใดและ clinical trials ประกอบด้วยระยะใด",
      "a": "ประมาณ 10–15 ปี ; Clinical trials ระยะ I, II และ III ในอาสาสมัคร/ผู้ป่วย",
      "w": [
-      "ประมาณ 1–2 ปี ; มีเฉพาะระยะ I",
-      "ประมาณ 3 เดือน ; มีเฉพาะระยะ II",
-      "ประมาณ 50 ปี ; มี 10 ระยะ",
-      "ไม่มีกรอบเวลาที่แน่นอน และไม่มีระยะ"
+      "ประมาณ 1–2 ปี ; Clinical trials มีเฉพาะระยะ I ในอาสาสมัครสุขภาพดี",
+      "ประมาณ 3–5 ปี ; Clinical trials มีเฉพาะระยะ II ในผู้ป่วย",
+      "ประมาณ 30–50 ปี ; Clinical trials มี 10 ระยะต่อเนื่องกัน",
+      "ไม่มีกรอบเวลาที่แน่นอน ; Clinical trials ไม่มีการแบ่งระยะ"
      ],
      "e": "แต่ละระยะต่อยอดจากข้อมูลระยะก่อนหน้าเพื่อสร้างหลักฐานสำหรับการขออนุมัติ"
     },
     {
      "t": "GCP",
      "q": "Good Clinical Practice (GCP) คืออะไร",
-     "a": "มาตรฐานด้านจริยธรรมและวิทยาศาสตร์ระดับสากลสำหรับการออกแบบ ดำเนินการ และรายงานการวิจัยทางคลินิกในมนุษย์ ตาม ICH-GCP",
+     "a": "มาตรฐานจริยธรรมและวิทยาศาสตร์สากลสำหรับการวิจัยทางคลินิกในมนุษย์",
      "w": [
-      "มาตรฐานการผลิตยาในโรงงาน (GMP)",
-      "มาตรฐานการโฆษณายา",
-      "มาตรฐานการขนส่งยาเท่านั้น",
-      "มาตรฐานการเก็บรักษาเฉพาะในร้านยา"
+      "มาตรฐานการผลิตยาในโรงงานที่ครอบคลุมสถานที่ เครื่องมือ และบุคลากร (GMP)",
+      "มาตรฐานการโฆษณายาและการส่งเสริมการขายผลิตภัณฑ์ต่อผู้บริโภค",
+      "มาตรฐานการขนส่งและการเก็บรักษายาในคลังสินค้าและระหว่างการขนส่ง",
+      "มาตรฐานการเก็บรักษาและการจ่ายยาในร้านยาและสถานพยาบาล"
      ],
-     "e": "สิทธิ ความเป็นอยู่ที่ดี และความปลอดภัยของผู้เข้าร่วมวิจัยต้องมาก่อนประโยชน์ทางวิทยาศาสตร์เสมอ และข้อมูลต้องถูกต้อง ครบถ้วน และตรวจสอบได้"
+     "e": "สิทธิ ความเป็นอยู่ที่ดี และความปลอดภัยของผู้เข้าร่วมวิจัยต้องมาก่อนประโยชน์ทางวิทยาศาสตร์เสมอ และข้อมูลต้องถูกต้อง ครบถ้วน และตรวจสอบได้ | รายละเอียดคำตอบ: มาตรฐานด้านจริยธรรมและวิทยาศาสตร์ระดับสากลสำหรับการออกแบบ ดำเนินการ และรายงานการวิจัยทางคลินิกในมนุษย์"
     },
     {
      "t": "GCP",
      "q": "หลักการสำคัญของ GCP ข้อใดถูกต้อง",
-     "a": "สิทธิ ความเป็นอยู่ที่ดี และความปลอดภัยของผู้เข้าร่วมวิจัยต้องมาก่อน ผลการวิจัยต้องถูกต้อง ครบถ้วน ตรวจสอบได้ และการวิจัยต้องเป็นไปตามหลักจริยธรรม",
+     "a": "สิทธิและความปลอดภัยของผู้เข้าร่วมต้องมาก่อน และข้อมูลต้องตรวจสอบได้",
      "w": [
-      "ผลประโยชน์ทางวิทยาศาสตร์ต้องมาก่อนความปลอดภัยของผู้เข้าร่วม",
-      "ข้อมูลไม่จำเป็นต้องตรวจสอบได้",
-      "ไม่จำเป็นต้องได้รับความยินยอมจากผู้เข้าร่วม",
-      "จริยธรรมไม่เกี่ยวข้องกับการวิจัยทางคลินิก"
+      "ผลประโยชน์ทางวิทยาศาสตร์และสังคมต้องมาก่อนความปลอดภัยของผู้เข้าร่วมเสมอ",
+      "ข้อมูลไม่จำเป็นต้องตรวจสอบได้ ถ้าผลการวิจัยเป็นไปตามที่คาด",
+      "ไม่จำเป็นต้องได้รับความยินยอมจากผู้เข้าร่วม ถ้าการวิจัยมีประโยชน์ต่อสังคม",
+      "จริยธรรมไม่เกี่ยวข้องกับการวิจัยทางคลินิก เพราะเป็นเรื่องทางวิทยาศาสตร์"
      ],
-     "e": "ICH E6(R3) ยืดหยุ่นกับรูปแบบการวิจัยที่หลากหลาย และใช้แนวคิด proportionate, risk-based approach ต่อยอดจาก ICH E8(R1) (QbD)"
+     "e": "ICH E6(R3) ยืดหยุ่นกับรูปแบบการวิจัยที่หลากหลาย และใช้แนวคิด proportionate, risk-based approach ต่อยอดจาก ICH E8(R1) (QbD) | รายละเอียดคำตอบ: สิทธิ ความเป็นอยู่ที่ดี และความปลอดภัยของผู้เข้าร่วมวิจัยต้องมาก่อน ผลการวิจัยต้องถูกต้อง ครบถ้วน ตรวจสอบได้ และการวิจัยต้องเป็นไปตามหลักจริยธรรม"
     },
     {
      "t": "Sponsor",
      "q": "Sponsor ในการวิจัยทางคลินิกหมายถึงใคร",
-     "a": "บุคคล บริษัท สถาบัน หรือองค์กรที่รับผิดชอบการริเริ่ม การบริหารจัดการ และการจัดหาทุนของการวิจัยทางคลินิก",
+     "a": "ผู้รับผิดชอบการริเริ่ม บริหารจัดการ และจัดหาทุนของการวิจัย",
      "w": [
-      "ผู้เข้าร่วมวิจัยที่ได้รับยา",
-      "ผู้ตรวจสอบที่ทำหน้าที่เก็บตัวอย่างเลือด",
-      "เภสัชกรร้านยาที่จ่ายยา",
-      "คณะกรรมการจริยธรรมที่อนุมัติโครงการ"
+      "ผู้เข้าร่วมวิจัยที่ได้รับยาทดลองและให้ความยินยอมเข้าร่วมโครงการ",
+      "ผู้ตรวจสอบที่ทำหน้าที่เก็บตัวอย่างเลือดและบันทึกข้อมูลในสถานที่วิจัย",
+      "เภสัชกรร้านยาที่จ่ายยาให้ผู้ป่วยตามใบสั่งแพทย์ในชุมชน",
+      "คณะกรรมการจริยธรรมที่พิจารณาและอนุมัติโครงการวิจัย"
      ],
-     "e": "การวิจัยหนึ่งอาจมีหลาย sponsor ได้ และทุกคนมีความรับผิดชอบของ sponsor ตามข้อตกลงที่เป็นลายลักษณ์อักษร"
+     "e": "การวิจัยหนึ่งอาจมีหลาย sponsor ได้ และทุกคนมีความรับผิดชอบของ sponsor ตามข้อตกลงที่เป็นลายลักษณ์อักษร | รายละเอียดคำตอบ: บุคคล บริษัท สถาบัน หรือองค์กรที่รับผิดชอบการริเริ่ม การบริหารจัดการ และการจัดหาทุนของการวิจัย"
     },
     {
      "t": "Protocol",
      "q": "Clinical trial protocol คืออะไร",
-     "a": "เอกสารทางการที่ระบุการออกแบบ ระเบียบวิธี การพิจารณาทางสถิติ และรายละเอียดการดำเนินงานของการวิจัย (วัตถุประสงค์ ประชากร เกณฑ์คัดเข้า-คัดออก แผนการรักษา ตารางประเมิน การจัดการข้อมูลและการติดตาม)",
+     "a": "เอกสารระบุการออกแบบ ระเบียบวิธี สถิติ และรายละเอียดการดำเนินงาน",
      "w": [
-      "ใบเสร็จรับเงินของผู้เข้าร่วมวิจัย",
-      "แบบฟอร์มโฆษณายา",
-      "รายงานผลกำไรของบริษัทยา",
-      "เอกสารสิทธิบัตรของยา"
+      "ใบเสร็จรับเงินของผู้เข้าร่วมวิจัยและค่าตอบแทนที่ได้รับจากโครงการ",
+      "แบบฟอร์มโฆษณายาและสื่อส่งเสริมการขายที่ใช้รับสมัครผู้เข้าร่วม",
+      "รายงานผลกำไรและงบประมาณของบริษัทยาผู้สนับสนุนโครงการ",
+      "เอกสารสิทธิบัตรของยาและสิทธิในทรัพย์สินทางปัญญาของผู้ประดิษฐ์"
      ],
-     "e": "องค์ประกอบสำคัญ: objectives, eligibility criteria, study design (randomization, blinding), treatment plan, endpoints, safety monitoring, data handling/QC, regulatory/ethical compliance (GCP, IRB/IEC)"
+     "e": "องค์ประกอบสำคัญ: objectives, eligibility criteria, study design (randomization, blinding), treatment plan, endpoints, safety monitoring, data handling/QC, regulatory/ethical compliance (GCP, IRB/IEC) | รายละเอียดคำตอบ: เอกสารทางการที่ระบุการออกแบบ ระเบียบวิธี การพิจารณาทางสถิติ และรายละเอียดการดำเนินงานของการวิจัย (วัตถุประสงค์ ประชากร เกณฑ์คัดเข้า-คัดออก แผนการรักษา ตารางประเมิน การจัดการข้อมูลและการติดตาม)"
     },
     {
      "t": "Protocol",
      "q": "Eligibility criteria ใน protocol มีไว้เพื่ออะไร",
-     "a": "ระบุเกณฑ์คัดเข้าและคัดออกอย่างชัดเจน เพื่อเลือกผู้เข้าร่วมให้เหมาะสมและลดความเสี่ยง",
+     "a": "ระบุเกณฑ์คัดเข้าและคัดออก เพื่อเลือกผู้เข้าร่วมที่เหมาะสม",
      "w": [
-      "เพื่อกำหนดราคายา",
-      "เพื่อเลือกผู้สนับสนุนทุนวิจัย",
-      "เพื่อกำหนดสีของบรรจุภัณฑ์",
-      "เพื่อกำหนดเวลาโฆษณา"
+      "เพื่อกำหนดราคายาที่จะใช้ในโครงการวิจัยและต้นทุนของผู้สนับสนุน",
+      "เพื่อเลือกผู้สนับสนุนทุนวิจัยที่มีงบประมาณสูงที่สุดในโครงการ",
+      "เพื่อกำหนดสีและรูปแบบของบรรจุภัณฑ์ยาที่ใช้ในการวิจัย",
+      "เพื่อกำหนดเวลาโฆษณาและสื่อรับสมัครผู้เข้าร่วมวิจัย"
      ],
-     "e": "Endpoints (primary/secondary) กำหนดวิธีเก็บข้อมูล; safety monitoring กำหนดการติดตามและรายงาน adverse event"
+     "e": "Endpoints (primary/secondary) กำหนดวิธีเก็บข้อมูล; safety monitoring กำหนดการติดตามและรายงาน adverse event | รายละเอียดคำตอบ: ระบุเกณฑ์คัดเข้าและคัดออกชัดเจน เพื่อเลือกผู้เข้าร่วมที่เหมาะสมและลดความเสี่ยง"
     },
     {
      "t": "Sponsor",
      "q": "ตามหลักการ sponsor ควรทำอย่างไรกับการออกแบบการวิจัย (Section 3.1)",
-     "a": "ทำให้ทุกด้านของการวิจัยปฏิบัติได้จริง หลีกเลี่ยงความซับซ้อน ขั้นตอน และการเก็บข้อมูลที่ไม่จำเป็น และไม่เพิ่มภาระแก่ผู้เข้าร่วมและผู้วิจัยโดยไม่จำเป็น",
+     "a": "ทำให้ปฏิบัติได้จริง หลีกเลี่ยงความซับซ้อนและข้อมูลที่ไม่จำเป็น",
      "w": [
-      "เพิ่มขั้นตอนและแบบฟอร์มให้มากที่สุดเพื่อความปลอดภัย",
-      "ไม่ต้องคำนึงถึงภาระของผู้เข้าร่วม",
-      "เก็บข้อมูลทุกอย่างแม้ไม่เกี่ยวกับวัตถุประสงค์",
-      "ไม่ต้องมีผู้มีคุณสมบัติเหมาะสมในทีม"
+      "เพิ่มขั้นตอนและแบบฟอร์มให้มากที่สุดเพื่อความปลอดภัยของโครงการ",
+      "ไม่ต้องคำนึงถึงภาระของผู้เข้าร่วมและผู้วิจัยในการออกแบบ",
+      "เก็บข้อมูลทุกอย่างแม้ไม่เกี่ยวกับวัตถุประสงค์เพื่อใช้ในอนาคต",
+      "ไม่ต้องมีผู้มีคุณสมบัติเหมาะสมในทีมเพราะใช้ผู้ช่วยแทนได้"
      ],
-     "e": "Sponsor ต้องมีทรัพยากรเพียงพอและใช้บุคลากรที่มีคุณสมบัติเหมาะสม (นักสถิติ นักเภสัชวิทยาคลินิก แพทย์ ผู้จัดการข้อมูล ผู้ตรวจสอบ และ monitor)"
+     "e": "Sponsor ต้องมีทรัพยากรเพียงพอและใช้บุคลากรที่มีคุณสมบัติเหมาะสม (นักสถิติ นักเภสัชวิทยาคลินิก แพทย์ ผู้จัดการข้อมูล ผู้ตรวจสอบ และ monitor) | รายละเอียดคำตอบ: ทำให้ทุกด้านของการวิจัยปฏิบัติได้จริง หลีกเลี่ยงความซับซ้อน ขั้นตอน และการเก็บข้อมูลที่ไม่จำเป็น และไม่เพิ่มภาระแก่ผู้เข้าร่วมและผู้วิจัยโดยไม่จำเป็น"
     },
     {
      "t": "Quality",
      "q": "แนวทางด้านคุณภาพในหมวด 3.11–3.12 (QA/QC และการจัดการ noncompliance) เน้นเรื่องใด",
-     "a": "ใช้กลยุทธ์ตามความเสี่ยง (risk-based) ระบุสาเหตุของ serious noncompliance และ CAPA ; monitor เป็นอิสระจากการดำเนินการวิจัย ; serious noncompliance ต้องรายงานต่อหน่วยงานกำกับดูแล",
+     "a": "ใช้กลยุทธ์ตามความเสี่ยง มี CAPA และรายงาน serious noncompliance",
      "w": [
-      "ไม่ต้องมี CAPA",
-      "monitor ต้องเป็นผู้วิจัยหลักเสมอ",
-      "ไม่ต้องรายงาน noncompliance ต่อหน่วยงานกำกับ",
-      "ไม่มีการใช้ remote หรือ centralized monitoring"
+      "ไม่ต้องมี CAPA เมื่อพบ noncompliance เพราะแก้ไขในรายงานฉบับสุดท้ายได้",
+      "monitor ต้องเป็นผู้วิจัยหลักของโครงการเสมอ เพื่อความสะดวก",
+      "ไม่ต้องรายงาน noncompliance ต่อหน่วยงานกำกับ ถ้าแก้ไขได้ภายในองค์กรแล้ว",
+      "ไม่มีการใช้ remote หรือ centralized monitoring ต้องไปที่สถานที่วิจัยเท่านั้น"
      ],
-     "e": "CAPA = Corrective and Preventive Action ต้องยืนยันความเพียงพอ; รองรับ remote และ centralized risk-based monitoring"
+     "e": "CAPA = Corrective and Preventive Action ต้องยืนยันความเพียงพอ; รองรับ remote และ centralized risk-based monitoring | รายละเอียดคำตอบ: ใช้กลยุทธ์ตามความเสี่ยง (risk-based) ระบุสาเหตุของ serious noncompliance และ CAPA ; monitor เป็นอิสระจากการดำเนินการวิจัย ; serious noncompliance ต้องรายงานต่อหน่วยงานกำกับดูแล"
     },
     {
      "t": "Monitoring",
      "q": "Monitoring ในการวิจัยทางคลินิกคืออะไรและมีวัตถุประสงค์ใด",
-     "a": "การกำกับดูแลความคืบหน้าของการวิจัย ให้ดำเนินการ บันทึก และรายงานตาม protocol, SOP, GCP และกฎหมาย เพื่อปกป้องสิทธิผู้เข้าร่วม รับรองความถูกต้องของข้อมูล และตรวจสอบการปฏิบัติตามข้อกำหนด",
+     "a": "กำกับดูแลให้การวิจัยเป็นไปตาม protocol, GCP และกฎหมาย",
      "w": [
-      "การโฆษณาผลการวิจัยให้ประชาชน",
-      "การเก็บค่าธรรมเนียมจากผู้เข้าร่วม",
-      "การกำหนดราคายาหลังการวิจัย",
-      "การสั่งยาให้ผู้ป่วยทุกราย"
+      "การโฆษณาผลการวิจัยให้ประชาชนทราบผ่านสื่อมวลชนก่อนตีพิมพ์",
+      "การเก็บค่าธรรมเนียมจากผู้เข้าร่วมเพื่อชดเชยค่าใช้จ่ายของโครงการ",
+      "การกำหนดราคายาและเงื่อนไขการเบิกจ่ายหลังสิ้นสุดการวิจัย",
+      "การสั่งยาและติดตามอาการผู้ป่วยทุกรายแทนผู้วิจัยหลัก"
      ],
-     "e": "CRA (Clinical Research Associate) ทำหน้าที่ monitor เป็นหลัก และเป็นจุดเชื่อมระหว่าง sponsor, investigator, site coordinator, IRB และ CRO"
+     "e": "CRA (Clinical Research Associate) ทำหน้าที่ monitor เป็นหลัก และเป็นจุดเชื่อมระหว่าง sponsor, investigator, site coordinator, IRB และ CRO | รายละเอียดคำตอบ: การกำกับดูแลความคืบหน้าของการวิจัย ให้ดำเนินการ บันทึก และรายงานตาม protocol, SOP, GCP และกฎหมาย เพื่อปกป้องสิทธิผู้เข้าร่วม รับรองความถูกต้องของข้อมูล และตรวจสอบการปฏิบัติตามข้อกำหนด"
     },
     {
      "t": "Monitoring",
      "q": "Monitoring approaches ทั้ง 3 แบบคืออะไร",
-     "a": "Central monitoring (ตรวจสอบจากระยะไกล), risk-based monitoring (จัดสรรทรัพยากรไปยังจุดเสี่ยงสูง) และ on-site monitoring (ตรวจที่สถานที่วิจัย)",
+     "a": "Central, risk-based และ on-site monitoring",
      "w": [
       "Phone monitoring, mail monitoring และ fax monitoring เท่านั้น",
-      "Financial, legal และ marketing monitoring",
-      "Daily, weekly และ yearly monitoring ที่ไม่เกี่ยวกับความเสี่ยง",
-      "Self, peer และ customer monitoring"
+      "Financial monitoring, legal monitoring และ marketing monitoring",
+      "Daily monitoring, weekly monitoring และ yearly monitoring ที่ไม่เกี่ยวกับความเสี่ยง",
+      "Self monitoring, peer monitoring และ customer monitoring"
      ],
-     "e": "On-site: ตรวจการอบรมบุคลากร การเข้าถึงเอกสาร การปฏิบัติตาม protocol เวชระเบียน และ source data"
+     "e": "On-site: ตรวจการอบรมบุคลากร การเข้าถึงเอกสาร การปฏิบัติตาม protocol เวชระเบียน และ source data | รายละเอียดคำตอบ: Central monitoring (ตรวจสอบจากระยะไกล), risk-based monitoring (จัดสรรทรัพยากรไปยังจุดเสี่ยงสูง) และ on-site monitoring (ตรวจที่สถานที่วิจัย)"
     },
     {
      "t": "Monitoring",
      "q": "กรอบ 6 Rs ของ risk-based monitoring ประกอบด้วยอะไร",
-     "a": "Risk identification, evaluation, control, communication, review และ reporting",
+     "a": "Identification, evaluation, control, communication, review, reporting",
      "w": [
       "Research, reading, writing, reporting, reviewing และ recycling",
       "Rent, repair, replace, reuse, reduce และ recycle",
@@ -1138,38 +1138,38 @@
     {
      "t": "CRA",
      "q": "ข้อใดเรียงลำดับ visit ของ CRA ตลอดวงจรของการวิจัยได้ถูกต้อง",
-     "a": "Site selection/qualification visit (SQV) → Site initiation visit (SIV) → Routine monitoring visits (MV) → Close-out visit (COV)",
+     "a": "SQV → SIV → MV → COV",
      "w": [
       "COV → SIV → MV → SQV",
       "MV → SQV → COV → SIV",
       "SIV → COV → SQV → MV",
       "SQV → COV → MV → SIV"
      ],
-     "e": "SQV: ประเมินและเลือกสถานที่วิจัยตามศักยภาพ ทรัพยากร และประวัติการปฏิบัติตามกฎ; SIV: อบรมทีมเรื่อง protocol, GCP, การจัดการ IP, การรายงาน SAE; COV: แก้ query ทั้งหมด ตรวจ IP accountability และเก็บเอกสารสำคัญ"
+     "e": "SQV: ประเมินและเลือกสถานที่วิจัยตามศักยภาพ ทรัพยากร และประวัติการปฏิบัติตามกฎ; SIV: อบรมทีมเรื่อง protocol, GCP, การจัดการ IP, การรายงาน SAE; COV: แก้ query ทั้งหมด ตรวจ IP accountability และเก็บเอกสารสำคัญ | รายละเอียดคำตอบ: Site selection/qualification visit (SQV) → Site initiation visit (SIV) → Routine monitoring visits (MV) → Close-out visit (COV)"
     },
     {
      "t": "CRA",
      "q": "Close-out visit (COV) มีวัตถุประสงค์หลักอย่างไร",
-     "a": "แก้ไข query ที่ค้าง ตรวจสอบ accountability ของ investigational product และให้แน่ใจว่าเอกสารสำคัญ (essential documents) ถูกจัดเก็บถาวรอย่างเหมาะสม",
+     "a": "แก้ query ที่ค้าง ตรวจ IP accountability และเก็บเอกสารสำคัญ",
      "w": [
-      "อบรมทีมงานก่อนเริ่มวิจัย",
-      "เลือกสถานที่วิจัยใหม่",
-      "เริ่มคัดเลือกผู้เข้าร่วมรายแรก",
-      "ยื่นขอจดทะเบียนสิทธิบัตร"
+      "อบรมทีมงานและแจกจ่าย investigational product ก่อนเริ่มวิจัย",
+      "คัดเลือกสถานที่วิจัยใหม่และประเมินคุณสมบัติของผู้วิจัยหลัก",
+      "เริ่มคัดเลือกผู้เข้าร่วมรายแรกและทำ informed consent",
+      "ยื่นขอจดทะเบียนสิทธิบัตรของผลการวิจัยที่ได้"
      ],
-     "e": "งานของ CRA ในช่วง pre-study: site selection, ตรวจ regulatory documents ให้ครบก่อนเริ่มวิจัย"
+     "e": "งานของ CRA ในช่วง pre-study: site selection, ตรวจ regulatory documents ให้ครบก่อนเริ่มวิจัย | รายละเอียดคำตอบ: แก้ไข query ที่ค้าง ตรวจสอบ accountability ของ investigational product และให้แน่ใจว่าเอกสารสำคัญ (essential documents) ถูกจัดเก็บถาวรอย่างเหมาะสม"
     },
     {
      "t": "Source data",
      "q": "Source Data Review (SDR) และ Source Data Verification (SDV) ต่างกันอย่างไร",
-     "a": "SDR ประเมินคุณภาพเวชระเบียนและการปฏิบัติตาม protocol (เช่น informed consent, การรายงาน SAE) ; SDV ตรวจสอบความถูกต้องของข้อมูลใน eCRF เทียบกับ source (เช่น primary endpoint, dosing)",
+     "a": "SDR ประเมินคุณภาพเวชระเบียน ; SDV ตรวจ eCRF เทียบกับ source",
      "w": [
-      "SDR ตรวจเฉพาะราคา ; SDV ตรวจเฉพาะบรรจุภัณฑ์",
-      "SDR และ SDV เหมือนกันทุกประการ",
-      "SDR ตรวจเฉพาะรูปถ่าย ; SDV ตรวจเฉพาะสัญญา",
-      "SDR ใช้กับสัตว์ทดลอง ; SDV ใช้กับมนุษย์เท่านั้น"
+      "SDR ตรวจความถูกต้องของข้อมูลใน eCRF เทียบกับ source ; SDV ประเมินคุณภาพเวชระเบียน",
+      "SDR ตรวจเฉพาะราคายา ; SDV ตรวจเฉพาะบรรจุภัณฑ์ของ IP",
+      "SDR และ SDV เหมือนกันทุกประการ ต่างกันเพียงชื่อเรียก",
+      "SDR ใช้กับการวิจัยในสัตว์ทดลอง ; SDV ใช้กับมนุษย์เท่านั้น"
      ],
-     "e": "ทั้งสองจำเป็น: SDR รับรองจริยธรรมและความปลอดภัย ส่วน SDV รับรองความน่าเชื่อถือของข้อมูลที่ใช้ตัดสินใจเชิงกำกับดูแล"
+     "e": "ทั้งสองจำเป็น: SDR รับรองจริยธรรมและความปลอดภัย ส่วน SDV รับรองความน่าเชื่อถือของข้อมูลที่ใช้ตัดสินใจเชิงกำกับดูแล | รายละเอียดคำตอบ: SDR ประเมินคุณภาพเวชระเบียนและการปฏิบัติตาม protocol (เช่น informed consent, การรายงาน SAE) ; SDV ตรวจสอบความถูกต้องของข้อมูลใน eCRF เทียบกับ source (เช่น primary endpoint, dosing)"
     },
     {
      "t": "ALCOA+",
@@ -1186,62 +1186,62 @@
     {
      "t": "Monitoring visit",
      "q": "กิจกรรมใดเป็นการตรวจที่ CRA ทำในการเยี่ยม routine monitoring",
-     "a": "ตรวจ informed consent, การปฏิบัติตาม protocol, source documents, การจัดการและ accountability ของ IP, การรายงาน AE, regulatory files (เช่น IRB approvals ปัจจุบัน) และ SOPs/QC",
+     "a": "ตรวจ informed consent, protocol, source documents, IP และ AE",
      "w": [
-      "ตรวจราคาค่ายาของคู่แข่ง",
-      "ตรวจการโฆษณาผลิตภัณฑ์ทางโทรทัศน์",
-      "ตรวจสต็อกสินค้าของร้านสะดวกซื้อ",
-      "ตรวจยอดขายรายเดือนของบริษัทยา"
+      "ตรวจราคาค่ายาของคู่แข่งและเปรียบเทียบกับราคาของผลิตภัณฑ์",
+      "ตรวจการโฆษณาผลิตภัณฑ์ทางโทรทัศน์และสื่อออนไลน์",
+      "ตรวจสต็อกสินค้าของร้านสะดวกซื้อและร้านขายยาในพื้นที่",
+      "ตรวจยอดขายรายเดือนของบริษัทยาและเปรียบเทียบเป้าหมาย"
      ],
-     "e": "หลังการเยี่ยม CRA ต้องเขียนรายงาน ส่งให้ sponsor และติดตาม action items"
+     "e": "หลังการเยี่ยม CRA ต้องเขียนรายงาน ส่งให้ sponsor และติดตาม action items | รายละเอียดคำตอบ: ตรวจ informed consent, การปฏิบัติตาม protocol, source documents, การจัดการและ accountability ของ IP, การรายงาน AE, regulatory files (เช่น IRB approvals ปัจจุบัน) และ SOPs/QC"
     },
     {
      "t": "CRA duties",
      "q": "ภาระหน้าที่ด้านการปกป้องผู้เข้าร่วมวิจัยของ CRA เกี่ยวข้องกับข้อใด",
-     "a": "ตรวจสอบกระบวนการขอความยินยอม (informed consent) ให้ครบถ้วน และยืนยันว่ามีการรายงานเหตุการณ์ไม่พึงประสงค์ร้ายแรง (SAE) ทันเวลา",
+     "a": "ตรวจ informed consent และยืนยันการรายงาน SAE ทันเวลา",
      "w": [
-      "เลือกผู้เข้าร่วมที่จ่ายเงินมากที่สุด",
-      "เปิดเผยข้อมูลส่วนตัวของผู้เข้าร่วมแก่สื่อ",
-      "ปกปิดเหตุการณ์ไม่พึงประสงค์ที่เกิดขึ้น",
-      "ข้ามขั้นตอนการขอความยินยอมเพื่อประหยัดเวลา"
+      "เลือกผู้เข้าร่วมที่จ่ายเงินมากที่สุดเข้าโครงการก่อน",
+      "เปิดเผยข้อมูลส่วนตัวของผู้เข้าร่วมแก่สื่อเพื่อประชาสัมพันธ์",
+      "ปกปิดเหตุการณ์ไม่พึงประสงค์ที่เกิดขึ้นเพื่อไม่ให้โครงการล่าช้า",
+      "ข้ามขั้นตอนการขอความยินยอมเพื่อประหยัดเวลาในการคัดเลือก"
      ],
-     "e": "SAE ต้องรายงานทันที ส่วน query อื่น ๆ ไม่จำเป็นต้องแก้ภายในวันเดียวกัน"
+     "e": "SAE ต้องรายงานทันที ส่วน query อื่น ๆ ไม่จำเป็นต้องแก้ภายในวันเดียวกัน | รายละเอียดคำตอบ: ตรวจสอบกระบวนการขอความยินยอม (informed consent) ให้ครบถ้วน และยืนยันว่ามีการรายงานเหตุการณ์ไม่พึงประสงค์ร้ายแรง (SAE) ทันเวลา"
     },
     {
      "t": "CRA duties",
      "q": "ในด้าน investigational product (IP) CRA ต้องดูแลอะไร",
-     "a": "ตรวจสอบการจัดเก็บ (storage conditions) การจ่าย การกระทบยอด drug accountability และการทำลาย IP ที่ถูกต้อง",
+     "a": "ตรวจการจัดเก็บ การจ่าย drug accountability และการทำลาย IP",
      "w": [
-      "จำหน่าย IP ให้บุคคลทั่วไป",
-      "เก็บ IP ไว้ที่บ้านของผู้วิจัย",
-      "ทิ้ง IP ในถังขยะทั่วไป",
-      "ไม่ต้องบันทึกจำนวน IP"
+      "จำหน่าย IP ให้บุคคลทั่วไปเพื่อชดเชยค่าใช้จ่ายของโครงการ",
+      "เก็บ IP ไว้ที่บ้านของผู้วิจัยเพื่อความสะดวกในการติดตาม",
+      "ทิ้ง IP ที่เหลือในถังขยะทั่วไปหลังสิ้นสุดโครงการ",
+      "ไม่ต้องบันทึกจำนวน IP ถ้าผู้วิจัยรับรองว่าจ่ายครบ"
      ],
-     "e": "Protocol deviation ต้องระบุ บันทึก และรายงาน เพื่อรักษาความถูกต้องของการวิจัย"
+     "e": "Protocol deviation ต้องระบุ บันทึก และรายงาน เพื่อรักษาความถูกต้องของการวิจัย | รายละเอียดคำตอบ: ตรวจสอบการจัดเก็บ (storage conditions) การจ่าย การกระทบยอด drug accountability และการทำลาย IP ที่ถูกต้อง"
     },
     {
      "t": "Skills",
      "q": "ทักษะสำคัญของ CRA ที่กล่าวถึงในบทเรียนคือข้อใด",
-     "a": "ความรู้ ICH-GCP และข้อกำหนดกำกับดูแล ระเบียบวิธีวิจัยทางคลินิก ความถูกต้องของข้อมูล ความละเอียดรอบคอบ การสื่อสาร การบริหารความสัมพันธ์ การจัดการเวลา (ดูแลหลายสถานที่วิจัยพร้อมกัน) และการจัดการความเครียด",
+     "a": "ความรู้ ICH-GCP ความละเอียด การสื่อสาร และการจัดการเวลา",
      "w": [
-      "ทักษะการทำอาหารและการจัดดอกไม้",
-      "ทักษะการขับรถแข่งขัน",
-      "ทักษะการวาดภาพสีน้ำมัน",
-      "ทักษะการร้องเพลงบนเวที"
+      "ทักษะการทำอาหาร การจัดดอกไม้ และการตกแต่งภายใน",
+      "ทักษะการขับรถแข่งขัน การซ่อมเครื่องยนต์ และการเดินทางไกล",
+      "ทักษะการวาดภาพสีน้ำมัน การปั้น และการออกแบบกราฟิก",
+      "ทักษะการร้องเพลงบนเวที การเต้น และการแสดงละคร"
      ],
-     "e": "CRA มักดูแล 8–12 สถานที่วิจัยพร้อมกัน; SAE ต้องรายงานทันที ส่วน query บางเรื่องไม่จำเป็นต้องแก้ในวันเดียว; การสื่อสารที่ไม่ดีทำให้เกิด protocol deviation และการรับสมัครล่าช้า"
+     "e": "CRA มักดูแล 8–12 สถานที่วิจัยพร้อมกัน; SAE ต้องรายงานทันที ส่วน query บางเรื่องไม่จำเป็นต้องแก้ในวันเดียว; การสื่อสารที่ไม่ดีทำให้เกิด protocol deviation และการรับสมัครล่าช้า | รายละเอียดคำตอบ: ความรู้ ICH-GCP และข้อกำหนดกำกับดูแล ระเบียบวิธีวิจัยทางคลินิก ความถูกต้องของข้อมูล ความละเอียดรอบคอบ การสื่อสาร การบริหารความสัมพันธ์ การจัดการเวลา (ดูแลหลายสถานที่วิจัยพร้อมกัน) และการจัดการความเครียด"
     },
     {
      "t": "Monitoring",
      "q": "Central monitoring ต่างจาก on-site monitoring อย่างไร",
-     "a": "Central monitoring ตรวจทานข้อมูลจากระยะไกล (เช่น เกณฑ์คัดเข้า จากใบยินยอม ผลสแกน รายงานพยาธิ และการวิเคราะห์ทางสถิติเพื่อหาความผิดปกติ) ส่วน on-site monitoring ตรวจโดยตรงที่สถานที่วิจัย",
+     "a": "Central ตรวจจากระยะไกล ; on-site ตรวจที่สถานที่วิจัย",
      "w": [
       "Central monitoring ต้องไปที่สถานที่วิจัยทุกครั้ง ส่วน on-site ทำจากระยะไกล",
-      "ทั้งสองเหมือนกันทุกประการ",
-      "Central monitoring ตรวจเฉพาะบรรจุภัณฑ์ยา",
-      "On-site monitoring ตรวจเฉพาะราคา"
+      "ทั้งสองเหมือนกันทุกประการ ต่างกันเพียงชื่อเรียกและผู้ตรวจสอบ",
+      "Central monitoring ตรวจเฉพาะบรรจุภัณฑ์ยาและฉลากของ IP",
+      "On-site monitoring ตรวจเฉพาะราคายาและต้นทุนของโครงการ"
      ],
-     "e": "รูปแบบทั้งสามสามารถใช้ร่วมกันได้ตามความเสี่ยงของการวิจัย"
+     "e": "รูปแบบทั้งสามสามารถใช้ร่วมกันได้ตามความเสี่ยงของการวิจัย | รายละเอียดคำตอบ: Central monitoring ตรวจทานข้อมูลจากระยะไกล (เช่น เกณฑ์คัดเข้า จากใบยินยอม ผลสแกน รายงานพยาธิ และการวิเคราะห์ทางสถิติเพื่อหาความผิดปกติ) ส่วน on-site monitoring ตรวจโดยตรงที่สถานที่วิจัย"
     }
    ]
   },
@@ -1254,26 +1254,26 @@
     {
      "t": "Biologics",
      "q": "ข้อใดเป็นลักษณะสำคัญของยาชีววัตถุ (biologics)",
-     "a": "โมเลกุลใหญ่ซับซ้อน ผลิตจากเซลล์หรือสิ่งมีชีวิต และกระบวนการผลิตเป็นตัวกำหนดคุณสมบัติผลิตภัณฑ์",
+     "a": "โมเลกุลใหญ่ซับซ้อน ผลิตจากเซลล์ และกระบวนการผลิตกำหนดคุณสมบัติ",
      "w": [
-      "โมเลกุลเล็ก สังเคราะห์ทางเคมีล้วน ๆ และคัดลอกได้เหมือนทุกประการ",
-      "ไม่มีโอกาสกระตุ้นภูมิคุ้มกันเลย",
-      "ไม่ไวต่อสภาวะการเก็บรักษาและการขนส่ง",
-      "ต้นทุนการผลิตต่ำเพราะกระบวนการผลิตง่าย"
+      "โมเลกุลเล็ก สังเคราะห์ทางเคมี และคัดลอกได้เหมือนทุกประการด้วยกระบวนการมาตรฐาน",
+      "โมเลกุลใหญ่ซับซ้อน แต่ไม่มีโอกาสกระตุ้นภูมิคุ้มกันและไม่ไวต่อสภาวะการขนส่ง",
+      "ผลิตจากเซลล์ที่มีชีวิต แต่ต้นทุนต่ำเพราะกระบวนการผลิตง่ายและควบคุมได้ทุกขั้นตอน",
+      "โมเลกุลเดี่ยวบริสุทธิ์ที่ไม่มีความหลากหลายของโมเลกุลและคงตัวที่อุณหภูมิห้อง"
      ],
-     "e": "The process defines the product"
+     "e": "The process defines the product | รายละเอียดคำตอบ: โมเลกุลใหญ่ซับซ้อน ผลิตจากเซลล์หรือสิ่งมีชีวิต และกระบวนการผลิตเป็นตัวกำหนดคุณสมบัติผลิตภัณฑ์"
     },
     {
      "t": "Biologics",
      "q": "เหตุใดยาชีววัตถุที่เลียนแบบจึงเรียกว่า biosimilar ไม่ใช่ generic",
-     "a": "เพราะไม่สามารถคัดลอกโมเลกุลได้เหมือนทุกประการ จากความหลากหลายของโมเลกุลตามธรรมชาติและกระบวนการผลิต",
+     "a": "เพราะคัดลอกโมเลกุลได้ไม่เหมือนทุกประการ จากความหลากหลายตามธรรมชาติ",
      "w": [
-      "เพราะราคาถูกกว่ายาต้นแบบเสมอ",
-      "เพราะผลิตจากสารเคมีสังเคราะห์",
-      "เพราะไม่ต้องทดสอบคุณภาพ",
-      "เพราะใช้ได้เฉพาะในสัตว์ทดลอง"
+      "เพราะราคาถูกกว่ายาต้นแบบเสมอ และไม่ต้องทดสอบประสิทธิภาพเพิ่มเติม",
+      "เพราะผลิตจากสารเคมีสังเคราะห์ จึงไม่ต้องใช้เซลล์หรือสิ่งมีชีวิต",
+      "เพราะไม่ต้องทดสอบคุณภาพเปรียบเทียบกับยาอ้างอิงก่อนขึ้นทะเบียน",
+      "เพราะใช้ได้เฉพาะในสัตว์ทดลองและยังไม่อนุญาตให้ใช้ในมนุษย์"
      ],
-     "e": "Natural molecular heterogeneity"
+     "e": "Natural molecular heterogeneity | รายละเอียดคำตอบ: เพราะไม่สามารถคัดลอกโมเลกุลได้เหมือนทุกประการ จากความหลากหลายของโมเลกุลตามธรรมชาติและกระบวนการผลิต"
     },
     {
      "t": "ATMP",
@@ -1326,26 +1326,26 @@
     {
      "t": "ATMP",
      "q": "CAR-T cell และ Mesenchymal stem cells จัดเป็น ATMP ประเภทใด",
-     "a": "Somatic Cell Therapy Medicinal Product (sCTMP)",
+     "a": "Somatic Cell Therapy Product",
      "w": [
       "Gene Therapy Medicinal Product",
       "Tissue Engineered Product",
       "Combined ATMP",
       "Toxoid vaccine"
      ],
-     "e": "ใช้เซลล์ที่เพาะเลี้ยงหรือดัดแปลงเพื่อรักษาโรค"
+     "e": "ใช้เซลล์ที่เพาะเลี้ยงหรือดัดแปลงเพื่อรักษาโรค | รายละเอียดคำตอบ: Somatic Cell Therapy Medicinal Product (sCTMP)"
     },
     {
      "t": "Recombinant protein",
      "q": "ข้อใดอธิบาย recombinant DNA ได้ถูกต้อง",
-     "a": "DNA ที่สร้างขึ้นโดยรวม DNA จากสองแหล่งขึ้นไป โดยตัดด้วย restriction enzyme และเชื่อมด้วย DNA ligase",
+     "a": "DNA จากสองแหล่งรวมกัน โดยตัดด้วย restriction enzyme เชื่อมด้วย ligase",
      "w": [
-      "DNA ที่ได้จากการสกัดจากพืชเท่านั้น",
-      "DNA ที่ถูกย่อยสลายด้วย DNA ligase",
-      "RNA ที่ถูกถอดรหัสย้อนกลับในเซลล์สัตว์",
-      "โปรตีนที่สกัดจากเลือดมนุษย์"
+      "DNA ที่ได้จากการสกัดจากพืชโดยตรงและไม่ผ่านกระบวนการตัดต่อใด ๆ",
+      "DNA ที่ถูกตัดด้วย DNA ligase และเชื่อมด้วย restriction enzyme",
+      "RNA ที่ถูกถอดรหัสย้อนกลับด้วย reverse transcriptase ในเซลล์สัตว์",
+      "โปรตีนที่สกัดจากเลือดมนุษย์และผ่านการทำให้บริสุทธิ์หลายขั้นตอน"
      ],
-     "e": "Restriction enzyme ตัด และ DNA ligase เชื่อมโควาเลนต์"
+     "e": "Restriction enzyme ตัด และ DNA ligase เชื่อมโควาเลนต์ | รายละเอียดคำตอบ: DNA ที่สร้างจากการรวม DNA จากสองแหล่งขึ้นไป โดยตัดด้วย restriction enzyme และเชื่อมด้วย DNA ligase"
     },
     {
      "t": "Recombinant protein",
@@ -1362,14 +1362,14 @@
     {
      "t": "Recombinant protein",
      "q": "Recombinant factor VIIa (NovoSeven) พัฒนาขึ้นเพราะเหตุใด",
-     "a": "ผู้ป่วยฮีโมฟีเลียส่วนน้อยสร้างแอนติบอดีต่อ factor VIII",
+     "a": "ผู้ป่วยบางรายสร้างแอนติบอดีต่อ factor VIII",
      "w": [
-      "เพื่อรักษาฮีโมฟีเลีย B โดยเฉพาะ",
-      "เพื่อใช้ละลายลิ่มเลือด",
-      "เพื่อลดน้ำตาลในเลือด",
-      "เพื่อรักษาโรคตับอักเสบ"
+      "เพื่อรักษาฮีโมฟีเลีย B ที่ขาด factor IX โดยเฉพาะ",
+      "เพื่อใช้ละลายลิ่มเลือดในผู้ป่วยหลอดเลือดสมองตีบเฉียบพลัน",
+      "เพื่อควบคุมระดับน้ำตาลในเลือดของผู้ป่วยเบาหวานชนิดที่ 1",
+      "เพื่อรักษาโรคตับอักเสบและลดการอักเสบของเนื้อเยื่อตับ"
      ],
-     "e": "ผลิตใน baby hamster kidney cells และกระตุ้นตัวเองเป็น FVIIa ระหว่างการทำให้บริสุทธิ์"
+     "e": "ผลิตใน baby hamster kidney cells และกระตุ้นตัวเองเป็น FVIIa ระหว่างการทำให้บริสุทธิ์ | รายละเอียดคำตอบ: ผู้ป่วยฮีโมฟีเลียส่วนน้อยสร้างแอนติบอดีต่อ factor VIII จึงต้องมียาทางเลือก"
     },
     {
      "t": "Recombinant protein",
@@ -1386,84 +1386,84 @@
     {
      "t": "Recombinant protein",
      "q": "Reteplase และ Tenecteplase จัดเป็น recombinant t-PA รุ่นใด",
-     "a": "รุ่นที่ 2 ที่ดัดแปลงโดย domain deletion, การเปลี่ยน glycosylation หรือ amino acid substitution",
+     "a": "รุ่นที่ 2 ดัดแปลงด้วย domain deletion หรือ amino acid substitution",
      "w": [
-      "รุ่นที่ 1 เหมือน alteplase",
-      "เป็น interferon",
-      "เป็น factor IX ที่จับกับ PEG",
-      "เป็น monoclonal antibody"
+      "รุ่นที่ 1 เหมือน alteplase ที่ถูกกำจัดเร็วและเกิด fibrinogenolysis",
+      "ยากลุ่ม interferon ที่ใช้รักษาตับอักเสบและโรคปลอกประสาทอักเสบ",
+      "factor IX ที่จับกับ PEG เพื่อยืดครึ่งชีวิตในผู้ป่วยฮีโมฟีเลีย B",
+      "monoclonal antibody ที่ยับยั้งการเกาะกลุ่มของเกล็ดเลือด"
      ],
-     "e": "รุ่นที่ 1 คือ alteplase ซึ่งถูกกำจัดเร็ว"
+     "e": "รุ่นที่ 1 คือ alteplase ซึ่งถูกกำจัดเร็ว | รายละเอียดคำตอบ: รุ่นที่ 2 ที่ดัดแปลงโดย domain deletion, glycosylation หรือ amino acid substitution"
     },
     {
      "t": "Recombinant protein",
      "q": "Betaferon/Betaseron (IFN-β1b) ผลิตจากเซลล์ใด และใช้รักษาโรคใด",
-     "a": "E. coli; relapsing/remitting multiple sclerosis",
+     "a": "E. coli ; relapsing/remitting multiple sclerosis",
      "w": [
-      "CHO cell; ตับอักเสบซี",
-      "ยีสต์; ฮีโมฟีเลีย",
-      "E. coli; มะเร็งเม็ดเลือดขาว",
-      "เซลล์แมลง; เบาหวาน"
+      "CHO cell ; ตับอักเสบซีเรื้อรังและมะเร็งไต",
+      "ยีสต์ ; ฮีโมฟีเลียที่มีแอนติบอดีต่อ factor VIII",
+      "E. coli ; มะเร็งเม็ดเลือดขาวชนิดเรื้อรังและ hairy cell leukemia",
+      "เซลล์แมลง ; เบาหวานชนิดที่ 2 และภาวะไขมันในเลือดสูง"
      ],
      "e": "Rebif และ Avonex (IFN-β1a) ผลิตใน CHO cells"
     },
     {
      "t": "Recombinant protein",
      "q": "PEGylation มีประโยชน์ทางคลินิกอย่างไร",
-     "a": "เพิ่มความคงตัวและการละลาย ลดการขับทางไต เพิ่ม half-life ลด immunogenicity",
+     "a": "เพิ่มความคงตัว ลดการขับทางไต เพิ่ม half-life ลด immunogenicity",
      "w": [
-      "ลดครึ่งชีวิตของยา",
-      "เพิ่มการสลายโดยโปรตีเอส",
-      "เพิ่มการกระตุ้นภูมิคุ้มกัน",
-      "ทำให้ยาไม่ละลายน้ำ"
+      "ลดครึ่งชีวิตของยาในกระแสเลือดและเพิ่มการขับออกทางไต",
+      "เพิ่มการสลายของโปรตีนโดยโปรตีเอสและลดการละลายของยา",
+      "เพิ่มการกระตุ้นภูมิคุ้มกันและทำให้เกิดแอนติบอดีต่อยามากขึ้น",
+      "ทำให้ยาไม่ละลายน้ำและต้องใช้ตัวทำละลายอินทรีย์ในการบริหารยา"
      ],
      "e": "ตัวอย่าง Pegasys (PEG-IFN α-2a) และ Mircera"
     },
     {
      "t": "Monoclonal antibody",
      "q": "กลไก ADCC ของ monoclonal antibody คืออะไร",
-     "a": "effector cell ของระบบภูมิคุ้มกันทำลายเซลล์เป้าหมายที่ถูกแอนติบอดีจำเพาะจับอยู่",
+     "a": "effector cell ทำลายเซลล์เป้าหมายที่ถูกแอนติบอดีจำเพาะจับ",
      "w": [
-      "แอนติบอดีกระตุ้นระบบ complement ทำลายเซลล์",
-      "การตายของเซลล์ตามโปรแกรมโดยไม่มีแอนติบอดี",
-      "การเปลี่ยนยีนในนิวเคลียส",
-      "การดูดซึมยาผ่านผิวหนัง"
+      "แอนติบอดีที่จับเซลล์เป้าหมายกระตุ้นระบบ complement ให้ทำลายเซลล์",
+      "การตายของเซลล์ตามโปรแกรมที่เกิดโดยไม่ต้องมีแอนติบอดีมาจับ",
+      "การเปลี่ยนลำดับยีนในนิวเคลียสของเซลล์เป้าหมายโดยแอนติบอดี",
+      "การดูดซึมแอนติบอดีผ่านผิวหนังเข้าสู่เซลล์เป้าหมายโดยตรง"
      ],
-     "e": "CDC เกิดจากปฏิกิริยากับโปรตีนในระบบ complement"
+     "e": "CDC เกิดจากปฏิกิริยากับโปรตีนในระบบ complement | รายละเอียดคำตอบ: effector cell ของระบบภูมิคุ้มกันทำลายเซลล์เป้าหมายที่ถูกแอนติบอดีจำเพาะจับอยู่"
     },
     {
      "t": "Gene therapy",
      "q": "นิยามของ gene therapy คือข้อใด",
-     "a": "การนำยีนเพื่อการรักษาเข้าสู่เซลล์เป้าหมาย เพื่อต้านผลของยีนโรคหรือเพิ่มหน้าที่ใหม่",
+     "a": "นำยีนรักษาเข้าสู่เซลล์เป้าหมายเพื่อต้านผลยีนโรคหรือเพิ่มหน้าที่",
      "w": [
-      "การให้โปรตีนที่ผลิตจาก E. coli ทางหลอดเลือด",
-      "การปลูกถ่ายอวัยวะ",
-      "การให้วัคซีนเชื้อตาย",
-      "การให้ยาปฏิชีวนะ"
+      "การให้โปรตีนที่ผลิตจาก E. coli ทางหลอดเลือดเพื่อทดแทนโปรตีนที่ขาด",
+      "การปลูกถ่ายอวัยวะจากผู้บริจาคเพื่อทดแทนอวัยวะที่เสียหาย",
+      "การให้วัคซีนเชื้อตายเพื่อกระตุ้นภูมิคุ้มกันก่อนสัมผัสเชื้อ",
+      "การให้ยาปฏิชีวนะเพื่อกำจัดเชื้อก่อโรคในร่างกาย"
      ],
-     "e": "ใช้แก้ไข phenotype ที่บกพร่องในโรคพันธุกรรม มะเร็ง และโรคติดเชื้อ"
+     "e": "ใช้แก้ไข phenotype ที่บกพร่องในโรคพันธุกรรม มะเร็ง และโรคติดเชื้อ | รายละเอียดคำตอบ: นำยีนเพื่อการรักษาเข้าสู่เซลล์เป้าหมาย เพื่อต้านผลของยีนโรคหรือเพิ่มหน้าที่ใหม่"
     },
     {
      "t": "Gene therapy",
      "q": "ไวรัสเวกเตอร์ชนิดใดต่อไปนี้เป็น integrating virus",
      "a": "Retrovirus และ Adeno-associated virus (AAV)",
      "w": [
-      "Adenovirus และ Herpes simplex virus",
-      "Herpes simplex virus เท่านั้น",
-      "Adenovirus เท่านั้น",
-      "ไม่มีชนิดใดเลย"
+      "Adenovirus และ Herpes simplex virus (HSV)",
+      "Herpes simplex virus และ Lentivirus เท่านั้น",
+      "Adenovirus และ AAV ซึ่งเป็น DNA virus ทั้งคู่",
+      "ไม่มีไวรัสเวกเตอร์ชนิดใดที่เข้าสู่โครโมโซมของเจ้าบ้านได้"
      ],
      "e": "Adenovirus และ HSV เป็น non-integrating"
     },
     {
      "t": "Gene therapy",
      "q": "ข้อใดเป็นข้อเสียของ retroviral vector",
-     "a": "ติดเชื้อได้เฉพาะเซลล์ที่แบ่งตัว และเสี่ยง insertional mutagenesis",
+     "a": "ติดเชื้อเฉพาะเซลล์ที่แบ่งตัว เสี่ยง insertional mutagenesis",
      "w": [
-      "ไม่เข้าสู่โครโมโซมของมนุษย์",
-      "ขนาด DNA insert ได้มากกว่า 40 kb",
-      "ไม่มีการแสดงออกถาวร",
-      "ติดเชื้อเซลล์ที่ไม่แบ่งตัวได้ดี"
+      "ไม่เข้าสู่โครโมโซมของมนุษย์ จึงแสดงออกเพียงชั่วคราว",
+      "รับ DNA insert ได้มากกว่า 40 kb และผลิตได้ในปริมาณสูง",
+      "ไม่มีการแสดงออกถาวร และ titer สูงถึง 10^12 virus/mL",
+      "ติดเชื้อเซลล์ที่ไม่แบ่งตัวได้ดี และไม่เสี่ยงก่อมะเร็ง"
      ],
      "e": "ขนาด insert เพียง 9-12 kb และ titer ต่ำ ราว 10^6 virus/ml"
     },
@@ -1474,22 +1474,22 @@
      "w": [
       "Moloney murine leukemia virus vector",
       "Retroviral vector แบบดั้งเดิม",
-      "Non-viral cationic lipid เท่านั้น",
-      "Toxoid vector"
+      "Non-viral cationic lipid vector",
+      "Adeno-associated virus ที่ไม่มี helper"
      ],
      "e": "พัฒนาจาก HIV โดยลบ accessory genes และใช้ envelope จาก VSV; packaging cell line = HEK293"
     },
     {
      "t": "Gene therapy",
      "q": "Adenoviral vector มีข้อดีและข้อจำกัดอย่างไร",
-     "a": "titer สูงและ transduce ได้ทั้งเซลล์แบ่งและไม่แบ่งตัว แต่แสดงออกชั่วคราวและกระตุ้นภูมิคุ้มกันสูง",
+     "a": "titer สูง แต่แสดงออกชั่วคราวและ immunogenic สูง",
      "w": [
-      "แสดงออกถาวรและ immunogenic ต่ำ",
-      "insert ได้ 40-50 kb",
-      "ใช้ packaging cell แบบ 293 ไม่ได้",
-      "เป็น ssDNA เล็ก 4.6 kb"
+      "แสดงออกถาวรในโครโมโซม และ immunogenic ต่ำมาก",
+      "รับ insert ได้ 40-50 kb และติดเชื้อเฉพาะระบบประสาท",
+      "ใช้ packaging cell แบบ 293 ไม่ได้ และผลิตยากมาก",
+      "เป็น ssDNA ขนาดเล็ก 4.6 kb ที่ต้องพึ่ง helper virus"
      ],
-     "e": "ds DNA 36 kb; ใช้ 293 cell ที่มี E1a; insert 4-5 kb"
+     "e": "ds DNA 36 kb; ใช้ 293 cell ที่มี E1a; insert 4-5 kb | รายละเอียดคำตอบ: titer สูง transduce ได้ทั้งเซลล์แบ่งและไม่แบ่งตัว แต่แสดงออกชั่วคราวและกระตุ้นภูมิคุ้มกันสูง"
     }
    ]
   },
@@ -1502,26 +1502,26 @@
     {
      "t": "IP",
      "q": "ทรัพย์สินทางปัญญา (IP) หมายถึงข้อใด",
-     "a": "ผลงานอันเกิดจากความคิดสร้างสรรค์หรือการประดิษฐ์คิดค้นของมนุษย์ นอกเหนือจากสังหาริมทรัพย์และอสังหาริมทรัพย์",
+     "a": "ผลงานจากความคิดสร้างสรรค์หรือการประดิษฐ์ของมนุษย์",
      "w": [
-      "ที่ดินและสิ่งปลูกสร้างที่จดทะเบียนไว้",
-      "เงินทุนที่ใช้ในการวิจัยเท่านั้น",
-      "สินค้าสำเร็จรูปที่วางขายในท้องตลาด",
-      "เครื่องมือและอุปกรณ์ในห้องปฏิบัติการ"
+      "ที่ดินและสิ่งปลูกสร้างที่จดทะเบียนไว้กับกรมที่ดินแล้วตามกฎหมาย",
+      "เงินทุนและงบประมาณที่ใช้ในการวิจัยและพัฒนาผลิตภัณฑ์ใหม่",
+      "สินค้าสำเร็จรูปที่ผลิตเป็นจำนวนมากและวางขายในท้องตลาดทั่วไป",
+      "เครื่องมือและอุปกรณ์ที่ใช้ในห้องปฏิบัติการวิจัยของหน่วยงาน"
      ],
-     "e": "IP อาจจับต้องได้หรือไม่ได้ เช่น บริการ แนวคิดทางธุรกิจ กรรมวิธีผลิต"
+     "e": "IP อาจจับต้องได้หรือไม่ได้ เช่น บริการ แนวคิดทางธุรกิจ กรรมวิธีผลิต | รายละเอียดคำตอบ: ผลงานจากความคิดสร้างสรรค์หรือการประดิษฐ์คิดค้นของมนุษย์ นอกเหนือจากสังหาริมทรัพย์และอสังหาริมทรัพย์"
     },
     {
      "t": "IP",
      "q": "ข้อใดจัดเป็นทรัพย์สินทางอุตสาหกรรม (Industrial property)",
-     "a": "สิทธิบัตร เครื่องหมายการค้า ความลับทางการค้า และสิ่งบ่งชี้ทางภูมิศาสตร์",
+     "a": "สิทธิบัตร เครื่องหมายการค้า ความลับทางการค้า และ GI",
      "w": [
-      "ลิขสิทธิ์เท่านั้น",
-      "งานวรรณกรรมและงานดนตรีกรรม",
-      "งานภาพยนตร์",
-      "งานแพร่เสียงแพร่ภาพ"
+      "ลิขสิทธิ์ งานวรรณกรรม งานนาฏกรรม และงานศิลปกรรม",
+      "งานวรรณกรรม งานดนตรีกรรม งานโสตทัศนวัสดุ และงานภาพยนตร์",
+      "งานภาพยนตร์ งานสิ่งบันทึกเสียง และงานแพร่เสียงแพร่ภาพ",
+      "งานศิลปประยุกต์ งานภาพถ่าย และโปรแกรมคอมพิวเตอร์"
      ],
-     "e": "ลิขสิทธิ์แยกเป็นอีกหมวดของทรัพย์สินทางปัญญา"
+     "e": "ลิขสิทธิ์แยกเป็นอีกหมวดของทรัพย์สินทางปัญญา | รายละเอียดคำตอบ: สิทธิบัตร เครื่องหมายการค้า ความลับทางการค้า และสิ่งบ่งชี้ทางภูมิศาสตร์"
     },
     {
      "t": "IP",
@@ -1529,9 +1529,9 @@
      "a": "พ.ร.บ.สิทธิบัตร พ.ศ. 2522",
      "w": [
       "พ.ร.บ.ยา พ.ศ. 2510",
-      "พ.ร.บ.วัตถุอันตราย",
-      "พ.ร.บ.อาหาร",
-      "พ.ร.บ.เครื่องมือแพทย์"
+      "พ.ร.บ.วัตถุอันตราย พ.ศ. 2535",
+      "พ.ร.บ.อาหาร พ.ศ. 2522",
+      "พ.ร.บ.เครื่องมือแพทย์ พ.ศ. 2551"
      ],
      "e": "มีทั้งหมด 7 ฉบับ เช่น เครื่องหมายการค้า ลิขสิทธิ์ ความลับทางการค้า สิ่งบ่งชี้ทางภูมิศาสตร์"
     },
@@ -1540,36 +1540,36 @@
      "q": "สิทธิบัตร (Patent) ให้ความคุ้มครองตามหลักใด",
      "a": "ตามกฎหมายของแต่ละประเทศ (ประเทศไหนประเทศนั้น)",
      "w": [
-      "คุ้มครองทั่วโลกโดยอัตโนมัติเมื่อยื่นที่ไทย",
-      "คุ้มครองโดยไม่ต้องยื่นคำขอ",
-      "คุ้มครองเฉพาะในอาเซียน",
-      "คุ้มครองตลอดไปไม่มีหมดอายุ"
+      "คุ้มครองทั่วโลกโดยอัตโนมัติเมื่อยื่นที่ประเทศไทย",
+      "คุ้มครองโดยไม่ต้องยื่นคำขอ เพียงสร้างผลงานก็เกิดสิทธิ",
+      "คุ้มครองเฉพาะในประเทศสมาชิกอาเซียนเท่านั้น",
+      "คุ้มครองตลอดไปโดยไม่มีวันหมดอายุตามกฎหมาย"
      ],
      "e": "หากต้องการหลายประเทศใช้ระบบ PCT"
     },
     {
      "t": "Patent",
      "q": "Patent Cooperation Treaty (PCT) คืออะไร",
-     "a": "ระบบยื่นคำขอสิทธิบัตรระหว่างประเทศครั้งเดียวมีผลต่อประเทศสมาชิกอื่น แบ่งเป็น International phase และ National phase",
+     "a": "ระบบยื่นคำขอครั้งเดียวมีผลต่อประเทศสมาชิกอื่น",
      "w": [
-      "การจดทะเบียนเครื่องหมายการค้าในอาเซียน",
-      "ระบบขึ้นทะเบียนยาร่วมของอาเซียน",
-      "สนธิสัญญาคุ้มครองลิขสิทธิ์เพลง",
-      "ฐานข้อมูลสืบค้นสิทธิบัตรของสหรัฐ"
+      "ระบบจดทะเบียนเครื่องหมายการค้าร่วมกันในประเทศอาเซียน",
+      "ระบบขึ้นทะเบียนยาร่วมของประเทศอาเซียนตาม ACTD",
+      "สนธิสัญญาคุ้มครองลิขสิทธิ์ของเพลงและงานดนตรีกรรม",
+      "ฐานข้อมูลสืบค้นสิทธิบัตรของประเทศสหรัฐอเมริกา"
      ],
-     "e": "ผู้ขอต้องดำเนินการภายใต้กฎเกณฑ์และเงื่อนเวลาที่กำหนด"
+     "e": "ผู้ขอต้องดำเนินการภายใต้กฎเกณฑ์และเงื่อนเวลาที่กำหนด | รายละเอียดคำตอบ: ระบบยื่นคำขอระหว่างประเทศครั้งเดียวมีผลต่อประเทศสมาชิกอื่น แบ่งเป็น International และ National phase"
     },
     {
      "t": "Patent",
      "q": "สิทธิบัตรมีกี่ประเภทตาม พ.ร.บ.สิทธิบัตร",
-     "a": "3 ประเภท: สิทธิบัตรการประดิษฐ์ อนุสิทธิบัตร และสิทธิบัตรการออกแบบผลิตภัณฑ์",
+     "a": "3 ประเภท: การประดิษฐ์ อนุสิทธิบัตร และการออกแบบผลิตภัณฑ์",
      "w": [
-      "2 ประเภท: การประดิษฐ์และลิขสิทธิ์",
-      "4 ประเภท รวมเครื่องหมายการค้า",
-      "5 ประเภท รวมความลับทางการค้า",
-      "ประเภทเดียวคือการประดิษฐ์"
+      "2 ประเภท: สิทธิบัตรการประดิษฐ์ และลิขสิทธิ์",
+      "4 ประเภท: การประดิษฐ์ อนุสิทธิบัตร การออกแบบ และเครื่องหมายการค้า",
+      "5 ประเภท: รวมความลับทางการค้าและสิ่งบ่งชี้ทางภูมิศาสตร์ด้วย",
+      "ประเภทเดียวคือสิทธิบัตรการประดิษฐ์ ไม่มีอนุสิทธิบัตร"
      ],
-     "e": ""
+     "e": "รายละเอียดคำตอบ: 3 ประเภท: สิทธิบัตรการประดิษฐ์ อนุสิทธิบัตร และสิทธิบัตรการออกแบบผลิตภัณฑ์"
     },
     {
      "t": "Patent",
@@ -1588,34 +1588,34 @@
      "q": "คุณสมบัติที่การประดิษฐ์ต้องมีครบจึงจะขอรับสิทธิบัตรการประดิษฐ์ได้ ข้อใดถูกต้อง",
      "a": "ใหม่ มีขั้นการประดิษฐ์ที่สูงขึ้น และประยุกต์ใช้ทางอุตสาหกรรมได้",
      "w": [
-      "ใหม่ และใช้ได้ในครัวเรือนเท่านั้น",
-      "มีขั้นการประดิษฐ์สูงขึ้นอย่างเดียว",
-      "ผ่านการขึ้นทะเบียนกับ อย. แล้ว",
-      "เป็นสิ่งที่มีอยู่ในธรรมชาติ"
+      "ใหม่ และใช้ได้ในครัวเรือนเท่านั้นโดยไม่ต้องใช้ในอุตสาหกรรม",
+      "มีขั้นการประดิษฐ์สูงขึ้น แต่ไม่จำเป็นต้องใหม่",
+      "ผ่านการขึ้นทะเบียนกับ อย. แล้ว และมีการใช้งานจริงในตลาด",
+      "เป็นสิ่งที่มีอยู่แล้วในธรรมชาติ และถูกค้นพบเป็นครั้งแรก"
      ],
      "e": "อนุสิทธิบัตรต้องใหม่และประยุกต์ใช้ได้ ไม่ต้องมีขั้นการประดิษฐ์ที่สูงขึ้น"
     },
     {
      "t": "Patent",
      "q": "ข้อใดคือ 'ความใหม่' ตามมาตรา 6 ที่ทำให้ขอสิทธิบัตรไม่ได้",
-     "a": "การประดิษฐ์ที่เปิดเผยสาระสำคัญในเอกสารหรือสิ่งพิมพ์ที่เผยแพร่แล้ว ก่อนวันขอรับสิทธิบัตร",
+     "a": "เปิดเผยสาระสำคัญในสิ่งพิมพ์แล้วก่อนวันขอรับสิทธิบัตร",
      "w": [
-      "การประดิษฐ์ที่ยังไม่เคยเปิดเผยต่อสาธารณะ",
-      "ความคิดที่อยู่ในสมุดบันทึกส่วนตัวและไม่เคยเผยแพร่",
-      "การประดิษฐ์ที่ผ่านการทดสอบในห้องแล็บปิด",
-      "การประดิษฐ์ที่ผู้ขอเก็บเป็นความลับ"
+      "การประดิษฐ์ที่ยังไม่เคยเปิดเผยต่อสาธารณะก่อนวันขอรับสิทธิบัตร",
+      "ความคิดที่อยู่ในสมุดบันทึกส่วนตัวและไม่เคยเผยแพร่ที่ใด",
+      "การประดิษฐ์ที่ผ่านการทดสอบในห้องปฏิบัติการปิดภายในองค์กร",
+      "การประดิษฐ์ที่ผู้ขอเก็บเป็นความลับก่อนยื่นคำขอ"
      ],
-     "e": "รวมถึงที่ใช้แพร่หลายแล้วในราชอาณาจักร หรือได้รับสิทธิบัตรแล้วไม่ว่าในหรือนอกประเทศ"
+     "e": "รวมถึงที่ใช้แพร่หลายแล้วในราชอาณาจักร หรือได้รับสิทธิบัตรแล้วไม่ว่าในหรือนอกประเทศ | รายละเอียดคำตอบ: การประดิษฐ์ที่เปิดเผยสาระสำคัญในสิ่งพิมพ์ที่เผยแพร่แล้ว ก่อนวันขอรับสิทธิบัตร"
     },
     {
      "t": "Patent",
      "q": "ข้อใดขอรับสิทธิบัตร/อนุสิทธิบัตรไม่ได้",
      "a": "สารสกัดจากพืชสมุนไพรและยาที่สกัดจากสมุนไพรตามธรรมชาติ",
      "w": [
-      "กรรมวิธีผลิตยาใหม่ที่เป็นนวัตกรรม",
-      "กลไกของเครื่องยนต์แบบใหม่",
-      "วิธีเก็บรักษาผลไม้ให้ไม่เน่าเร็ว",
-      "เครื่องมือกลที่คิดค้นใหม่"
+      "กรรมวิธีผลิตยาใหม่ที่เป็นนวัตกรรมและมีขั้นการประดิษฐ์สูงขึ้น",
+      "กลไกของเครื่องยนต์แบบใหม่ที่ประยุกต์ใช้ในอุตสาหกรรมได้",
+      "วิธีเก็บรักษาผลไม้ไม่ให้เน่าเร็วเกินไปด้วยกรรมวิธีใหม่",
+      "เครื่องมือกลที่คิดค้นใหม่และใช้ประโยชน์ทางอุตสาหกรรมได้"
      ],
      "e": "รวมถึงจุลชีพตามธรรมชาติ สัตว์ พืช"
     },
@@ -1624,70 +1624,70 @@
      "q": "ข้อใดเป็นสิ่งที่ขอรับสิทธิบัตรไม่ได้",
      "a": "วิธีการวินิจฉัย บำบัด หรือรักษาโรคมนุษย์หรือสัตว์",
      "w": [
-      "ผลิตภัณฑ์ยาที่เป็นสารประกอบใหม่",
-      "กรรมวิธีผลิตสิ่งของ",
-      "โครงสร้างของอุปกรณ์ใหม่",
-      "เครื่องจักรกลใหม่ที่ใช้ในโรงงาน"
+      "ผลิตภัณฑ์ยาที่เป็นสารประกอบสังเคราะห์ใหม่ที่ยังไม่เคยเปิดเผย",
+      "กรรมวิธีผลิตสิ่งของที่มีขั้นตอนการผลิตใหม่และมีประโยชน์",
+      "โครงสร้างของอุปกรณ์ใหม่ที่ใช้ในการผลิตทางอุตสาหกรรม",
+      "เครื่องจักรกลใหม่ที่ใช้ในโรงงานและมีขั้นการประดิษฐ์สูงขึ้น"
      ],
      "e": "รวมถึงกฎเกณฑ์ทางวิทยาศาสตร์ คณิตศาสตร์ โปรแกรมคอมพิวเตอร์ และสิ่งที่ขัดต่อศีลธรรม"
     },
     {
      "t": "Patent",
      "q": "สิทธิของผู้ทรงสิทธิบัตรคือข้อใด",
-     "a": "ผลิต ใช้ ขาย มีไว้เพื่อขาย เสนอขาย นำเข้ามาในราชอาณาจักร และอนุญาตให้ผู้อื่นใช้สิทธิ",
+     "a": "ผลิต ใช้ ขาย นำเข้า และอนุญาตให้ผู้อื่นใช้สิทธิ",
      "w": [
-      "ห้ามผู้อื่นศึกษาวิจัยทุกกรณี",
-      "เรียกค่าตอบแทนได้เกินอายุความคุ้มครอง",
-      "โอนสิทธิด้วยวาจาได้โดยไม่ต้องจดทะเบียน",
-      "มีสิทธิเฉพาะการผลิต แต่ห้ามขาย"
+      "ห้ามผู้อื่นศึกษาวิจัยในทุกกรณีแม้ไม่ใช่เชิงพาณิชย์",
+      "เรียกค่าตอบแทนการใช้สิทธิได้เกินอายุความคุ้มครองของสิทธิบัตร",
+      "โอนสิทธิให้ผู้อื่นด้วยวาจาได้โดยไม่ต้องทำเป็นหนังสือหรือจดทะเบียน",
+      "มีสิทธิผลิตและใช้เท่านั้น แต่ห้ามขายหรือนำเข้ามาในประเทศ"
      ],
-     "e": "การอนุญาตให้ใช้สิทธิต้องทำเป็นหนังสือและจดทะเบียนต่อพนักงานเจ้าหน้าที่"
+     "e": "การอนุญาตให้ใช้สิทธิต้องทำเป็นหนังสือและจดทะเบียนต่อพนักงานเจ้าหน้าที่ | รายละเอียดคำตอบ: ผลิต ใช้ ขาย มีไว้เพื่อขาย เสนอขาย นำเข้ามาในราชอาณาจักร และอนุญาตให้ผู้อื่นใช้สิทธิ"
     },
     {
      "t": "Patent",
      "q": "ข้อใดเป็นข้อยกเว้นสิทธิของผู้ทรงสิทธิบัตร (ไม่ถือว่าละเมิด)",
-     "a": "การเตรียมยาเฉพาะรายตามแพทย์สั่งโดยผู้ประกอบวิชาชีพ และการดำเนินการขอขึ้นทะเบียนยาเพื่อผลิตหลังอายุคุ้มครองสิ้นสุด",
+     "a": "เตรียมยาเฉพาะรายตามแพทย์สั่ง และขอขึ้นทะเบียนยาเพื่อผลิตหลังหมดอายุ",
      "w": [
-      "การผลิตยาตามสิทธิบัตรเพื่อขายเชิงพาณิชย์ในช่วงที่ยังคุ้มครอง",
-      "การนำเข้ายาโดยไม่ขออนุญาตเพื่อขาย",
-      "การลอกสูตรยาไปจำหน่ายเอง",
-      "การขายยาปลอมที่ใช้ชื่อสิทธิบัตร"
+      "ผลิตยาตามสิทธิบัตรเพื่อขายเชิงพาณิชย์ในช่วงที่ยังคุ้มครองอยู่",
+      "นำเข้ายาตามสิทธิบัตรโดยไม่ขออนุญาตเพื่อจำหน่ายในท้องตลาด",
+      "ลอกสูตรยาตามสิทธิบัตรไปผลิตและจำหน่ายเองหลังยื่นขอทะเบียน",
+      "ขายยาปลอมที่แอบอ้างใช้ชื่อสิทธิบัตรของบริษัทผู้ทรงสิทธิ"
      ],
-     "e": "รวมถึงการศึกษา ค้นคว้า ทดลอง วิจัย ที่ไม่ขัดต่อประโยชน์ตามปกติของผู้ทรงสิทธิบัตร (Bolar provision)"
+     "e": "รวมถึงการศึกษา ค้นคว้า ทดลอง วิจัย ที่ไม่ขัดต่อประโยชน์ตามปกติของผู้ทรงสิทธิบัตร (Bolar provision) | รายละเอียดคำตอบ: การเตรียมยาเฉพาะรายตามแพทย์สั่งโดยผู้ประกอบวิชาชีพ และการดำเนินการขอขึ้นทะเบียนยาเพื่อผลิตหลังอายุคุ้มครองสิ้นสุด"
     },
     {
      "t": "Trademark",
      "q": "เครื่องหมายการค้า (Trademark) แบ่งเป็นกี่ประเภท",
-     "a": "4 ประเภท: เครื่องหมายสินค้า เครื่องหมายบริการ เครื่องหมายรับรอง เครื่องหมายร่วม",
+     "a": "4 ประเภท: สินค้า บริการ รับรอง และร่วม",
      "w": [
-      "2 ประเภท: สินค้าและบริการ",
-      "3 ประเภท: สินค้า บริการ ลิขสิทธิ์",
-      "5 ประเภท รวมสิทธิบัตร",
-      "ไม่มีการแบ่งประเภท"
+      "2 ประเภท: เครื่องหมายสินค้าและเครื่องหมายบริการ",
+      "3 ประเภท: เครื่องหมายสินค้า บริการ และลิขสิทธิ์",
+      "5 ประเภท: รวมสิทธิบัตรและความลับทางการค้าด้วย",
+      "ไม่มีการแบ่งประเภท ทุกเครื่องหมายคุ้มครองเหมือนกัน"
      ],
-     "e": "ตัวอย่างเครื่องหมายร่วม: บริษัทในเครือเดียวกัน"
+     "e": "ตัวอย่างเครื่องหมายร่วม: บริษัทในเครือเดียวกัน | รายละเอียดคำตอบ: 4 ประเภท: เครื่องหมายสินค้า เครื่องหมายบริการ เครื่องหมายรับรอง เครื่องหมายร่วม"
     },
     {
      "t": "Trade secret",
      "q": "ข้อใดเป็นลักษณะของความลับทางการค้า",
-     "a": "เป็นข้อมูลที่ยังไม่เป็นที่รู้จักทั่วไป มีมูลค่าเชิงพาณิชย์ และผู้ครอบครองรักษาเป็นความลับอย่างสมควร",
+     "a": "ข้อมูลที่ไม่เป็นที่รู้ทั่วไป มีมูลค่าเชิงพาณิชย์ และรักษาเป็นความลับ",
      "w": [
-      "ต้องจดทะเบียนก่อนจึงจะได้รับการคุ้มครอง",
-      "คุ้มครอง 20 ปีเท่านั้น",
-      "เป็นข้อมูลที่เปิดเผยต่อสาธารณะแล้ว",
-      "ใช้เป็นหลักประกันเงินกู้ไม่ได้"
+      "ต้องจดทะเบียนกับกรมทรัพย์สินทางปัญญาก่อนจึงจะได้รับการคุ้มครอง",
+      "ได้รับการคุ้มครอง 20 ปีเท่านั้นนับจากวันที่สร้างสรรค์ข้อมูล",
+      "ข้อมูลที่เปิดเผยต่อสาธารณะแล้วแต่ยังมีมูลค่าเชิงพาณิชย์สูง",
+      "ใช้เป็นหลักประกันการกู้ยืมเงินกับธนาคารไม่ได้ตามกฎหมาย"
      ],
-     "e": "คุ้มครองตราบเท่าที่ยังเป็นความลับ ไม่ต้องจดทะเบียน และนำไปเป็นหลักประกันเงินกู้ได้"
+     "e": "คุ้มครองตราบเท่าที่ยังเป็นความลับ ไม่ต้องจดทะเบียน และนำไปเป็นหลักประกันเงินกู้ได้ | รายละเอียดคำตอบ: ข้อมูลที่ยังไม่เป็นที่รู้จักทั่วไป มีมูลค่าเชิงพาณิชย์ และผู้ครอบครองรักษาเป็นความลับอย่างสมควร"
     },
     {
      "t": "Trade secret",
      "q": "ข้อใดไม่ถือเป็นการละเมิดความลับทางการค้า",
-     "a": "การทำวิศวกรรมย้อนกลับ (reverse engineering) เพื่อค้นพบความลับ",
+     "a": "ทำวิศวกรรมย้อนกลับ (reverse engineering) เพื่อค้นพบความลับ",
      "w": [
-      "การขโมยสูตรจากบริษัทคู่แข่ง",
-      "การแอบถ่ายเอกสารความลับขององค์กร",
-      "การเปิดเผยความลับที่ได้รับตามสัญญาเก็บรักษาข้อมูล",
-      "การติดสินบนพนักงานเพื่อขอสูตร"
+      "ขโมยสูตรจากบริษัทคู่แข่งโดยแอบเข้าไปในห้องเก็บเอกสาร",
+      "แอบถ่ายเอกสารความลับขององค์กรโดยไม่ได้รับอนุญาต",
+      "เปิดเผยความลับที่ได้รับมาตามสัญญาเก็บรักษาข้อมูลให้บุคคลภายนอก",
+      "ติดสินบนพนักงานของคู่แข่งเพื่อขอสูตรการผลิตที่เป็นความลับ"
      ],
      "e": "รวมถึงการค้นพบด้วยความรู้ความชำนาญของตนเอง"
     },
@@ -1696,22 +1696,22 @@
      "q": "สิ่งบ่งชี้ทางภูมิศาสตร์ (GI) ตัวอย่างใดถูกต้อง",
      "a": "ส้มบางมด ผ้าไหมไทย ข้าวหอมสุรินทร์",
      "w": [
-      "Coca-Cola",
-      "Louis Vuitton",
-      "โปรแกรม Microsoft Word",
-      "เพลงลูกทุ่ง"
+      "Coca-Cola, Pepsi และ Fanta",
+      "Louis Vuitton, Gucci และ Hermès",
+      "Microsoft Word, Excel และ PowerPoint",
+      "เพลงลูกทุ่ง เพลงไทยเดิม และเพลงสากล"
      ],
      "e": "สินค้าที่มีคุณภาพ ชื่อเสียง หรือลักษณะเฉพาะจากแหล่งภูมิศาสตร์นั้น"
     },
     {
      "t": "Copyright",
      "q": "ลิขสิทธิ์เกิดขึ้นเมื่อใด",
-     "a": "เกิดทันทีที่ผู้สร้างสรรค์สร้างผลงานโดยไม่ต้องจดทะเบียน",
+     "a": "เกิดทันทีที่ผู้สร้างสรรค์สร้างผลงาน โดยไม่ต้องจดทะเบียน",
      "w": [
-      "เมื่อจดทะเบียนกับกรมทรัพย์สินทางปัญญาแล้วเท่านั้น",
-      "เมื่อผ่านการตรวจสอบจาก อย.",
-      "เมื่อตีพิมพ์ในวารสารระดับนานาชาติ",
-      "เมื่อมีอายุงานครบ 20 ปี"
+      "เกิดเมื่อจดทะเบียนกับกรมทรัพย์สินทางปัญญาแล้วเท่านั้น",
+      "เกิดเมื่อผลงานผ่านการตรวจสอบและรับรองจาก อย. เสียก่อน",
+      "เกิดเมื่อผลงานได้ตีพิมพ์ในวารสารระดับนานาชาติเป็นครั้งแรก",
+      "เกิดเมื่อผลงานมีอายุครบ 20 ปีนับแต่วันที่สร้างสรรค์ขึ้น"
      ],
      "e": "ควรเก็บหลักฐานการสร้างสรรค์เพื่อพิสูจน์ความเป็นเจ้าของ"
     },
@@ -1720,22 +1720,22 @@
      "q": "ข้อใดไม่ถือเป็นงานอันมีลิขสิทธิ์",
      "a": "ความคิด ขั้นตอน กรรมวิธี ระบบ และทฤษฎีทางวิทยาศาสตร์",
      "w": [
-      "โปรแกรมคอมพิวเตอร์",
-      "หนังสือและบทความ",
-      "ภาพถ่าย",
-      "เพลงและทำนอง"
+      "โปรแกรมคอมพิวเตอร์ที่เขียนขึ้นเองโดยผู้สร้างสรรค์งาน",
+      "หนังสือและบทความวิชาการที่เขียนขึ้นด้วยตนเอง",
+      "ภาพถ่ายที่ถ่ายขึ้นเองโดยช่างภาพ",
+      "เพลง ทำนอง และเนื้อร้องที่แต่งขึ้นเอง"
      ],
      "e": "ลิขสิทธิ์คุ้มครองการแสดงออกซึ่งความคิด ไม่ใช่ตัวความคิด รวมถึงข่าวประจำวัน กฎหมาย คำพิพากษา"
     },
     {
      "t": "Copyright",
      "q": "อายุความคุ้มครองลิขสิทธิ์ทั่วไปของบุคคลธรรมดาคือเท่าใด",
-     "a": "ตลอดชีวิตผู้สร้างสรรค์และต่อไปอีก 50 ปีนับแต่เสียชีวิต",
+     "a": "ตลอดชีวิตผู้สร้างสรรค์และอีก 50 ปีหลังเสียชีวิต",
      "w": [
-      "20 ปีนับแต่สร้างสรรค์",
-      "10 ปีนับแต่ตีพิมพ์",
-      "25 ปีนับแต่สร้างสรรค์",
-      "ตลอดไปไม่มีวันหมด"
+      "20 ปีนับแต่วันที่สร้างสรรค์ผลงาน",
+      "10 ปีนับแต่วันที่ตีพิมพ์เผยแพร่ครั้งแรก",
+      "25 ปีนับแต่วันที่สร้างสรรค์ผลงาน",
+      "ตลอดไปโดยไม่มีวันหมดอายุคุ้มครอง"
      ],
      "e": "งานภาพถ่าย ภาพยนตร์ นิติบุคคล: 50 ปีนับแต่สร้างสรรค์; งานศิลปประยุกต์: 25 ปี"
     }
