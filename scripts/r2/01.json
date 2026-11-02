@@ -1,0 +1,248 @@
+{
+ "id": "r201",
+ "no": 1,
+ "title": "การขึ้นทะเบียนยาในประเทศไทย",
+ "file": "1_การขึ้นทะเบียนยาในประเทศไทย",
+ "questions": [
+  {
+   "t": "กฎหมาย",
+   "q": "กฎหมายหลักที่ใช้ควบคุมการขึ้นทะเบียนตำรับยาในประเทศไทยคือข้อใด",
+   "a": "พ.ร.บ.ยา พ.ศ. 2510 (ฉบับที่ 6)",
+   "w": [
+    "พ.ร.บ.ผลิตภัณฑ์สมุนไพร พ.ศ. 2562",
+    "พ.ร.บ.วัตถุที่ออกฤทธิ์ต่อจิตและประสาท พ.ศ. 2518",
+    "พ.ร.บ.ยาเสพติดให้โทษ พ.ศ. 2522",
+    "พ.ร.บ.เครื่องมือแพทย์ พ.ศ. 2551"
+   ],
+   "e": "ลำดับกฎหมายที่เกี่ยวข้อง: พ.ร.บ. กฎกระทรวง ประกาศกระทรวงสาธารณสุข ประกาศ อย. ประกาศกองยา คำสั่ง และระเบียบ | รายละเอียดคำตอบ: พระราชบัญญัติยา พ.ศ. 2510 (แก้ไขเพิ่มเติม ฉบับที่ 6 พ.ศ. 2562)"
+  },
+  {
+   "t": "กฎหมาย",
+   "q": "คำนิยาม “ยา” ตามมาตรา 4 แห่ง พ.ร.บ.ยา ไม่รวมข้อใด",
+   "a": "วัตถุที่ใช้เป็นอาหารบริโภคทั่วไปโดยไม่มีวัตถุประสงค์ทางการรักษา",
+   "w": [
+    "วัตถุที่รับรองไว้ในตำรายาที่รัฐมนตรีประกาศ",
+    "วัตถุที่มุ่งหมายสำหรับวินิจฉัย บำบัด บรรเทา รักษา หรือป้องกันโรค",
+    "วัตถุที่เป็นเภสัชเคมีภัณฑ์หรือเภสัชเคมีภัณฑ์กึ่งสำเร็จรูป",
+    "วัตถุที่มุ่งหมายให้เกิดผลต่อสุขภาพ โครงสร้าง หรือการทำหน้าที่ของร่างกาย"
+   ],
+   "e": "นิยามของยามี 4 ข้อ ตามมาตรา 4"
+  },
+  {
+   "t": "กฎหมาย",
+   "q": "ตามพระราชบัญญัติการอำนวยความสะดวกในการพิจารณาอนุญาตของทางราชการ พ.ศ. 2558 ผู้อนุญาตต้องจัดทำอะไร",
+   "a": "คู่มือสำหรับประชาชน ระบุขั้นตอน ระยะเวลา และเอกสารที่ต้องยื่น",
+   "w": [
+    "รายงานผลการประเมินความเสี่ยงของผู้ประกอบการที่ยื่นขออนุญาตทุกราย",
+    "รายชื่อผู้ผลิตต่างประเทศที่ได้รับการรับรองมาตรฐาน GMP ทั้งหมด",
+    "แผนปฏิบัติการตรวจสอบสถานที่ผลิตยาประจำปีของทุกจังหวัด",
+    "ตารางราคากลางและอัตราค่าธรรมเนียมของยาแต่ละประเภท"
+   ],
+   "e": "ศูนย์กลางข้อมูลคู่มือสำหรับประชาชนอยู่ที่ info.go.th (มาตรา 7) | รายละเอียดคำตอบ: คู่มือสำหรับประชาชน ระบุหลักเกณฑ์ วิธีการ เงื่อนไข ขั้นตอน ระยะเวลาพิจารณา และเอกสารที่ต้องยื่น"
+  },
+  {
+   "t": "ACTD",
+   "q": "ตั้งแต่ 1 มกราคม 2552 ผู้ยื่นขอขึ้นทะเบียนตำรับยาใหม่ ยาสามัญ ยาสามัญใหม่ และยาชีววัตถุ ต้องยื่นคำขอแบบใด",
+   "a": "แบบ ASEAN Harmonization เพียงแบบเดียว (ACTD)",
+   "w": [
+    "แบบเดิมของประเทศไทย ควบคู่กับแบบ ACTD ตามความสมัครใจ",
+    "แบบ CTD ของสหภาพยุโรป (EU-CTD) เพียงแบบเดียว",
+    "แบบ CTD ของ ICH เท่านั้น โดยไม่ใช้ ACTD",
+    "แบบเฉพาะขององค์การอนามัยโลก (WHO) เพียงแบบเดียว"
+   ],
+   "e": "ข้อมูลประกอบต้องเป็นไปตาม ASEAN Common Technical Requirements (ACTR)"
+  },
+  {
+   "t": "ACTD",
+   "q": "ข้อใดเป็น ASEAN Technical Guidelines ที่ใช้ประกอบการขึ้นทะเบียนตำรับยา",
+   "a": "Analytical validation, BA/BE, process validation และ stability study",
+   "w": [
+    "Clinical trial protocol, GMP audit, pharmacovigilance และ labeling",
+    "Patent search, trademark, copyright และ license agreement",
+    "Pricing, reimbursement, tender และ import duty",
+    "Packaging design, branding, advertising และ distribution"
+   ],
+   "e": "แนวทาง ASEAN Stability Study ของ drug product (version 6.0); ASEAN adopted ICH technical guidelines ด้วย"
+  },
+  {
+   "t": "ACTD",
+   "q": "ASEAN Common Technical Dossier (ACTD) จัดเป็นกี่ส่วนและมีอะไรบ้าง",
+   "a": "4 ส่วน: Administrative, Quality, Nonclinical, Clinical",
+   "w": [
+    "5 modules: Module 1 ข้อมูลเฉพาะภูมิภาค ถึง Module 5 รายงานทางคลินิก",
+    "3 ส่วน: Quality, Safety และ Efficacy ตามหลักการของ ICH",
+    "6 ส่วน ตามลำดับขั้นตอนการผลิตตั้งแต่วัตถุดิบถึงการบรรจุ",
+    "2 ส่วน: Administrative information และ Technical information"
+   ],
+   "e": "ICH CTD แบ่งเป็น 5 modules โดย Module 1 เป็น region specific ส่วน Module 2–5 ใช้ร่วมกันทุกภูมิภาค; ACTD Part III และ IV ยื่นเมื่อร้องขอ (upon request) ในบางกรณี | รายละเอียดคำตอบ: 4 ส่วน: Part I Administrative data and product information, Part II Quality, Part III Nonclinical, Part IV Clinical"
+  },
+  {
+   "t": "นิยามยา",
+   "q": "ข้อใดจัดเป็น “ยาใหม่” (New Drugs) ตามนิยามในบทเรียน",
+   "a": "ตัวยาสำคัญใหม่ (NCE) ข้อบ่งใช้ใหม่ หรือสูตรผสมใหม่ของยาใหม่",
+   "w": [
+    "ตำรับที่มีตัวยา ความแรง และรูปแบบเหมือนยาต้นแบบที่อนุมัติแล้วทุกประการ",
+    "ตำรับวิตามินและเกลือแร่ที่ไม่มีตัวยาสำคัญใหม่และไม่มีข้อบ่งใช้ใหม่",
+    "ยาที่ขึ้นทะเบียนไว้ก่อน พ.ศ. 2534 และไม่มีการเปลี่ยนแปลงสูตรตำรับ",
+    "ยาแผนโบราณที่ผลิตตามตำรับยาที่รัฐมนตรีประกาศไว้"
+   ],
+   "e": "7 ประเภท: NCE, New Indication, New Combination, New Delivery System, New Route, New Dosage Form, New Strength | รายละเอียดคำตอบ: ตำรับยาที่มีตัวยาสำคัญใหม่ (NCE) ข้อบ่งใช้ใหม่ สูตรผสมใหม่ ระบบนำส่งใหม่ ช่องทางให้ยาใหม่ รูปแบบใหม่ หรือความแรงใหม่ของยาใหม่ที่ได้รับอนุมัติแล้ว"
+  },
+  {
+   "t": "นิยามยา",
+   "q": "ยาสามัญ (Generic drugs) หมายถึงข้อใด",
+   "a": "สูตรตัวยาและรูปแบบเหมือนยาที่เคยขึ้นทะเบียน ไม่มีข้อบ่งใช้ใหม่",
+   "w": [
+    "ตำรับที่มีข้อบ่งใช้ใหม่ซึ่งยังไม่เคยได้รับอนุมัติมาก่อนในประเทศไทย",
+    "ตำรับที่มีตัวยาสำคัญใหม่ที่ไม่เคยขึ้นทะเบียนมาก่อนในประเทศไทย",
+    "ตำรับที่ได้รับการยกเว้นการยื่นหลักฐานด้านคุณภาพของผลิตภัณฑ์",
+    "ตำรับที่นำเข้าจากต่างประเทศและไม่มีการผลิตภายในประเทศ"
+   ],
+   "e": "ยาสามัญใหม่ (New Generic Drugs) เทียบกับยาต้นแบบที่เป็นยาใหม่ที่ขึ้นทะเบียนตั้งแต่ พ.ศ. 2534 | รายละเอียดคำตอบ: ยาที่มีสูตรตัวยาสำคัญและรูปแบบเหมือนกับยาที่เคยขึ้นทะเบียนเป็นยาสามัญ หรือยาประเภทวิตามินและเกลือแร่ที่ไม่มีตัวยาสำคัญใหม่ และต้องไม่มีข้อบ่งใช้ใหม่"
+  },
+  {
+   "t": "นิยามยา",
+   "q": "ข้อใดถูกต้องเกี่ยวกับยาสามัญใหม่ (New Generic Drugs)",
+   "a": "เหมือนยาต้นแบบที่อนุมัติตั้งแต่ พ.ศ. 2534 และต้องมีหลักฐานความสมมูล",
+   "w": [
+    "ไม่ต้องยื่นหลักฐานความสมมูลใด ๆ เพราะเป็นยาที่ผลิตภายในประเทศ",
+    "ต้องมีข้อบ่งใช้ใหม่เสมอจึงจะขึ้นทะเบียนเป็นยาสามัญใหม่ได้",
+    "เทียบกับยาสามัญชนิดอื่นที่ขึ้นทะเบียนก่อน พ.ศ. 2510 เท่านั้น",
+    "ต้องมีตัวยาสำคัญใหม่ (NCE) เสมอและยื่นข้อมูลทางคลินิกครบ"
+   ],
+   "e": "หลักฐานความสมมูล (เช่น BE study) ใช้ประกอบการพิจารณาความเท่าเทียมกันทางประสิทธิผลกับยาต้นแบบ | รายละเอียดคำตอบ: มีตัวยา ความแรง และรูปแบบเหมือนยาต้นแบบที่เป็นยาใหม่ซึ่งอนุมัติตั้งแต่ พ.ศ. 2534 ทุกประการ และต้องยื่นหลักฐานความสมมูลของผลิตภัณฑ์ (Product interchangeability equivalence evidence)"
+  },
+  {
+   "t": "ACTD Part I",
+   "q": "เอกสารใดจัดอยู่ใน Part I Administrative data and product information",
+   "a": "แบบคำขอ (ย.1) ใบรับรอง GMP หนังสือรับรองผลิตภัณฑ์ ฉลาก และหนังสือมอบอำนาจ",
+   "w": [
+    "ข้อมูลการศึกษาทางพิษวิทยา (toxicology) และเภสัชวิทยาในสัตว์ทดลอง",
+    "ข้อมูลการศึกษา bioavailability และ bioequivalence ในอาสาสมัคร",
+    "ข้อมูล specification และ analytical method ของตัวยาสำคัญ (S.4)",
+    "ข้อมูลสูตรการผลิตระดับ batch formula และ process validation (P.3)"
+   ],
+   "e": "Part II = Quality; Part III = Nonclinical (pharmacology, pharmacokinetics, toxicology); Part IV = Clinical | รายละเอียดคำตอบ: แบบคำขอขึ้นทะเบียน (แบบ ย.1) ใบรับรอง GMP หนังสือรับรองผลิตภัณฑ์ ฉลากและเอกสารกำกับยา คำรับรองผู้ยื่นคำขอ และหนังสือมอบอำนาจ"
+  },
+  {
+   "t": "ACTD Part III-IV",
+   "q": "ข้อใดจัดอยู่ใน Part III Nonclinical และ Part IV Clinical ตามลำดับ",
+   "a": "Part III: pharmacology, PK, toxicology ; Part IV: BA/BE, efficacy, safety",
+   "w": [
+    "Part III: BA/BE และ human PK ; Part IV: toxicology และ pharmacology",
+    "Part III: stability study ; Part IV: batch analysis และ specification",
+    "Part III: labeling และ package insert ; Part IV: GMP certificate",
+    "Part III: process validation ; Part IV: impurity profile"
+   ],
+   "e": "Part IV ยังมี studies using human biomaterials และ references | รายละเอียดคำตอบ: Part III: pharmacology, pharmacokinetics, toxicology ; Part IV: BA/BE, human PK/PD, efficacy and safety, post-marketing data"
+  },
+  {
+   "t": "ACTD Part II",
+   "q": "ใน Part II Quality ตัวอักษร S และ P หมายถึงข้อใด",
+   "a": "S = Drug Substance ; P = Drug Product (ผลิตภัณฑ์สำเร็จรูป)",
+   "w": [
+    "S = Safety (ความปลอดภัย) ; P = Potency (ความแรงของยา)",
+    "S = Stability (ความคงตัว) ; P = Purity (ความบริสุทธิ์)",
+    "S = Sterility (ความปราศจากเชื้อ) ; P = Packaging (บรรจุภัณฑ์)",
+    "S = Specification (ข้อกำหนด) ; P = Protocol (โปรโตคอล)"
+   ],
+   "e": "S1 General information, S2 Manufacture, S3 Characterization, S4 Control, S5 Reference standards, S6 Container closure, S7 Stability; P1–P9 ของ drug product (P9 = Product interchangeability equivalence evidence)"
+  },
+  {
+   "t": "Drug substance",
+   "q": "S.3.2 Impurities ใน ACTD ต้องรายงานสารเจือปนกลุ่มใดบ้าง",
+   "a": "Organic impurities, inorganic impurities และ residual solvents",
+   "w": [
+    "เฉพาะ organic impurities ที่เกิดจาก degradation product ของตัวยา",
+    "เฉพาะ residual solvents และความชื้นที่เหลือจากการทำให้แห้ง",
+    "เฉพาะ inorganic impurities เช่น heavy metals และเถ้าซัลเฟต",
+    "เฉพาะ microbial limit และ endotoxin ของตัวยาสำคัญ"
+   ],
+   "e": "S.3.1 Elucidation of structure ใช้ข้อมูล IR, UV, NMR, MS, elemental analysis และพิจารณา isomerism/stereochemistry | รายละเอียดคำตอบ: Organic impurities (starting materials, by-products, intermediates, degradation products), inorganic impurities (reagents, catalysts, heavy metals) และ residual solvents"
+  },
+  {
+   "t": "Drug substance",
+   "q": "วิธีวิเคราะห์ใน S.4 ที่เป็น compendial method และ in-house method ต้องแสดงข้อมูลอะไรตามลำดับ",
+   "a": "Compendial = method verification ; In-house = method validation",
+   "w": [
+    "Compendial = full validation data ; In-house = method verification เท่านั้น",
+    "ทั้งสองแบบต้องแสดง clinical trial data ของวิธีวิเคราะห์",
+    "ทั้งสองแบบต้องแสดง pharmacokinetic data ของตัวยา",
+    "ทั้งสองแบบไม่ต้องแสดงข้อมูล validation หรือ verification เพิ่มเติม"
+   ],
+   "e": "S.4.1 Specification (tests, acceptance criteria), S.4.2 Analytical procedures, S.4.3 Validation, S.4.4 Batch analyses | รายละเอียดคำตอบ: Compendial = method verification data ; In-house/alternative = method validation data ตาม ASEAN Guidelines for Validation of Analytical Procedures และ ICH Q2(R1)"
+  },
+  {
+   "t": "Drug substance",
+   "q": "ข้อมูลใดต้องรายงานใน S.7 Stability ของตัวยาสำคัญ",
+   "a": "Stress, accelerated, long-term testing และ re-test period",
+   "w": [
+    "ราคาขายและต้นทุนการผลิตต่อหน่วยของตัวยาสำคัญ",
+    "ผลการศึกษา bioequivalence เปรียบเทียบกับยาต้นแบบ",
+    "ข้อมูลการทดลองทางคลินิกระยะที่ 3 ของผู้ป่วย",
+    "รายชื่อผู้ผลิตและผู้รับจ้างผลิตตัวยาสำคัญ"
+   ],
+   "e": "ผลควรแสดงเป็นตาราง กราฟ หรือบรรยาย; ใช้ shelf life สำหรับ drug product | รายละเอียดคำตอบ: Stress testing (heat, humidity, oxidation, photolysis, acid/base) ผล accelerated และ long-term testing รวมถึงสภาวะเก็บรักษาที่เสนอและ re-test period"
+  },
+  {
+   "t": "Drug product",
+   "q": "P.2 Pharmaceutical development มีวัตถุประสงค์และเนื้อหาอย่างไร",
+   "a": "อธิบายการพัฒนาสูตรตำรับ excipients กระบวนการผลิต และระบบบรรจุ",
+   "w": [
+    "รวบรวมผลการศึกษาทางคลินิกระยะที่ 3 และรายงานความปลอดภัยของยา",
+    "รวบรวมใบอนุญาตผลิต ใบรับรอง GMP และผลการตรวจประเมินสถานที่ผลิต",
+    "รวบรวมข้อมูลราคา การตลาด และแผนการจัดจำหน่ายของผลิตภัณฑ์",
+    "รวบรวมเฉพาะฉลาก เอกสารกำกับยา และข้อความโฆษณา"
+   ],
+   "e": "P2.1 Development studies, P2.2 Components, P2.3 Finished product (overages, physicochemical/biological properties), P2.4 Process, P2.5 Container closure, P2.6 Microbiological, P2.7 Compatibility | รายละเอียดคำตอบ: อธิบายการพัฒนาสูตรตำรับ ความเข้ากันได้ของตัวยากับ excipients คุณสมบัติทางกายภาพ-เคมี การพัฒนากระบวนการผลิต ระบบบรรจุ และคุณลักษณะทางจุลชีววิทยา"
+  },
+  {
+   "t": "Drug product",
+   "q": "P.3 Manufacture ประกอบด้วยข้อมูลใดบ้าง",
+   "a": "Batch formula, manufacturing process และ process validation",
+   "w": [
+    "ผลการทดสอบ BE ในอาสาสมัครและรายงาน PK เปรียบเทียบกับยาต้นแบบ",
+    "ข้อมูลสิทธิบัตรของตัวยา อายุสิทธิบัตร และผู้ถือสิทธิ",
+    "ข้อกำหนดการควบคุมราคายาและเงื่อนไขการเบิกจ่ายตามสิทธิ",
+    "ข้อมูลการตลาด โฆษณา และแผนกระจายสินค้าของผลิตภัณฑ์"
+   ],
+   "e": "ต้องระบุจำนวนหน่วยยาต่อ batch และคำอธิบายกระบวนการผลิตที่ละเอียดเพียงพอ | รายละเอียดคำตอบ: Batch formula (P3.1), manufacturing process และ process control พร้อม flow diagram (P3.2), controls of critical steps และ process validation"
+  },
+  {
+   "t": "เภสัชตำรับ",
+   "q": "ข้อใดเป็นเภสัชตำรับที่ อย. ยอมรับตามประกาศกระทรวงสาธารณสุขเรื่องระบุตำรายา",
+   "a": "USP, BP, Ph.Eur., IP, Thai Pharmacopoeia (TP) และ JP",
+   "w": [
+    "เฉพาะ USP, BP และ Ph.Eur. ส่วนตำรายาอื่นไม่ยอมรับ",
+    "ตำรายาจีนโบราณและตำรายาอายุรเวทเป็นหลักเท่านั้น",
+    "ตำรับที่บริษัทผู้ผลิตจัดทำขึ้นเองและยื่นรับรองเป็นรายผลิตภัณฑ์",
+    "ไม่มีเภสัชตำรับใดได้รับการยอมรับ ต้องใช้วิธีของผู้ผลิตเท่านั้น"
+   ],
+   "e": "ตัวอย่างฉบับ: USP 39-NF 34, BP 2016, Ph.Eur. 8th, IP 5th, TP II Vol I Part 1, JP 17th (ตามประกาศ พ.ศ. 2561 และ 2562)"
+  },
+  {
+   "t": "กฎหมาย",
+   "q": "ข้อใดเป็นการพัฒนาระบบการขึ้นทะเบียนยาให้สอดคล้องกันของประเทศในภูมิภาคอาเซียน",
+   "a": "ASEAN Common Technical Requirements (ACTR) และ ACTD",
+   "w": [
+    "ASEAN Free Trade Area (AFTA) และตารางภาษีนำเข้ายา",
+    "ASEAN Tourism Agreement ว่าด้วยการท่องเที่ยวเชิงสุขภาพ",
+    "ASEAN Banking Integration Framework ว่าด้วยการเงินการธนาคาร",
+    "ASEAN Fisheries Protocol ว่าด้วยการประมงและทรัพยากรทะเล"
+   ],
+   "e": "ACTD ฉบับ ธันวาคม 2016 ใช้เป็นแนวทางการขึ้นทะเบียนยาใหม่ ยาสามัญ ยาสามัญใหม่ และยาชีววัตถุ | รายละเอียดคำตอบ: ASEAN Common Technical Requirements (ACTR) และ ASEAN Common Technical Dossier (ACTD)"
+  },
+  {
+   "t": "ACTD Part II",
+   "q": "ข้อมูลใดต้องแสดงใน P.1 Description and Composition of the Drug Product",
+   "a": "รูปแบบยา องค์ประกอบต่อหน่วย และชนิดบรรจุภัณฑ์",
+   "w": [
+    "ผลการทดสอบทางพิษวิทยาและเภสัชวิทยาของตำรับยาในสัตว์ทดลอง",
+    "ข้อมูลสิทธิบัตรของสูตรตำรับ และผู้ถือสิทธิบัตรในประเทศไทย",
+    "รายชื่อผู้จัดจำหน่าย ผู้นำเข้า และสถานที่เก็บรักษายา",
+    "ข้อมูลราคายา ต้นทุนการผลิต และส่วนลดทางการค้า"
+   ],
+   "e": "P4 Control of excipients, P5 Control of finished product, P6 Reference standards, P7 Container closure system, P8 Stability, P9 Product interchangeability equivalence evidence | รายละเอียดคำตอบ: รูปแบบยา องค์ประกอบทั้งหมดต่อหน่วย (ชนิดสาร ฟังก์ชัน ปริมาณ รวมทั้ง overage ถ้ามี) และชนิดบรรจุภัณฑ์"
+  }
+ ]
+}
