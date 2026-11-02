@@ -1,11 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=19";
-import { route, navigate, start } from "./router.js?v=19";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=19";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=19";
-import { officeHtml } from "./office.js?v=19";
-import { initFx } from "./fx.js?v=19";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=19";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=19";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=20";
+import { route, navigate, start } from "./router.js?v=20";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=20";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=20";
+import { officeHtml } from "./office.js?v=20";
+import { initFx } from "./fx.js?v=20";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=20";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=20";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -26,19 +26,19 @@ const PASS_PCT = 80;
 
 /* ---------- data ---------- */
 async function loadData() {
-  const res = await fetch("./data/plants.json");
+  const res = await fetch("./data/plants.json", { cache: "no-cache" });
   if (!res.ok) throw new Error("โหลด plants.json ไม่ได้");
   DATA = await res.json();
   try {
-    QC = await (await fetch("./data/qc.json")).json();
+    QC = await (await fetch("./data/qc.json", { cache: "no-cache" })).json();
     for (const f of QC.files) qcById.set(f.id, f);
   } catch (e) {
     QC = { files: [] };
   }
   try {
-    PG = await (await fetch("./data/pg.json")).json();
+    PG = await (await fetch("./data/pg.json", { cache: "no-cache" })).json();
     for (const f of PG.files) qcById.set(f.id, f);
-    RG = await (await fetch("./data/rg.json")).json();
+    RG = await (await fetch("./data/rg.json", { cache: "no-cache" })).json();
     for (const f of RG.files) qcById.set(f.id, f);
   } catch (e) {
     PG = { files: [] };
