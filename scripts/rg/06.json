@@ -5,244 +5,244 @@
  "file": "6_69-Research and Development of Biological product.pdf",
  "questions": [
   {
-   "t": "Biologics",
-   "q": "ข้อใดเป็นลักษณะสำคัญของยาชีววัตถุ (biologics)",
-   "a": "โมเลกุลใหญ่ซับซ้อน ผลิตจากเซลล์ และกระบวนการผลิตกำหนดคุณสมบัติ",
+   "t": "นิยามยาชีววัตถุ",
+   "q": "ตามนิยาม ยาชีววัตถุ (Biologics) คือผลิตภัณฑ์ที่ได้มาอย่างไร",
+   "a": "ผลิตจากสิ่งมีชีวิตโดยใช้เทคโนโลยีชีวภาพ",
    "w": [
-    "โมเลกุลเล็ก สังเคราะห์ทางเคมี และคัดลอกได้เหมือนทุกประการด้วยกระบวนการมาตรฐาน",
-    "โมเลกุลใหญ่ซับซ้อน แต่ไม่มีโอกาสกระตุ้นภูมิคุ้มกันและไม่ไวต่อสภาวะการขนส่ง",
-    "ผลิตจากเซลล์ที่มีชีวิต แต่ต้นทุนต่ำเพราะกระบวนการผลิตง่ายและควบคุมได้ทุกขั้นตอน",
-    "โมเลกุลเดี่ยวบริสุทธิ์ที่ไม่มีความหลากหลายของโมเลกุลและคงตัวที่อุณหภูมิห้อง"
+    "สังเคราะห์ทางเคมีจากสารตั้งต้นปิโตรเลียม",
+    "สกัดจากพืชสมุนไพรด้วยตัวทำละลายอินทรีย์",
+    "ผลิตจากแร่ธาตุด้วยปฏิกิริยาอนินทรีย์ล้วน",
+    "บดและอบแห้งจากเนื้อเยื่อสัตว์โดยตรงเท่านั้น"
    ],
-   "e": "The process defines the product | รายละเอียดคำตอบ: โมเลกุลใหญ่ซับซ้อน ผลิตจากเซลล์หรือสิ่งมีชีวิต และกระบวนการผลิตเป็นตัวกำหนดคุณสมบัติผลิตภัณฑ์"
+   "e": "ผลิตจากหรือได้มาจากสิ่งมีชีวิตด้วย recombinant DNA, hybridoma หรือ cell culture"
   },
   {
-   "t": "Biologics",
-   "q": "เหตุใดยาชีววัตถุที่เลียนแบบจึงเรียกว่า biosimilar ไม่ใช่ generic",
-   "a": "เพราะคัดลอกโมเลกุลได้ไม่เหมือนทุกประการ จากความหลากหลายตามธรรมชาติ",
+   "t": "Biosimilar",
+   "q": "เหตุใดยาชีววัตถุเลียนแบบจึงเรียก biosimilar ไม่ใช่ generic",
+   "a": "คัดลอกให้เหมือนยาต้นแบบ 100% ไม่ได้ (micro-heterogeneity)",
    "w": [
-    "เพราะราคาถูกกว่ายาต้นแบบเสมอ และไม่ต้องทดสอบประสิทธิภาพเพิ่มเติม",
-    "เพราะผลิตจากสารเคมีสังเคราะห์ จึงไม่ต้องใช้เซลล์หรือสิ่งมีชีวิต",
-    "เพราะไม่ต้องทดสอบคุณภาพเปรียบเทียบกับยาอ้างอิงก่อนขึ้นทะเบียน",
-    "เพราะใช้ได้เฉพาะในสัตว์ทดลองและยังไม่อนุญาตให้ใช้ในมนุษย์"
+    "ใช้ตัวยาสำคัญคนละชนิดกับยาต้นแบบโดยสิ้นเชิง จึงเทียบกันไม่ได้",
+    "ไม่ต้องพิสูจน์คุณภาพเทียบกับยาต้นแบบ เพราะราคาถูกกว่าเสมอ",
+    "สังเคราะห์ทางเคมีซึ่งทำซ้ำได้เหมือนกันทุกครั้งทุกล็อต",
+    "ทดสอบเฉพาะในหลอดทดลองโดยไม่ต้องศึกษาในคนเลย"
    ],
-   "e": "Natural molecular heterogeneity | รายละเอียดคำตอบ: เพราะไม่สามารถคัดลอกโมเลกุลได้เหมือนทุกประการ จากความหลากหลายของโมเลกุลตามธรรมชาติและกระบวนการผลิต"
+   "e": "โมเลกุลใหญ่ซับซ้อนและมีโอกาสกระตุ้นภูมิคุ้มกัน (immunogenicity) สูงกว่ายาเคมี"
   },
   {
-   "t": "ATMP",
-   "q": "ATMP ย่อมาจากอะไร",
-   "a": "Advanced Therapy Medicinal Products",
+   "t": "Process is the product",
+   "q": "ประโยค “Process is the product” ของยาชีววัตถุหมายความว่าอย่างไร",
+   "a": "เปลี่ยนกระบวนการผลิตเล็กน้อย คุณสมบัติผลิตภัณฑ์ก็เปลี่ยนได้",
    "w": [
-    "Advanced Tissue Medical Procedure",
-    "Applied Therapeutic Molecular Product",
-    "Active Therapy Manufacturing Plan",
-    "Authorized Treatment Medicinal Protocol"
+    "ตรวจคุณภาพเฉพาะผลิตภัณฑ์สำเร็จรูปเท่านั้นก็เพียงพอแล้ว",
+    "กระบวนการผลิตไม่มีผลต่อคุณภาพผลิตภัณฑ์ปลายทางแต่อย่างใด",
+    "ผู้ผลิตรายใดก็ทำซ้ำให้เหมือนกันได้ถ้ามีสูตรการผลิต",
+    "ต้องควบคุมเฉพาะวัตถุดิบเริ่มต้น ไม่ต้องควบคุมกระบวนการ"
    ],
-   "e": "ผลิตภัณฑ์ยาจากยีน เซลล์ หรือเนื้อเยื่อที่ผ่านการดัดแปลง"
+   "e": "ต้องควบคุมกระบวนการผลิตและทดสอบคุณภาพอย่างเข้มงวด"
   },
   {
-   "t": "ATMP",
-   "q": "การจำแนกประเภท ATMP ตามเอกสาร ข้อใดไม่ใช่ประเภทของ ATMP",
-   "a": "Monoclonal antibody product (mAb)",
+   "t": "Classical vs ATMP",
+   "q": "ข้อใดจัดเป็น Classical biologics",
+   "a": "Recombinant protein, mAb, vaccine และผลิตภัณฑ์จากเลือด",
    "w": [
-    "Gene Therapy Medicinal Product (GTMP)",
-    "Somatic Cell Therapy Medicinal Product (sCTMP)",
-    "Tissue Engineered Product (TEP)",
-    "Combined ATMP"
+    "Gene therapy, somatic cell therapy และ tissue engineering",
+    "CAR-T cell และผลิตภัณฑ์เซลล์ที่ผ่านการดัดแปลงพันธุกรรม",
+    "ยาเม็ดสังเคราะห์ทางเคมีและแคปซูลสมุนไพรสกัด",
+    "Combined ATMP ที่ใช้เซลล์ร่วมกับ scaffold"
    ],
-   "e": "ATMP มี 4 ประเภท: GTMP, sCTMP, TEP และ Combined ATMP"
-  },
-  {
-   "t": "ATMP",
-   "q": "Luxturna และ Zolgensma จัดเป็น ATMP ประเภทใด",
-   "a": "Gene therapy (GTMP)",
-   "w": [
-    "Somatic cell therapy",
-    "Tissue engineered product",
-    "Combined ATMP",
-    "Recombinant protein"
-   ],
-   "e": "ตัวอย่างของ GTMP"
+   "e": "กลุ่มหลังเป็น ATMP"
   },
   {
    "t": "ATMP",
-   "q": "ผลิตภัณฑ์เซลล์ร่วมกับ scaffold เช่น tissue-engineered heart valve จัดเป็นประเภทใด",
-   "a": "Combined ATMP",
+   "q": "ATMP (Advanced Therapy Medicinal Products) ประกอบด้วยประเภทใดบ้าง",
+   "a": "Gene therapy, somatic cell therapy, tissue engineering, combined ATMP",
    "w": [
-    "GTMP",
-    "sCTMP",
-    "Vaccine",
-    "Recombinant protein"
+    "Recombinant protein, mAb, vaccine, blood products และ biosimilar",
+    "Gene therapy, vaccine, recombinant protein, combined ATMP และ mAb",
+    "mAb, somatic cell therapy, tissue engineering, toxoid และ blood products",
+    "Vaccine, blood products, tissue engineering, mAb และ gene therapy"
    ],
-   "e": "Combined ATMP คือ ATMP ที่ใช้ร่วมกับเครื่องมือแพทย์หรือ biomaterial"
+   "e": "อย. ประกาศให้ ATMP เป็น “ยา” ภายใต้ พ.ร.บ.ยา"
   },
   {
-   "t": "ATMP",
-   "q": "CAR-T cell และ Mesenchymal stem cells จัดเป็น ATMP ประเภทใด",
-   "a": "Somatic Cell Therapy Product",
+   "t": "ลำดับ R&D",
+   "q": "ลำดับขั้นตอนช่วงต้นของ R&D ยาชีววัตถุข้อใดถูกต้อง",
+   "a": "Target identification → gene discovery → codon optimization → cloning",
    "w": [
-    "Gene Therapy Medicinal Product",
-    "Tissue Engineered Product",
-    "Combined ATMP",
-    "Toxoid vaccine"
+    "Cloning → target identification → codon optimization → gene discovery",
+    "Codon optimization → target identification → cloning → gene discovery",
+    "Gene discovery → cloning → target identification → codon optimization",
+    "Target identification → cloning → gene discovery → codon optimization"
    ],
-   "e": "ใช้เซลล์ที่เพาะเลี้ยงหรือดัดแปลงเพื่อรักษาโรค | รายละเอียดคำตอบ: Somatic Cell Therapy Medicinal Product (sCTMP)"
+   "e": "จากนั้นแสดงออกใน host แล้ว scale-up"
   },
   {
-   "t": "Recombinant protein",
-   "q": "ข้อใดอธิบาย recombinant DNA ได้ถูกต้อง",
-   "a": "DNA จากสองแหล่งรวมกัน โดยตัดด้วย restriction enzyme เชื่อมด้วย ligase",
+   "t": "ลำดับ R&D",
+   "q": "ลำดับขั้นตอนหลัง cloning จนถึงอนุมัติข้อใดถูกต้อง",
+   "a": "Expression → scale-up → preclinical → clinical trial → approval",
    "w": [
-    "DNA ที่ได้จากการสกัดจากพืชโดยตรงและไม่ผ่านกระบวนการตัดต่อใด ๆ",
-    "DNA ที่ถูกตัดด้วย DNA ligase และเชื่อมด้วย restriction enzyme",
-    "RNA ที่ถูกถอดรหัสย้อนกลับด้วย reverse transcriptase ในเซลล์สัตว์",
-    "โปรตีนที่สกัดจากเลือดมนุษย์และผ่านการทำให้บริสุทธิ์หลายขั้นตอน"
+    "Scale-up → expression → clinical trial → preclinical → approval",
+    "Preclinical → expression → scale-up → approval → clinical trial",
+    "Expression → preclinical → scale-up → clinical trial → approval",
+    "Expression → scale-up → clinical trial → preclinical → approval"
    ],
-   "e": "Restriction enzyme ตัด และ DNA ligase เชื่อมโควาเลนต์ | รายละเอียดคำตอบ: DNA ที่สร้างจากการรวม DNA จากสองแหล่งขึ้นไป โดยตัดด้วย restriction enzyme และเชื่อมด้วย DNA ligase"
+   "e": "หลังอนุมัติมี pharmacovigilance ต่อเนื่อง"
   },
   {
-   "t": "Recombinant protein",
-   "q": "FSH แบบ recombinant ผลิตจากเซลล์ชนิดใด",
-   "a": "Chinese hamster ovary (CHO) cell line",
+   "t": "Host cells",
+   "q": "ข้อเสียหลักของการใช้ E. coli เป็น host ผลิต recombinant protein คือข้อใด",
+   "a": "ไม่ทำ glycosylation และเสี่ยง endotoxin",
    "w": [
-    "Escherichia coli",
-    "Saccharomyces cerevisiae",
-    "Baby hamster kidney cell",
-    "เซลล์ไข่ไก่"
+    "ต้นทุนสูงและเลี้ยงเซลล์ได้ช้ามาก",
+    "ไม่สามารถผลิตโปรตีนรีคอมบิแนนท์ได้เลย",
+    "ทำ post-translational modification ซับซ้อนเกินไป",
+    "เลี้ยงยากเพราะต้องใช้เซลล์ที่แบ่งตัวช้า"
    ],
-   "e": "CHO ที่ถูก transfect ด้วยยีนของ FSH สองซับยูนิต"
+   "e": "ข้อดี: โตเร็ว ต้นทุนต่ำ"
   },
   {
-   "t": "Recombinant protein",
-   "q": "Recombinant factor VIIa (NovoSeven) พัฒนาขึ้นเพราะเหตุใด",
-   "a": "ผู้ป่วยบางรายสร้างแอนติบอดีต่อ factor VIII",
+   "t": "Host cells",
+   "q": "เหตุใดเซลล์สัตว์เลี้ยงลูกด้วยนม (CHO) จึงนิยมใช้ผลิต mAbs",
+   "a": "ทำ post-translational modification ได้คล้ายมนุษย์ แม้เลี้ยงช้าและแพง",
    "w": [
-    "เพื่อรักษาฮีโมฟีเลีย B ที่ขาด factor IX โดยเฉพาะ",
-    "เพื่อใช้ละลายลิ่มเลือดในผู้ป่วยหลอดเลือดสมองตีบเฉียบพลัน",
-    "เพื่อควบคุมระดับน้ำตาลในเลือดของผู้ป่วยเบาหวานชนิดที่ 1",
-    "เพื่อรักษาโรคตับอักเสบและลดการอักเสบของเนื้อเยื่อตับ"
+    "เลี้ยงเร็วและต้นทุนต่ำกว่าแบคทีเรียมาก จึงเหมาะกับการผลิตระดับอุตสาหกรรม",
+    "ไม่มี glycosylation จึงไม่กระตุ้นภูมิคุ้มกันและปลอดภัยกว่าทุก host",
+    "มี endotoxin ช่วยให้โปรตีนพับตัวได้ถูกต้องและเสถียรขึ้น",
+    "เลี้ยงง่ายที่สุดในบรรดา host ทุกชนิด ไม่ต้องใช้อาหารเลี้ยงเซลล์พิเศษ"
    ],
-   "e": "ผลิตใน baby hamster kidney cells และกระตุ้นตัวเองเป็น FVIIa ระหว่างการทำให้บริสุทธิ์ | รายละเอียดคำตอบ: ผู้ป่วยฮีโมฟีเลียส่วนน้อยสร้างแอนติบอดีต่อ factor VIII จึงต้องมียาทางเลือก"
+   "e": "ข้อเสียคือโตช้า ต้นทุนสูง"
   },
   {
-   "t": "Recombinant protein",
-   "q": "Recombinant factor XIII (Tretten) ผลิตในเซลล์ชนิดใด",
-   "a": "ยีสต์ Saccharomyces cerevisiae",
+   "t": "Impurities",
+   "q": "สิ่งปนเปื้อนกลุ่ม Host-related impurities ได้แก่ข้อใด",
+   "a": "โปรตีนเซลล์เจ้าบ้าน (HCP), DNA เซลล์เจ้าบ้าน และไวรัส",
    "w": [
-    "CHO cell",
-    "E. coli",
-    "เซลล์ไต hamster",
-    "เซลล์ HEK293"
+    "สารเคมีจากอาหารเลี้ยงเซลล์ และ leachables จากภาชนะบรรจุ",
+    "Aggregates, fragments และตัวแปรของโปรตีนเป้าหมาย",
+    "สารที่หลุดจากคอลัมน์ chromatography ระหว่างทำให้บริสุทธิ์",
+    "สารพิษจากผนังเซลล์ของแบคทีเรียแกรมลบ เช่น E. coli"
    ],
-   "e": "FXIII เป็น plasma transglutaminase ที่เชื่อมไขว้ fibrin"
+   "e": "ตัวเลือกอื่นคือ process-related, product-related และ endotoxin"
   },
   {
-   "t": "Recombinant protein",
-   "q": "Reteplase และ Tenecteplase จัดเป็น recombinant t-PA รุ่นใด",
-   "a": "รุ่นที่ 2 ดัดแปลงด้วย domain deletion หรือ amino acid substitution",
+   "t": "Impurities",
+   "q": "ข้อใดจับคู่ชนิดสิ่งปนเปื้อนกับตัวอย่างได้ถูกต้อง",
+   "a": "Process-related = สารจากอาหารเลี้ยงเซลล์/คอลัมน์ ; Product-related = aggregates, fragments",
    "w": [
-    "รุ่นที่ 1 เหมือน alteplase ที่ถูกกำจัดเร็วและเกิด fibrinogenolysis",
-    "ยากลุ่ม interferon ที่ใช้รักษาตับอักเสบและโรคปลอกประสาทอักเสบ",
-    "factor IX ที่จับกับ PEG เพื่อยืดครึ่งชีวิตในผู้ป่วยฮีโมฟีเลีย B",
-    "monoclonal antibody ที่ยับยั้งการเกาะกลุ่มของเกล็ดเลือด"
+    "Process-related = aggregates, fragments ; Product-related = สารเคมีจากคอลัมน์/อาหารเลี้ยง",
+    "Process-related = HCP, host DNA ; Product-related = สารจากอาหารเลี้ยงเซลล์/คอลัมน์",
+    "Process-related = endotoxin ; Product-related = HCP, host DNA และไวรัส",
+    "Process-related = fragments ; Product-related = leachables และสารจากภาชนะ"
    ],
-   "e": "รุ่นที่ 1 คือ alteplase ซึ่งถูกกำจัดเร็ว | รายละเอียดคำตอบ: รุ่นที่ 2 ที่ดัดแปลงโดย domain deletion, glycosylation หรือ amino acid substitution"
+   "e": "Endotoxin มาจากผนังเซลล์ E. coli"
   },
   {
-   "t": "Recombinant protein",
-   "q": "Betaferon/Betaseron (IFN-β1b) ผลิตจากเซลล์ใด และใช้รักษาโรคใด",
-   "a": "E. coli ; relapsing/remitting multiple sclerosis",
+   "t": "เทคนิคผลิต mAb",
+   "q": "เทคนิคสมัยใหม่ในการผลิต monoclonal antibody ข้อใดถูกต้อง",
+   "a": "Phage display, transgenic mouse, single B-cell, ribosome display",
    "w": [
-    "CHO cell ; ตับอักเสบซีเรื้อรังและมะเร็งไต",
-    "ยีสต์ ; ฮีโมฟีเลียที่มีแอนติบอดีต่อ factor VIII",
-    "E. coli ; มะเร็งเม็ดเลือดขาวชนิดเรื้อรังและ hairy cell leukemia",
-    "เซลล์แมลง ; เบาหวานชนิดที่ 2 และภาวะไขมันในเลือดสูง"
+    "Hybridoma, phage display, liposome, electroporation และ microinjection",
+    "Cell fusion, HAT selection, myeloma, microinjection และ liposome",
+    "Transgenic mouse, CRISPR, liposome, hybridoma และ electroporation",
+    "Ribosome display, hybridoma, HAT selection, liposome และ cell fusion"
    ],
-   "e": "Rebif และ Avonex (IFN-β1a) ผลิตใน CHO cells"
+   "e": "วิธีดั้งเดิมคือ hybridoma"
   },
   {
-   "t": "Recombinant protein",
-   "q": "PEGylation มีประโยชน์ทางคลินิกอย่างไร",
-   "a": "เพิ่มความคงตัว ลดการขับทางไต เพิ่ม half-life ลด immunogenicity",
+   "t": "Hybridoma",
+   "q": "เทคโนโลยี Hybridoma สร้างแอนติบอดีโดยหลักการใด",
+   "a": "หลอม B cell กับ myeloma cell แล้วคัดเลือกด้วย HAT medium",
    "w": [
-    "ลดครึ่งชีวิตของยาในกระแสเลือดและเพิ่มการขับออกทางไต",
-    "เพิ่มการสลายของโปรตีนโดยโปรตีเอสและลดการละลายของยา",
-    "เพิ่มการกระตุ้นภูมิคุ้มกันและทำให้เกิดแอนติบอดีต่อยามากขึ้น",
-    "ทำให้ยาไม่ละลายน้ำและต้องใช้ตัวทำละลายอินทรีย์ในการบริหารยา"
+    "หลอม T cell กับ fibroblast แล้วคัดเลือกด้วยยาปฏิชีวนะ",
+    "หลอม B cell กับ myeloma cell แล้วคัดเลือกด้วย PBS",
+    "ตัดต่อยีนแอนติบอดีเข้าฟาจแล้วคัดเลือกด้วยการจับเป้าหมาย",
+    "ฉีดแอนติเจนเข้าหนูทรานส์เจนิกแล้วเก็บเลือดโดยตรง"
    ],
-   "e": "ตัวอย่าง Pegasys (PEG-IFN α-2a) และ Mircera"
+   "e": "เซลล์ลูกผสมผลิตแอนติบอดีจำเพาะและเจริญได้ไม่จำกัด"
   },
   {
-   "t": "Monoclonal antibody",
-   "q": "กลไก ADCC ของ monoclonal antibody คืออะไร",
-   "a": "effector cell ทำลายเซลล์เป้าหมายที่ถูกแอนติบอดีจำเพาะจับ",
+   "t": "Viral vs non-viral",
+   "q": "เปรียบเทียบ viral vector กับ non-viral vector ข้อใดถูกต้อง",
+   "a": "Viral: ประสิทธิภาพสูงแต่กระตุ้นภูมิคุ้มกันและรับ DNA ได้จำกัด",
    "w": [
-    "แอนติบอดีที่จับเซลล์เป้าหมายกระตุ้นระบบ complement ให้ทำลายเซลล์",
-    "การตายของเซลล์ตามโปรแกรมที่เกิดโดยไม่ต้องมีแอนติบอดีมาจับ",
-    "การเปลี่ยนลำดับยีนในนิวเคลียสของเซลล์เป้าหมายโดยแอนติบอดี",
-    "การดูดซึมแอนติบอดีผ่านผิวหนังเข้าสู่เซลล์เป้าหมายโดยตรง"
+    "Viral: ประสิทธิภาพต่ำแต่รับ DNA ได้ขนาดใหญ่มากและผลิตง่าย",
+    "Viral: ปลอดภัยที่สุดและไม่กระตุ้นภูมิคุ้มกันเลยในทุกกรณี",
+    "Viral: รับ DNA ไม่จำกัดขนาดและผลิตง่ายราคาถูกที่สุด",
+    "Viral: ประสิทธิภาพเท่ากับ non-viral และปลอดภัยเท่ากันทุกกรณี"
    ],
-   "e": "CDC เกิดจากปฏิกิริยากับโปรตีนในระบบ complement | รายละเอียดคำตอบ: effector cell ของระบบภูมิคุ้มกันทำลายเซลล์เป้าหมายที่ถูกแอนติบอดีจำเพาะจับอยู่"
+   "e": "ประสิทธิภาพ/การส่งยีนสูงเป็นข้อดีหลัก"
   },
   {
-   "t": "Gene therapy",
-   "q": "นิยามของ gene therapy คือข้อใด",
-   "a": "นำยีนรักษาเข้าสู่เซลล์เป้าหมายเพื่อต้านผลยีนโรคหรือเพิ่มหน้าที่",
+   "t": "Viral vs non-viral",
+   "q": "Liposome และ electroporation เป็นระบบส่งยีนแบบใด",
+   "a": "Non-viral: ปลอดภัย กระตุ้นภูมิคุ้มกันน้อย รับ DNA ใหญ่ได้ แต่ประสิทธิภาพต่ำกว่า",
    "w": [
-    "การให้โปรตีนที่ผลิตจาก E. coli ทางหลอดเลือดเพื่อทดแทนโปรตีนที่ขาด",
-    "การปลูกถ่ายอวัยวะจากผู้บริจาคเพื่อทดแทนอวัยวะที่เสียหาย",
-    "การให้วัคซีนเชื้อตายเพื่อกระตุ้นภูมิคุ้มกันก่อนสัมผัสเชื้อ",
-    "การให้ยาปฏิชีวนะเพื่อกำจัดเชื้อก่อโรคในร่างกาย"
+    "Viral: ประสิทธิภาพสูง กระตุ้นภูมิคุ้มกันสูง และรับ DNA ได้ขนาดจำกัด",
+    "Viral: รับ DNA ได้เล็ก แต่ผลิตง่ายและปลอดภัยกว่า non-viral",
+    "Non-viral: ประสิทธิภาพสูงสุดและไม่มีข้อจำกัดใด ๆ ในการนำส่งยีน",
+    "Non-viral: รับ DNA ได้เล็กมากและกระตุ้นภูมิคุ้มกันสูงกว่า viral"
    ],
-   "e": "ใช้แก้ไข phenotype ที่บกพร่องในโรคพันธุกรรม มะเร็ง และโรคติดเชื้อ | รายละเอียดคำตอบ: นำยีนเพื่อการรักษาเข้าสู่เซลล์เป้าหมาย เพื่อต้านผลของยีนโรคหรือเพิ่มหน้าที่ใหม่"
+   "e": "ใช้เมื่อต้องการความปลอดภัยหรือ DNA ขนาดใหญ่"
   },
   {
-   "t": "Gene therapy",
-   "q": "ไวรัสเวกเตอร์ชนิดใดต่อไปนี้เป็น integrating virus",
-   "a": "Retrovirus และ Adeno-associated virus (AAV)",
+   "t": "Viral vectors",
+   "q": "Retrovirus และ Lentivirus ต่างกันอย่างไรในแง่เซลล์เป้าหมาย",
+   "a": "Retrovirus เข้าเซลล์ที่แบ่งตัว ; Lentivirus เข้าได้ทั้งแบ่งและไม่แบ่งตัว",
    "w": [
-    "Adenovirus และ Herpes simplex virus (HSV)",
-    "Herpes simplex virus และ Lentivirus เท่านั้น",
-    "Adenovirus และ AAV ซึ่งเป็น DNA virus ทั้งคู่",
-    "ไม่มีไวรัสเวกเตอร์ชนิดใดที่เข้าสู่โครโมโซมของเจ้าบ้านได้"
+    "Retrovirus เข้าเซลล์ที่ไม่แบ่งตัว ; Lentivirus เข้าเฉพาะเซลล์ที่แบ่งตัว",
+    "ทั้งสองเข้าได้เฉพาะเซลล์ที่ไม่แบ่งตัวเท่านั้น",
+    "ทั้งสองเป็น non-integrating vector ที่เข้าเซลล์ทุกชนิด",
+    "ทั้งสองเข้าได้เฉพาะเซลล์ประสาทเท่านั้น"
    ],
-   "e": "Adenovirus และ HSV เป็น non-integrating"
+   "e": "ทั้งสองเป็น integrating vector"
   },
   {
-   "t": "Gene therapy",
-   "q": "ข้อใดเป็นข้อเสียของ retroviral vector",
-   "a": "ติดเชื้อเฉพาะเซลล์ที่แบ่งตัว เสี่ยง insertional mutagenesis",
+   "t": "Viral vectors",
+   "q": "ข้อใดจับคู่ viral vector กับลักษณะได้ถูกต้อง",
+   "a": "HSV = ระบบประสาท รับ DNA 40–50 kb ; AAV = ไม่ก่อโรค นิยมใช้มาก",
    "w": [
-    "ไม่เข้าสู่โครโมโซมของมนุษย์ จึงแสดงออกเพียงชั่วคราว",
-    "รับ DNA insert ได้มากกว่า 40 kb และผลิตได้ในปริมาณสูง",
-    "ไม่มีการแสดงออกถาวร และ titer สูงถึง 10^12 virus/mL",
-    "ติดเชื้อเซลล์ที่ไม่แบ่งตัวได้ดี และไม่เสี่ยงก่อมะเร็ง"
+    "HSV = ระบบทางเดินหายใจ รับ DNA 4–5 kb ; AAV = ก่อโรครุนแรง",
+    "HSV = เซลล์เม็ดเลือด รับ DNA 9–12 kb ; AAV = ใช้ไม่ได้ในคน",
+    "AAV = ระบบประสาท รับ DNA 40–50 kb ; HSV = ไม่ก่อโรค นิยมใช้มาก",
+    "AAV = เซลล์ที่แบ่งตัวเท่านั้น ; HSV = ไม่ก่อโรค รับ DNA 4 kb"
    ],
-   "e": "ขนาด insert เพียง 9-12 kb และ titer ต่ำ ราว 10^6 virus/ml"
+   "e": "HSV เป็น neurotropic"
   },
   {
-   "t": "Gene therapy",
-   "q": "เวกเตอร์ใดติดเชื้อเซลล์ที่ไม่แบ่งตัว เช่น hepatocytes และ neurons ได้",
-   "a": "Lentiviral vector",
+   "t": "Autologous vs Allogeneic",
+   "q": "เปรียบเทียบ autologous กับ allogeneic cell therapy ข้อใดถูกต้อง",
+   "a": "Autologous: ไม่เสี่ยงปฏิเสธแต่เป็นรายบุคคล แพง ; Allogeneic: off-the-shelf แต่ต้องจับคู่ HLA",
    "w": [
-    "Moloney murine leukemia virus vector",
-    "Retroviral vector แบบดั้งเดิม",
-    "Non-viral cationic lipid vector",
-    "Adeno-associated virus ที่ไม่มี helper"
+    "Autologous: off-the-shelf ต้นทุนต่ำ ผลิตล่วงหน้าได้ ; Allogeneic: ไม่เสี่ยงปฏิเสธเลย",
+    "Autologous: ใช้เซลล์ผู้บริจาค ต้องจับคู่ HLA ; Allogeneic: ใช้เซลล์ของผู้ป่วยเอง",
+    "ทั้งสองไม่ต้องจับคู่ HLA และไม่เสี่ยงการปฏิเสธเลยในทุกกรณี",
+    "ทั้งสองต้องจับคู่ HLA และผลิตได้ครั้งละมาก ๆ ต้นทุนต่ำ"
    ],
-   "e": "พัฒนาจาก HIV โดยลบ accessory genes และใช้ envelope จาก VSV; packaging cell line = HEK293"
+   "e": "Allogeneic เสี่ยง immune rejection"
   },
   {
-   "t": "Gene therapy",
-   "q": "Adenoviral vector มีข้อดีและข้อจำกัดอย่างไร",
-   "a": "titer สูง แต่แสดงออกชั่วคราวและ immunogenic สูง",
+   "t": "Vaccine",
+   "q": "วัคซีนชนิด live-attenuated เทียบกับ killed/inactivated ต่างกันอย่างไร",
+   "a": "Live-attenuated กระตุ้นภูมิดีกว่า ; killed ต้องใช้ adjuvant และกระตุ้นซ้ำ",
    "w": [
-    "แสดงออกถาวรในโครโมโซม และ immunogenic ต่ำมาก",
-    "รับ insert ได้ 40-50 kb และติดเชื้อเฉพาะระบบประสาท",
-    "ใช้ packaging cell แบบ 293 ไม่ได้ และผลิตยากมาก",
-    "เป็น ssDNA ขนาดเล็ก 4.6 kb ที่ต้องพึ่ง helper virus"
+    "Live-attenuated กระตุ้นภูมิอ่อนกว่า ; killed กระตุ้นภูมิแรงกว่าเสมอ",
+    "ทั้งสองกระตุ้นภูมิเท่ากันและไม่ต้องใช้ adjuvant",
+    "Live-attenuated ใช้เชื้อที่ตายแล้ว ; killed ใช้เชื้อที่เพิ่มจำนวนได้",
+    "Live-attenuated ต้องใช้ adjuvant ; killed ไม่ต้องกระตุ้นซ้ำ"
    ],
-   "e": "ds DNA 36 kb; ใช้ 293 cell ที่มี E1a; insert 4-5 kb | รายละเอียดคำตอบ: titer สูง transduce ได้ทั้งเซลล์แบ่งและไม่แบ่งตัว แต่แสดงออกชั่วคราวและกระตุ้นภูมิคุ้มกันสูง"
+   "e": "live-attenuated ไม่เหมาะกับผู้มีภูมิคุ้มกันบกพร่อง"
+  },
+  {
+   "t": "mRNA vaccine",
+   "q": "mRNA vaccine ต้องเข้าสู่ส่วนใดของเซลล์เพื่อทำงาน",
+   "a": "Cytoplasm เพื่อแปลรหัสเป็น spike protein โดยไม่ต้องเข้า nucleus",
+   "w": [
+    "Nucleus เพื่อรวมเข้ากับ DNA ของเซลล์เจ้าบ้านก่อนแสดงออก",
+    "Mitochondria เพื่อสร้างพลังงานและแปลรหัสเป็น spike protein",
+    "Nucleus เพื่อถอดรหัสเพิ่มก่อนนำไปแปลรหัสในไซโทพลาสซึม",
+    "Golgi apparatus เพื่อตัดต่อยีนก่อนแสดงออกเป็นโปรตีน"
+   ],
+   "e": "จึงไม่ integrate เข้าจีโนม"
   }
  ]
 }

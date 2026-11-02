@@ -5,244 +5,244 @@
  "file": "3_2569-ACTD",
  "questions": [
   {
-   "t": "ACTD",
-   "q": "ASEAN Common Technical Dossier (ACTD) คืออะไร",
-   "a": "แนวปฏิบัติร่วมของรูปแบบเอกสารขึ้นทะเบียนยาในอาเซียน",
+   "t": "ACTD Part III",
+   "q": "Part III Nonclinical document ของ ACTD แบ่งเป็นกี่ section และเริ่มจากอะไร",
+   "a": "5 section (A–E) เริ่มจาก A สารบัญ",
    "w": [
-    "กฎหมายร่วมของอาเซียนที่กำหนดราคายาและเพดานกำไรของผู้ผลิต",
-    "ตำรายาฉบับเดียวที่ทุกประเทศอาเซียนใช้ร่วมกันในการตรวจวิเคราะห์",
-    "ใบอนุญาตผลิตยาที่ผู้ผลิตรายหนึ่งใช้ผลิตในทุกประเทศอาเซียนได้",
-    "ฐานข้อมูลรายชื่อผู้ผลิตยาทั่วโลกที่อาเซียนรวบรวมไว้"
+    "3 section เริ่มจาก A ภาพรวมทางคลินิก",
+    "4 section เริ่มจาก A ข้อมูลธุรการ",
+    "7 section เริ่มจาก A ข้อมูลคุณภาพ",
+    "6 section (A–F) เริ่มจาก A ข้อมูลคุณภาพ"
    ],
-   "e": "ผู้ยื่นปรับรูปแบบได้ตามความเหมาะสมเพื่อให้การประเมินเข้าใจง่าย; ACTR = ASEAN Common Technical Requirements | รายละเอียดคำตอบ: แนวปฏิบัติร่วมกันที่ตกลงกันของรูปแบบเอกสารการขึ้นทะเบียนผลิตภัณฑ์ยาสำหรับมนุษย์ เพื่อยื่นต่อหน่วยงานกำกับดูแลในภูมิภาคอาเซียน"
+   "e": ""
   },
   {
-   "t": "ACTD",
-   "q": "ACTD แบ่งเป็น 4 ส่วน ข้อใดอธิบายเนื้อหาของแต่ละส่วนได้ถูกต้อง",
-   "a": "Part 1 ธุรการ ; Part 2 คุณภาพ ; Part 3 non-clinical ; Part 4 คลินิก",
+   "t": "ACTD Part III",
+   "q": "Section B ของ Part III คืออะไร",
+   "a": "Nonclinical overview",
    "w": [
-    "Part 1 คลินิก ; Part 2 non-clinical ; Part 3 คุณภาพ ; Part 4 ธุรการ",
-    "Part 1 คุณภาพ ; Part 2 ธุรการ ; Part 3 คลินิก ; Part 4 non-clinical",
-    "Part 1 non-clinical ; Part 2 คลินิก ; Part 3 ธุรการ ; Part 4 คุณภาพ",
-    "Part 1 ธุรการ ; Part 2 non-clinical ; Part 3 คุณภาพ ; Part 4 คลินิก"
+    "Nonclinical study reports",
+    "List of key literature references",
+    "Table of contents",
+    "Clinical overview"
    ],
-   "e": "Part 3 สำหรับ NCE แต่ไม่จำเป็นสำหรับ MiV (minor variation) ในบางกรณี | รายละเอียดคำตอบ: Part 1 สารบัญ ข้อมูลธุรการและข้อมูลผลิตภัณฑ์ ; Part 2 เอกสารด้านคุณภาพ ; Part 3 เอกสารที่ไม่ใช่ข้อมูลทางคลินิก (ศึกษาในสัตว์ทดลอง) ; Part 4 เอกสารทางคลินิก"
+   "e": "C = summaries, D = study reports, E = references"
   },
   {
-   "t": "ประเภทผลิตภัณฑ์",
-   "q": "ตัวย่อ NCE, GP, Biotech, MaV และ MiV หมายถึงข้อใดตามลำดับ",
-   "a": "New Chemical Entity, Generic Product, Biotech, Major และ Minor Variation",
+   "t": "ACTD Part III",
+   "q": "Section D ของ Part III คืออะไร",
+   "a": "Nonclinical study reports",
    "w": [
-    "New Clinical Evidence, Good Practice, Biotech, Major Vote และ Minor Vote",
-    "National Chemical Entity, Government Product, Biologics, Major Version และ Minor Version",
-    "New Compound Evaluation, Generic Patent, Biopharma, Maximum Variation และ Minimum Variation",
-    "Nonclinical Evidence, General Pharmacy, Biotech, Main Variant และ Minor Variant"
+    "Nonclinical overview",
+    "Nonclinical written and tabulated summaries",
+    "Table of contents",
+    "List of key literature references"
    ],
-   "e": "Major variation = การเปลี่ยนแปลงที่ส่งผลต่อวิธีการให้ยา ความแรง/posology หรือข้อบ่งใช้ อาจต้องยื่นข้อมูลเพิ่ม; Minor variation = ไม่กระทบสิ่งเหล่านี้หรือตัวยาสำคัญ | รายละเอียดคำตอบ: New Chemical Entity, Generic Product, ผลิตภัณฑ์จากเทคโนโลยีชีวภาพ, Major Variation และ Minor Variation"
+   "e": ""
+  },
+  {
+   "t": "ACTD Part III",
+   "q": "Section E ของ Part III คืออะไร",
+   "a": "List of key literature references",
+   "w": [
+    "Nonclinical study reports",
+    "Nonclinical overview",
+    "Tabulated summaries",
+    "Nonclinical written summaries"
+   ],
+   "e": ""
   },
   {
    "t": "Nonclinical",
-   "q": "Part III Nonclinical document ประกอบด้วย section ใดบ้าง",
-   "a": "A สารบัญ, B Nonclinical overview, C summaries, D study reports, E references",
+   "q": "การศึกษา nonclinical แบ่งเป็น 3 กลุ่มหลักใด",
+   "a": "Pharmacology, pharmacokinetics, toxicology",
    "w": [
-    "Section A Pricing, B Marketing, C Sales, D Distribution, E Logistics",
-    "Section A Batch records, B Process validation, C Stability, D GMP, E Labeling",
-    "Section A Patents, B Trademark, C Copyright, D Designs, E Trade secrets",
-    "Section A Clinical, B Quality, C Administrative, D Legal, E Financial"
+    "Pharmacy, pathology, physiology",
+    "Production, packaging, pricing",
+    "Prevention, prognosis, prescription",
+    "Prevention, prognosis และ prescription"
    ],
-   "e": "เอกสารเน้นข้อมูลด้านเภสัชวิทยา เภสัชจลนศาสตร์ และพิษวิทยาจากการศึกษาในสัตว์ทดลอง | รายละเอียดคำตอบ: Section A Table of contents, B Nonclinical overview, C Nonclinical written and tabulated summaries, D Nonclinical study reports, E List of key literature references"
-  },
-  {
-   "t": "Nonclinical",
-   "q": "หมวดการศึกษาที่ไม่ใช่ทางคลินิกในเอกสารขึ้นทะเบียนแบ่งเป็น 3 กลุ่มหลักใด",
-   "a": "Pharmacology, Pharmacokinetics และ Toxicology",
-   "w": [
-    "Pharmacy, Pathology และ Physiology",
-    "Production, Packaging และ Pricing",
-    "Planning, Procurement และ Promotion",
-    "Prevention, Prognosis และ Prescription"
-   ],
-   "e": "Pharmacology: primary, secondary, safety pharmacology, pharmacodynamic interactions; PK: ADME; Toxicology: single/repeat dose, genotoxicity, carcinogenicity, reproductive toxicity, local tolerance"
-  },
-  {
-   "t": "Nonclinical Overview",
-   "q": "Section B: Nonclinical overview มีวัตถุประสงค์อะไร",
-   "a": "ภาพรวมเชิงวิเคราะห์เชื่อมโยงข้อมูล nonclinical กับความปลอดภัย",
-   "w": [
-    "เป็นสารบัญของเอกสาร nonclinical ที่ระบุเลขหน้าของแต่ละรายงาน",
-    "เป็นการคัดลอกรายงานการศึกษาทุกฉบับมารวมไว้ในเล่มเดียว",
-    "เป็นเอกสารสรุปราคาและแผนการตลาดของผลิตภัณฑ์ใหม่",
-    "เป็นรายการอุปกรณ์และสารเคมีที่ใช้ในห้องปฏิบัติการสัตว์ทดลอง"
-   ],
-   "e": "ประกอบด้วย overview of nonclinical testing strategy, pharmacology, pharmacokinetics, toxicology, integrated overview and conclusion, list of literature citation | รายละเอียดคำตอบ: ให้ภาพรวมเชิงวิเคราะห์ วิจารณ์ และเชื่อมโยงข้อมูลที่ไม่ใช่ทางคลินิกทั้งหมดกับคุณภาพยาและผลทางคลินิก เพื่อสนับสนุนความปลอดภัยของการใช้ผลิตภัณฑ์ (อ้างอิงข้าม section ได้)"
-  },
-  {
-   "t": "Nonclinical Summary",
-   "q": "Section C: Nonclinical written and tabulated summaries ควรมีลักษณะอย่างไร",
-   "a": "ไม่เกิน 100–150 หน้า สรุป pharmacology, PK, toxicology ตาม species",
-   "w": [
-    "ต้องเกิน 1,000 หน้าเสมอ เพื่อให้ครบทุกรายงานที่ทำ",
-    "ต้องเป็นตารางอย่างเดียว ห้ามมีคำบรรยายประกอบ",
-    "ต้องเขียนเฉพาะ pharmacology โดยไม่ต้องมี toxicology",
-    "ไม่ต้องจัดลำดับตาม species เพราะรวมข้อมูลทุก species ไว้ด้วยกัน"
-   ],
-   "e": "ยังมี introduction สั้น ๆ เกี่ยวกับโครงสร้างยา ข้อบ่งใช้ และขนาดยา | รายละเอียดคำตอบ: ไม่ควรเกิน 100–150 หน้า ประกอบด้วยบทสรุปแบบบรรยายและแบบตารางของ pharmacology, pharmacokinetics และ toxicology จัดลำดับตาม species และ route of administration"
+   "e": ""
   },
   {
    "t": "Pharmacology",
-   "q": "หัวข้อใดอยู่ใน Pharmacology section ของ nonclinical summary",
-   "a": "Primary/secondary pharmacodynamics และ safety pharmacology",
+   "q": "หัวข้อใดอยู่ใน Pharmacology section",
+   "a": "Primary/secondary pharmacodynamics, safety pharmacology และ PD interactions",
    "w": [
-    "Absorption, distribution, metabolism และ excretion ของสาร",
-    "Single dose toxicity, repeat dose toxicity และ genotoxicity",
-    "Batch formula, process validation และ stability ของผลิตภัณฑ์",
-    "Labeling, leaflet และ GMP certificate ของผู้ผลิต"
+    "Absorption, distribution, metabolism, excretion และ PK interactions",
+    "Single dose, repeat dose, genotoxicity และ carcinogenicity",
+    "Batch formula, process validation, stability และ specification",
+    "Labeling, leaflet, GMP certificate และใบอนุญาตผลิต"
    ],
-   "e": "ตัวอย่างหัวข้อ: in vitro (เช่น isolated rat atria), in vivo (haemodynamic effects), pharmacodynamics of metabolite; safety pharmacology: cardiovascular, visual, CNS; interaction เช่น กับ warfarin | รายละเอียดคำตอบ: Primary pharmacodynamics, secondary pharmacodynamics, safety pharmacology และ pharmacodynamic drug interactions"
+   "e": ""
+  },
+  {
+   "t": "Pharmacology",
+   "q": "Safety pharmacology มักประเมินระบบใด",
+   "a": "ระบบหัวใจและหลอดเลือด ระบบประสาทส่วนกลาง และระบบอื่น",
+   "w": [
+    "ระบบสืบพันธุ์และพัฒนาการของทารกในครรภ์เป็นหลัก",
+    "ระบบผิวหนังและความระคายเคืองเฉพาะที่เป็นหลัก",
+    "ระบบย่อยอาหารและการดูดซึมของยาผ่านลำไส้เป็นหลัก",
+    "ระบบภูมิคุ้มกันและการก่อภูมิแพ้ต่อผิวหนังเป็นหลัก"
+   ],
+   "e": ""
   },
   {
    "t": "Pharmacokinetics",
-   "q": "Pharmacokinetics section ของ nonclinical summary ประกอบด้วยหัวข้อใดบ้าง",
-   "a": "Methods of analysis, ADME และ PK drug interaction",
+   "q": "หัวข้อใดอยู่ใน Pharmacokinetics section",
+   "a": "Methods of analysis, ADME, PK interactions และ other PK studies",
    "w": [
-    "Carcinogenicity, genotoxicity และ local tolerance ของสาร",
-    "Primary และ secondary pharmacodynamics ของสารสำคัญ",
-    "Raw material specification และ container closure system",
-    "Package insert, advertising และข้อความบนฉลาก"
+    "Carcinogenicity, genotoxicity, local tolerance และ reproductive toxicity",
+    "Primary และ secondary pharmacodynamics และ safety pharmacology",
+    "Raw material specification, container closure และ stability",
+    "Package insert, advertising และข้อความบนฉลากผลิตภัณฑ์"
    ],
-   "e": "ตัวอย่าง: plasma protein binding, cardiac distribution, placenta transfer, in vitro/in vivo metabolism, interspecies metabolism, elimination parameters, total and renal clearance | รายละเอียดคำตอบ: Methods of analysis (bioanalytical), absorption, distribution, metabolism, excretion, PK drug interaction และ other PK studies"
-  },
-  {
-   "t": "Toxicology",
-   "q": "หัวข้อใดจัดอยู่ใน Toxicology section",
-   "a": "Single/repeat dose, genotoxicity, carcinogenicity",
-   "w": [
-    "Absorption, distribution และ metabolism ของสารในสัตว์ทดลอง",
-    "Primary pharmacodynamics และ safety pharmacology ของสาร",
-    "Stability, shelf life และ container closure ของผลิตภัณฑ์",
-    "Bioequivalence studies ในอาสาสมัครสุขภาพดี"
-   ],
-   "e": "Reproductive toxicity แบ่งเป็น fertility/early embryonic development, embryo-fetal development และ pre- and post-natal development รวมถึง maternal function | รายละเอียดคำตอบ: Single dose, repeat dose, genotoxicity, carcinogenicity, reproductive and developmental toxicity, local tolerance และ other toxicity studies"
-  },
-  {
-   "t": "Nonclinical",
-   "q": "แนวทาง/แหล่งอ้างอิงใดเกี่ยวข้องกับการศึกษา nonclinical สำหรับ ACTR",
-   "a": "Guidelines to ACTR on Nonclinical Data และ ICH M3",
-   "w": [
-    "ASEAN Tourism Agreement และข้อตกลงการท่องเที่ยวเชิงสุขภาพ",
-    "Codex Alimentarius ว่าด้วยมาตรฐานอาหารระหว่างประเทศ",
-    "ISO 9001 ว่าด้วยการบริหารคุณภาพองค์กรทั่วไปเท่านั้น",
-    "WTO Trade Facilitation Agreement ว่าด้วยพิธีการศุลกากร"
-   ],
-   "e": "มีแนวทางเฉพาะด้านเภสัชจลนศาสตร์ (tissue distribution after repeated dosing) และ toxicokinetics ด้วย | รายละเอียดคำตอบ: Guidelines to ACTR on Nonclinical Data และ ICH guidelines เช่น M3 (nonclinical safety studies) และ safety pharmacology guideline"
-  },
-  {
-   "t": "Tabulated Summary",
-   "q": "Tabulated summary ของ pharmacology/PK ควรแสดงข้อมูลอะไร",
-   "a": "ชนิดการศึกษา สปีชีส์ เส้นทางให้ยา และเลขที่รายงาน",
-   "w": [
-    "ชื่อผู้ซื้อยา ราคาซื้อ และเงื่อนไขการชำระเงินของผลิตภัณฑ์",
-    "ราคา ส่วนลด และโปรโมชันที่ใช้ในการขายผลิตภัณฑ์",
-    "รูปถ่ายอุปกรณ์ในห้องทดลอง และใบรับรองการสอบเทียบเครื่องมือ",
-    "ชื่อรถขนส่ง เส้นทางการเดินทาง และตารางการส่งมอบตัวอย่าง"
-   ],
-   "e": "ในตาราง PK อาจระบุ จำนวนสัตว์/เพศ สภาวะการให้อาหาร vehicle/formulation วิธีและขนาดยา ตัวอย่างที่ใช้ analyte วิธีวิเคราะห์ และค่า PK parameters | รายละเอียดคำตอบ: ชนิดการศึกษา ระบบทดสอบ/สปีชีส์ เส้นทางการให้ยา สถานที่ทดสอบ เลขที่รายงาน และตำแหน่งของรายงานในเอกสาร (location in dossier)"
-  },
-  {
-   "t": "Nonclinical",
-   "q": "ข้อมูล nonclinical มีความสำคัญต่อการขึ้นทะเบียนยาใหม่อย่างไร",
-   "a": "ประเมินฤทธิ์และความปลอดภัยก่อนทดลองในมนุษย์",
-   "w": [
-    "ใช้กำหนดราคาขายยาและส่วนลดการค้าตามต้นทุนการวิจัยเท่านั้น",
-    "ใช้ออกแบบข้อความโฆษณาและสื่อการตลาดของผลิตภัณฑ์เท่านั้น",
-    "ไม่มีความสำคัญต่อการประเมินความปลอดภัยของยาในมนุษย์",
-    "ใช้แทนข้อมูลคุณภาพ (Part II) ได้ทั้งหมดเมื่อเป็น NCE"
-   ],
-   "e": "สำหรับ NCE ต้องยื่น Part III; ผลิตภัณฑ์บางประเภท (เช่น MiV หรือ generic) อาจไม่ต้องยื่นทั้งหมด | รายละเอียดคำตอบ: ใช้ประเมินเบื้องต้นด้านฤทธิ์ ความปลอดภัย และกลไก ก่อนทดลองในมนุษย์ และสนับสนุนความปลอดภัยทางคลินิก"
-  },
-  {
-   "t": "Nonclinical",
-   "q": "ยาประเภทใดตามตัวย่อในเอกสารต้องยื่นข้อมูล nonclinical หัวข้อ pharmacology ตามตารางของ ACTD",
-   "a": "NCE, Biotech, RT, S/P, IND, MiV และ GP ตามตารางข้อกำหนด",
-   "w": [
-    "เฉพาะยาสมุนไพรที่ผลิตภายในประเทศและมีการใช้มานานแล้ว",
-    "เฉพาะเครื่องมือแพทย์ที่ใช้งานร่วมกับยาฉีดเท่านั้น",
-    "เฉพาะเครื่องสำอางที่มีส่วนผสมของสารออกฤทธิ์ทางยา",
-    "ไม่มีผลิตภัณฑ์ใดต้องยื่นข้อมูลหัวข้อนี้ในตาราง ACTD"
-   ],
-   "e": "ตารางแต่ละหัวข้อ (เช่น 1.1 primary pharmacology, 3.2 repeat dose toxicity) ระบุประเภทผลิตภัณฑ์ที่ต้องยื่นอย่างชัดเจน | รายละเอียดคำตอบ: NCE, Biotech, RT (route), S/P (strength/posology), IND (indication), MiV และ GP ตามที่ระบุในตารางข้อกำหนดของแต่ละหัวข้อ"
-  },
-  {
-   "t": "Nonclinical",
-   "q": "การศึกษา safety pharmacology ใน nonclinical มักประเมินระบบใด",
-   "a": "ระบบหัวใจ ระบบประสาทส่วนกลาง และระบบอื่น",
-   "w": [
-    "ระบบสืบพันธุ์และพัฒนาการของตัวอ่อนในครรภ์เป็นหลัก",
-    "ระบบผิวหนังและความระคายเคืองเฉพาะที่เท่านั้น",
-    "ระบบย่อยอาหารและการดูดซึมของยาผ่านลำไส้เท่านั้น",
-    "ไม่ประเมินระบบอวัยวะใดเลย เพราะทำเฉพาะ in vitro"
-   ],
-   "e": "Safety pharmacology เป็นการศึกษาผลที่ไม่พึงประสงค์ของยาต่อหน้าที่สำคัญของร่างกายก่อนใช้ในมนุษย์ | รายละเอียดคำตอบ: ระบบหัวใจและหลอดเลือด ระบบประสาทส่วนกลาง และระบบอื่น เช่น การมองเห็น (visual system)"
-  },
-  {
-   "t": "Toxicology",
-   "q": "Genotoxicity และ carcinogenicity ใน toxicology section ศึกษาเรื่องใด",
-   "a": "ศักยภาพในการก่อกลายพันธุ์ และก่อมะเร็งจากการได้รับสารนาน ๆ",
-   "w": [
-    "ความสามารถในการละลายของสารในน้ำและตัวทำละลายอินทรีย์",
-    "ความสามารถในการดูดซึมผ่านผิวหนังและเยื่อบุทางเดินอาหาร",
-    "ราคาของสารเมื่อผลิตในระดับอุตสาหกรรมเต็มรูปแบบ",
-    "ความนิยมของสารในตลาดและความต้องการของผู้บริโภค"
-   ],
-   "e": "แต่ละหัวข้อต้องรายงานผลการค้นพบหลัก (main experimental findings) และความเกี่ยวข้องของผลการทดลอง (relevance of findings) | รายละเอียดคำตอบ: ศักยภาพของสารในการทำลายสารพันธุกรรม/ก่อกลายพันธุ์ และก่อมะเร็งจากการได้รับสารนาน ๆ"
-  },
-  {
-   "t": "ACTD",
-   "q": "ข้อใดถูกต้องเกี่ยวกับ ACTD Part 4 Clinical document",
-   "a": "ข้อมูลการศึกษาทางคลินิก เช่น BA/BE, human PK/PD, efficacy and safety",
-   "w": [
-    "ข้อมูลการศึกษาในสัตว์ทดลองทั้งหมด เช่น toxicology และ pharmacology",
-    "ข้อมูลการผลิตและควบคุมคุณภาพทั้งหมด เช่น stability และ specification",
-    "แบบคำขอ ฉลาก และเอกสารกำกับยาของผลิตภัณฑ์เท่านั้น",
-    "ข้อมูลสิทธิบัตร อายุสิทธิบัตร และผู้ถือสิทธิของตัวยา"
-   ],
-   "e": "ACTD แบ่ง Part 3 และ Part 4 ที่ยื่นเมื่อร้องขอ (upon request) ในบางกรณีตามประเภทผลิตภัณฑ์"
-  },
-  {
-   "t": "Nonclinical",
-   "q": "ใน nonclinical overview คำว่า “integrated overview and conclusion” คืออะไร",
-   "a": "ภาพรวมเชื่อมโยง pharmacology, PK, toxicology พร้อมข้อสรุปความปลอดภัย",
-   "w": [
-    "รายการราคายาและเงื่อนไขการเบิกจ่ายของผลิตภัณฑ์ที่ขอขึ้นทะเบียน",
-    "รายชื่อผู้สนับสนุนทุนวิจัยและผู้ร่วมวิจัยของโครงการ",
-    "รายการอุปกรณ์ที่ใช้ในห้องปฏิบัติการและสถานที่ทำวิจัย",
-    "รายงานบัญชีการเงินของบริษัทผู้ยื่นขอขึ้นทะเบียน"
-   ],
-   "e": "ควรแนบรายการเอกสารอ้างอิงที่สำคัญ (list of key literature references) ด้วย | รายละเอียดคำตอบ: การสรุปภาพรวมที่เชื่อมโยงข้อมูล pharmacology, pharmacokinetics และ toxicology เข้าด้วยกัน พร้อมข้อสรุปเกี่ยวกับความปลอดภัยของผลิตภัณฑ์"
+   "e": ""
   },
   {
    "t": "Pharmacokinetics",
-   "q": "การศึกษา plasma protein binding และ placenta transfer จัดเป็นหัวข้อใดของ pharmacokinetics",
+   "q": "การศึกษา plasma protein binding และ placental transfer จัดเป็นหัวข้อใดของ PK",
    "a": "Distribution",
    "w": [
     "Absorption",
     "Metabolism",
     "Excretion",
-    "Analytical method"
+    "Methods of analysis"
    ],
-   "e": "ตัวอย่าง absorption: การให้ยาทางปากในหนูหรือสุนัข; excretion: elimination parameter, total/renal clearance"
+   "e": ""
+  },
+  {
+   "t": "Toxicology",
+   "q": "หัวข้อใดอยู่ใน Toxicology section",
+   "a": "Single/repeat dose, genotoxicity, carcinogenicity, reproductive toxicity",
+   "w": [
+    "Absorption, distribution, metabolism และ excretion ของสาร",
+    "Primary pharmacodynamics, safety pharmacology และ PD interactions",
+    "Stability, shelf life, container closure และ batch analysis",
+    "Bioequivalence studies ในอาสาสมัครสุขภาพดีและผู้ป่วย"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Toxicology",
+   "q": "Genotoxicity ศึกษาเรื่องใด",
+   "a": "ศักยภาพของสารในการทำลายสารพันธุกรรมหรือก่อกลายพันธุ์",
+   "w": [
+    "ความสามารถในการละลายของสารในน้ำและตัวทำละลายอินทรีย์",
+    "ความสามารถในการดูดซึมผ่านผิวหนังและเยื่อเมือกของสาร",
+    "ผลของสารต่อการแข็งตัวของเลือดและการทำงานของเกล็ดเลือด",
+    "ความสามารถในการกระจายตัวของผงยาเมื่อผสมกับน้ำ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Toxicology",
+   "q": "Carcinogenicity study ศึกษาเรื่องใด",
+   "a": "การก่อมะเร็งจากการได้รับสารเป็นเวลานาน",
+   "w": [
+    "การก่อกลายพันธุ์ในเซลล์แบคทีเรียระยะสั้น",
+    "ความเป็นพิษเฉียบพลันหลังได้รับสารครั้งเดียว",
+    "ผลของสารต่อการสืบพันธุ์ในสัตว์ทดลอง",
+    "ผลของสารต่อระบบหัวใจและหลอดเลือด"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Toxicology",
+   "q": "Single dose toxicity คือการศึกษาแบบใด",
+   "a": "ให้สารครั้งเดียวแล้วสังเกตความเป็นพิษเฉียบพลัน",
+   "w": [
+    "ให้สารทุกวันติดต่อกันเป็นเวลานานหลายเดือนต่อเนื่อง",
+    "ให้สารเฉพาะในสัตว์ตั้งท้องเพื่อดูผลต่อทารกในครรภ์",
+    "ให้สารในเซลล์เพาะเลี้ยงเท่านั้นโดยไม่ใช้สัตว์ทดลอง",
+    "ให้สารทุกสัปดาห์เป็นเวลานานหลายปีเพื่อดูการก่อมะเร็ง"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Summaries",
+   "q": "Section C Nonclinical written and tabulated summaries ควรยาวประมาณเท่าใด",
+   "a": "ไม่เกิน 100–150 หน้า",
+   "w": [
+    "เกิน 1,000 หน้าเสมอ",
+    "ไม่เกิน 5 หน้า",
+    "ไม่จำกัดจำนวนหน้า",
+    "ไม่เกิน 10 หน้าเท่านั้น"
+   ],
+   "e": "จัดลำดับตาม species และ route"
+  },
+  {
+   "t": "Summaries",
+   "q": "Tabulated summary ควรแสดงข้อมูลใดบ้าง",
+   "a": "ชนิดการศึกษา สปีชีส์ เส้นทางให้ยา เลขที่รายงาน และตำแหน่งรายงาน",
+   "w": [
+    "ชื่อผู้ซื้อยา ราคาขาย และเงื่อนไขการชำระเงินของผลิตภัณฑ์",
+    "รูปถ่ายอุปกรณ์ในห้องทดลองและใบรับรองการสอบเทียบเครื่องมือ",
+    "ชื่อรถขนส่ง เส้นทางเดินทาง และตารางการส่งตัวอย่างทดสอบ",
+    "รายชื่อผู้ถือหุ้น โครงสร้างบริษัท และประวัติการดำเนินงาน"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Overview",
+   "q": "Nonclinical overview ให้ข้อมูลลักษณะใด",
+   "a": "ภาพรวมเชิงวิเคราะห์เชื่อมโยงข้อมูล nonclinical และความปลอดภัย",
+   "w": [
+    "สารบัญและเลขหน้าของรายงานการศึกษาทุกฉบับในเอกสาร",
+    "สำเนารายงานการศึกษาทุกฉบับที่นำมารวมไว้ในเล่มเดียว",
+    "รายการอุปกรณ์และสารเคมีที่ใช้ในห้องสัตว์ทดลอง",
+    "รายชื่อผู้สนับสนุนทุนและผู้ร่วมวิจัยของแต่ละโครงการ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "แนวทาง",
+   "q": "แนวทางใดเกี่ยวข้องกับข้อมูล nonclinical สำหรับ ACTR",
+   "a": "Guidelines to ACTR on Nonclinical Data และ ICH M3",
+   "w": [
+    "ASEAN Tourism Agreement ว่าด้วยการท่องเที่ยวเชิงสุขภาพ",
+    "Codex Alimentarius ว่าด้วยมาตรฐานอาหารระหว่างประเทศ",
+    "ISO 9001 ว่าด้วยการบริหารคุณภาพองค์กรทั่วไป",
+    "WTO Trade Facilitation Agreement ว่าด้วยพิธีการศุลกากร"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ความสำคัญ",
+   "q": "ข้อมูล nonclinical มีความสำคัญต่อยาใหม่อย่างไร",
+   "a": "ประเมินฤทธิ์และความปลอดภัยก่อนทดลองในมนุษย์",
+   "w": [
+    "ใช้กำหนดราคาขายยาเท่านั้น",
+    "ใช้ออกแบบโฆษณาเท่านั้น",
+    "ใช้แทนข้อมูลคุณภาพ (Part II) ได้ทั้งหมด",
+    "ใช้แทนข้อมูลทางคลินิกในผู้ป่วยได้ทั้งหมด"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Part IV",
+   "q": "เอกสาร Part IV Clinical ของ ACTD ประกอบด้วยข้อมูลใด",
+   "a": "การศึกษาทางคลินิก เช่น BA/BE, PK/PD, efficacy, safety",
+   "w": [
+    "การศึกษา toxicology และ pharmacology ในสัตว์ทดลอง",
+    "ข้อมูลการผลิตและควบคุมคุณภาพของตัวยาและผลิตภัณฑ์",
+    "แบบคำขอ ฉลาก และเอกสารกำกับยาของผลิตภัณฑ์",
+    "ข้อมูลสิทธิบัตรและอายุสิทธิบัตรของตัวยาสำคัญ"
+   ],
+   "e": ""
   },
   {
    "t": "ACTD",
-   "q": "หลักการที่ทำให้ ACTD แตกต่างจากแบบคำขอเดิมของประเทศไทยคือข้อใด",
-   "a": "เป็นรูปแบบเอกสารที่ประสานกันในอาเซียน ใช้ชุดเดียวยื่นหลายประเทศ",
+   "q": "ใน ACTD ส่วนใดเป็นเอกสารที่ไม่ใช่ทางคลินิก",
+   "a": "Part III Nonclinical",
    "w": [
-    "เป็นเอกสารที่ใช้ได้เฉพาะในประเทศไทยและไม่ยอมรับในประเทศอื่น",
-    "เป็นเอกสารที่ใช้ได้เฉพาะกับยาสมุนไพรและผลิตภัณฑ์เสริมอาหาร",
-    "เป็นเอกสารที่ไม่ต้องมีข้อมูลคุณภาพ ความปลอดภัย หรือประสิทธิภาพ",
-    "เป็นเอกสารที่ต้องยื่นเป็นกระดาษด้วยลายมือและส่งทางไปรษณีย์เท่านั้น"
+    "Part I Administrative",
+    "Part II Quality",
+    "Part IV Clinical",
+    "Part V Regional"
    ],
-   "e": "ACTD พัฒนาตามแนว ICH CTD แต่ปรับเป็น 4 ส่วนและให้ Module/Part ทั่วไปใช้ร่วมกัน | รายละเอียดคำตอบ: เป็นรูปแบบเอกสารที่ประสานกันในภูมิภาคอาเซียน ผู้ยื่นใช้ชุดเอกสารเดียวยื่นต่อหลายประเทศได้ง่ายขึ้น"
+   "e": ""
   }
  ]
 }
