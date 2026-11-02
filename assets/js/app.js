@@ -1,11 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=20";
-import { route, navigate, start } from "./router.js?v=20";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=20";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=20";
-import { officeHtml } from "./office.js?v=20";
-import { initFx } from "./fx.js?v=20";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=20";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=20";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=21";
+import { route, navigate, start } from "./router.js?v=21";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=21";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=21";
+import { officeHtml } from "./office.js?v=21";
+import { initFx } from "./fx.js?v=21";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=21";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=21";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -618,7 +618,7 @@ function setCards(key) {
       const status = best === undefined ? chip("NO SCORE") : best >= PASS_PCT ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`);
       return `<article class="bento-card reveal" data-tilt="6">
         <div class="bento-top">${chip(`${SETS[key].prefix} ${pad2(f.no)}`)}${status}</div>
-        <h3>${esc(f.title)}</h3>
+        <h3><a href="#/${key}/${f.id}">${esc(f.title)}</a></h3>
         <p class="mono dim">${f.questions.length} ข้อ · ปรนัย 5 ตัวเลือก</p>
         <div class="bento-actions">
           ${EXAM_OPEN ? arrowLink("ทำข้อสอบ 20 ข้อ", `#/${key}/${f.id}/all`) : ""}
@@ -629,6 +629,43 @@ function setCards(key) {
     .join("")}</div>`;
 }
 
+function setTabs(key, current) {
+  const set = SETS[key];
+  const st = getState();
+  return `<nav class="set-tabs" aria-label="เลือกชุดข้อสอบ">${set
+    .get()
+    .files.map((f) => {
+      const best = st.best[f.id];
+      return `<a href="#/${key}/${f.id}" class="${f.id === current ? "on" : ""}" ${f.id === current ? 'aria-current="page"' : ""}>ชุด ${f.no}${best === undefined ? "" : `<small>${best}%</small>`}</a>`;
+    })
+    .join("")}</nav>`;
+}
+
+function setDetailView(key, p) {
+  const file = qcById.get(p.id);
+  if (!file) return navigate(`/${key}`);
+  const set = SETS[key];
+  const files = set.get().files;
+  const idx = files.findIndex((f) => f.id === file.id);
+  const prev = files[idx - 1];
+  const next = files[idx + 1];
+  const best = getState().best[file.id];
+  const topics = [...new Set(file.questions.map((q) => q.t))];
+  show(
+    `<section class="wrap section page-top narrow">
+      <p class="dim"><a href="#/${key}">← ${esc(set.short)}</a></p>
+      ${setTabs(key, file.id)}
+      <div class="chips" style="margin-top:16px">${chip(`${set.prefix} ${pad2(file.no)}`)}${best === undefined ? chip("NO SCORE") : best >= PASS_PCT ? chip(`PASS ${best}%`, "pass") : chip(`BEST ${best}%`)}</div>
+      <h1 class="h-page" style="margin-top:12px">ชุด ${file.no} · ${esc(file.title)}</h1>
+      <p class="dim">${file.questions.length} ข้อ · ปรนัย 5 ตัวเลือก</p>
+      <div class="chips" style="margin:12px 0">${topics.map((t) => chip(t)).join("")}</div>
+      <div class="result-actions">${EXAM_OPEN ? arrowLink("ทำข้อสอบชุดนี้", `#/${key}/${file.id}/all`) : ""}${arrowLink("ดูเฉลย", `#/${key}/${file.id}/key`, "btn-ghost")}</div>
+      <div class="result-actions">${prev ? arrowLink(`← ชุด ${prev.no}`, `#/${key}/${prev.id}`, "btn-ghost") : ""}${next ? arrowLink(`ชุด ${next.no} →`, `#/${key}/${next.id}`, "btn-ghost") : ""}</div>
+    </section>`,
+    { nav: key, title: `${set.short} ชุด ${file.no}` }
+  );
+}
+
 function setView(key) {
   const set = SETS[key];
   const data = set.get();
@@ -636,6 +673,7 @@ function setView(key) {
     `<section class="wrap section page-top">
       <div class="sec-head"><span class="chip"><i class="dot"></i>วิชา ${set.no}</span><h1 class="h-page" style="margin-top:12px">${esc(set.title)}</h1>
       <p class="dim">${esc(data.subject?.code ?? "")} · ข้อสอบปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ รวม ${data.files.reduce((a, f) => a + f.questions.length, 0)} ข้อ</p></div>
+      ${setTabs(key, "")}
       ${setCards(key)}
     </section>`,
     { nav: key, title: set.short }
@@ -667,7 +705,7 @@ function setKeyView(key, p) {
           <div class="explain"><div class="mono dim">อธิบายเฉลย</div><p>${esc(q.e || "")}</p></div></li>`
         )
         .join("")}</ol>
-      <div class="result-actions">${EXAM_OPEN ? arrowLink("ทำข้อสอบชุดนี้", `#/${key}/${file.id}/all`) : ""}${arrowLink("กลับ", `#/${key}`, "btn-ghost")}</div>
+      <div class="result-actions">${EXAM_OPEN ? arrowLink("ทำข้อสอบชุดนี้", `#/${key}/${file.id}/all`) : ""}${arrowLink("กลับ", `#/${key}/${file.id}`, "btn-ghost")}</div>
     </section>`,
     { nav: key, title: `เฉลย ${file.title}` }
   );
@@ -707,6 +745,7 @@ async function boot() {
   route("/labs", labsView);
   for (const key of Object.keys(SETS)) {
     route(`/${key}`, () => setView(key));
+    route(`/${key}/:id`, (p) => setDetailView(key, p));
     route(`/${key}/:id/key`, (p) => setKeyView(key, p));
     route(`/${key}/:id/:n`, gated((p) => setStart(key, p)));
   }
