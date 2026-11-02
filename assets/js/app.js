@@ -1,11 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=22";
-import { route, navigate, start } from "./router.js?v=22";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=22";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=22";
-import { officeHtml } from "./office.js?v=22";
-import { initFx } from "./fx.js?v=22";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=22";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=22";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=23";
+import { route, navigate, start } from "./router.js?v=23";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=23";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=23";
+import { officeHtml } from "./office.js?v=23";
+import { initFx } from "./fx.js?v=23";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=23";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=23";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
