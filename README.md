@@ -89,3 +89,8 @@ python3 -m http.server 8000
 13 ไฟล์ ไฟล์ละ 20 ข้อ ปรนัย 5 ตัวเลือก (รวม 260 ข้อ) จากเอกสารบรรยาย GU, หลักการมะเร็ง, supportive care, ยาเคมีบำบัด, targeted/immuno/hormonal, มะเร็งลำไส้ใหญ่ ปอด ปากมดลูก เต้านม, SSTI, SLE/LN และโรคเขตร้อน
 ข้อสอบอยู่ที่ `scripts/tp/NN.json` แก้แล้วรัน `python3 scripts/build_tp.py` เพื่อสร้าง `data/tp.json` ใหม่
 หน้าเว็บ: `#/tp`, `#/tp/tp01` (หน้าไฟล์), `#/tp/tp01/all` (ทำข้อสอบ), `#/tp/tp01/key` (เฉลย)
+
+## วิชา 6: Ceutic 1 (เภสัชภัณฑ์ 1)
+
+6 ไฟล์ ไฟล์ละ 20 ข้อ ปรนัย 5 ตัวเลือก (รวม 120 ข้อ): ยาน้ำใส 1–2, Herbal liquid solutions, Stability and shelf life, QC และเอกสาร (specification, CoA), บรรจุภัณฑ์
+ข้อสอบอยู่ที่ `scripts/cp/NN.json` แก้แล้วรัน `python3 scripts/build_cp.py` เพื่อสร้าง `data/cp.json` ใหม่ หน้าเว็บ: `#/cp`
