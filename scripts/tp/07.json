@@ -1,0 +1,248 @@
+{
+ "id": "tp07",
+ "no": 7,
+ "title": "Colorectal cancer",
+ "file": "",
+ "questions": [
+  {
+   "t": "พยาธิกำเนิด",
+   "q": "Lynch syndrome (HNPCC) เกิดจากความผิดปกติของยีนกลุ่มใด",
+   "a": "DNA mismatch repair genes",
+   "w": [
+    "ลดความเสี่ยงการกลับเป็นซ้ำ",
+    "ไม่ให้ chemotherapy",
+    "KRAS เท่านั้น",
+    "TP53 เท่านั้น"
+   ],
+   "e": "พบ 2–4% ของ CRC; FAP ที่ APC พบ 1% | รายละเอียด: DNA mismatch repair genes (MLH1, MSH2, MSH6, PMS2)"
+  },
+  {
+   "t": "พยาธิกำเนิด",
+   "q": "Familial adenomatous polyposis (FAP) เกี่ยวข้องกับยีนใด",
+   "a": "APC (adenomatous polyposis coli)",
+   "w": [
+    "DNA mismatch repair genes",
+    "BRCA2",
+    "Encorafenib ร่วมกับ cetuximab",
+    "PIK3CA"
+   ],
+   "e": ""
+  },
+  {
+   "t": "พยาธิกำเนิด",
+   "q": "เส้นทาง MSI (microsatellite instability) เกิดจากอะไร",
+   "a": "ความบกพร่องของระบบ DNA mismatch repair",
+   "w": [
+    "การกลายพันธุ์ของ BRAF เท่านั้น",
+    "APC (adenomatous polyposis coli)",
+    "การขาดวิตามินดีเรื้อรัง",
+    "Encorafenib ร่วมกับ cetuximab"
+   ],
+   "e": "นำไปสู่ hypermutation | รายละเอียด: ความบกพร่องของระบบ DNA mismatch repair (dMMR)"
+  },
+  {
+   "t": "การคัดกรอง",
+   "q": "วิธีคัดกรองที่เป็น gold standard ของมะเร็งลำไส้ใหญ่คืออะไร",
+   "a": "Colonoscopy",
+   "w": [
+    "FOBT ทุก 10 ปี",
+    "Barium enema ทุกปี",
+    "การคลำท้องเท่านั้น",
+    "ตรวจ CBC ทุกปี"
+   ],
+   "e": "รายละเอียด: Colonoscopy (ทุก 10 ปี เริ่มอายุ 45 ปีในความเสี่ยงเฉลี่ย)"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "T3 ในระบบ AJCC TNM ของมะเร็งลำไส้ใหญ่หมายถึงอะไร",
+   "a": "ลุกลามผ่าน muscularis propria ถึงชั้นนอก",
+   "w": [
+    "อยู่เฉพาะ mucosa",
+    "ลุกลามเข้า muscle layer แต่ไม่ทะลุ",
+    "ทะลุผนังลำไส้ออกไปทั้งหมดและเข้าอวัยวะข้างเคียง",
+    "แพร่กระจายไปตับแล้ว"
+   ],
+   "e": "T4 ทะลุชั้นนอกสุด | รายละเอียด: ลุกลามผ่าน muscularis propria ถึงชั้นนอก (subserosa)"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "N2 ในระบบ TNM ของมะเร็งลำไส้ใหญ่หมายถึงข้อใด",
+   "a": "พบเซลล์มะเร็งในต่อมน้ำเหลืองใกล้เคียง 4 ต่อมขึ้นไป",
+   "w": [
+    "ไม่พบในต่อมน้ำเหลือง",
+    "เพื่อลดความเสี่ยงพิษรุนแรงจากการขาดเอนไซม์ DPD",
+    "พบในปอดอย่างน้อย 1 ที่",
+    "ลุกลามผ่าน muscularis propria ถึงชั้นนอก"
+   ],
+   "e": "N1 = 1–3 ต่อม"
+  },
+  {
+   "t": "Early-stage",
+   "q": "Stage I colon cancer ควรรักษาอย่างไร",
+   "a": "ผ่าตัดอย่างเดียว ไม่ต้อง adjuvant chemotherapy",
+   "w": [
+    "ให้ FOLFOX 6 เดือนทุกราย",
+    "ให้ immunotherapy ทุกราย",
+    "ให้รังสีรักษาอย่างเดียว",
+    "Adjuvant chemotherapy ในผู้ป่วยที่เหมาะสมทุกราย"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Early-stage",
+   "q": "Stage III colon cancer ควรได้รับการรักษาเสริมอย่างไร",
+   "a": "Adjuvant chemotherapy ในผู้ป่วยที่เหมาะสมทุกราย",
+   "w": [
+    "ไม่ต้องให้ยาเสริมทุกราย",
+    "ให้เฉพาะ MSI-H เท่านั้น",
+    "ผ่าตัดอย่างเดียว ไม่ต้อง adjuvant chemotherapy",
+    "ให้เฉพาะรังสีรักษาโดยไม่ผ่าตัด"
+   ],
+   "e": "CAPEOX/FOLFOX 3–6 เดือน"
+  },
+  {
+   "t": "Early-stage",
+   "q": "ปัจจัยเสี่ยงสูงใน stage II ที่ควรพิจารณาให้ยาร่วมกันคือข้อใด",
+   "a": "Lymphovascular invasion, perineural invasion, perforation หรือ margin ใกล้/บวก",
+   "w": [
+    "ผู้ป่วยอายุน้อยกว่า 30 ปีเท่านั้น",
+    "ก้อนอยู่ที่ไส้ติ่งเท่านั้น",
+    "ระยะเวลา FOLFOX/CAPEOX 3 เดือนเทียบกับ 6 เดือนในกลุ่มความเสี่ยงต่ำ",
+    "เคมีบำบัดและรังสีรักษาก่อนผ่าตัดเพื่อลดขนาดและรักษาโรคทั่วร่างกาย"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Early-stage",
+   "q": "Stage II ที่มี MSI-H/dMMR ควรทำอย่างไร",
+   "a": "ไม่ให้ chemotherapy",
+   "w": [
+    "ให้ FOLFOX 6 เดือนทุกราย",
+    "ให้ 5-FU เดี่ยวทุกราย",
+    "ให้ anti-EGFR ทุกราย",
+    "ให้ trastuzumab"
+   ],
+   "e": "รายละเอียด: ไม่ให้ chemotherapy (± pembrolizumab)"
+  },
+  {
+   "t": "Early-stage",
+   "q": "ผลการศึกษา IDEA ในผู้ป่วย stage III เสนอแนวทางใด",
+   "a": "ระยะเวลา FOLFOX/CAPEOX 3 เดือนเทียบกับ 6 เดือนในกลุ่มความเสี่ยงต่ำ",
+   "w": [
+    "Immunotherapy เช่น pembrolizumab หรือ nivolumab ± ipilimumab",
+    "ให้ยาเพียง 1 สัปดาห์",
+    "ไม่ให้ยาในกลุ่มความเสี่ยงสูง",
+    "Adjuvant chemotherapy ในผู้ป่วยที่เหมาะสมทุกราย"
+   ],
+   "e": "T4 หรือ N2 = high-risk ให้ 6 เดือน"
+  },
+  {
+   "t": "Early-stage",
+   "q": "เหตุใดต้องตรวจ DPYD ก่อนให้ fluoropyrimidine",
+   "a": "เพื่อลดความเสี่ยงพิษรุนแรงจากการขาดเอนไซม์ DPD",
+   "w": [
+    "เพื่อตรวจหา Lynch syndrome",
+    "เพื่อวินิจฉัยโรคเบาหวาน",
+    "เพื่อทำนายผลของ bevacizumab",
+    "ผ่าตัดอย่างเดียว ไม่ต้อง adjuvant chemotherapy"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Aspirin",
+   "q": "Aspirin ใน stage II–III CRC ที่มี PIK3CA exon 9/20 mutation ให้ผลอย่างไร",
+   "a": "ลดความเสี่ยงการกลับเป็นซ้ำ",
+   "w": [
+    "เพิ่มความเสี่ยงการกลับเป็นซ้ำ",
+    "ไม่มีผลต่อการกลับเป็นซ้ำ",
+    "ลดผลข้างเคียงของ oxaliplatin",
+    "ทำให้ต้องเปลี่ยนเป็น 5-FU"
+   ],
+   "e": "HR ประมาณ 0.49"
+  },
+  {
+   "t": "Metastatic",
+   "q": "Biomarker ใดทำนายการไม่ได้ประโยชน์จาก cetuximab/panitumumab",
+   "a": "RAS (KRAS/NRAS) mutation",
+   "w": [
+    "PIK3CA wild-type",
+    "DNA mismatch repair genes",
+    "ระดับ CEA ต่ำ",
+    "ไม่ให้ chemotherapy"
+   ],
+   "e": "ต้องตรวจก่อนใช้ anti-EGFR"
+  },
+  {
+   "t": "Metastatic",
+   "q": "ผู้ป่วย mCRC ที่มี dMMR/MSI-H ควรได้ยาใดเป็นทางเลือกแรก",
+   "a": "Immunotherapy เช่น pembrolizumab หรือ nivolumab ± ipilimumab",
+   "w": [
+    "Chemotherapy เพียงอย่างเดียว",
+    "Adjuvant chemotherapy ในผู้ป่วยที่เหมาะสมทุกราย",
+    "พบเซลล์มะเร็งในต่อมน้ำเหลืองใกล้เคียง 4 ต่อมขึ้นไป",
+    "รังสีรักษาเพียงอย่างเดียว"
+   ],
+   "e": "KEYNOTE-177, CheckMate 8HW"
+  },
+  {
+   "t": "Metastatic",
+   "q": "BRAF V600E mutation ใน mCRC เป้าหมายการรักษาคือข้อใด",
+   "a": "Encorafenib ร่วมกับ cetuximab",
+   "w": [
+    "Cetuximab เดี่ยว",
+    "Bevacizumab เดี่ยว",
+    "Regorafenib เดี่ยว",
+    "Pembrolizumab เดี่ยวทุกราย"
+   ],
+   "e": "รายละเอียด: Encorafenib ร่วมกับ cetuximab (BEACON)"
+  },
+  {
+   "t": "Metastatic",
+   "q": "ข้อบ่งชี้ของ anti-EGFR ใน mCRC เหมาะกับกลุ่มใด",
+   "a": "Left-sided tumor ที่ RAS/BRAF wild-type",
+   "w": [
+    "Right-sided ที่มี RAS mutation",
+    "ผู้ป่วยทุกรายโดยไม่ต้องตรวจ biomarker",
+    "ผู้ป่วยที่มี BRAF mutation เท่านั้น",
+    "Stage I เท่านั้น"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Metastatic",
+   "q": "Third-line ใน mCRC ที่ดื้อต่อ fluoropyrimidine, oxaliplatin, irinotecan มีทางเลือกใด",
+   "a": "Regorafenib หรือ trifluridine/tipiracil",
+   "w": [
+    "Cisplatin เดี่ยว",
+    "Encorafenib ร่วมกับ cetuximab",
+    "Left-sided tumor ที่ RAS/BRAF wild-type",
+    "Osimertinib"
+   ],
+   "e": "TAS-102 + bevacizumab ดีกว่า TAS-102 เดี่ยว | รายละเอียด: Regorafenib หรือ trifluridine/tipiracil (TAS-102)"
+  },
+  {
+   "t": "Rectal",
+   "q": "Total neoadjuvant therapy (TNT) ในมะเร็งทวารหนักคืออะไร",
+   "a": "เคมีบำบัดและรังสีรักษาก่อนผ่าตัดเพื่อลดขนาดและรักษาโรคทั่วร่างกาย",
+   "w": [
+    "พบเซลล์มะเร็งในต่อมน้ำเหลืองใกล้เคียง 4 ต่อมขึ้นไป",
+    "รังสีรักษาหลังผ่าตัดอย่างเดียว",
+    "immunotherapy อย่างเดียวหลังผ่าตัด",
+    "Adjuvant chemotherapy ในผู้ป่วยที่เหมาะสมทุกราย"
+   ],
+   "e": "ตามด้วยผ่าตัด TME"
+  },
+  {
+   "t": "Adverse events",
+   "q": "การจัดการ hand-foot syndrome จาก capecitabine ทำอย่างไร",
+   "a": "ใช้ moisturizer ที่มี urea และหยุดหรือลดขนาดยาตามเกรด",
+   "w": [
+    "ทาสเตียรอยด์ขนาดสูงทุกราย",
+    "Regorafenib หรือ trifluridine/tipiracil",
+    "เพื่อลดความเสี่ยงพิษรุนแรงจากการขาดเอนไซม์ DPD",
+    "ให้ยาปฏิชีวนะทุกรายโดยไม่ดูเกรด"
+   ],
+   "e": ""
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "id": "tp13",
+ "no": 13,
+ "title": "Tropical diseases (TroD)",
+ "file": "",
+ "questions": [
+  {
+   "t": "Dengue",
+   "q": "พาหะหลักของไข้เลือดออกเดงกีคือยุงชนิดใด",
+   "a": "Aedes aegypti",
+   "w": [
+    "Anopheles minimus",
+    "Culex quinquefasciatus",
+    "Mansonia",
+    "Phlebotomus"
+   ],
+   "e": "DENV 1–4"
+  },
+  {
+   "t": "Dengue",
+   "q": "ระยะของโรคไข้เดงกีเรียงตามลำดับคือข้อใด",
+   "a": "Febrile → Critical → Recovery",
+   "w": [
+    "Recovery → Critical → Febrile",
+    "Critical → Febrile → Recovery",
+    "Febrile → Recovery → Critical",
+    "Critical → Recovery → Febrile"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Dengue",
+   "q": "ระยะที่เสี่ยงต่อภาวะ plasma leakage และช็อกมากที่สุดคือข้อใด",
+   "a": "Critical phase",
+   "w": [
+    "Febrile phase ช่วงวันแรก",
+    "Recovery phase",
+    "ก่อนเกิดไข้",
+    "ช่วงมีผื่นขึ้นหลังหายแล้ว"
+   ],
+   "e": "รายละเอียด: Critical phase (ช่วงไข้ลง)"
+  },
+  {
+   "t": "Dengue",
+   "q": "การทดสอบ tourniquet test ที่ให้ผลบวกบ่งชี้อะไร",
+   "a": "ความเปราะของหลอดเลือดฝอย",
+   "w": [
+    "การติดเชื้อมาลาเรีย",
+    "การติดเชื้อเลปโตสไปโรซิส",
+    "ภาวะเลือดจาง",
+    "ภาวะตับแข็ง"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Dengue",
+   "q": "การตรวจ NS1 antigen เหมาะกับช่วงใดของโรค",
+   "a": "ช่วงแรกที่ยังมี viremia",
+   "w": [
+    "หลังหายแล้ว 1 เดือน",
+    "ช่วง recovery เท่านั้น",
+    "ไม่เกี่ยวกับระยะโรค",
+    "หลังฉีดวัคซีน 1 ปี"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Dengue",
+   "q": "การรักษา dengue ที่สำคัญที่สุดคืออะไร",
+   "a": "Supportive care โดยไม่มียาต้านไวรัสจำเพาะ",
+   "w": [
+    "ให้ยาต้านไวรัสจำเพาะ",
+    "Thick และ thin blood smear คู่กัน",
+    "ให้ NSAIDs ลดไข้ทุกราย",
+    "Febrile → Critical → Recovery"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Dengue",
+   "q": "ยาลดไข้ที่ควรเลือกใช้ในผู้ป่วย dengue คือข้อใด",
+   "a": "Paracetamol",
+   "w": [
+    "Aspirin",
+    "Ibuprofen",
+    "Diclofenac",
+    "Naproxen"
+   ],
+   "e": "เลี่ยงการฉีดเข้ากล้ามเนื้อ | รายละเอียด: Paracetamol (เลี่ยง NSAIDs/aspirin)"
+  },
+  {
+   "t": "Malaria",
+   "q": "ยุงที่เป็นพาหะของมาลาเรียคือชนิดใด",
+   "a": "ยุงก้นปล่องตัวเมีย",
+   "w": [
+    "ยุงลายตัวผู้",
+    "ยุงรำคาญ (Culex) ตัวผู้",
+    "แมลงวัน",
+    "เห็บ"
+   ],
+   "e": "มี 5 species ที่ก่อโรคในคน | รายละเอียด: ยุงก้นปล่องตัวเมีย (Anopheles)"
+  },
+  {
+   "t": "Malaria",
+   "q": "วิธีมาตรฐานในการวินิจฉัยมาลาเรียคืออะไร",
+   "a": "Thick และ thin blood smear คู่กัน",
+   "w": [
+    "ล้างแผลด้วยน้ำและสบู่ทันที",
+    "ตรวจน้ำไขสันหลัง",
+    "ความเปราะของหลอดเลือดฝอย",
+    "ตรวจอุจจาระ"
+   ],
+   "e": "RDT ช่วยแยก P. falciparum"
+  },
+  {
+   "t": "Malaria",
+   "q": "Uncomplicated falciparum malaria ในไทยรักษาด้วยสูตรใด",
+   "a": "ACT ตามพื้นที่ + primaquine ขนาดเดียว",
+   "w": [
+    "Chloroquine เดี่ยวทุกพื้นที่",
+    "Doxycycline เดี่ยว",
+    "Thick และ thin blood smear คู่กัน",
+    "Amoxicillin"
+   ],
+   "e": "เช่น dihydroartemisinin-piperaquine | รายละเอียด: ACT ตามพื้นที่ + primaquine ขนาดเดียว (single-dose)"
+  },
+  {
+   "t": "Malaria",
+   "q": "Severe malaria ใช้ยาใดเป็นทางเลือกแรก",
+   "a": "Artesunate IV",
+   "w": [
+    "Chloroquine รับประทาน",
+    "Primaquine ทางปาก",
+    "Quinine ทาผิวหนัง",
+    "Doxycycline รับประทาน"
+   ],
+   "e": "ต่อด้วย oral ACT เมื่อรับประทานได้ | รายละเอียด: Artesunate IV (2.4 mg/kg ที่ 0, 12, 24 ชั่วโมง แล้วทุกวัน)"
+  },
+  {
+   "t": "Leptospirosis",
+   "q": "Leptospirosis ติดต่อด้วยวิธีใด",
+   "a": "ผ่านบาดแผลหรือเยื่อบุจากน้ำ/ดินปนเปื้อนปัสสาวะสัตว์",
+   "w": [
+    "ผ่านการหายใจจากผู้ป่วย",
+    "ผ่านการถูกยุงกัดทุกครั้ง",
+    "Conjunctival suffusion และปวดน่อง/กล้ามเนื้อรุนแรง",
+    "ผ่านการสัมผัสผู้ป่วยโดยตรงทุกกรณี"
+   ],
+   "e": "รายละเอียด: ผ่านบาดแผลหรือเยื่อบุจากน้ำ/ดินปนเปื้อนปัสสาวะสัตว์ (หนู)"
+  },
+  {
+   "t": "Leptospirosis",
+   "q": "อาการสำคัญที่ช่วยชี้นำ leptospirosis คืออะไร",
+   "a": "Conjunctival suffusion และปวดน่อง/กล้ามเนื้อรุนแรง",
+   "w": [
+    "เยื่อบุตาซีดเท่านั้น",
+    "ผ่านบาดแผลหรือเยื่อบุจากน้ำ/ดินปนเปื้อนปัสสาวะสัตว์",
+    "ไอแห้งเรื้อรังเท่านั้น",
+    "ผื่นคันที่ฝ่ามือ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Rickettsia",
+   "q": "Scrub typhus เกิดจากเชื้อใดและมีลักษณะสำคัญอะไร",
+   "a": "Orientia tsutsugamushi ; มักพบ eschar",
+   "w": [
+    "Rickettsia typhi ; ผื่นที่ฝ่าเท้าเท่านั้น",
+    "Plasmodium vivax ; ม้ามโต",
+    "Leptospira ; ตาแดง",
+    "Burkholderia ; ฝีในอวัยวะ"
+   ],
+   "e": "Murine typhus: R. typhi จากหมัดหนู"
+  },
+  {
+   "t": "Rickettsia",
+   "q": "ยาหลักในการรักษา rickettsial disease คือข้อใด",
+   "a": "Doxycycline 100 mg PO bid",
+   "w": [
+    "Penicillin G เท่านั้น",
+    "Ceftriaxone เท่านั้น",
+    "Metronidazole",
+    "Burkholderia pseudomallei"
+   ],
+   "e": "alternative: azithromycin, chloramphenicol"
+  },
+  {
+   "t": "Melioidosis",
+   "q": "เชื้อก่อโรค melioidosis คืออะไร",
+   "a": "Burkholderia pseudomallei",
+   "w": [
+    "Staphylococcus aureus",
+    "Leptospira interrogans",
+    "Orientia tsutsugamushi",
+    "Plasmodium falciparum"
+   ],
+   "e": "พบในดินและน้ำ | รายละเอียด: Burkholderia pseudomallei (gram-negative bacilli)"
+  },
+  {
+   "t": "Melioidosis",
+   "q": "Intensive phase ของ melioidosis ใช้ยาใดและนานเท่าใด",
+   "a": "Ceftazidime หรือ meropenem IV อย่างน้อย 10–14 วัน",
+   "w": [
+    "Amoxicillin PO 3 วัน",
+    "Doxycycline PO 1 วัน",
+    "Orientia tsutsugamushi ; มักพบ eschar",
+    "Supportive care โดยไม่มียาต้านไวรัสจำเพาะ"
+   ],
+   "e": "ในโรครุนแรงหรือ deep-seated ให้นานกว่า"
+  },
+  {
+   "t": "Melioidosis",
+   "q": "Eradication phase ของ melioidosis ใช้ยาใดและนานเท่าใด",
+   "a": "TMP-SMX PO อย่างน้อย 12 สัปดาห์",
+   "w": [
+    "Doxycycline 100 mg PO bid",
+    "Metronidazole 1 สัปดาห์",
+    "Vancomycin 2 สัปดาห์",
+    "Burkholderia pseudomallei"
+   ],
+   "e": "ติดตาม CBC, SCr, K+, ผื่น"
+  },
+  {
+   "t": "Rabies",
+   "q": "หลังถูกสุนัขกัดหรือข่วนควรทำสิ่งใดเป็นขั้นแรก",
+   "a": "ล้างแผลด้วยน้ำและสบู่ทันที",
+   "w": [
+    "ใส่ยาสมุนไพรบนแผล",
+    "รอดูอาการ 1 สัปดาห์",
+    "เย็บแผลทันทีทุกกรณี",
+    "ความเปราะของหลอดเลือดฝอย"
+   ],
+   "e": "แล้วประเมินความเสี่ยงและให้ PEP"
+  },
+  {
+   "t": "Rabies",
+   "q": "อาการแบบ encephalitic (classic) ของโรคพิษสุนัขบ้าที่เป็นลักษณะเฉพาะคืออะไร",
+   "a": "กระสับกระส่าย ตื่นเต้นง่าย กลัวน้ำ (hydrophobia) และกลัวลม",
+   "w": [
+    "ซึมและหมดสติทันทีโดยไม่มีอาการอื่น",
+    "Ceftazidime หรือ meropenem IV อย่างน้อย 10–14 วัน",
+    "ตาเหลืองตัวเหลืองเท่านั้น",
+    "ผ่านบาดแผลหรือเยื่อบุจากน้ำ/ดินปนเปื้อนปัสสาวะสัตว์"
+   ],
+   "e": "เมื่อมีอาการแล้วแทบเสียชีวิตทุกราย"
+  }
+ ]
+}

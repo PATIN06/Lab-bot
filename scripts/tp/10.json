@@ -1,0 +1,248 @@
+{
+ "id": "tp10",
+ "no": 10,
+ "title": "Breast cancer",
+ "file": "",
+ "questions": [
+  {
+   "t": "พยาธิกำเนิด",
+   "q": "การกลายพันธุ์ BRCA1 ก่อให้เกิดความเสี่ยงมะเร็งใดมาก",
+   "a": "มะเร็งเต้านมประมาณ 57% และมะเร็งรังไข่ประมาณ 40%",
+   "w": [
+    "SERD ; 500 mg IM วันที่ 1, 15, 29 แล้วทุก 1 เดือน",
+    "มะเร็งตับประมาณ 40%",
+    "มะเร็งกระเพาะอาหารเท่านั้น",
+    "ไม่มีความเสี่ยงเพิ่ม"
+   ],
+   "e": "BRCA2: เต้านม 49%, รังไข่ 18%"
+  },
+  {
+   "t": "พยาธิกำเนิด",
+   "q": "HER2 overexpression พบในมะเร็งเต้านมประมาณกี่เปอร์เซ็นต์",
+   "a": "ประมาณ 20–25%",
+   "w": [
+    "IHC และ FISH",
+    "ประมาณ 80%",
+    "ประมาณ 50%",
+    "ประมาณ 99%"
+   ],
+   "e": "เป็น proto-oncogene"
+  },
+  {
+   "t": "ปัจจัยเสี่ยง",
+   "q": "ปัจจัยใดเพิ่มความเสี่ยงมะเร็งเต้านมจากเอสโตรเจน",
+   "a": "เริ่มมีประจำเดือนก่อนอายุ 12 ปี และหมดประจำเดือนหลังอายุ 55 ปี",
+   "w": [
+    "มีบุตรคนแรกก่อนอายุ 20 ปี",
+    "ผ่าตัดรังไข่ทั้งสองข้างตั้งแต่อายุน้อย",
+    "ออกกำลังกายสม่ำเสมอ",
+    "Docetaxel/Paclitaxel + Carboplatin + Trastuzumab + Pertuzumab"
+   ],
+   "e": "Gail model ใช้ประเมินความเสี่ยง"
+  },
+  {
+   "t": "การคัดกรอง",
+   "q": "การคัดกรองมะเร็งเต้านมในผู้หญิงทั่วไปอายุ 40 ปีขึ้นไป",
+   "a": "Mammogram ทุกปี",
+   "w": [
+    "MRI ทุกเดือน",
+    "Pap smear ทุกปี",
+    "ไม่ต้องตรวจ",
+    "ตรวจเฉพาะเมื่อมีก้อน"
+   ],
+   "e": "MRI ในกลุ่มความเสี่ยงสูงอายุ > 30 ปี"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "ER/PR positive ตามเกณฑ์ IHC ใช้ค่าตัดแบ่งเท่าใด",
+   "a": "การแสดงออกมากกว่า 1%",
+   "w": [
+    "มากกว่า 90%",
+    "มากกว่า 50%",
+    "ไม่ต้องมีค่าตัดแบ่ง",
+    "น้อยกว่า 1%"
+   ],
+   "e": "Ki-67 > 20% = high proliferation"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "การยืนยัน HER2 positive ด้วยวิธีใด",
+   "a": "IHC และ FISH",
+   "w": [
+    "Mammogram",
+    "ระดับ CA-125",
+    "Pap smear",
+    "การตรวจ CBC"
+   ],
+   "e": ""
+  },
+  {
+   "t": "DCIS",
+   "q": "การรักษา DCIS ข้อใดถูกต้อง",
+   "a": "Total mastectomy หรือ BCS + WBRT ร่วมกับ hormonal therapy",
+   "w": [
+    "เคมีบำบัดสูตร AC-T ทุกราย",
+    "locally advanced, inflammatory หรือ HER2+/TNBC",
+    "SERD ; 500 mg IM วันที่ 1, 15, 29 แล้วทุก 1 เดือน",
+    "เฝ้าระวังอย่างเดียวโดยไม่ผ่าตัด"
+   ],
+   "e": "Hormonal Tx 5 ปี"
+  },
+  {
+   "t": "Neoadjuvant",
+   "q": "ข้อบ่งชี้ของ neoadjuvant therapy ในมะเร็งเต้านมคืออะไร",
+   "a": "locally advanced, inflammatory หรือ HER2+/TNBC",
+   "w": [
+    "ต่อมน้ำเหลืองรักแร้บวก > 4 ต่อม หรือก้อน > 2 ซม.",
+    "เฉพาะผู้ที่ไม่ผ่าตัดเด็ดขาด",
+    "เฉพาะผู้ป่วย stage I ER+",
+    "ผู้ที่ไม่ต้องการรักษา"
+   ],
+   "e": "ช่วยลดขนาดก้อนและประเมินการตอบสนอง | รายละเอียด: locally advanced, inflammatory หรือ HER2+/TNBC (≥T2)"
+  },
+  {
+   "t": "Hormonal",
+   "q": "ทางเลือกหลักของ endocrine therapy ใน HR+ early breast cancer ขึ้นกับอะไร",
+   "a": "สถานะหมดประจำเดือน",
+   "w": [
+    "ระดับ albumin",
+    "Mammogram ทุกปี",
+    "น้ำหนักตัว",
+    "ประมาณ 20–25%"
+   ],
+   "e": "Tamoxifen ± OFS ; AIs ในผู้ที่หมดประจำเดือน | รายละเอียด: สถานะหมดประจำเดือน (menopausal status)"
+  },
+  {
+   "t": "Hormonal",
+   "q": "คำนิยามภาวะ post-menopause สำหรับการใช้ AIs คืออะไร",
+   "a": "ขาดประจำเดือนนานกว่า 12 เดือน และ FSH/estradiol อยู่ในช่วง menopause",
+   "w": [
+    "ขาดประจำเดือนนาน 1 เดือน",
+    "เริ่มมีประจำเดือนก่อนอายุ 12 ปี และหมดประจำเดือนหลังอายุ 55 ปี",
+    "ได้รับ tamoxifen มา 5 ปี",
+    "ต่อมน้ำเหลืองรักแร้บวก > 4 ต่อม หรือก้อน > 2 ซม."
+   ],
+   "e": ""
+  },
+  {
+   "t": "Hormonal",
+   "q": "ตัวอย่าง aromatase inhibitors คือข้อใด",
+   "a": "Anastrozole, letrozole, exemestane",
+   "w": [
+    "Venlafaxine หรือ citalopram",
+    "Fulvestrant, goserelin",
+    "Cetuximab, panitumumab",
+    "Zoledronic acid 4 mg ทุก 6 เดือน"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Hormonal",
+   "q": "Extended endocrine therapy 10 ปี มีประโยชน์ในผู้ป่วยกลุ่มใด",
+   "a": "ต่อมน้ำเหลืองรักแร้บวก > 4 ต่อม หรือก้อน > 2 ซม.",
+   "w": [
+    "Anastrozole, letrozole, exemestane",
+    "ผู้ที่ไม่มีต่อมน้ำเหลืองบวกเลย",
+    "มะเร็งเต้านมประมาณ 57% และมะเร็งรังไข่ประมาณ 40%",
+    "ผู้ป่วยทุกรายโดยไม่ต้องประเมินความเสี่ยง"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Hormonal",
+   "q": "ยาต้านซึมเศร้าที่เลือกใช้ได้ร่วมกับ tamoxifen เพื่อลดผลข้างเคียงจาก CYP2D6 คืออะไร",
+   "a": "Venlafaxine หรือ citalopram",
+   "w": [
+    "AI + CDK4/6 inhibitor",
+    "Paroxetine",
+    "การแสดงออกมากกว่า 1%",
+    "Duloxetine"
+   ],
+   "e": "หลีกเลี่ยง strong CYP2D6 inhibitors"
+  },
+  {
+   "t": "Bone",
+   "q": "ยาที่ใช้ลดการสูญเสียมวลกระดูกจาก AIs และลดการกลับเป็นซ้ำคืออะไร",
+   "a": "Zoledronic acid 4 mg ทุก 6 เดือน",
+   "w": [
+    "Prednisone",
+    "Venlafaxine หรือ citalopram",
+    "Furosemide",
+    "Methotrexate"
+   ],
+   "e": "Calcium 1,200 mg/day + Vitamin D"
+  },
+  {
+   "t": "HER2",
+   "q": "ระยะเวลามาตรฐานของ adjuvant trastuzumab คือเท่าใด",
+   "a": "1 ปี",
+   "w": [
+    "1 เดือน",
+    "6 สัปดาห์",
+    "10 ปี",
+    "2 สัปดาห์"
+   ],
+   "e": ""
+  },
+  {
+   "t": "HER2",
+   "q": "สูตร TCHP ประกอบด้วยอะไร",
+   "a": "Docetaxel/Paclitaxel + Carboplatin + Trastuzumab + Pertuzumab",
+   "w": [
+    "Tamoxifen + Cisplatin + Cetuximab + Pertuzumab",
+    "Cyclophosphamide + Mesna + Methotrexate",
+    "Total mastectomy หรือ BCS + WBRT ร่วมกับ hormonal therapy",
+    "Letrozole + Palbociclib"
+   ],
+   "e": ""
+  },
+  {
+   "t": "TNBC",
+   "q": "ยาใดใช้ใน TNBC ที่มี germline BRCA1/2 mutation (adjuvant)",
+   "a": "Olaparib",
+   "w": [
+    "Trastuzumab",
+    "Letrozole",
+    "Fulvestrant",
+    "Everolimus"
+   ],
+   "e": "pembrolizumab ใน high-risk TNBC | รายละเอียด: Olaparib (PARP inhibitor)"
+  },
+  {
+   "t": "Metastatic",
+   "q": "First-line ใน HR+/HER2− metastatic คือข้อใด",
+   "a": "AI + CDK4/6 inhibitor",
+   "w": [
+    "Trastuzumab เดี่ยว",
+    "Olaparib เดี่ยว",
+    "Cetuximab",
+    "Tamoxifen + CDK4/6 inhibitor ทุกราย"
+   ],
+   "e": "Fulvestrant 500 mg IM D1, 15, 29 แล้วทุก 1 เดือน"
+  },
+  {
+   "t": "Metastatic",
+   "q": "Everolimus ร่วมกับ exemestane มีพิษที่พบบ่อยคืออะไร",
+   "a": "Stomatitis",
+   "w": [
+    "Cardiotoxicity",
+    "Hand-foot syndrome",
+    "Hemorrhagic cystitis",
+    "Nephrotoxicity"
+   ],
+   "e": "Dexamethasone 1 mg/mL swish 2 นาที | รายละเอียด: Stomatitis (ใช้ dexamethasone mouthwash)"
+  },
+  {
+   "t": "Metastatic",
+   "q": "Fulvestrant เป็นยากลุ่มใดและให้ขนาดเท่าใดใน metastatic breast cancer",
+   "a": "SERD ; 500 mg IM วันที่ 1, 15, 29 แล้วทุก 1 เดือน",
+   "w": [
+    "Aromatase inhibitor ; 25 mg ทางปากทุกวัน",
+    "locally advanced, inflammatory หรือ HER2+/TNBC",
+    "GnRH agonist ; 500 mg IV ทุกสัปดาห์",
+    "PARP inhibitor ; 500 mg ทางปากทุกวัน"
+   ],
+   "e": "ใช้ร่วม CDK4/6 inhibitor ได้"
+  }
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "id": "tp11",
+ "no": 11,
+ "title": "Skin and soft tissue infection (SSTI)",
+ "file": "",
+ "questions": [
+  {
+   "t": "ภาพรวม",
+   "q": "ปัจจัยเสี่ยงของ community-acquired MRSA SSTI ข้อใดถูกต้อง",
+   "a": "การฉีดยาเสพติดและการสัมผัสใกล้ชิดในที่แออัด",
+   "w": [
+    "การออกกำลังกายสม่ำเสมอ",
+    "การรับประทานผักผลไม้",
+    "การนอนหลับเพียงพอ",
+    "Beta-hemolytic streptococci และ S. aureus"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ภาพรวม",
+   "q": "เชื้อก่อโรคที่พบบ่อยที่สุดของ impetigo คืออะไร",
+   "a": "Staphylococcus aureus และ group A streptococci",
+   "w": [
+    "Pseudomonas aeruginosa เท่านั้น",
+    "Candida albicans เท่านั้น",
+    "Escherichia coli เท่านั้น",
+    "การฉีดยาเสพติดและการสัมผัสใกล้ชิดในที่แออัด"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ภาพรวม",
+   "q": "Scalded skin syndrome เกิดจากเชื้อใด",
+   "a": "S. aureus (phage group II)",
+   "w": [
+    "Group A streptococci เท่านั้น",
+    "Pseudomonas",
+    "Candida",
+    "Malassezia"
+   ],
+   "e": ""
+  },
+  {
+   "t": "MRSA",
+   "q": "การทดสอบ MRSA โดยทั่วไปใช้การไวต่อยาใดเป็นตัวบ่งชี้",
+   "a": "Oxacillin/cefoxitin",
+   "w": [
+    "Vancomycin",
+    "Penicillin G",
+    "Gentamicin",
+    "Ciprofloxacin"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Purulent SSTI",
+   "q": "การรักษาหลักของ abscess/furuncle คืออะไร",
+   "a": "Incision and drainage (I&D)",
+   "w": [
+    "ยาปฏิชีวนะรับประทานอย่างเดียวโดยไม่ระบาย",
+    "ประคบเย็นเท่านั้น",
+    "ทาครีมสเตียรอยด์",
+    "ไม่ต้องรักษา"
+   ],
+   "e": "ให้ยาปฏิชีวนะเมื่อมีอาการทางระบบ"
+  },
+  {
+   "t": "Purulent SSTI",
+   "q": "เมื่อใดควรให้ยาปฏิชีวนะร่วมกับ I&D ใน purulent SSTI",
+   "a": "เมื่อมีอาการทางระบบหรือผู้ป่วยภูมิคุ้มกันบกพร่อง",
+   "w": [
+    "ทุกรายที่มีฝีเล็ก ๆ",
+    "เมื่อไม่มีอาการใด ๆ",
+    "เมื่อฝีหายแล้ว",
+    "การฉีดยาเสพติดและการสัมผัสใกล้ชิดในที่แออัด"
+   ],
+   "e": "Mild: I&D อย่างเดียว"
+  },
+  {
+   "t": "Impetigo",
+   "q": "Nonbullous impetigo (crusted) เกิดจากเชื้อใดเป็นหลัก",
+   "a": "Staphylococcus aureus",
+   "w": [
+    "Pseudomonas aeruginosa",
+    "Clostridium tetani",
+    "Candida",
+    "Streptococcus pneumoniae เท่านั้น"
+   ],
+   "e": "ประมาณ 80% ของกรณี | รายละเอียด: Staphylococcus aureus (± group A strep)"
+  },
+  {
+   "t": "Impetigo",
+   "q": "การรักษา impetigo ที่มีรอยโรคน้อย ใช้วิธีใด",
+   "a": "Topical mupirocin 5 วัน",
+   "w": [
+    "ยา IV ทุกราย",
+    "Vancomycin รับประทาน",
+    "ไม่ต้องรักษา",
+    "Topical steroid เท่านั้น"
+   ],
+   "e": "รอยโรคมากหรือระบาด ใช้ยากินนาน 7 วัน"
+  },
+  {
+   "t": "Erysipelas",
+   "q": "ลักษณะเฉพาะของ erysipelas คืออะไร",
+   "a": "แดงสด บวม ขอบนูนและชัดเจน พบที่ขาส่วนล่าง 70–80%",
+   "w": [
+    "ขอบไม่ชัดและไม่นูน",
+    "พบที่ใบหน้า 80%",
+    "การฉีดยาเสพติดและการสัมผัสใกล้ชิดในที่แออัด",
+    "มีหนองและถุงน้ำเสมอ"
+   ],
+   "e": "ไฟลามทุ่ง"
+  },
+  {
+   "t": "Cellulitis",
+   "q": "ลักษณะ cellulitis ต่างจาก erysipelas อย่างไร",
+   "a": "ขอบไม่นูนและไม่ชัดเจน และอาจกระจายเป็นหย่อม ๆ",
+   "w": [
+    "ขอบนูนชัดและแดงสดเสมอ",
+    "พบเฉพาะที่ใบหน้า",
+    "ไม่ลึกถึงชั้นไขมัน",
+    "Beta-hemolytic streptococci และ S. aureus"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Cellulitis",
+   "q": "Blood culture ใน cellulitis ให้ผลบวกประมาณกี่เปอร์เซ็นต์",
+   "a": "ไม่เกิน 5%",
+   "w": [
+    "มากกว่า 80%",
+    "ประมาณ 50%",
+    "ประมาณ 100%",
+    "ประมาณ 30%"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Cellulitis",
+   "q": "เชื้อหลักที่ต้องครอบคลุมใน typical non-purulent cellulitis คือเชื้อใด",
+   "a": "Beta-hemolytic streptococci และ S. aureus",
+   "w": [
+    "Pseudomonas และ Acinetobacter",
+    "Candida และ Aspergillus",
+    "Clostridium tetani",
+    "การฉีดยาเสพติดและการสัมผัสใกล้ชิดในที่แออัด"
+   ],
+   "e": "ยา: penicillin, cloxacillin, cephalexin, clindamycin | รายละเอียด: Beta-hemolytic streptococci และ S. aureus (MSSA)"
+  },
+  {
+   "t": "Cellulitis",
+   "q": "ยาใดเป็นทางเลือกสำหรับ non-purulent cellulitis ที่รุนแรง (IV)",
+   "a": "Cefazolin หรือ ceftriaxone",
+   "w": [
+    "Metronidazole เดี่ยว",
+    "Amoxicillin-clavulanate",
+    "Doxycycline เดี่ยวเสมอ",
+    "Mupirocin ทา"
+   ],
+   "e": "MRSA risk: เพิ่ม vancomycin"
+  },
+  {
+   "t": "Necrotizing",
+   "q": "ข้อใดเป็นการรักษาหลักของ necrotizing fasciitis",
+   "a": "การผ่าตัดเปิดระบายและตัดเนื้อตายอย่างเร่งด่วน ร่วมกับยาปฏิชีวนะ",
+   "w": [
+    "ยาปฏิชีวนะกินอย่างเดียว",
+    "ปวดรุนแรงเกินกว่าลักษณะภายนอก มีถุงน้ำ/bullae และมีอาการทางระบบ",
+    "รอสังเกตอาการ 1 สัปดาห์",
+    "ทา mupirocin"
+   ],
+   "e": "polymicrobial; ต้อง cover aerobes/anaerobes"
+  },
+  {
+   "t": "Necrotizing",
+   "q": "อาการที่ชวนสงสัย necrotizing fasciitis คืออะไร",
+   "a": "ปวดรุนแรงเกินกว่าลักษณะภายนอก มีถุงน้ำ/bullae และมีอาการทางระบบ",
+   "w": [
+    "ผื่นคันเล็กน้อยโดยไม่มีไข้",
+    "ปวดน้อยกว่าที่ตรวจพบ",
+    "มีเฉพาะผิวหนังแห้ง",
+    "การผ่าตัดเปิดระบายและตัดเนื้อตายอย่างเร่งด่วน ร่วมกับยาปฏิชีวนะ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Bite",
+   "q": "แผลกัดจากสัตว์/คนควรให้ยาปฏิชีวนะกลุ่มใดเพื่อครอบคลุมเชื้อ aerobe และ anaerobe",
+   "a": "Amoxicillin-clavulanate",
+   "w": [
+    "Metronidazole เดี่ยว",
+    "Vancomycin เดี่ยว",
+    "Ciprofloxacin เดี่ยว",
+    "Fluconazole"
+   ],
+   "e": "preemptive 3–5 วัน"
+  },
+  {
+   "t": "Bite",
+   "q": "เมื่อถูกสุนัขกัด ผู้ที่ไม่เคยได้รับวัคซีนพิษสุนัขบ้าควรฉีดวัคซีนในวันใด",
+   "a": "วันที่ 0, 3, 7, 14 และ 28",
+   "w": [
+    "วันที่ 0 เพียงครั้งเดียว",
+    "วันที่ 0 และ 365",
+    "วันที่ 1, 2, 3",
+    "ไม่ต้องฉีด"
+   ],
+   "e": "ร่วมกับ rabies immunoglobulin ตามความเสี่ยง"
+  },
+  {
+   "t": "Diabetic foot",
+   "q": "IWGDF/IDSA classification ของ diabetic foot infection แบ่งตามอะไร",
+   "a": "ความรุนแรงของการติดเชื้อ",
+   "w": [
+    "ชนิดของน้ำตาลในเลือดเท่านั้น",
+    "ขนาดรองเท้า",
+    "อายุของผู้ป่วยเท่านั้น",
+    "จำนวนครั้งที่ล้างแผล"
+   ],
+   "e": "mild: erythema < 2 cm | รายละเอียด: ความรุนแรงของการติดเชื้อ (none, mild, moderate, severe)"
+  },
+  {
+   "t": "Diabetic foot",
+   "q": "ยาที่เป็นทางเลือก empiric สำหรับ mild diabetic foot infection ที่ไม่มีปัจจัยซับซ้อนคือข้อใด",
+   "a": "Cloxacillin หรือ cephalexin หรือ clindamycin",
+   "w": [
+    "Meropenem ทุกราย",
+    "ขอบไม่นูนและไม่ชัดเจน และอาจกระจายเป็นหย่อม ๆ",
+    "Amphotericin B",
+    "Metronidazole เดี่ยว"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Purulent SSTI",
+   "q": "Folliculitis ส่วนใหญ่เกิดจากเชื้อใด",
+   "a": "Staphylococcus aureus",
+   "w": [
+    "Streptococcus pneumoniae",
+    "Escherichia coli",
+    "Clostridium difficile",
+    "Neisseria gonorrhoeae"
+   ],
+   "e": "Abscess: S. aureus ± gram-negative"
+  }
+ ]
+}

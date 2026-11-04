@@ -1,0 +1,248 @@
+{
+ "id": "tp06",
+ "no": 6,
+ "title": "Targeted therapy, Immunotherapy และ Hormonal therapy",
+ "file": "",
+ "questions": [
+  {
+   "t": "Targeted",
+   "q": "ข้อใดเป็นลักษณะของ targeted therapy ที่ต่างจากเคมีบำบัดทั่วไป",
+   "a": "ออกฤทธิ์จำเพาะต่อโมเลกุลเป้าหมาย และมัก cytostatic",
+   "w": [
+    "ออกฤทธิ์ต่อเซลล์ที่แบ่งตัวเร็วทุกชนิดเหมือนกัน",
+    "ไม่ต้องตรวจ biomarker ก่อนใช้",
+    "ทำลายเซลล์โดยตรงเสมอ",
+    "ใช้ได้กับมะเร็งทุกชนิดเหมือนกัน"
+   ],
+   "e": "ต้องตรวจ biomarker"
+  },
+  {
+   "t": "EGFR",
+   "q": "Cetuximab และ panitumumab ต่างจาก osimertinib และ gefitinib อย่างไร",
+   "a": "เป็น mAb จับ EGFR นอกเซลล์ ; ส่วน TKI ยับยั้งที่ ATP-binding site",
+   "w": [
+    "เป็น TKI ; ส่วนอีกกลุ่มเป็น mAb",
+    "เลี่ยงแสงแดด กันแดด SPF > 30 + hydrocortisone 1% + doxycycline",
+    "ทั้งสองกลุ่มเป็นเคมีบำบัดแบบ alkylating",
+    "เป็น mAb ที่จับ VEGF"
+   ],
+   "e": ""
+  },
+  {
+   "t": "EGFR",
+   "q": "การกลายพันธุ์ KRAS/NRAS มีผลต่อการใช้ anti-EGFR mAb อย่างไร",
+   "a": "ไม่ตอบสนองต่อ cetuximab/panitumumab",
+   "w": [
+    "ตอบสนองดีขึ้นอย่างชัดเจน",
+    "ผื่น acneiform (papulopustular)",
+    "ทำให้พิษเฉพาะเพิ่มขึ้นเท่านั้น",
+    "ต้องเพิ่มขนาดยาเป็นสองเท่า"
+   ],
+   "e": "ต้องตรวจ RAS ก่อนใช้"
+  },
+  {
+   "t": "EGFR",
+   "q": "ผลข้างเคียงที่เป็นเครื่องหมายของ anti-EGFR คืออะไร",
+   "a": "ผื่น acneiform (papulopustular)",
+   "w": [
+    "ผมร่วงทั้งศีรษะ",
+    "ผื่นหนาที่ฝ่ามือฝ่าเท้าเท่านั้น",
+    "ตับอักเสบรุนแรง",
+    "หัวใจเต้นผิดจังหวะ"
+   ],
+   "e": "และ hypomagnesemia ใน mAbs"
+  },
+  {
+   "t": "EGFR",
+   "q": "การป้องกันผื่นจาก anti-EGFR ทำอย่างไร",
+   "a": "เลี่ยงแสงแดด กันแดด SPF > 30 + hydrocortisone 1% + doxycycline",
+   "w": [
+    "ทาน้ำมันตลอดวัน",
+    "เป็น mAb จับ EGFR นอกเซลล์ ; ส่วน TKI ยับยั้งที่ ATP-binding site",
+    "ใช้ยาปฏิชีวนะเฉพาะหลังเกิดผื่น",
+    "ไม่ต้องป้องกันใด ๆ"
+   ],
+   "e": "ให้ใน 6 สัปดาห์แรก"
+  },
+  {
+   "t": "VEGF",
+   "q": "การจัดการผลข้างเคียงของ anti-VEGF ข้อใดถูกต้อง",
+   "a": "ความดันโลหิตสูงรักษาด้วย CCB หรือ ACEI และติดตาม proteinuria",
+   "w": [
+    "เลี่ยงแสงแดด กันแดด SPF > 30 + hydrocortisone 1% + doxycycline",
+    "หยุดยา 1 วันก่อนผ่าตัด",
+    "ไม่ต้องติดตามปัสสาวะ",
+    "ให้ยาขับปัสสาวะขนาดสูงทุกครั้ง"
+   ],
+   "e": "หยุดก่อนผ่าตัด 4 สัปดาห์ เริ่มใหม่ 6 สัปดาห์หลังผ่าตัด"
+  },
+  {
+   "t": "HER2",
+   "q": "ข้อกังวลหลักของ trastuzumab คืออะไร",
+   "a": "Cardiotoxicity",
+   "w": [
+    "Hand-foot syndrome",
+    "Hemorrhagic cystitis",
+    "Ototoxicity",
+    "Peripheral neuropathy"
+   ],
+   "e": "สูงขึ้นเมื่อให้พร้อม anthracycline | รายละเอียด: Cardiotoxicity (ลดลงของ LVEF)"
+  },
+  {
+   "t": "HER2",
+   "q": "การติดตามการทำงานของหัวใจในผู้ที่ได้ trastuzumab ควรทำอย่างไร",
+   "a": "ตรวจ LVEF ทุก 3 เดือน",
+   "w": [
+    "ตรวจทุก 5 ปี",
+    "ไม่ต้องตรวจ",
+    "ตรวจเฉพาะเมื่อเสียชีวิต",
+    "ตรวจทุกวันตลอดการรักษา"
+   ],
+   "e": "LVEF < 40% ให้หยุดยา"
+  },
+  {
+   "t": "Cardiotoxicity",
+   "q": "Type I cardiotoxicity (anthracycline) ต่างจาก Type II (trastuzumab) อย่างไร",
+   "a": "Type I กลับคืนไม่ได้และขึ้นกับขนาดสะสม ; Type II มักกลับคืนได้",
+   "w": [
+    "Type I กลับคืนได้เสมอ ; Type II ขึ้นกับขนาดสะสม",
+    "ออกฤทธิ์จำเพาะต่อโมเลกุลเป้าหมาย และมัก cytostatic",
+    "เป็น mAb จับ EGFR นอกเซลล์ ; ส่วน TKI ยับยั้งที่ ATP-binding site",
+    "Type II เกิดเฉพาะในผู้สูงอายุ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "BRAF",
+   "q": "การใช้ BRAF inhibitor ควรทำอย่างไรเพื่อลด paradoxical MAPK activation",
+   "a": "ใช้ร่วมกับ MEK inhibitor",
+   "w": [
+    "ใช้ BRAF inhibitor ขนาดสูงเดี่ยว",
+    "ใช้ร่วมกับ anti-EGFR",
+    "หยุดยาเมื่อเริ่มได้ผล",
+    "ใช้ร่วมกับ alkylating agent"
+   ],
+   "e": "เช่น dabrafenib + trametinib"
+  },
+  {
+   "t": "PI3K",
+   "q": "ข้อควรติดตามที่สำคัญของ alpelisib คืออะไร",
+   "a": "ภาวะน้ำตาลในเลือดสูง",
+   "w": [
+    "CYP2D6 ได้ endoxifen",
+    "ภาวะเกล็ดเลือดสูง",
+    "ภาวะโพแทสเซียมสูง",
+    "ผลข้างเคียงทางตา"
+   ],
+   "e": "ต้องมี PIK3CA mutation | รายละเอียด: ภาวะน้ำตาลในเลือดสูง (FBG, HbA1c)"
+  },
+  {
+   "t": "BCL2",
+   "q": "Venetoclax มีความเสี่ยงสำคัญที่ต้องป้องกันคืออะไร",
+   "a": "Tumor lysis syndrome",
+   "w": [
+    "Hand-foot syndrome",
+    "Hemorrhagic cystitis",
+    "Cardiotoxicity",
+    "Irreversible hearing loss"
+   ],
+   "e": "รายละเอียด: Tumor lysis syndrome (hydration, allopurinol/rasburicase, dose ramp-up)"
+  },
+  {
+   "t": "PARP",
+   "q": "PARP inhibitor ออกฤทธิ์ด้วยกลไกใดในเซลล์ที่มี BRCA กลายพันธุ์",
+   "a": "Synthetic lethality",
+   "w": [
+    "Topoisomerase I inhibition",
+    "Microtubule stabilization",
+    "Folate antagonism",
+    "Alkylation ที่ N7 ของ guanine"
+   ],
+   "e": "BRCA1/2 ซ่อม double-strand break ไม่ได้"
+  },
+  {
+   "t": "Anti-CD20",
+   "q": "Rituximab จับกับเป้าหมายใดและทำลายเซลล์อย่างไร",
+   "a": "CD20 บน B cell ผ่าน ADCC และ CDC",
+   "w": [
+    "CD3 บน T cell ผ่าน alkylation",
+    "PD-1 ผ่านการปิดกั้น checkpoint",
+    "VEGF ผ่าน angiogenesis",
+    "HER2 ผ่านการยับยั้ง kinase"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Immunotherapy",
+   "q": "Pembrolizumab และ nivolumab ออกฤทธิ์อย่างไร",
+   "a": "ปิดกั้น PD-1 บน T cell ไม่ให้จับ PD-L1",
+   "w": [
+    "ปิดกั้น CTLA-4 ในต่อมน้ำเหลือง",
+    "ผื่น acneiform (papulopustular)",
+    "ไม่ตอบสนองต่อ cetuximab/panitumumab",
+    "ยับยั้ง PARP"
+   ],
+   "e": "ipilimumab = anti-CTLA-4"
+  },
+  {
+   "t": "Immunotherapy",
+   "q": "การจัดการ irAE เกรด 2 ของ ICI คืออะไร",
+   "a": "พักยา ICI และเริ่ม systemic corticosteroid",
+   "w": [
+    "ให้ ICI ต่อทันทีโดยไม่ให้ steroid",
+    "หยุดยาถาวรและห้ามให้ steroid",
+    "ปิดกั้น PD-1 บน T cell ไม่ให้จับ PD-L1",
+    "เพิ่มขนาด ICI เป็นสองเท่า"
+   ],
+   "e": "เกรด 3–4 หยุดถาวร + high-dose steroid"
+  },
+  {
+   "t": "Immunotherapy",
+   "q": "Cytokine release syndrome (CRS) รักษาด้วยยาใด",
+   "a": "Tocilizumab",
+   "w": [
+    "Cisplatin",
+    "Allopurinol",
+    "Tamoxifen",
+    "Mesna"
+   ],
+   "e": "ICANS รักษาด้วย corticosteroids"
+  },
+  {
+   "t": "Hormonal",
+   "q": "Tamoxifen เป็นยาที่ถูกเปลี่ยนเป็นเมแทบอไลต์ออกฤทธิ์ผ่านเอนไซม์ใด",
+   "a": "CYP2D6 ได้ endoxifen",
+   "w": [
+    "CYP3A4 ได้ SN-38",
+    "CYP2C9 ได้ acrolein",
+    "UGT1A1 ได้ FdUMP",
+    "CYP1A2 ได้ Ara-CTP"
+   ],
+   "e": "หลีกเลี่ยง strong CYP2D6 inhibitors"
+  },
+  {
+   "t": "Hormonal",
+   "q": "ผลข้างเคียงใดพบมากกับ tamoxifen เมื่อเทียบกับ AIs",
+   "a": "Hot flashes และความเสี่ยง venous thromboembolism",
+   "w": [
+    "Hypercholesterolemia และ arthralgia เด่นกว่า",
+    "Vaginal dryness เด่นกว่า AIs",
+    "ไม่มีผลข้างเคียงทั้งสิ้น",
+    "กระดูกพรุนเด่นกว่า AIs"
+   ],
+   "e": "AIs: arthralgia, bone loss, vaginal dryness"
+  },
+  {
+   "t": "Hormonal",
+   "q": "GnRH agonist ในมะเร็งต่อมลูกหมากทำให้เกิด tumor flare ได้อย่างไรและป้องกันอย่างไร",
+   "a": "กระตุ้นฮอร์โมนช่วง 1–2 สัปดาห์แรก ป้องกันด้วย anti-androgen ≥ 7 วัน",
+   "w": [
+    "Type I กลับคืนไม่ได้และขึ้นกับขนาดสะสม ; Type II มักกลับคืนได้",
+    "ป้องกันด้วย GnRH antagonist ในวันที่ 30",
+    "ป้องกันด้วย steroid ขนาดสูงตลอดการรักษา",
+    "Hot flashes และความเสี่ยง venous thromboembolism"
+   ],
+   "e": "flutamide, bicalutamide, nilutamide"
+  }
+ ]
+}

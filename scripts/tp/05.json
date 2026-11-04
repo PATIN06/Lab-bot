@@ -1,0 +1,248 @@
+{
+ "id": "tp05",
+ "no": 5,
+ "title": "Anti-neoplastic agents",
+ "file": "",
+ "questions": [
+  {
+   "t": "Alkylating",
+   "q": "Alkylating agents จับกับ DNA ที่ตำแหน่งใดเป็นหลัก",
+   "a": "N7 ของ guanine",
+   "w": [
+    "N3 ของ cytosine",
+    "C5 ของ thymine",
+    "O2 ของ uracil",
+    "N1 ของ adenine เท่านั้น"
+   ],
+   "e": "ทำให้เกิด DNA cross-linking"
+  },
+  {
+   "t": "Alkylating",
+   "q": "Cyclophosphamide และ ifosfamide ต่างจากยาอื่นอย่างไรในแง่การออกฤทธิ์",
+   "a": "เป็น prodrug ที่ต้องถูกกระตุ้นโดยเมแทบอลิซึม",
+   "w": [
+    "ออกฤทธิ์ได้ทันทีโดยไม่ต้องกระตุ้น",
+    "Myelosuppression โดยเฉพาะ neutropenia",
+    "ความเย็น (cold-induced) และกลับคืนได้",
+    "ถูกกระตุ้นเฉพาะในเซลล์ปกติ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Alkylating",
+   "q": "ข้อใดเป็น dose-limiting toxicity ของ cyclophosphamide",
+   "a": "Myelosuppression โดยเฉพาะ neutropenia",
+   "w": [
+    "ความเย็น (cold-induced) และกลับคืนได้",
+    "Peripheral neuropathy",
+    "Hand-foot syndrome",
+    "Pulmonary fibrosis"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Alkylating",
+   "q": "Mesna ออกฤทธิ์ป้องกัน hemorrhagic cystitis ด้วยกลไกใด",
+   "a": "หมู่ sulfhydryl จับ acrolein เป็นสารที่ไม่เป็นพิษ",
+   "w": [
+    "ยับยั้งการสร้าง acrolein ในตับ",
+    "เพิ่ม pH ของปัสสาวะ",
+    "ขยายหลอดเลือดที่กระเพาะปัสสาวะ",
+    "เป็น prodrug ที่ต้องถูกกระตุ้นโดยเมแทบอลิซึม"
+   ],
+   "e": "ให้ 60% ของขนาด ifosfamide แบ่ง 3 ครั้ง"
+  },
+  {
+   "t": "Alkylating",
+   "q": "Cyclophosphamide ขนาดมากกว่าเท่าใดจึงควรพิจารณา mesna",
+   "a": "มากกว่า 1.0 g/m²",
+   "w": [
+    "มากกว่า 10 mg/m²",
+    "มากกว่า 100 mg/m²",
+    "มากกว่า 20 g/m²",
+    "ทุกขนาดไม่ต้องให้"
+   ],
+   "e": "ifosfamide ต้องให้ทุกขนาด"
+  },
+  {
+   "t": "Platinum",
+   "q": "ขนาดยา carboplatin คำนวณด้วยสูตรใด",
+   "a": "Calvert formula: Dose = target AUC ×",
+   "w": [
+    "BSA × 100 mg/m²",
+    "น้ำหนักตัว × 5 mg/kg",
+    "ความเย็น (cold-induced) และกลับคืนได้",
+    "AUC ÷ (GFR + 25)"
+   ],
+   "e": "GFR สูงสุด 125 mL/min | รายละเอียด: Calvert formula: Dose = target AUC × (GFR + 25)"
+  },
+  {
+   "t": "Platinum",
+   "q": "อาการ peripheral neuropathy ระยะเฉียบพลันของ oxaliplatin กระตุ้นโดยอะไร",
+   "a": "ความเย็น (cold-induced) และกลับคืนได้",
+   "w": [
+    "ความร้อนและกลับคืนไม่ได้",
+    "การออกกำลังกายหนัก",
+    "Calvert formula: Dose = target AUC ×",
+    "อาหารเผ็ด"
+   ],
+   "e": "แนะนำเลี่ยงของเย็นนานกว่า 30 วัน"
+  },
+  {
+   "t": "Antimetabolite",
+   "q": "Methotrexate ยับยั้งเอนไซม์ใด",
+   "a": "Dihydrofolate reductase",
+   "w": [
+    "Thymidylate synthase",
+    "Topoisomerase I",
+    "RNA polymerase",
+    "Tubulin"
+   ],
+   "e": "ลด THF จึงลดการสร้าง purine และ thymidine | รายละเอียด: Dihydrofolate reductase (DHFR)"
+  },
+  {
+   "t": "Antimetabolite",
+   "q": "Leucovorin rescue ใน high-dose MTX ใช้เพื่ออะไร",
+   "a": "ให้ reduced folate ช่วยเซลล์ปกติผ่านการยับยั้ง DHFR",
+   "w": [
+    "เพิ่มความเป็นพิษของ MTX ต่อมะเร็ง",
+    "Cerebellar toxicity และ conjunctivitis",
+    "1,250 mg/m² BID 14 วัน ; hand-foot skin reaction",
+    "ใช้แทนการให้สารน้ำทั้งหมด"
+   ],
+   "e": "MTX > 500 mg/m²"
+  },
+  {
+   "t": "Antimetabolite",
+   "q": "เป้าหมายการดูแลเพื่อป้องกันพิษจาก high-dose MTX คือข้อใด",
+   "a": "ให้สารน้ำ ทำปัสสาวะเป็นด่าง pH > 7 และติดตามระดับยา",
+   "w": [
+    "งดน้ำและทำปัสสาวะเป็นกรด",
+    "ให้ยา nephrotoxic ร่วมเพื่อเสริมฤทธิ์",
+    "1,250 mg/m² BID 14 วัน ; hand-foot skin reaction",
+    "ให้ยาขับปัสสาวะขนาดสูงเท่านั้น"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Antimetabolite",
+   "q": "5-FU ออกฤทธิ์ผ่านเมแทบอไลต์ใดและยับยั้งเอนไซม์ใด",
+   "a": "FdUMP ยับยั้ง thymidylate synthase",
+   "w": [
+    "FdUMP ยับยั้ง DHFR",
+    "Ara-CTP ยับยั้ง topoisomerase",
+    "SN-38 ยับยั้ง tubulin",
+    "Acrolein ยับยั้ง RNA polymerase"
+   ],
+   "e": "leucovorin เสริมการจับของ FdUMP กับ TS"
+  },
+  {
+   "t": "Antimetabolite",
+   "q": "Capecitabine ขนาดปกติและอาการข้างเคียงเฉพาะคืออะไร",
+   "a": "1,250 mg/m² BID 14 วัน ; hand-foot skin reaction",
+   "w": [
+    "FdUMP ยับยั้ง thymidylate synthase",
+    "12,500 mg/m² BID ; hemorrhagic cystitis",
+    "Cerebellar toxicity และ conjunctivitis",
+    "50 mg/m² QD ; pulmonary fibrosis"
+   ],
+   "e": "onset เฉลี่ย 2–4 สัปดาห์"
+  },
+  {
+   "t": "Antimetabolite",
+   "q": "พิษเฉพาะของ high-dose cytarabine (> 1 g/m²) คืออะไร",
+   "a": "Cerebellar toxicity และ conjunctivitis",
+   "w": [
+    "Hemorrhagic cystitis",
+    "Cardiomyopathy",
+    "Pulmonary fibrosis",
+    "FdUMP ยับยั้ง thymidylate synthase"
+   ],
+   "e": "รายละเอียด: Cerebellar toxicity และ conjunctivitis (ให้ steroid eye drop)"
+  },
+  {
+   "t": "Microtubule",
+   "q": "Vinca alkaloids ออกฤทธิ์ต่อ microtubule อย่างไร",
+   "a": "ยับยั้งการ polymerization ของ tubulin",
+   "w": [
+    "ทำให้ microtubule เสถียรไม่สลายตัว",
+    "ตัดสาย DNA สองสาย",
+    "ยับยั้ง DHFR",
+    "จับ DNA ที่ N7 ของ guanine"
+   ],
+   "e": "taxanes ทำให้ microtubule เสถียร"
+  },
+  {
+   "t": "Microtubule",
+   "q": "Dose-limiting toxicity ของ vincristine คืออะไร",
+   "a": "Peripheral neuropathy",
+   "w": [
+    "Myelosuppression รุนแรง",
+    "Cardiotoxicity",
+    "Hemorrhagic cystitis",
+    "Nephrotoxicity"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Microtubule",
+   "q": "Docetaxel premedication ใช้ dexamethasone ขนาดและระยะเวลาใด",
+   "a": "8 mg PO BID เป็นเวลา 3 วัน เพื่อลด fluid retention",
+   "w": [
+    "8 mg ครั้งเดียวหลังให้ยา",
+    "Myelosuppression โดยเฉพาะ neutropenia",
+    "ยับยั้งการ polymerization ของ tubulin",
+    "1 mg ทุก 6 ชั่วโมง 30 วัน"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Anthracyclines",
+   "q": "พิษสะสมที่สำคัญของ doxorubicin คืออะไร",
+   "a": "Cardiotoxicity ที่ขึ้นกับ cumulative dose",
+   "w": [
+    "Hand-foot syndrome",
+    "Cerebellar toxicity",
+    "Hemorrhagic cystitis",
+    "ความเย็น (cold-induced) และกลับคืนได้"
+   ],
+   "e": "ป้องกันด้วย dexrazoxane หรือ liposomal form"
+  },
+  {
+   "t": "Anthracyclines",
+   "q": "Dexrazoxane ป้องกันพิษหัวใจจากแอนทราไซคลินด้วยกลไกใด",
+   "a": "จับ divalent ions (chelator) ป้องกันการเกิด free radical",
+   "w": [
+    "เพิ่มการทำงานของ topoisomerase II",
+    "Cardiotoxicity ที่ขึ้นกับ cumulative dose",
+    "เปลี่ยนยาเป็นเมแทบอไลต์ที่ไม่ออกฤทธิ์",
+    "เป็น prodrug ที่ต้องถูกกระตุ้นโดยเมแทบอลิซึม"
+   ],
+   "e": "ใช้เมื่อ cumulative dose ~ 300 mg/m²"
+  },
+  {
+   "t": "Topoisomerase",
+   "q": "Irinotecan ยับยั้งเอนไซม์ใดและมีพิษเด่นอะไร",
+   "a": "Topoisomerase I ; diarrhea",
+   "w": [
+    "Topoisomerase II ; neuropathy",
+    "DHFR ; mucositis",
+    "Tubulin ; cardiotoxicity",
+    "Thymidylate synthase ; ototoxicity"
+   ],
+   "e": "UGT1A1*28 เสี่ยงพิษมากขึ้น"
+  },
+  {
+   "t": "Topoisomerase",
+   "q": "Acute diarrhea จาก irinotecan (< 24 ชม.) รักษาอย่างไร",
+   "a": "Atropine 0.25 mg SC/IV",
+   "w": [
+    "Loperamide ขนาดสูงทันที",
+    "Octreotide อย่างเดียว",
+    "ไม่ต้องรักษา",
+    "ให้ยาปฏิชีวนะเสมอ"
+   ],
+   "e": "delayed diarrhea ใช้ loperamide 4 mg then 2 mg q 4–6 hr"
+  }
+ ]
+}

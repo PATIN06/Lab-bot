@@ -1,0 +1,248 @@
+{
+ "id": "tp01",
+ "no": 1,
+ "title": "GU: Erectile dysfunction, BPH และ Urinary incontinence",
+ "file": "",
+ "questions": [
+  {
+   "t": "ED",
+   "q": "ผู้ป่วยที่ใช้ nitrate ร่วมกับ PDE-5 inhibitor เสี่ยงเกิดอะไรรุนแรง",
+   "a": "ความดันโลหิตต่ำรุนแรงถึงเสียชีวิต",
+   "w": [
+    "หัวใจเต้นช้าจนหยุดเต้นทันที",
+    "ตับอักเสบเฉียบพลันจากยา",
+    "ความดันโลหิตสูงวิกฤตเฉียบพลัน",
+    "น้ำตาลในเลือดต่ำรุนแรง"
+   ],
+   "e": "Nitrate + PDE5i = contraindicated"
+  },
+  {
+   "t": "ED",
+   "q": "หลังรับประทาน tadalafil ควรเว้นการใช้ nitrate อย่างน้อยกี่ชั่วโมง",
+   "a": "48 ชั่วโมง",
+   "w": [
+    "12 ชั่วโมง",
+    "24 ชั่วโมง",
+    "6 ชั่วโมง",
+    "72 ชั่วโมง"
+   ],
+   "e": "sildenafil/vardenafil 24 h, avanafil 12 h"
+  },
+  {
+   "t": "ED",
+   "q": "อาการปวดหลังและปวดกล้ามเนื้อจาก tadalafil เกิดจากการยับยั้ง PDE ชนิดใด",
+   "a": "PDE-11",
+   "w": [
+    "60 mcg",
+    "PDE-3",
+    "PDE-4",
+    "PDE-9"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ED",
+   "q": "อาการมองเห็นสีเขียวแกมน้ำเงินจาก sildenafil/vardenafil เกิดจากการยับยั้ง PDE ชนิดใด",
+   "a": "PDE-6",
+   "w": [
+    "PDE-11",
+    "PDE-5",
+    "PDE-3",
+    "PDE-1"
+   ],
+   "e": "รวมถึงเสี่ยง NAION"
+  },
+  {
+   "t": "ED",
+   "q": "ภาวะ priapism ตามนิยามคือการแข็งตัวนานเกินกี่ชั่วโมงโดยไม่สัมพันธ์กับกิจกรรมทางเพศ",
+   "a": "เกิน 4 ชั่วโมง",
+   "w": [
+    "เกิน 30 นาที",
+    "เกิน 1 ชั่วโมง",
+    "เกิน 12 ชั่วโมง",
+    "เกิน 24 ชั่วโมง"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ED",
+   "q": "PDE-5 inhibitor ตัวใดควรระวังเรื่อง QT prolongation",
+   "a": "Vardenafil",
+   "w": [
+    "Tadalafil",
+    "Avanafil",
+    "ไม่มีตัวใดเลย",
+    "Sildenafil ทุกขนาด"
+   ],
+   "e": "หลีกเลี่ยงร่วมกับ Class IA/III antiarrhythmics"
+  },
+  {
+   "t": "ED",
+   "q": "ยากลุ่ม PDE-5 inhibitor ตัวใดควรรับประทานตอนท้องว่าง (≥ 2 ชั่วโมงก่อนมื้ออาหาร)",
+   "a": "Sildenafil และ vardenafil",
+   "w": [
+    "Tadalafil และ avanafil",
+    "Tadalafil และ vardenafil",
+    "Avanafil และ sildenafil",
+    "ทุกตัวไม่ขึ้นกับอาหาร"
+   ],
+   "e": "อาหารไขมันสูงทำให้การออกฤทธิ์ช้าลง"
+  },
+  {
+   "t": "ED",
+   "q": "ก่อนสรุปว่า PDE-5 inhibitor ไม่ได้ผล ควรลองอย่างน้อยกี่ครั้ง",
+   "a": "5–8 ครั้งที่ขนาดและจังหวะที่เหมาะสม",
+   "w": [
+    "1 ครั้งก็เพียงพอ",
+    "2 ครั้งติดต่อกัน",
+    "ความดันโลหิตต่ำรุนแรงถึงเสียชีวิต",
+    "Sildenafil และ vardenafil"
+   ],
+   "e": "ต้องมี sexual stimulation ร่วมด้วย"
+  },
+  {
+   "t": "ED",
+   "q": "Testosterone replacement ใน ED ควรใช้ในผู้ป่วยกลุ่มใด",
+   "a": "ผู้ป่วยที่มี symptomatic hypogonadism ยืนยันด้วยระดับ testosterone ต่ำ",
+   "w": [
+    "การวินิจฉัยทางพยาธิ (histologic) ที่ prostatic transition zone",
+    "ผู้ที่ระดับ testosterone ปกติ",
+    "ผู้ที่มีมะเร็งต่อมลูกหมาก",
+    "ผู้ที่ใช้ nitrate อยู่ทุกราย"
+   ],
+   "e": "ระดับ < 230–350 ng/dL (เช้า)"
+  },
+  {
+   "t": "ED",
+   "q": "Intraurethral alprostadil ขนาดที่ผู้ป่วยส่วนใหญ่ต้องใช้คือเท่าใด",
+   "a": "500 mcg",
+   "w": [
+    "50 mcg",
+    "125 mcg",
+    "1,500 mcg",
+    "20 mcg"
+   ],
+   "e": "ช่วง 125–1,000 mcg"
+  },
+  {
+   "t": "ED",
+   "q": "Intracavernosal alprostadil ขนาดสูงสุดที่แนะนำคือเท่าใด",
+   "a": "60 mcg",
+   "w": [
+    "10 mcg",
+    "20 mcg",
+    "100 mcg",
+    "500 mcg"
+   ],
+   "e": "ADR: priapism, fibrosis, ปวดองคชาต"
+  },
+  {
+   "t": "ED",
+   "q": "Vacuum constriction device: constriction ring ควรถอดภายในกี่นาที",
+   "a": "30 นาที",
+   "w": [
+    "5 นาที",
+    "10 นาที",
+    "60 นาที",
+    "120 นาที"
+   ],
+   "e": "ข้อห้าม: bleeding disorders และ anticoagulant"
+  },
+  {
+   "t": "BPH",
+   "q": "BPH เป็นการวินิจฉัยทางใด และเกิดการเพิ่มจำนวนของเซลล์ในบริเวณใด",
+   "a": "การวินิจฉัยทางพยาธิ (histologic) ที่ prostatic transition zone",
+   "w": [
+    "การวินิจฉัยจากค่า PSA เท่านั้นที่ peripheral zone",
+    "การวินิจฉัยจากอาการ LUTS เท่านั้นที่ central zone",
+    "Beta-3 agonist ผ่อนคลาย detrusor ช่วงเก็บปัสสาวะ",
+    "การวินิจฉัยจาก uroflowmetry ที่ bladder neck"
+   ],
+   "e": ""
+  },
+  {
+   "t": "BPH",
+   "q": "ค่า post-void residual (PVR) ที่บ่งชี้ว่าอาการ BPH แย่ลงอย่างต่อเนื่องคือเท่าใด",
+   "a": "มากกว่า 100 mL",
+   "w": [
+    "มากกว่า 5 mL",
+    "มากกว่า 10 mL",
+    "น้อยกว่า 25 mL",
+    "น้อยกว่า 10 mL"
+   ],
+   "e": "> 25 mL = ระบายปัสสาวะไม่หมด"
+  },
+  {
+   "t": "BPH",
+   "q": "ยากลุ่มใดเป็นทางเลือกแรกสำหรับผู้ป่วย BPH ที่มี LUTS ปานกลางถึงรุนแรง",
+   "a": "Alpha-1 blockers",
+   "w": [
+    "5-alpha reductase inhibitors",
+    "Antimuscarinics",
+    "Beta-3 agonists",
+    "Anticholinergics ขนาดสูง"
+   ],
+   "e": ""
+  },
+  {
+   "t": "BPH",
+   "q": "Intraoperative floppy iris syndrome (IFIS) สัมพันธ์กับยากลุ่มใด",
+   "a": "Alpha-1 antagonists โดยเฉพาะ tamsulosin",
+   "w": [
+    "5-alpha reductase inhibitors",
+    "PDE-5 inhibitors",
+    "Pseudoephedrine และ anticholinergics",
+    "Beta-3 agonists"
+   ],
+   "e": "แจ้งจักษุแพทย์หากวางแผนผ่าตัดต้อกระจก"
+  },
+  {
+   "t": "BPH",
+   "q": "5-ARI ควรใช้เป็น monotherapy เมื่อปริมาตรต่อมลูกหมากมากกว่าเท่าใด",
+   "a": "มากกว่า 40 mL",
+   "w": [
+    "มากกว่า 10 mL",
+    "มากกว่า 15 mL",
+    "มากกว่า 100 mL",
+    "น้อยกว่า 20 mL"
+   ],
+   "e": "ใช้ร่วมกับ alpha blocker เมื่อ > 30 mL"
+  },
+  {
+   "t": "BPH",
+   "q": "ยาหรือสารใดที่ควรหลีกเลี่ยงในผู้ป่วย BPH เพราะทำให้อาการแย่ลง",
+   "a": "Pseudoephedrine และ anticholinergics",
+   "w": [
+    "Tamsulosin และ doxazosin",
+    "Finasteride และ dutasteride",
+    "Tadalafil 5 mg รายวัน",
+    "ความดันโลหิตต่ำรุนแรงถึงเสียชีวิต"
+   ],
+   "e": ""
+  },
+  {
+   "t": "UI",
+   "q": "Urge incontinence ที่พบบ่อยที่สุดมีสาเหตุจากอะไร",
+   "a": "Detrusor overactivity",
+   "w": [
+    "Urethral sphincter อ่อนแรง",
+    "Bladder outlet obstruction",
+    "ข้อจำกัดทางกายภาพในการไปห้องน้ำ",
+    "การคั่งของปัสสาวะจากเส้นประสาทเสียหาย"
+   ],
+   "e": "SUI = urethral underactivity; overflow = bladder underactivity | รายละเอียด: Detrusor overactivity (กล้ามเนื้อ detrusor หดตัวมากเกิน)"
+  },
+  {
+   "t": "UI",
+   "q": "Mirabegron ออกฤทธิ์ด้วยกลไกใด",
+   "a": "Beta-3 agonist ผ่อนคลาย detrusor ช่วงเก็บปัสสาวะ",
+   "w": [
+    "Alpha-1 agonist เพิ่มแรงต้านท่อปัสสาวะ",
+    "ยับยั้ง M3 receptor ที่ detrusor",
+    "5–8 ครั้งที่ขนาดและจังหวะที่เหมาะสม",
+    "Pseudoephedrine และ anticholinergics"
+   ],
+   "e": "CrCl 15–29 mL/min ขนาดสูงสุด 25 mg OD"
+  }
+ ]
+}

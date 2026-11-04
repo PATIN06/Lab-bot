@@ -1,0 +1,248 @@
+{
+ "id": "tp12",
+ "no": 12,
+ "title": "SLE และ Lupus nephritis",
+ "file": "",
+ "questions": [
+  {
+   "t": "ภาพรวม",
+   "q": "อาการทั่วไปที่พบมากที่สุดของผู้ป่วย SLE คืออะไร",
+   "a": "อ่อนเพลีย (fatigue) พบมากกว่า 80%",
+   "w": [
+    "ตาเหลืองตัวเหลือง",
+    "ปวดศีรษะไมเกรนเท่านั้น",
+    "5 mg/kg ของน้ำหนักตัวจริงต่อวัน",
+    "ท้องเสียเรื้อรังเท่านั้น"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ภาพรวม",
+   "q": "ผื่นลักษณะเฉพาะของ SLE คืออะไร",
+   "a": "Malar rash (butterfly rash) ไวต่อแสง",
+   "w": [
+    "ผื่นที่ฝ่ามือฝ่าเท้าเท่านั้น",
+    "ผื่นตุ่มน้ำใสทั่วตัว",
+    "อ่อนเพลีย (fatigue) พบมากกว่า 80%",
+    "ผื่นจากยาเท่านั้น"
+   ],
+   "e": ""
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "เกณฑ์จำแนกโรค SLE ปัจจุบันที่ใช้คือข้อใด",
+   "a": "2019 EULAR/ACR classification criteria",
+   "w": [
+    "2005 WHO criteria",
+    "500 mg IV ทุก 2 สัปดาห์ รวม 6 ครั้ง",
+    "5 mg/kg ของน้ำหนักตัวจริงต่อวัน",
+    "2012 KDIGO"
+   ],
+   "e": "SLICC 2012 มี 17 criteria"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "ACR criteria เดิมต้องมีกี่ข้อจาก 11 ข้อ",
+   "a": "อย่างน้อย 4 ข้อ",
+   "w": [
+    "อย่างน้อย 1 ข้อ",
+    "อย่างน้อย 8 ข้อ",
+    "ครบทั้ง 11 ข้อ",
+    "ไม่ต้องมีข้อใด"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Serology",
+   "q": "แอนติบอดีใดจำเพาะสูงต่อ SLE และสัมพันธ์กับ lupus nephritis",
+   "a": "Anti-dsDNA",
+   "w": [
+    "Anti-histone เป็นหลัก",
+    "Rheumatoid factor",
+    "Anti-CCP",
+    "Anti-TPO"
+   ],
+   "e": "Anti-Sm จำเพาะต่อ SLE; anti-histone พบใน DIL"
+  },
+  {
+   "t": "เป้าหมาย",
+   "q": "เป้าหมายของการรักษา SLE คืออะไร",
+   "a": "ควบคุมความรุนแรงของโรค ป้องกันอวัยวะเสียหาย และให้โรคสงบหรือ low disease activity",
+   "w": [
+    "หยุดยาทุกชนิดภายใน 1 เดือน",
+    "เพิ่มขนาด steroid ตลอดการรักษา",
+    "ช่วงการรักษาแคบ (narrow therapeutic index) และต้องติดตามระดับยา",
+    "Anti-histone antibody ; ยา เช่น hydralazine และ procainamide"
+   ],
+   "e": ""
+  },
+  {
+   "t": "HCQ",
+   "q": "Hydroxychloroquine ควรใช้ในผู้ป่วย SLE ขนาดเป้าหมายเท่าใด",
+   "a": "5 mg/kg ของน้ำหนักตัวจริงต่อวัน",
+   "w": [
+    "50 mg/kg ต่อวัน",
+    "0.5 mg/kg ต่อวัน",
+    "20 mg/kg ต่อวัน",
+    "7.5–20 mg ครั้งเดียวต่อสัปดาห์"
+   ],
+   "e": "HCQ แนะนำในผู้ป่วยทุกราย"
+  },
+  {
+   "t": "HCQ",
+   "q": "พิษสำคัญที่ต้องติดตามระยะยาวจาก HCQ คืออะไร",
+   "a": "Retinal toxicity",
+   "w": [
+    "Hemorrhagic cystitis",
+    "Hepatic fibrosis เป็นพิษหลัก",
+    "Gingival hyperplasia",
+    "Hand-foot syndrome"
+   ],
+   "e": "ตรวจตาเป็นระยะ; ระวัง QT prolongation | รายละเอียด: Retinal toxicity (maculopathy)"
+  },
+  {
+   "t": "Glucocorticoid",
+   "q": "หลักการใช้ glucocorticoid ใน SLE ตาม guideline คืออะไร",
+   "a": "ใช้ขนาดต่ำที่สุดและลดให้เหลือขนาดคงที่ให้เร็วที่สุด",
+   "w": [
+    "Malar rash (butterfly rash) ไวต่อแสง",
+    "ใช้ทุกวันเป็นเวลา 10 ปีเป็นหลัก",
+    "หยุดทันทีโดยไม่ลดขนาด",
+    "IMPDH ลดการสังเคราะห์ purine ในลิมโฟไซต์"
+   ],
+   "e": "ให้ methylprednisolone pulse ในโรครุนแรง"
+  },
+  {
+   "t": "MTX",
+   "q": "ขนาด methotrexate ที่ใช้ใน SLE คือเท่าใด",
+   "a": "7.5–20 mg ครั้งเดียวต่อสัปดาห์",
+   "w": [
+    "7.5–20 mg ทุกวัน",
+    "Trimethoprim/sulfamethoxazole",
+    "750 mg ต่อเดือน",
+    "ไม่มีขนาดเฉพาะ"
+   ],
+   "e": "เสริม folic acid; หลีกเลี่ยง TMP-SMX"
+  },
+  {
+   "t": "MTX",
+   "q": "ยาใดควรหลีกเลี่ยงเมื่อใช้ methotrexate",
+   "a": "Trimethoprim/sulfamethoxazole",
+   "w": [
+    "Paracetamol",
+    "วิตามินดี",
+    "7.5–20 mg ครั้งเดียวต่อสัปดาห์",
+    "น้ำเปล่า"
+   ],
+   "e": "NSAIDs ขนาดสูงเสี่ยงล่าช้าในการขับ MTX | รายละเอียด: Trimethoprim/sulfamethoxazole (เพิ่มพิษต่อไขกระดูก)"
+  },
+  {
+   "t": "AZA",
+   "q": "เหตุใดต้องตรวจ TPMT/NUDT15 ก่อนใช้ azathioprine",
+   "a": "เพราะกิจกรรมต่ำเพิ่มเมแทบอไลต์ 6-TGN ทำให้ leukopenia รุนแรง",
+   "w": [
+    "เพื่อเลือกขนาดรังสี",
+    "ใช้ขนาดต่ำที่สุดและลดให้เหลือขนาดคงที่ให้เร็วที่สุด",
+    "เพื่อเลือก hydroxychloroquine",
+    "ช่วงการรักษาแคบ (narrow therapeutic index) และต้องติดตามระดับยา"
+   ],
+   "e": "azathioprine เป็น prodrug ของ 6-MP"
+  },
+  {
+   "t": "MMF",
+   "q": "Mycophenolate mofetil ยับยั้งเอนไซม์ใด",
+   "a": "IMPDH ลดการสังเคราะห์ purine ในลิมโฟไซต์",
+   "w": [
+    "7.5–20 mg ครั้งเดียวต่อสัปดาห์",
+    "Thymidylate synthase",
+    "500 mg IV ทุก 2 สัปดาห์ รวม 6 ครั้ง",
+    "Topoisomerase II"
+   ],
+   "e": "MMF เป็น prodrug ของ mycophenolic acid"
+  },
+  {
+   "t": "MMF",
+   "q": "การรับประทานยาใดควรเว้นระยะจาก MPA อย่างน้อย 2 ชั่วโมง",
+   "a": "ยาลดกรดชนิด antacid",
+   "w": [
+    "น้ำเปล่า",
+    "วิตามินซี",
+    "ยาแก้ปวดพาราเซตามอล",
+    "ยาธาตุเหล็กตอนท้องว่าง"
+   ],
+   "e": "antacid ลดการดูดซึม MPA"
+  },
+  {
+   "t": "CNI",
+   "q": "Tacrolimus มีข้อจำกัดด้านการใช้ยาข้อใดชัดเจน",
+   "a": "ช่วงการรักษาแคบ (narrow therapeutic index) และต้องติดตามระดับยา",
+   "w": [
+    "ขนาดยาคงที่ทุกคนไม่ต้องติดตาม",
+    "ไม่มีปฏิกิริยากับยาอื่น",
+    "Anti-histone antibody ; ยา เช่น hydralazine และ procainamide",
+    "ใช้ขนาดต่ำที่สุดและลดให้เหลือขนาดคงที่ให้เร็วที่สุด"
+   ],
+   "e": "CYP3A5 polymorphism มีผล"
+  },
+  {
+   "t": "CYC",
+   "q": "Euro-Lupus regimen ของ cyclophosphamide คือข้อใด",
+   "a": "500 mg IV ทุก 2 สัปดาห์ รวม 6 ครั้ง",
+   "w": [
+    "0.5–1.0 g/m² ทุกเดือน 6 ครั้ง",
+    "1 g ทุกวัน 30 วัน",
+    "500 mg ทุกสัปดาห์ 52 ครั้ง",
+    "อ่อนเพลีย (fatigue) พบมากกว่า 80%"
+   ],
+   "e": "NIH regimen = 0.5–1.0 g/m² monthly | รายละเอียด: 500 mg IV ทุก 2 สัปดาห์ รวม 6 ครั้ง (3 g)"
+  },
+  {
+   "t": "Biologic",
+   "q": "Belimumab ออกฤทธิ์อย่างไร",
+   "a": "จับ soluble BLyS/BAFF ยับยั้งการอยู่รอดของ B cell",
+   "w": [
+    "ยับยั้ง calcineurin",
+    "ยับยั้ง IMPDH",
+    "ใช้ขนาดต่ำที่สุดและลดให้เหลือขนาดคงที่ให้เร็วที่สุด",
+    "เป็น anti-CD20"
+   ],
+   "e": "anifrolumab = anti-IFNAR1"
+  },
+  {
+   "t": "Biologic",
+   "q": "Rituximab ใน SLE ใช้เมื่อใด",
+   "a": "โรคดื้อต่อการรักษามาตรฐาน เช่น refractory LN หรือภาวะเลือดผิดปกติ",
+   "w": [
+    "เพราะกิจกรรมต่ำเพิ่มเมแทบอไลต์ 6-TGN ทำให้ leukopenia รุนแรง",
+    "ใช้ในผู้ป่วยที่โรคสงบ",
+    "ใช้ร่วมกับ live vaccine เสมอ",
+    "จับ soluble BLyS/BAFF ยับยั้งการอยู่รอดของ B cell"
+   ],
+   "e": "ห้าม live vaccine ระหว่างและหลังการรักษา 6 เดือน"
+  },
+  {
+   "t": "LN",
+   "q": "การรักษาเริ่มต้นของ lupus nephritis class III/IV ตาม KDIGO คืออะไร",
+   "a": "glucocorticoid ร่วมกับ MMF, cyclophosphamide หรือ belimumab/CNI ตามสูตร",
+   "w": [
+    "NSAIDs อย่างเดียว",
+    "Hydroxychloroquine อย่างเดียว",
+    "เพราะกิจกรรมต่ำเพิ่มเมแทบอไลต์ 6-TGN ทำให้ leukopenia รุนแรง",
+    "ใช้ขนาดต่ำที่สุดและลดให้เหลือขนาดคงที่ให้เร็วที่สุด"
+   ],
+   "e": "แล้วตามด้วย maintenance therapy"
+  },
+  {
+   "t": "DIL",
+   "q": "Drug-induced lupus มักสัมพันธ์กับแอนติบอดีและยาใด",
+   "a": "Anti-histone antibody ; ยา เช่น hydralazine และ procainamide",
+   "w": [
+    "ช่วงการรักษาแคบ (narrow therapeutic index) และต้องติดตามระดับยา",
+    "Anti-dsDNA สูงมาก ; ยา เช่น vitamin C",
+    "Anti-CCP ; ยา เช่น amoxicillin",
+    "จับ soluble BLyS/BAFF ยับยั้งการอยู่รอดของ B cell"
+   ],
+   "e": "มักหายเมื่อหยุดยา"
+  }
+ ]
+}

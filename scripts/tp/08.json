@@ -1,0 +1,248 @@
+{
+ "id": "tp08",
+ "no": 8,
+ "title": "Non-small cell lung cancer",
+ "file": "",
+ "questions": [
+  {
+   "t": "ภาพรวม",
+   "q": "NSCLC คิดเป็นกี่เปอร์เซ็นต์ของมะเร็งปอดทั้งหมด",
+   "a": "ประมาณ 85%",
+   "w": [
+    "ประมาณ 15%",
+    "ประมาณ 40%",
+    "ประมาณ 5%",
+    "ประมาณ 99%"
+   ],
+   "e": ""
+  },
+  {
+   "t": "ชนิดเซลล์",
+   "q": "ชนิดย่อยของ NSCLC ที่พบบ่อยที่สุดคืออะไร",
+   "a": "Adenocarcinoma",
+   "w": [
+    "Squamous cell carcinoma",
+    "Large cell carcinoma",
+    "Small cell carcinoma",
+    "Carcinoid"
+   ],
+   "e": "squamous มักอยู่ส่วนกลางและสัมพันธ์กับการสูบบุหรี่"
+  },
+  {
+   "t": "การคัดกรอง",
+   "q": "เกณฑ์คัดกรองมะเร็งปอดด้วย low-dose CT ประจำปีคือข้อใด",
+   "a": "อายุ 50–80 ปี สูบบุหรี่ > 20 pack-year และเลิก < 15 ปี",
+   "w": [
+    "Immune checkpoint inhibitor เดี่ยว เช่น pembrolizumab",
+    "เฉพาะผู้ที่ไม่สูบบุหรี่",
+    "เฉพาะผู้ที่มีอายุน้อยกว่า 30 ปี",
+    "ผู้ที่เลิกบุหรี่เกิน 30 ปี"
+   ],
+   "e": "ต้องไม่มีอาการ"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "Stage 4 ใน AJCC 8th ของ NSCLC เกี่ยวข้องกับข้อใด",
+   "a": "มี metastasis (M1) เช่น pleural effusion หรือแพร่กระจายนอกทรวงอก",
+   "w": [
+    "T1–2a N0 เท่านั้น",
+    "T4 ไม่มีการแพร่กระจาย",
+    "N1 โดยไม่มี M",
+    "moisturizer, กันแดด, ยาปฏิชีวนะ topical/oral และ loperamide"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Biomarker",
+   "q": "การกลายพันธุ์ของ EGFR ที่เป็นเป้าหมายของ TKI คือข้อใด",
+   "a": "Exon 19 deletion และ L858R",
+   "w": [
+    "BRAF V600E เท่านั้น",
+    "KRAS G12C inhibitors",
+    "Osimertinib นาน 3 ปี",
+    "MET exon 14 เท่านั้น"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Biomarker",
+   "q": "ALK rearrangement ใน NSCLC เป้าหมายการรักษาคือยากลุ่มใด",
+   "a": "ALK inhibitors",
+   "w": [
+    "EGFR TKIs",
+    "BRAF inhibitors",
+    "PARP inhibitors",
+    "Anti-HER2"
+   ],
+   "e": "ROS1 → ROS1 inhibitors"
+  },
+  {
+   "t": "Biomarker",
+   "q": "PD-L1 expression ใช้เพื่ออะไร",
+   "a": "เลือกการใช้ immune checkpoint inhibitors",
+   "w": [
+    "Folic acid, vitamin B12 และ dexamethasone",
+    "เลือกขนาด cisplatin",
+    "ทำนายผลข้างเคียงของ pemetrexed",
+    "ครอบคลุม T790M และเข้า CNS ได้ดี"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Early-stage",
+   "q": "Adjuvant ที่ใช้ในผู้ป่วยที่มี EGFR mutation หลังผ่าตัดคือยาใด และนานเท่าใด",
+   "a": "Osimertinib นาน 3 ปี",
+   "w": [
+    "Alectinib นาน 3 ปี",
+    "Osimertinib นาน 1 เดือน",
+    "Pembrolizumab นาน 10 ปี",
+    "Cisplatin นาน 3 ปี"
+   ],
+   "e": "alectinib (ALK) 2 ปี; selpercatinib (RET) 3 ปี | รายละเอียด: Osimertinib นาน 3 ปี (ADAURA)"
+  },
+  {
+   "t": "Early-stage",
+   "q": "Adjuvant ที่ใช้ในผู้ป่วย ALK-positive หลังผ่าตัดคือยาใด",
+   "a": "Alectinib (ALINA) นาน 2 ปี",
+   "w": [
+    "Exon 19 deletion และ L858R",
+    "Crizotinib นาน 10 ปี",
+    "Pembrolizumab นาน 2 ปี",
+    "Osimertinib นาน 3 ปี"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Stage III",
+   "q": "Stage III unresectable รักษาด้วยวิธีหลักใด",
+   "a": "Concurrent chemoradiotherapy ตามด้วย durvalumab 1 ปี",
+   "w": [
+    "Immune checkpoint inhibitor เดี่ยว เช่น pembrolizumab",
+    "Hormonal therapy",
+    "Cetuximab เดี่ยว",
+    "เฝ้าสังเกตอย่างเดียว"
+   ],
+   "e": "EGFR mutation → osimertinib (LAURA) | รายละเอียด: Concurrent chemoradiotherapy ตามด้วย durvalumab 1 ปี (PACIFIC)"
+  },
+  {
+   "t": "ALK",
+   "q": "ยา ALK inhibitor รุ่นที่ 1 คือยาใด",
+   "a": "Crizotinib",
+   "w": [
+    "Alectinib",
+    "Lorlatinib",
+    "Brigatinib",
+    "Osimertinib"
+   ],
+   "e": "รุ่น 2: alectinib; รุ่น 3: lorlatinib"
+  },
+  {
+   "t": "EGFR",
+   "q": "Osimertinib ต่างจาก EGFR TKI รุ่นก่อนอย่างไร",
+   "a": "ครอบคลุม T790M และเข้า CNS ได้ดี",
+   "w": [
+    "ไม่ออกฤทธิ์ต่อ T790M",
+    "ยับยั้งเฉพาะ wild-type EGFR",
+    "ไม่เข้าสมอง",
+    "เป็น reversible inhibitor รุ่นแรก"
+   ],
+   "e": "รุ่น 1 gefitinib/erlotinib; รุ่น 2 afatinib"
+  },
+  {
+   "t": "EGFR",
+   "q": "การดื้อยา EGFR TKI รุ่นที่ 1/2 ที่พบบ่อยที่สุดคือการกลายพันธุ์ใด",
+   "a": "T790M (exon 20)",
+   "w": [
+    "BRAF V600E",
+    "KRAS G12C",
+    "MET exon 14 เท่านั้น",
+    "ALK fusion"
+   ],
+   "e": "ควร re-biopsy หรือ ctDNA"
+  },
+  {
+   "t": "First-line",
+   "q": "ผู้ป่วยไม่มี driver mutation และ PD-L1 > 50% ทางเลือกใดเหมาะสม",
+   "a": "Immune checkpoint inhibitor เดี่ยว เช่น pembrolizumab",
+   "w": [
+    "Osimertinib",
+    "Concurrent chemoradiotherapy ตามด้วย durvalumab 1 ปี",
+    "Trastuzumab",
+    "Tamoxifen"
+   ],
+   "e": "PD-L1 ≥ 1% ใช้ร่วมเคมีบำบัดได้"
+  },
+  {
+   "t": "First-line",
+   "q": "สูตร pembrolizumab + platinum + pemetrexed เหมาะกับชนิดเซลล์ใด",
+   "a": "Non-squamous",
+   "w": [
+    "Squamous เท่านั้น",
+    "Small cell เท่านั้น",
+    "ทุกชนิดรวม squamous",
+    "Large cell เท่านั้น"
+   ],
+   "e": "squamous ใช้ platinum + taxane | รายละเอียด: Non-squamous (KEYNOTE-189)"
+  },
+  {
+   "t": "Pemetrexed",
+   "q": "ข้อใดเป็น premedication ของ pemetrexed",
+   "a": "Folic acid, vitamin B12 และ dexamethasone",
+   "w": [
+    "เลือกการใช้ immune checkpoint inhibitors",
+    "Allopurinol และ rasburicase",
+    "Atropine และ octreotide",
+    "ครอบคลุม T790M และเข้า CNS ได้ดี"
+   ],
+   "e": "folic acid เริ่ม 7 วันก่อน; B12 1,000 mcg IM"
+  },
+  {
+   "t": "Chemotherapy",
+   "q": "ยาใดห้ามใช้ในมะเร็งปอดชนิด squamous",
+   "a": "Pemetrexed และ bevacizumab",
+   "w": [
+    "Cisplatin และ gemcitabine",
+    "Carboplatin และ paclitaxel",
+    "Docetaxel",
+    "Pembrolizumab"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Second-line",
+   "q": "Second-line มาตรฐานสำหรับ NSCLC ที่ไม่มี driver mutation คืออะไร",
+   "a": "Docetaxel ± ramucirumab",
+   "w": [
+    "Osimertinib",
+    "KRAS G12C inhibitors",
+    "Leuprolide",
+    "Rituximab"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Adverse events",
+   "q": "การจัดการ acneiform rash และท้องเสียจาก EGFR TKI ทำอย่างไร",
+   "a": "moisturizer, กันแดด, ยาปฏิชีวนะ topical/oral และ loperamide",
+   "w": [
+    "งดยา TKI ทันทีทุกกรณี",
+    "ให้ยาขับปัสสาวะ",
+    "Immune checkpoint inhibitor เดี่ยว เช่น pembrolizumab",
+    "ไม่ต้องจัดการ"
+   ],
+   "e": ""
+  },
+  {
+   "t": "Biomarker",
+   "q": "KRAS G12C mutation ใน NSCLC เป้าหมายการรักษาคือยากลุ่มใด",
+   "a": "KRAS G12C inhibitors",
+   "w": [
+    "T790M (exon 20)",
+    "ALK inhibitors",
+    "NTRK inhibitors",
+    "ROS1 inhibitors"
+   ],
+   "e": ""
+  }
+ ]
+}

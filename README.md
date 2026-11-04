@@ -83,3 +83,9 @@ python3 -m http.server 8000
 7 ชุด ชุดละ 20 ข้อ ปรนัย 5 ตัวเลือก (รวม 140 ข้อ) จากสไลด์การขึ้นทะเบียนยา, ASEAN quality guideline, ACTD nonclinical, ยาชีววัตถุ, CRA, R&D ยาชีววัตถุ และสิทธิบัตร/ทรัพย์สินทางปัญญา
 ข้อสอบอยู่ที่ `scripts/rg/NN.json` แก้แล้วรัน `python3 scripts/build_rg.py` เพื่อสร้าง `data/rg.json` ใหม่ (โครงสร้างข้อเหมือนวิชา QC)
 หน้าเว็บ: `#/pg`, `#/pg/pg01/all` (ทำข้อสอบ), `#/pg/pg01/key` (เฉลยทั้งชุด)
+
+## วิชา 5: Therapy 3 (เภสัชบำบัด 3)
+
+13 ไฟล์ ไฟล์ละ 20 ข้อ ปรนัย 5 ตัวเลือก (รวม 260 ข้อ) จากเอกสารบรรยาย GU, หลักการมะเร็ง, supportive care, ยาเคมีบำบัด, targeted/immuno/hormonal, มะเร็งลำไส้ใหญ่ ปอด ปากมดลูก เต้านม, SSTI, SLE/LN และโรคเขตร้อน
+ข้อสอบอยู่ที่ `scripts/tp/NN.json` แก้แล้วรัน `python3 scripts/build_tp.py` เพื่อสร้าง `data/tp.json` ใหม่
+หน้าเว็บ: `#/tp`, `#/tp/tp01` (หน้าไฟล์), `#/tp/tp01/all` (ทำข้อสอบ), `#/tp/tp01/key` (เฉลย)
