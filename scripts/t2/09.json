@@ -1,0 +1,268 @@
+{
+ "id": "t209",
+ "no": 9,
+ "title": "Cervical cancer",
+ "file": "",
+ "questions": [
+  {
+   "t": "Pathogenesis",
+   "q": "โปรตีนของไวรัส HPV ทำให้เกิดมะเร็งปากมดลูกผ่านกลไกใดตามสไลด์",
+   "a": "ย่อย p53 และยับยั้ง pRb ทำให้เซลล์แบ่งตัวไม่หยุด",
+   "w": [
+    "กระตุ้น p53 ให้เกิด apoptosis มากขึ้น",
+    "ยับยั้ง EGFR โดยตรง",
+    "ตัดต่อยีน BRCA1 ให้ทำงานเกินปกติ",
+    "ลดการสร้าง estrogen receptor"
+   ],
+   "e": "",
+   "s": "หน้า 2"
+  },
+  {
+   "t": "Epidemiology",
+   "q": "HPV สายพันธุ์ใดพบร่วมกับเนื้องอกประมาณ 70%",
+   "a": "HPV 16 และ 18",
+   "w": [
+    "HPV 6 และ 11",
+    "HPV 1 และ 2",
+    "HPV 31 และ 33 เท่านั้น",
+    "HPV 52 และ 58 เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 1–2"
+  },
+  {
+   "t": "Pathology",
+   "q": "ชนิดเซลล์ที่พบมากที่สุดของมะเร็งปากมดลูกคือข้อใด",
+   "a": "Squamous cell carcinoma ประมาณ 72%",
+   "w": [
+    "Adenocarcinoma ประมาณ 72%",
+    "Adenosquamous ประมาณ 72%",
+    "Small cell carcinoma ประมาณ 72%",
+    "Sarcoma ประมาณ 72%"
+   ],
+   "e": "",
+   "s": "หน้า 2"
+  },
+  {
+   "t": "Pathogenesis",
+   "q": "ระยะเวลาจาก cervical dysplasia ไปสู่มะเร็งลุกลามตามสไลด์คือ",
+   "a": "มักใช้เวลามากกว่า 10 ปี",
+   "w": [
+    "ไม่เกิน 1 สัปดาห์",
+    "ประมาณ 1–2 เดือน",
+    "ประมาณ 6 เดือน",
+    "เกิดทันทีหลังติดเชื้อ"
+   ],
+   "e": "",
+   "s": "หน้า 2"
+  },
+  {
+   "t": "Screening",
+   "q": "ผู้หญิงอายุ 21–29 ปี ควรตรวจคัดกรองอย่างไร",
+   "a": "Cytology (Pap smear) ทุก 3 ปี",
+   "w": [
+    "Co-testing ทุก 5 ปี",
+    "HPV test เดี่ยวทุกปี",
+    "ไม่ต้องคัดกรอง",
+    "Colposcopy ทุก 6 เดือน"
+   ],
+   "e": "",
+   "s": "หน้า 3"
+  },
+  {
+   "t": "Screening",
+   "q": "ผู้หญิงอายุ 30–65 ปี วิธีคัดกรองที่สไลด์ระบุคือ",
+   "a": "Pap smear ร่วมกับ HPV testing ทุก 5 ปี",
+   "w": [
+    "Pap smear อย่างเดียวทุก 3 เดือน",
+    "Mammography ทุก 2 ปี",
+    "CA-125 ทุกปี",
+    "PSA ทุกปี"
+   ],
+   "e": "",
+   "s": "หน้า 3"
+  },
+  {
+   "t": "Prevention",
+   "q": "บทบาทของ HPV vaccination ในสไลด์จัดเป็นการป้องกันระดับใด",
+   "a": "Primary prevention",
+   "w": [
+    "Secondary prevention",
+    "Tertiary prevention",
+    "Palliative care",
+    "Salvage therapy"
+   ],
+   "e": "",
+   "s": "หน้า 3"
+  },
+  {
+   "t": "Staging",
+   "q": "ในระบบ FIGO 2018 stage IVA หมายถึงอะไร",
+   "a": "เนื้องอกลุกลามไปที่กระเพาะปัสสาวะหรือไส้ตรง",
+   "w": [
+    "เนื้องอกอยู่ภายในปากมดลูกเท่านั้น",
+    "มีการแพร่กระจายไปปอด",
+    "ลุกลามถึงผนังเชิงกราน",
+    "มีต่อมน้ำเหลืองเท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 4"
+  },
+  {
+   "t": "Early-stage",
+   "q": "Stage IA1 ที่ไม่มี LVSI และ margin เป็นบวก เมื่อพบ dysplasia ใช้การผ่าตัดใด",
+   "a": "Type A hysterectomy + SLN",
+   "w": [
+    "Type C radical hysterectomy",
+    "Pelvic exenteration",
+    "Total pelvic radiation เท่านั้น",
+    "ไม่ต้องรักษา"
+   ],
+   "e": "",
+   "s": "หน้า 6"
+  },
+  {
+   "t": "Early-stage",
+   "q": "Stage IA1 ที่มี LVSI และพบ carcinoma ใช้การผ่าตัดใด",
+   "a": "Type B radical hysterectomy + SLN mapping",
+   "w": [
+    "Cone biopsy อย่างเดียวและไม่ต้องติดตาม",
+    "Type A hysterectomy อย่างเดียว",
+    "ให้ pembrolizumab เดี่ยว",
+    "ให้ bevacizumab เดี่ยว"
+   ],
+   "e": "",
+   "s": "หน้า 6"
+  },
+  {
+   "t": "Early-stage",
+   "q": "ผู้ป่วยที่ต้องการรักษาภาวะเจริญพันธุ์ ใช้การผ่าตัดใด",
+   "a": "Cone biopsy ที่ margin เป็นลบ",
+   "w": [
+    "Radical hysterectomy",
+    "Pelvic exenteration",
+    "Whole pelvic radiation",
+    "Total abdominal hysterectomy ทุกราย"
+   ],
+   "e": "",
+   "s": "หน้า 6"
+  },
+  {
+   "t": "Locally advanced",
+   "q": "Stage IB3 และ IIA2 ตาม NCCN ให้การรักษาแบบใด",
+   "a": "Pelvic EBRT + platinum + brachytherapy ± selective completion hysterectomy",
+   "w": [
+    "Cone biopsy อย่างเดียว",
+    "Simple hysterectomy อย่างเดียว",
+    "ฮอร์โมนบำบัดอย่างเดียว",
+    "Observation เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 7"
+  },
+  {
+   "t": "Locally advanced",
+   "q": "Induction chemotherapy ที่สไลด์กล่าวถึงตามด้วยการรักษาใด",
+   "a": "Carboplatin/paclitaxel ตามด้วย cisplatin chemoradiation",
+   "w": [
+    "Docetaxel ตามด้วย trastuzumab",
+    "Capecitabine ตามด้วย oxaliplatin",
+    "Doxorubicin ตามด้วยวิตามินเสริม",
+    "Bevacizumab ตามด้วย erlotinib"
+   ],
+   "e": "",
+   "s": "หน้า 7"
+  },
+  {
+   "t": "Locally advanced",
+   "q": "Pembrolizumab ร่วมกับ CCRT มีระดับหลักฐานใดใน FIGO 2014 IIIA–IVA",
+   "a": "Category 1",
+   "w": [
+    "Category 3",
+    "ไม่แนะนำ",
+    "ใช้ในกรณีทดลองเท่านั้น",
+    "Category 2B ทุกกรณี"
+   ],
+   "e": "",
+   "s": "หน้า 7"
+  },
+  {
+   "t": "CCRT",
+   "q": "Cisplatin ใน CCRT ให้ขนาดและความถี่เท่าใด",
+   "a": "40 mg/m² IV weekly ได้สูงสุด 6 รอบ",
+   "w": [
+    "100 mg/m² ทุก 3 เดือน",
+    "10 mg/m² ทุกวัน",
+    "200 mg/m² ครั้งเดียว",
+    "40 mg/m² ทุก 6 เดือน"
+   ],
+   "e": "",
+   "s": "หน้า 8"
+  },
+  {
+   "t": "CCRT",
+   "q": "การเฝ้าระวังขณะให้ cisplatin ใน CCRT คืออะไร",
+   "a": "ตรวจ SCr และอิเล็กโทรไลต์ทุกสัปดาห์ พร้อมให้ hydration",
+   "w": [
+    "ตรวจเฉพาะ LFT ปีละครั้ง",
+    "ไม่ต้องตรวจ lab",
+    "ตรวจเฉพาะน้ำตาลหลังอาหาร",
+    "ตรวจ INR ทุกวัน"
+   ],
+   "e": "",
+   "s": "หน้า 8–9"
+  },
+  {
+   "t": "Pharmacogenomics",
+   "q": "การทดสอบ DPYD มีไว้เพื่ออะไรก่อนใช้ยา",
+   "a": "ป้องกันพิษรุนแรงจาก fluoropyrimidine",
+   "w": [
+    "ทำนายการตอบสนองต่อ pembrolizumab",
+    "ทำนายการแพ้ cisplatin",
+    "ประเมินความเสี่ยง HPV",
+    "เลือกขนาด bevacizumab"
+   ],
+   "e": "",
+   "s": "หน้า 8"
+  },
+  {
+   "t": "Metastatic",
+   "q": "ก่อนให้ bevacizumab ในผู้ป่วยระยะแพร่กระจาย ต้องประเมินสิ่งใด",
+   "a": "ไม่มีประวัติ fistula, ผ่าตัดใหญ่เมื่อเร็ว ๆ นี้ หรือเลือดออกมาก",
+   "w": [
+    "ประวัติการแพ้ยาสลบเท่านั้น",
+    "ผลตรวจ HER2 เท่านั้น",
+    "ระดับ vitamin D",
+    "ผล Pap smear ล่าสุด"
+   ],
+   "e": "",
+   "s": "หน้า 10"
+  },
+  {
+   "t": "Metastatic",
+   "q": "ขนาดและความถี่ของ pembrolizumab ใน KEYNOTE-826 คือข้อใด",
+   "a": "200 mg IV ทุก 3 สัปดาห์ หรือ 400 mg IV ทุก 6 สัปดาห์",
+   "w": [
+    "10 mg IV ทุกวัน",
+    "2 g IV ทุก 3 เดือน",
+    "400 mg PO ทุกวัน",
+    "50 mg IV ทุก 2 สัปดาห์"
+   ],
+   "e": "",
+   "s": "หน้า 10"
+  },
+  {
+   "t": "Subsequent line",
+   "q": "Tisotumab vedotin เป็นยาประเภทใดและมีเป้าหมายใด",
+   "a": "Antibody-drug conjugate ที่จับ Tissue Factor (TF)",
+   "w": [
+    "Tyrosine kinase inhibitor ที่จับ EGFR",
+    "Hormonal agent ที่จับ estrogen receptor",
+    "PARP inhibitor",
+    "Alkylating agent ที่จับ DNA โดยตรง"
+   ],
+   "e": "",
+   "s": "หน้า 11"
+  }
+ ]
+}

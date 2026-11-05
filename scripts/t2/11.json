@@ -1,0 +1,268 @@
+{
+ "id": "t211",
+ "no": 11,
+ "title": "Skin and soft tissue infection (SSTI)",
+ "file": "",
+ "questions": [
+  {
+   "t": "Pathogen",
+   "q": "Nonbullous impetigo เกิดจากเชื้อใดเป็นหลัก",
+   "a": "S. aureus เดี่ยว ๆ หรือร่วมกับ group A streptococcus (ประมาณ 80%)",
+   "w": [
+    "Clostridium perfringens",
+    "Vibrio vulnificus",
+    "Pasteurella multocida",
+    "Aeromonas hydrophila"
+   ],
+   "e": "",
+   "s": "หน้า 12, 34"
+  },
+  {
+   "t": "Pathogen",
+   "q": "Scalded skin syndrome เกิดจากเชื้อใด",
+   "a": "S. aureus (phage group II)",
+   "w": [
+    "Group A streptococci เท่านั้น",
+    "Clostridium tetani",
+    "Pseudomonas aeruginosa",
+    "Candida albicans"
+   ],
+   "e": "",
+   "s": "หน้า 13"
+  },
+  {
+   "t": "Pathogen",
+   "q": "เชื้อที่พบหลังถูกสัตว์กัดตามสไลด์คือเชื้อใด",
+   "a": "Pasteurella multocida",
+   "w": [
+    "Vibrio vulnificus",
+    "Malassezia furfur",
+    "Clostridium perfringens",
+    "Corynebacterium diphtheriae เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 13"
+  },
+  {
+   "t": "MRSA",
+   "q": "ข้อใดเป็นปัจจัยเสี่ยงของ community-acquired MRSA SSTI",
+   "a": "การใช้ยาฉีดเสพติด, การสัมผัสใกล้ชิด, รอยสัก/เจาะ, MSM",
+   "w": [
+    "การใส่สายสวนหลอดเลือดดำส่วนกลาง",
+    "การนอนโรงพยาบาลนาน",
+    "การเข้ารับการรักษา ICU",
+    "การใช้ยาปฏิชีวนะต่อเนื่องนาน"
+   ],
+   "e": "",
+   "s": "หน้า 20"
+  },
+  {
+   "t": "Severity",
+   "q": "เกณฑ์ systemic signs ของ purulent SSTI ระดับ severe คือข้อใด",
+   "a": "อุณหภูมิ >38°C, HR >90, RR >24 หรือ WBC >12,000 หรือ <4,000",
+   "w": [
+    "อุณหภูมิ 36.5°C, HR 70",
+    "RR 12 และ WBC 8,000",
+    "BP 120/80 และ HR 60",
+    "อุณหภูมิ 37°C เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 26"
+  },
+  {
+   "t": "Abscess",
+   "q": "การรักษาหลักของฝี (abscess/furuncle) คืออะไร",
+   "a": "Incision and drainage",
+   "w": [
+    "Antibiotic ชนิดฉีดเท่านั้น",
+    "Topical antifungal",
+    "รอให้ยุบเองโดยไม่ทำอะไร",
+    "ให้ steroid ทุกราย"
+   ],
+   "e": "",
+   "s": "หน้า 29"
+  },
+  {
+   "t": "Impetigo",
+   "q": "Impetigo ที่มีรอยโรคจำนวนมากหรือระบาดในกลุ่มคน ควรเลือกการรักษาแบบใด",
+   "a": "ยารับประทาน (oral therapy) เพื่อลดการแพร่เชื้อ",
+   "w": [
+    "ยาทาเท่านั้น",
+    "ไม่ต้องรักษา",
+    "ผ่าตัดทันที",
+    "รักษาด้วยวัคซีน"
+   ],
+   "e": "",
+   "s": "หน้า 36"
+  },
+  {
+   "t": "Impetigo",
+   "q": "สูตรรักษา impetigo ตามสไลด์สรุปคือข้อใด",
+   "a": "Topical mupirocin 5 วัน หรือยากิน 7 วัน",
+   "w": [
+    "Ceftriaxone IV 14 วัน",
+    "Vancomycin IV 6 สัปดาห์",
+    "Meropenem 3 วัน",
+    "Doxycycline 1 วัน"
+   ],
+   "e": "",
+   "s": "หน้า 56"
+  },
+  {
+   "t": "Erysipelas",
+   "q": "Erysipelas พบที่ตำแหน่งใดบ่อยที่สุด",
+   "a": "ขา (lower extremities) ประมาณ 70–80%",
+   "w": [
+    "ใบหน้า 70–80%",
+    "แขน 70–80%",
+    "ลำตัว 70–80%",
+    "เท้าเท่านั้น 100%"
+   ],
+   "e": "",
+   "s": "หน้า 37"
+  },
+  {
+   "t": "Erysipelas",
+   "q": "ลักษณะรอยโรคของ erysipelas ต่างจาก cellulitis อย่างไร",
+   "a": "ขอบยกนูนและแยกจากผิวปกติชัดเจน",
+   "w": [
+    "ขอบไม่ชัดและไม่นูน",
+    "ไม่มีอาการปวด",
+    "พบเฉพาะที่ฝ่าเท้า",
+    "ไม่มีผิวแดง"
+   ],
+   "e": "",
+   "s": "หน้า 38, 41"
+  },
+  {
+   "t": "Cellulitis",
+   "q": "ผลเพาะเชื้อในเลือดของ cellulitis ให้ผลบวกประมาณเท่าใด",
+   "a": "ไม่เกิน 5%",
+   "w": [
+    "ประมาณ 50%",
+    "ประมาณ 90%",
+    "ประมาณ 100%",
+    "ประมาณ 25%"
+   ],
+   "e": "",
+   "s": "หน้า 43"
+  },
+  {
+   "t": "Cellulitis",
+   "q": "ระยะเวลารักษา cellulitis อย่างน้อยตามสไลด์คือ",
+   "a": "อย่างน้อย 5 วัน",
+   "w": [
+    "1 วัน",
+    "3 เดือน",
+    "6 เดือน",
+    "1 ปี"
+   ],
+   "e": "",
+   "s": "หน้า 56"
+  },
+  {
+   "t": "Cellulitis",
+   "q": "ยาที่เลือกใน severe non-purulent cellulitis ที่มี MRSA risk คือ",
+   "a": "Vancomycin ร่วมกับ piperacillin/tazobactam หรือ carbapenem",
+   "w": [
+    "Penicillin V อย่างเดียว",
+    "Cephalexin อย่างเดียว",
+    "Mupirocin ทา",
+    "Doxycycline อย่างเดียว"
+   ],
+   "e": "",
+   "s": "หน้า 45"
+  },
+  {
+   "t": "Necrotizing",
+   "q": "Necrotizing fasciitis type II เกิดจากเชื้อใดเป็นหลัก",
+   "a": "Group A streptococcus เป็นเชื้อเดียว",
+   "w": [
+    "เชื้อผสม aerobic/anaerobic",
+    "Clostridium เท่านั้น",
+    "Candida เท่านั้น",
+    "Vibrio เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 47"
+  },
+  {
+   "t": "Necrotizing",
+   "q": "Necrotizing fasciitis type I มีลักษณะอย่างไร",
+   "a": "Polymicrobial มักพบในผู้สูงอายุหรือมีโรคประจำตัว",
+   "w": [
+    "Monomicrobial พบในคนปกติ",
+    "เกิดจาก Vibrio เท่านั้น",
+    "เกิดจากไวรัส",
+    "ไม่มีการติดเชื้อ"
+   ],
+   "e": "",
+   "s": "หน้า 47"
+  },
+  {
+   "t": "Necrotizing",
+   "q": "การรักษาหลักของ necrotizing fasciitis คืออะไร",
+   "a": "Surgical intervention ร่วมกับยา IV",
+   "w": [
+    "ยาปฏิชีวนะชนิดกินอย่างเดียว",
+    "ทายาเท่านั้น",
+    "ติดตามอาการเฉย ๆ",
+    "ให้ซาลิไซลิกทา"
+   ],
+   "e": "",
+   "s": "หน้า 54, 56"
+  },
+  {
+   "t": "Necrotizing",
+   "q": "สูตรยา NF type II (Group A streptococcus) คือ",
+   "a": "Penicillin + clindamycin",
+   "w": [
+    "Doxycycline + ciprofloxacin",
+    "Vancomycin + metronidazole",
+    "Doxycycline + ceftriaxone",
+    "Clindamycin เดี่ยว"
+   ],
+   "e": "",
+   "s": "หน้า 56"
+  },
+  {
+   "t": "Bite wound",
+   "q": "ยาเลือกสำหรับแผลถูกสัตว์กัดตามสไลด์คือ",
+   "a": "Amoxicillin-clavulanate",
+   "w": [
+    "Macrolide เป็นตัวเลือกแรก",
+    "Cephalexin เดี่ยว",
+    "Vancomycin",
+    "Fluconazole"
+   ],
+   "e": "",
+   "s": "หน้า 60"
+  },
+  {
+   "t": "Bite wound",
+   "q": "ยาที่ควรหลีกเลี่ยงในแผลสัตว์กัดเพราะ activity ต่อ Pasteurella ไม่แน่นอนคือ",
+   "a": "Macrolides",
+   "w": [
+    "Amoxicillin-clavulanate",
+    "Doxycycline",
+    "Carbapenem",
+    "Moxifloxacin"
+   ],
+   "e": "",
+   "s": "หน้า 60"
+  },
+  {
+   "t": "Diabetic foot",
+   "q": "เกณฑ์ IWGDF/IDSA ว่าแผลเท้าเบาหวานติดเชื้อต้องมีอย่างน้อยกี่ข้อจากอาการเฉพาะที่",
+   "a": "อย่างน้อย 2 ข้อ เช่น บวม แดง >0.5–2 cm เจ็บ อุ่น หรือมีหนอง",
+   "w": [
+    "ต้องมี 1 ข้อเท่านั้น",
+    "ต้องมีครบทุกข้อ",
+    "ไม่ต้องมีอาการเลย",
+    "ต้องมีไข้ >40°C เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 69"
+  }
+ ]
+}

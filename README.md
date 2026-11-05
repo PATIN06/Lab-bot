@@ -94,3 +94,10 @@ python3 -m http.server 8000
 
 6 ไฟล์ ไฟล์ละ 20 ข้อ ปรนัย 5 ตัวเลือก (รวม 120 ข้อ): ยาน้ำใส 1–2, Herbal liquid solutions, Stability and shelf life, QC และเอกสาร (specification, CoA), บรรจุภัณฑ์
 ข้อสอบอยู่ที่ `scripts/cp/NN.json` แก้แล้วรัน `python3 scripts/build_cp.py` เพื่อสร้าง `data/cp.json` ใหม่ หน้าเว็บ: `#/cp`
+
+## วิชา 5 · Therapy 3 — ข้อสอบชุดที่ 2 (`t2`)
+
+- 13 ไฟล์ × 20 ข้อ = 260 ข้อ ข้อมูลที่ `scripts/t2/NN.json` → รัน `python3 scripts/build_t2.py` เพื่อสร้าง `data/t2.json`
+- ทุกข้อมีฟิลด์ `s` = หน้าสไลด์ที่อ้างอิง (แสดงในหน้าเฉลยและหลังตอบในโหมดทำข้อสอบ)
+- ตัวเลือกหลอกเขียนให้อยู่ในหัวข้อเดียวกับโจทย์ ไม่ซ้ำข้ามข้อ
+- หน้า: `#/t2`, `#/t2/<id>`, `#/t2/<id>/all`, `#/t2/<id>/key`

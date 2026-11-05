@@ -1,0 +1,268 @@
+{
+ "id": "t213",
+ "no": 13,
+ "title": "Tropical diseases (TroD)",
+ "file": "",
+ "questions": [
+  {
+   "t": "Dengue",
+   "q": "พาหะนำเชื้อ dengue virus คือยุงชนิดใด",
+   "a": "Aedes aegypti",
+   "w": [
+    "Anopheles minimus",
+    "Culex quinquefasciatus",
+    "Mansonia uniformis",
+    "แมลงวันดูดเลือด"
+   ],
+   "e": "",
+   "s": "หน้า 7"
+  },
+  {
+   "t": "Dengue",
+   "q": "ยาต้านไวรัสจำเพาะสำหรับ dengue ในปัจจุบันเป็นอย่างไร",
+   "a": "ยังไม่มี การรักษาหลักคือ supportive care",
+   "w": [
+    "ใช้ oseltamivir ทุกราย",
+    "ใช้ acyclovir ทุกราย",
+    "ใช้ ribavirin ทุกราย",
+    "ใช้ interferon ทุกราย"
+   ],
+   "e": "",
+   "s": "หน้า 19"
+  },
+  {
+   "t": "Dengue",
+   "q": "สารน้ำชนิดแรกที่เลือกเมื่อจำเป็นต้องให้ IV ใน dengue คือ",
+   "a": "Isotonic crystalloid เช่น 0.9% NaCl หรือ Ringer's lactate",
+   "w": [
+    "5% dextrose in water ล้วน",
+    "Hypertonic saline 3%",
+    "Albumin ทุกราย",
+    "เลือดสดทุกราย"
+   ],
+   "e": "",
+   "s": "หน้า 19"
+  },
+  {
+   "t": "Dengue",
+   "q": "เป้าหมาย urine output ที่แสดงว่า perfusion เพียงพอใน dengue คือ",
+   "a": "≥0.5 mL/kg/hr",
+   "w": [
+    "≤0.1 mL/kg/hr",
+    "≥10 mL/kg/hr",
+    "ไม่มีเป้าหมาย",
+    "0 mL/kg/hr"
+   ],
+   "e": "",
+   "s": "หน้า 19"
+  },
+  {
+   "t": "Dengue",
+   "q": "ยาที่ควรหลีกเลี่ยงในผู้ป่วย dengue คือ",
+   "a": "NSAIDs/aspirin และ IM injection",
+   "w": [
+    "Paracetamol",
+    "Oral rehydration solution",
+    "Isotonic crystalloid",
+    "การพักผ่อน"
+   ],
+   "e": "",
+   "s": "หน้า 20"
+  },
+  {
+   "t": "Dengue",
+   "q": "ช่วงใดของโรค dengue ที่ต้องเฝ้าระวัง plasma leakage และ shock มากที่สุด",
+   "a": "ช่วงไข้ลง (critical phase)",
+   "w": [
+    "ก่อนมีไข้",
+    "ช่วงเริ่มมีไข้วันแรก",
+    "ปีหลังหายป่วย",
+    "ช่วง incubation"
+   ],
+   "e": "",
+   "s": "หน้า 20"
+  },
+  {
+   "t": "Dengue",
+   "q": "WHO แนะนำ vaccine TAK-003 สำหรับกลุ่มใด",
+   "a": "เด็ก 6–16 ปี ในพื้นที่ high dengue burden",
+   "w": [
+    "ผู้ใหญ่ทุกคนทั่วโลก",
+    "ทารกแรกเกิดทุกคน",
+    "ผู้สูงอายุเท่านั้น",
+    "หญิงตั้งครรภ์เท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 22"
+  },
+  {
+   "t": "Malaria",
+   "q": "พาหะนำมาลาเรียคือยุงชนิดใด",
+   "a": "ยุงก้นปล่อง (Anopheles) เพศเมีย",
+   "w": [
+    "ยุงลายเพศผู้",
+    "ยุงรำคาญเพศผู้",
+    "แมลงวัน",
+    "เห็บ"
+   ],
+   "e": "",
+   "s": "หน้า 23, 49"
+  },
+  {
+   "t": "Malaria",
+   "q": "วิธีมาตรฐานในการวินิจฉัยมาลาเรียคือข้อใด",
+   "a": "Thick และ thin blood smear คู่กัน",
+   "w": [
+    "CXR",
+    "Urine culture",
+    "EKG",
+    "MRI สมอง"
+   ],
+   "e": "",
+   "s": "หน้า 29"
+  },
+  {
+   "t": "Malaria",
+   "q": "ยาแรกที่เลือกใน severe malaria คือ",
+   "a": "IV artesunate",
+   "w": [
+    "Oral chloroquine",
+    "Primaquine ชนิดกิน",
+    "Doxycycline",
+    "Mebendazole"
+   ],
+   "e": "",
+   "s": "หน้า 47, 49"
+  },
+  {
+   "t": "Malaria",
+   "q": "ขนาดและเวลาให้ artesunate IV ในสไลด์คือ",
+   "a": "2.4 mg/kg ที่ 0, 12, 24 ชม. แล้วทุกวัน",
+   "w": [
+    "50 mg/kg ครั้งเดียว",
+    "0.1 mg/kg ทุก 6 ชม.",
+    "10 mg ทุกสัปดาห์",
+    "2.4 g ครั้งเดียว"
+   ],
+   "e": "",
+   "s": "หน้า 42"
+  },
+  {
+   "t": "Malaria",
+   "q": "การตรวจใดต้องทำก่อนให้ primaquine หรือ tafenoquine",
+   "a": "G6PD deficiency",
+   "w": [
+    "TPMT",
+    "DPYD",
+    "HLA-B*5701",
+    "CYP2D6"
+   ],
+   "e": "",
+   "s": "หน้า 47, 49"
+  },
+  {
+   "t": "Malaria",
+   "q": "P. malariae ใช้ยาใดรักษาตามสไลด์",
+   "a": "Chloroquine",
+   "w": [
+    "Artesunate IV เท่านั้น",
+    "Ceftazidime",
+    "Doxycycline",
+    "Penicillin"
+   ],
+   "e": "",
+   "s": "หน้า 47"
+  },
+  {
+   "t": "Leptospirosis",
+   "q": "ช่องทางที่เชื้อ Leptospira เข้าสู่ร่างกายคือ",
+   "a": "ผ่านบาดแผลที่ผิวหนังหรือเยื่อบุ",
+   "w": [
+    "ผ่านการหายใจจากน้ำลายคนเท่านั้น",
+    "ผ่านยุงกัด",
+    "ผ่านการให้เลือดเท่านั้น",
+    "ผ่านอาหารกระป๋องเท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 50, 53"
+  },
+  {
+   "t": "Leptospirosis",
+   "q": "อาการที่พบบ่อยมากในระยะ septicemic ของ leptospirosis ในไทยคือ",
+   "a": "ปวดกล้ามเนื้อ (76–100%)",
+   "w": [
+    "ฟันหลุด",
+    "ตาบอดสี",
+    "ผมร่วง",
+    "ผื่นลมพิษเท่านั้น"
+   ],
+   "e": "",
+   "s": "หน้า 54"
+  },
+  {
+   "t": "Leptospirosis",
+   "q": "กรณีสงสัยสูงโดยเฉพาะผู้ป่วยรุนแรง ควรทำอย่างไร",
+   "a": "เริ่มยาปฏิชีวนะโดยไม่ต้องรอผล serology",
+   "w": [
+    "รอ serology 4 สัปดาห์",
+    "ไม่ให้ยา",
+    "ให้เฉพาะ paracetamol",
+    "ส่งกลับบ้านทันที"
+   ],
+   "e": "",
+   "s": "หน้า 56"
+  },
+  {
+   "t": "Rickettsia",
+   "q": "ลักษณะจำเพาะที่ช่วยวินิจฉัย scrub typhus คือ",
+   "a": "Eschar (แผลคล้ายบุหรี่จี้ ไม่เจ็บ)",
+   "w": [
+    "ผื่นลมพิษทั้งตัว",
+    "Koplik spots",
+    "ตุ่มน้ำใสทั่วตัว",
+    "ขาบวมสองข้าง"
+   ],
+   "e": "",
+   "s": "หน้า 67, 75"
+  },
+  {
+   "t": "Rickettsia",
+   "q": "Murine typhus ถ่ายทอดโดยพาหะและเชื้อใด",
+   "a": "หมัด (flea) และ Rickettsia typhi",
+   "w": [
+    "ไรอ่อน และ R. typhi",
+    "เห็บ และ O. tsutsugamushi",
+    "ยุงลาย และ R. typhi",
+    "เหา และ O. tsutsugamushi"
+   ],
+   "e": "",
+   "s": "หน้า 66"
+  },
+  {
+   "t": "Rickettsia",
+   "q": "ยาหลักของ scrub typhus และ murine typhus คือ",
+   "a": "Doxycycline 100 mg PO bid",
+   "w": [
+    "Penicillin G",
+    "Ceftriaxone เดี่ยว",
+    "Metronidazole",
+    "Fluconazole"
+   ],
+   "e": "",
+   "s": "หน้า 73"
+  },
+  {
+   "t": "Melioidosis",
+   "q": "ยาเริ่มต้น (intensive phase) ของ melioidosis คือ",
+   "a": "Ceftazidime IV หรือ meropenem IV อย่างน้อย 10–14 วัน",
+   "w": [
+    "Amoxicillin PO 3 วัน",
+    "Azithromycin PO 1 วัน",
+    "Fluconazole IV",
+    "Penicillin V PO"
+   ],
+   "e": "",
+   "s": "หน้า 83"
+  }
+ ]
+}

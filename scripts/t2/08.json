@@ -1,0 +1,268 @@
+{
+ "id": "t208",
+ "no": 8,
+ "title": "Non-small cell lung cancer",
+ "file": "",
+ "questions": [
+  {
+   "t": "ชนิดเซลล์",
+   "q": "Large cell carcinoma ของปอดวินิจฉัยอย่างไร",
+   "a": "เป็นการวินิจฉัยโดยการตัดออก เมื่อไม่มีลักษณะของชนิดอื่น",
+   "w": [
+    "ตรวจพบ EGFR mutation เสมอ",
+    "ตรวจพบ keratinization ชัดเจน",
+    "พบเฉพาะในเด็กเล็ก",
+    "วินิจฉัยได้จากการตรวจเลือดอย่างเดียว"
+   ],
+   "e": "",
+   "s": "หน้า 1"
+  },
+  {
+   "t": "ชนิดเซลล์",
+   "q": "Squamous cell carcinoma ของปอดมีลักษณะอย่างไร",
+   "a": "มักพบบริเวณกลางปอดและสัมพันธ์กับประวัติสูบบุหรี่",
+   "w": [
+    "มักพบบริเวณส่วนนอกของปอด",
+    "พบบ่อยที่สุดในผู้ไม่สูบบุหรี่",
+    "พบเฉพาะที่เยื่อหุ้มปอด",
+    "เป็นชนิดที่พบน้อยที่สุดของมะเร็งปอด"
+   ],
+   "e": "",
+   "s": "หน้า 1"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "อาการหรือภาวะนอกปอดที่เกี่ยวข้องกับมะเร็งปอดคือข้อใด",
+   "a": "Superior vena cava syndrome และการกดไขสันหลัง",
+   "w": [
+    "ไส้ติ่งอักเสบ",
+    "ต้อกระจกเท่านั้น",
+    "โรคกระดูกพรุนเท่านั้น",
+    "ตับอักเสบจากไวรัสเฉียบพลัน"
+   ],
+   "e": "",
+   "s": "หน้า 2"
+  },
+  {
+   "t": "การวินิจฉัย",
+   "q": "วิธีการวินิจฉัยทางพยาธิวิทยาของมะเร็งปอดคือข้อใด",
+   "a": "Sputum cytology, bronchoscopy และ transthoracic needle biopsy",
+   "w": [
+    "EKG, EEG และ ABI",
+    "CBC, ESR และ CRP เท่านั้น",
+    "Mammography และ Pap smear",
+    "DEXA scan และ ultrasound ตับ"
+   ],
+   "e": "",
+   "s": "หน้า 2"
+  },
+  {
+   "t": "Stage",
+   "q": "Stage IIIA ที่ผ่าตัดได้ (T3-4N1) รักษาอย่างไร",
+   "a": "ผ่าตัด + เคมีบำบัด + รังสีรักษา",
+   "w": [
+    "รังสีรักษาเดี่ยวทุกราย",
+    "ยา targeted therapy เท่านั้น",
+    "เฝ้าสังเกตอย่างเดียว",
+    "ฮอร์โมนบำบัด"
+   ],
+   "e": "",
+   "s": "หน้า 4"
+  },
+  {
+   "t": "Biomarker",
+   "q": "MET exon 14 skipping เป็นเป้าหมายของยากลุ่มใด",
+   "a": "MET inhibitors",
+   "w": [
+    "ALK inhibitors",
+    "RET inhibitors",
+    "BRAF/MEK inhibitors",
+    "EGFR TKIs"
+   ],
+   "e": "",
+   "s": "หน้า 4"
+  },
+  {
+   "t": "Early-stage",
+   "q": "ลักษณะใดเป็นความเสี่ยงสูงของ stage I NSCLC",
+   "a": "ก้อนใหญ่ > 4 cm, LVI, poorly differentiated หรือ visceral pleural involvement",
+   "w": [
+    "ก้อนเล็ก < 1 cm และเซลล์ well differentiated",
+    "ไม่มี LVI และ margin ชัดเจน",
+    "ผู้ป่วยอายุน้อยกว่า 30 ปี",
+    "ไม่เคยสูบบุหรี่เลย"
+   ],
+   "e": "",
+   "s": "หน้า 5"
+  },
+  {
+   "t": "Early-stage",
+   "q": "ผู้ป่วยที่มี residual disease หลังผ่าตัด (R1/R2) รักษาเพิ่มอย่างไร",
+   "a": "รังสีรักษาร่วมกับเคมีบำบัดสูตร platinum",
+   "w": [
+    "เฝ้าสังเกตอย่างเดียว",
+    "ฮอร์โมนบำบัด",
+    "ผ่าตัดซ้ำทุกราย โดยไม่ให้ยา",
+    "immunotherapy เดี่ยว 1 ครั้ง"
+   ],
+   "e": "",
+   "s": "หน้า 5"
+  },
+  {
+   "t": "Early-stage",
+   "q": "Selpercatinib ใช้เสริมหลังผ่าตัดในผู้ป่วยที่มี biomarker ใด",
+   "a": "RET fusion-positive stage IB–IIIA",
+   "w": [
+    "EGFR exon 19 deletion",
+    "ALK rearrangement",
+    "KRAS G12C",
+    "MET exon 14 skipping"
+   ],
+   "e": "",
+   "s": "หน้า 5"
+  },
+  {
+   "t": "ALK/ROS1",
+   "q": "Crizotinib ยับยั้งไคเนสใดบ้าง",
+   "a": "ALK, ROS1 และ MET",
+   "w": [
+    "EGFR, HER2 และ HER3",
+    "BRAF, MEK และ ERK",
+    "RET, NTRK และ FGFR",
+    "VEGFR, PDGFR และ KIT"
+   ],
+   "e": "",
+   "s": "หน้า 8"
+  },
+  {
+   "t": "ALK/ROS1",
+   "q": "Lorlatinib (รุ่นที่ 3) มีจุดเด่นและข้อควรระวังอย่างไร",
+   "a": "เพิ่ม intracranial response แต่มีผลข้างเคียงทางระบบประสาท",
+   "w": [
+    "ไม่เข้าสมองและไม่มีผลข้างเคียง",
+    "ใช้เฉพาะ EGFR mutation",
+    "ทำให้เกิด hemorrhagic cystitis",
+    "ต้องให้ร่วมกับ mesna"
+   ],
+   "e": "",
+   "s": "หน้า 8"
+  },
+  {
+   "t": "EGFR",
+   "q": "Afatinib และ dacomitinib เป็น EGFR TKI รุ่นใด และจับแบบใด",
+   "a": "รุ่นที่ 2 จับแบบ irreversible",
+   "w": [
+    "รุ่นที่ 1 จับแบบ reversible",
+    "รุ่นที่ 3 จำเพาะต่อ T790M",
+    "เป็น mAb ที่จับนอกเซลล์",
+    "เป็น ALK inhibitor"
+   ],
+   "e": "",
+   "s": "หน้า 9"
+  },
+  {
+   "t": "EGFR",
+   "q": "EGFR TKI รุ่นที่ 3 มีจุดเด่นอย่างไรตามสไลด์",
+   "a": "ลด IC50 ต่อ EGFR mutant เพิ่ม IC50 ต่อ wild-type และเข้า CNS ได้ดี",
+   "w": [
+    "ยับยั้ง wild-type มากกว่า mutant",
+    "ไม่เข้าสมอง",
+    "จับ reversible เหมือนรุ่นที่ 1",
+    "ใช้เฉพาะ ALK rearrangement"
+   ],
+   "e": "",
+   "s": "หน้า 9"
+  },
+  {
+   "t": "BRAF",
+   "q": "Dabrafenib ร่วมกับ trametinib ใช้กับการกลายพันธุ์ใด",
+   "a": "BRAF V600E",
+   "w": [
+    "EGFR L858R",
+    "KRAS G12C",
+    "ALK fusion",
+    "RET fusion"
+   ],
+   "e": "พิษที่พบ: ค่าเอนไซม์ตับสูง",
+   "s": "หน้า 9"
+  },
+  {
+   "t": "Immunotherapy",
+   "q": "การศึกษา IMpower150 ศึกษาสูตรใด",
+   "a": "Atezolizumab ร่วมกับ carboplatin/paclitaxel ± bevacizumab",
+   "w": [
+    "Osimertinib เดี่ยว",
+    "Cetuximab ร่วมกับ cisplatin",
+    "Alectinib เดี่ยว",
+    "Docetaxel เดี่ยว"
+   ],
+   "e": "",
+   "s": "หน้า 10"
+  },
+  {
+   "t": "Immunotherapy",
+   "q": "การจัดการ interstitial lung disease (ILD) จากยาคืออะไร",
+   "a": "Prednisolone 1–2 mg/kg/day แล้วลดขนาดลงทีละน้อย",
+   "w": [
+    "ให้ยาปฏิชีวนะอย่างเดียว",
+    "เพิ่มขนาดยาเดิมเป็นสองเท่า",
+    "ให้ออกซิเจนอย่างเดียวโดยไม่ใช้ steroid",
+    "หยุดทุกอย่างและไม่ต้องติดตาม"
+   ],
+   "e": "",
+   "s": "หน้า 10–11"
+  },
+  {
+   "t": "Immunotherapy",
+   "q": "Pseudo-progression ใน immunotherapy ควรทำอย่างไร",
+   "a": "ประเมินซ้ำที่ประมาณ 4 สัปดาห์ด้วย immune-related response criteria",
+   "w": [
+    "หยุดยาถาวรทันที",
+    "เพิ่มขนาด ICI ทันที",
+    "เปลี่ยนเป็นเคมีบำบัดสูตรใหม่ทันที",
+    "ถือว่าโรคลุกลามเสมอ"
+   ],
+   "e": "",
+   "s": "หน้า 11"
+  },
+  {
+   "t": "Chemotherapy",
+   "q": "Folic acid ก่อนใช้ pemetrexed ให้เริ่มและหยุดเมื่อใด",
+   "a": "เริ่ม 7 วันก่อน และให้ต่อ 21 วันหลังยา",
+   "w": [
+    "เริ่มพร้อมยาและหยุดวันเดียวกัน",
+    "เริ่ม 21 วันก่อนและหยุด 7 วันหลัง",
+    "ให้เฉพาะวันที่ให้ยา",
+    "ไม่ต้องให้เลย"
+   ],
+   "e": "",
+   "s": "หน้า 12"
+  },
+  {
+   "t": "Chemotherapy",
+   "q": "Vitamin B12 สำหรับ pemetrexed ให้อย่างไร",
+   "a": "1,000 mcg IM เริ่ม 7 วันก่อน แล้วทุก 3 รอบ",
+   "w": [
+    "1,000 mcg IM ทุกวัน",
+    "100 mcg IV ทุกสัปดาห์",
+    "10,000 mcg PO เดือนละครั้ง",
+    "ไม่ต้องให้"
+   ],
+   "e": "",
+   "s": "หน้า 12"
+  },
+  {
+   "t": "Maintenance",
+   "q": "สูตร continuous maintenance ที่สไลด์ระบุคือข้อใด",
+   "a": "Pembrolizumab ร่วมกับ pemetrexed",
+   "w": [
+    "Cisplatin ร่วมกับ docetaxel",
+    "Osimertinib ร่วมกับ bevacizumab",
+    "Erlotinib ร่วมกับ afatinib",
+    "Radiotherapy ร่วมกับ cetuximab"
+   ],
+   "e": "",
+   "s": "หน้า 14"
+  }
+ ]
+}
