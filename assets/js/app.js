@@ -1,11 +1,11 @@
-import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=26";
-import { route, navigate, start } from "./router.js?v=26";
-import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=26";
-import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=26";
-import { officeHtml } from "./office.js?v=26";
-import { initFx } from "./fx.js?v=26";
-import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=26";
-import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=26";
+import { $, $$, esc, shuffle, pad2, fmtTime, stripHtml, sciHtml, placeholder, openLightbox, closeLightbox } from "./util.js?v=27";
+import { route, navigate, start } from "./router.js?v=27";
+import { getState, recordResult, saveSetup, averagePct } from "./storage.js?v=27";
+import { TOPICS, TOPIC_KEYS, makeMcqQuestions, buildMcq } from "./quiz-mcq.js?v=27";
+import { officeHtml } from "./office.js?v=27";
+import { initFx } from "./fx.js?v=27";
+import { makeQcQuestions, buildQc } from "./quiz-qc.js?v=27";
+import { DIFFICULTY, makeSpellQuestions, buildSpell, mountSpell } from "./quiz-spelling.js?v=27";
 
 // เปิด/ปิดการทำข้อสอบ: false = ปิดเฉพาะส่วนทำข้อสอบ (ทบทวน/เฉลย/เคล็ดลับยังใช้ได้)
 const EXAM_OPEN = true;
@@ -20,6 +20,7 @@ let R2 = null;
 let TP = null;
 let CP = null;
 let T2 = null;
+let C2 = null;
 const qcById = new Map();
 const byId = new Map();
 let session = null; // { cfg, qs, i, results, t0, saved }
@@ -52,6 +53,8 @@ async function loadData() {
     for (const f of CP.files) qcById.set(f.id, f);
     T2 = await (await fetch("./data/t2.json", { cache: "no-cache" })).json();
     for (const f of T2.files) qcById.set(f.id, f);
+    C2 = await (await fetch("./data/c2.json", { cache: "no-cache" })).json();
+    for (const f of C2.files) qcById.set(f.id, f);
   } catch (e) {
     PG = { files: [] };
     RG = { files: [] };
@@ -59,6 +62,7 @@ async function loadData() {
     TP = { files: [] };
     CP = { files: [] };
     T2 = { files: [] };
+    C2 = { files: [] };
   }
   for (const lab of DATA.labs) {
     for (const p of lab.plants) {
@@ -197,6 +201,7 @@ function officeData() {
   const tpKeys = TP.files.map((f) => f.id);
   const cpKeys = CP.files.map((f) => f.id);
   const t2Keys = T2.files.map((f) => f.id);
+  const c2Keys = C2.files.map((f) => f.id);
   const room = (key, short, title, href, tone, meta, keys) => {
     const b = bests(keys);
     return { key, short, title, href, tone, meta, avg: mean(b), state: stateOf(b) };
@@ -207,7 +212,7 @@ function officeData() {
     room("pg", "วิชา 3 · เภสัชเวท", "Pharmacognosy", "#/pg", "green", `${PG.files.length} ชุด`, pgKeys),
     room("rg", "วิชา 4 · R&D", "R&D ยา ชุด 1 และ 2", "#/rg", "violet", `2 ชุด · ${RG.files.length + R2.files.length} ไฟล์`, [...rgKeys, ...r2Keys]),
   ];
-  const allKeys = [...labKeys, ...qcKeys, ...pgKeys, ...rgKeys, ...r2Keys, ...tpKeys, ...t2Keys, ...cpKeys];
+  const allKeys = [...labKeys, ...qcKeys, ...pgKeys, ...rgKeys, ...r2Keys, ...tpKeys, ...t2Keys, ...cpKeys, ...c2Keys];
   const attempted = bests(allKeys);
   const weak = allKeys.filter((k) => st.best[k] !== undefined && st.best[k] < PASS_PCT).length;
   const banner = weak
@@ -233,6 +238,7 @@ function officeData() {
     ...barOf(cpKeys, "C", "cyan", (k) => (open ? `#/cp/${k}/all` : `#/cp/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
     ...barOf(tpKeys, "T", "blue", (k) => (open ? `#/tp/${k}/all` : `#/tp/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
     ...barOf(t2Keys, "U", "blue", (k) => (open ? `#/t2/${k}/all` : `#/t2/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
+    ...barOf(c2Keys, "D", "cyan", (k) => (open ? `#/c2/${k}/all` : `#/c2/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
     ...barOf(r2Keys, "S", "violet", (k) => (open ? `#/r2/${k}/all` : `#/r2/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
     ...barOf(rgKeys, "R", "violet", (k) => (open ? `#/rg/${k}/all` : `#/rg/${k}/key`), (k) => (st.best[k] === undefined ? "ใหม่" : `${st.best[k]}%`), (k) => setName(k)),
   ];
@@ -252,6 +258,7 @@ function officeData() {
       { icon: "✚", label: "วิชา 5 · Therapy 3", href: "#/tp" },
       { icon: "✚", label: "วิชา 5 · Therapy 3 ชุด 2", href: "#/t2" },
       { icon: "⚗", label: "วิชา 6 · Ceutic 1", href: "#/cp" },
+      { icon: "⚗", label: "วิชา 6 · Ceutic 1 ชุด 2", href: "#/c2" },
       { icon: "◎", label: "ทบทวนพืช / เฉลย", href: "#/review" },
       { icon: "✦", label: "เคล็ดลับข้อสอบ", href: "#/tips" },
       { icon: "≡", label: "รายชื่อชุดข้อสอบ", href: "#/labs" },
@@ -270,6 +277,7 @@ function homeView() {
     <section class="wrap section" id="cp"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 6</span><h2>Ceutic 1 (เภสัชภัณฑ์ 1)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จาก 6 หัวข้อ (ยาน้ำใส 1–2, Herbal liquid solutions, Stability and shelf life, QC และเอกสาร, บรรจุภัณฑ์)</p></div>${setCards("cp")}</section>
     <section class="wrap section" id="tp"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 5</span><h2>Therapy 3 (เภสัชบำบัด 3)</h2><p class="dim">ปรนัย 5 ตัวเลือก ไฟล์ละ 20 ข้อ จาก 13 หัวข้อ (GU, หลักการมะเร็ง, Supportive care, ยาเคมีบำบัด, Targeted/Immuno/Hormonal, มะเร็งลำไส้ ปอด ปากมดลูก เต้านม, SSTI, SLE/LN, โรคเขตร้อน)</p></div>${setCards("tp")}</section>
     <section class="wrap section" id="t2"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 5 · ชุดที่ 2</span><h2>Therapy 3 — ข้อสอบชุดที่ 2</h2><p class="dim">ข้อสอบอีกชุด 13 ไฟล์ ไฟล์ละ 20 ข้อ ตัวเลือกออกให้ใกล้เคียงโจทย์ และเฉลยบอกหน้าสไลด์ที่อ้างอิง</p></div>${setCards("t2")}</section>
+    <section class="wrap section" id="c2"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 6 · ชุดที่ 2</span><h2>Ceutic 1 — ข้อสอบชุดที่ 2</h2><p class="dim">ข้อสอบอีกชุด 6 ไฟล์ ไฟล์ละ 20 ข้อ เฉลยบอกหน้าสไลด์ที่อ้างอิง</p></div>${setCards("c2")}</section>
     <section class="wrap section" id="r2"><div class="sec-head"><span class="chip"><i class="dot"></i>วิชา 4 · ชุดที่ 2</span><h2>R&D ยา — ข้อสอบชุดที่ 2</h2><p class="dim">ข้อสอบอีกชุดหนึ่ง 7 ไฟล์ ไฟล์ละ 20 ข้อ (ไฟล์ 6 และ 7 ออกตามจุดที่อาจารย์เน้น)</p></div>${setCards("r2")}</section>
     <section class="wrap section"><div class="tip-teaser reveal" data-tilt="3"><h2>เคล็ดลับข้อสอบ</h2><p class="dim">คำถามที่อาจารย์ชอบออก และพืชที่ต้องเพ่งเล็งเป็นพิเศษ</p>${arrowLink("ดูเคล็ดลับ", "#/tips", "btn-ghost")}</div></section>`,
     { nav: "" }
@@ -640,6 +648,7 @@ const SETS = {
   cp: { no: 6, prefix: "CP", title: "วิชา Ceutic 1 (เภสัชภัณฑ์ 1)", short: "วิชา 6 Ceutic 1", get: () => CP },
   tp: { no: 5, prefix: "TP", title: "วิชา Therapy 3 (เภสัชบำบัด 3)", short: "วิชา 5 Therapy 3", get: () => TP },
   t2: { no: 5, prefix: "T2", title: "วิชา Therapy 3 — ชุดที่ 2", short: "วิชา 5 Therapy 3 ชุด 2", get: () => T2 },
+  c2: { no: 6, prefix: "C2", title: "วิชา Ceutic 1 — ชุดที่ 2", short: "วิชา 6 Ceutic 1 ชุด 2", get: () => C2 },
   r2: { no: 4, prefix: "R2", title: "วิชา R&D ยา — ชุดที่ 2", short: "วิชา 4 R&D ชุด 2", get: () => R2 },
 };
 const setOfFile = (f) => f.id.slice(0, 2);
@@ -665,7 +674,7 @@ function setCards(key) {
 }
 
 function examSwitch(key) {
-  const pair = key === "rg" || key === "r2" ? ["rg", "r2"] : key === "tp" || key === "t2" ? ["tp", "t2"] : null;
+  const pair = key === "rg" || key === "r2" ? ["rg", "r2"] : key === "tp" || key === "t2" ? ["tp", "t2"] : key === "cp" || key === "c2" ? ["cp", "c2"] : null;
   if (!pair) return "";
   return `<nav class="set-tabs exam-switch" aria-label="เลือกข้อสอบชุดที่"><a href="#/${pair[0]}" class="${key === pair[0] ? "on" : ""}">ข้อสอบชุดที่ 1</a><a href="#/${pair[1]}" class="${key === pair[1] ? "on" : ""}">ข้อสอบชุดที่ 2</a></nav>`;
 }

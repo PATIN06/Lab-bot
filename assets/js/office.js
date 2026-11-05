@@ -1,5 +1,5 @@
 // หน้าแรกแบบ "ออฟฟิศไอโซเมตริก" — วาดด้วย SVG/CSS ล้วน ไม่มีไฟล์ภาพ
-import { esc } from "./util.js?v=26";
+import { esc } from "./util.js?v=27";
 
 const TONES = {
   blue: { top: "#1b3d6b", left: "#112b4c", right: "#0b1e36", edge: "#52a8ff", screen: "#7cc0ff" },
