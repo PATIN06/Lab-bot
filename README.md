@@ -107,3 +107,9 @@ python3 -m http.server 8000
 - 6 ไฟล์ × 20 ข้อ = 120 ข้อ ข้อมูลที่ `scripts/c2/NN.json` → `python3 scripts/build_c2.py` สร้าง `data/c2.json`
 - ทุกข้อมีฟิลด์ `s` = หน้าสไลด์อ้างอิง (เหมือนชุด Therapy 3 ชุดที่ 2)
 - หน้า: `#/c2`, `#/c2/<id>`, `#/c2/<id>/all`, `#/c2/<id>/key`
+
+## Lab Therapy 3 — ข้อสอบจากเคสผู้ป่วย (`tl`)
+
+- 8 ไฟล์ (GU, Cancer 1.1, 1.2, 2, 3, SSTI, SLE, Tropical) รวม 102 ข้อ ข้อมูลที่ `scripts/tl/NN.json` → `python3 scripts/build_tl.py` สร้าง `data/tl.json`
+- โจทย์ระบุข้อมูลผู้ป่วยในตัวข้อ เฉลยอ้างอิงใบงาน (Lab) และสไลด์บรรยาย (ฟิลด์ `s`) คำอธิบายเต็มอยู่ในช่อง `e`
+- หน้า: `#/tl`, `#/tl/<id>`, `#/tl/<id>/all`, `#/tl/<id>/key`

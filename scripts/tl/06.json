@@ -1,0 +1,164 @@
+{
+ "id": "tl06",
+ "no": 6,
+ "title": "Lab SSTI (เคสผู้ป่วย)",
+ "file": "",
+ "questions": [
+  {
+   "t": "Impetigo",
+   "q": "ชายไทยอายุ 20 ปี ไม่มีโรคประจำตัว แพ้ penicillin แบบ anaphylactic shock 3 วันก่อนถูกแมลงกัดเหนือริมฝีปาก เกา/แกะจนเป็นตุ่มหนอง วันนี้ตุ่มแตกเป็นสะเก็ดหนาสีเหลืองติดแน่น ข้อใดเป็นการวินิจฉัยและเชื้อก่อโรคที่เป็นไปได้มากที่สุด",
+   "a": "Nonbullous impetigo (epidermis) จาก S. aureus ± GAS",
+   "w": [
+    "Folliculitis ชั้น hair follicle เกิดจาก Pseudomonas aeruginosa เป็นหลัก",
+    "Erysipelas ชั้น upper dermis เกิดจาก group A streptococcus เท่านั้น",
+    "Cellulitis ชั้น subcutaneous เกิดจาก Clostridium perfringens",
+    "Necrotizing fasciitis ชั้น fascia เกิดจากเชื้อผสม anaerobe"
+   ],
+   "e": "คำตอบเต็ม: Nonbullous impetigo (crusted) ชั้น epidermis เกิดจาก S. aureus ± group A streptococcus",
+   "s": "ใบงาน SSTI หน้า 5–6; สไลด์ SSTI หน้า 12, 34"
+  },
+  {
+   "t": "Impetigo",
+   "q": "ชายไทยอายุ 20 ปี ไม่มีโรคประจำตัว แพ้ penicillin แบบ anaphylactic shock 3 วันก่อนถูกแมลงกัดเหนือริมฝีปาก เกา/แกะจนเป็นตุ่มหนอง วันนี้ตุ่มแตกเป็นสะเก็ดหนาสีเหลืองติดแน่น การเลือกยาที่เหมาะสมที่สุดสำหรับผู้ป่วยรายนี้คือข้อใด",
+   "a": "Mupirocin ทาเฉพาะที่ 5 วัน เลี่ยงกลุ่ม penicillin",
+   "w": [
+    "Dicloxacillin กินนาน 7 วัน เพราะครอบคลุม S. aureus ได้ดีที่สุด",
+    "Amoxicillin/clavulanate กินนาน 7 วัน เพราะครอบคลุมทั้ง S. aureus และ streptococcus",
+    "Ceftriaxone IV นาน 14 วัน เพราะรอยโรคอยู่ใกล้ใบหน้า",
+    "Metronidazole กินนาน 7 วัน เพราะครอบคลุมเชื้อแอนแอโรบ"
+   ],
+   "e": "คำตอบเต็ม: Mupirocin ทาเฉพาะที่ 5 วัน (รอยโรคจำกัด) และเลี่ยงยากลุ่ม penicillin เพราะแพ้ anaphylaxis",
+   "s": "ใบงาน SSTI หน้า 5–6; สไลด์ SSTI หน้า 36, 56"
+  },
+  {
+   "t": "Impetigo",
+   "q": "ชายไทยอายุ 20 ปี ไม่มีโรคประจำตัว แพ้ penicillin แบบ anaphylactic shock 3 วันก่อนถูกแมลงกัดเหนือริมฝีปาก เกา/แกะจนเป็นตุ่มหนอง วันนี้ตุ่มแตกเป็นสะเก็ดหนาสีเหลืองติดแน่น คำแนะนำเพื่อป้องกันแพร่กระจายและติดตามผลที่เหมาะสมคือข้อใด",
+   "a": "ห้ามแกะเกา ล้างมือ ตัดเล็บ และพบแพทย์หากลาม",
+   "w": [
+    "แกะสะเก็ดออกให้หมดเพื่อให้ยาซึมเข้าผิวได้ดี",
+    "ใช้ผ้าเช็ดตัวร่วมกับครอบครัวเพื่อประหยัด",
+    "ปิดแผลด้วยพลาสเตอร์กันน้ำทึบตลอด 7 วันโดยไม่ต้องเปิด",
+    "หยุดยาทันทีเมื่อรอยโรคเริ่มดีขึ้นใน 1 วัน"
+   ],
+   "e": "คำตอบเต็ม: ห้ามแกะเกา ล้างมือ ตัดเล็บสั้น แยกผ้าเช็ดตัว และพบแพทย์หากรอยโรคลามหรือไม่ตอบสนองใน 2–3 วัน",
+   "s": "ใบงาน SSTI หน้า 6; สไลด์ SSTI หน้า 34–36"
+  },
+  {
+   "t": "Folliculitis",
+   "q": "ชายไทยอายุ 45 ปี HTN ขายผักในตลาดสด ไม่แพ้ยา มีตุ่มนูนแดงหลายตำแหน่งที่หน้าอกและหลัง บางตุ่มเป็นหนองคล้ายสิว หลังเหงื่อออกมากและเกา ไม่มีไข้ การวินิจฉัยและเชื้อสาเหตุที่เป็นไปได้มากที่สุดคือข้อใด",
+   "a": "Folliculitis (purulent SSTI ตื้น) จาก S. aureus",
+   "w": [
+    "Erysipelas เกิดจาก group A streptococcus เท่านั้น",
+    "Necrotizing fasciitis type I เกิดจากเชื้อผสม aerobe/anaerobe",
+    "Cellulitis เกิดจาก Pasteurella multocida จากสัตว์กัด",
+    "Impetigo bullous เกิดจาก S. aureus phage group II เท่านั้น"
+   ],
+   "e": "คำตอบเต็ม: Folliculitis (purulent SSTI ระดับตื้น) เกิดจาก S. aureus เป็นหลัก",
+   "s": "ใบงาน SSTI หน้า 6–7; สไลด์ SSTI หน้า 27, 56"
+  },
+  {
+   "t": "Folliculitis",
+   "q": "ชายไทยอายุ 45 ปี HTN ขายผักในตลาดสด ไม่แพ้ยา มีตุ่มนูนแดงหลายตำแหน่งที่หน้าอกและหลัง บางตุ่มเป็นหนองคล้ายสิว หลังเหงื่อออกมากและเกา ไม่มีไข้ แนวทางการรักษาและคำแนะนำที่เหมาะสมที่สุดคือข้อใด",
+   "a": "ดูแลผิว ใส่เสื้อไม่รัด ใช้ยากินเมื่อมีอาการทางระบบ",
+   "w": [
+    "ให้ vancomycin IV ทุกรายเพราะต้องครอบคลุม MRSA",
+    "ให้ยาปฏิชีวนะกินนาน 14 วันทุกรายแม้รอยโรคเล็ก",
+    "ให้ steroid ทาเพื่อลดคันและไม่ต้องรักษาการติดเชื้อ",
+    "ผ่าตัดระบายหนองทุกตุ่มโดยไม่ต้องดูแลผิวหนัง"
+   ],
+   "e": "คำตอบเต็ม: รักษาแบบเฉพาะที่/ดูแลผิว ใส่เสื้อผ้าไม่รัด ทำความสะอาดผิว ใช้ยาปฏิชีวนะกินเมื่อมีอาการทางระบบหรือรอยโรคกว้างมาก",
+   "s": "ใบงาน SSTI หน้า 7; สไลด์ SSTI หน้า 29–31"
+  },
+  {
+   "t": "DFI",
+   "q": "หญิงไทยอายุ 80 ปี 50 kg DM (HbA1c 8.0), HTN, Alzheimer's ซึมลง 9 ชั่วโมง แผลกดทับ grade III ที่นิ้วโป้งและหลังเท้าขวาหนองและเหม็น บวมแดงที่หน้าแข้ง BT 38.0°C HR 84 RR 22 BP 138/60 WBC 21,900 (PMN 89%) lactate 2.35 CrCl 35 mL/min albumin 2.07 ข้อมูลผู้ป่วยข้อใดทำให้จัดความรุนแรงของ diabetes-related foot infection เป็น severe (SIRS ≥2 ข้อ)",
+   "a": "RR 22 (>20) และ WBC 21,900 (>12,000)",
+   "w": [
+    "BT 38.0°C และ HR 84 (เกินเกณฑ์ SIRS ทั้งสองข้อ)",
+    "BP 138/60 และ O₂ sat 96% (ผิดปกติตามเกณฑ์ SIRS)",
+    "Hb 9.5 และ albumin 2.07 (เป็นเกณฑ์ SIRS)",
+    "Plt 475 และ CrCl 35 (เป็นเกณฑ์ SIRS)"
+   ],
+   "e": "",
+   "s": "ใบงาน SSTI หน้า 9–12; สไลด์ SSTI หน้า 69–70"
+  },
+  {
+   "t": "DFI",
+   "q": "หญิงไทยอายุ 80 ปี 50 kg DM (HbA1c 8.0), HTN, Alzheimer's ซึมลง 9 ชั่วโมง แผลกดทับ grade III ที่นิ้วโป้งและหลังเท้าขวาหนองและเหม็น บวมแดงที่หน้าแข้ง BT 38.0°C HR 84 RR 22 BP 138/60 WBC 21,900 (PMN 89%) lactate 2.35 CrCl 35 mL/min albumin 2.07 เภสัชกรควรวิจารณ์ empirical therapy piperacillin/tazobactam 4.5 g IV extended infusion q 8 h อย่างไร",
+   "a": "เหมาะสม ครอบคลุม gram-negative/Pseudomonas และแอนแอโรบ",
+   "w": [
+    "ไม่เหมาะสมเพราะไม่ครอบคลุม anaerobe ทั้งหมด",
+    "ไม่เหมาะสมเพราะ pip/tazo ใช้กับ MRSA เป็นหลัก",
+    "ไม่เหมาะสมเพราะควรให้ ceftriaxone ครั้งเดียวต่อวัน",
+    "ไม่เหมาะสมเพราะผู้ป่วยแพ้ penicillin"
+   ],
+   "e": "คำตอบเต็ม: เหมาะสมเพราะครอบคลุม MSSA/MRSA ไม่ได้แต่ครอบคลุม gram-negative (รวม Pseudomonas) และ anaerobe ในแผลเนื้อตาย",
+   "s": "ใบงาน SSTI หน้า 11–12; สไลด์ SSTI หน้า 73–75"
+  },
+  {
+   "t": "DFI",
+   "q": "เมื่อ tissue culture ผู้ป่วย DFI รายเดิมพบ S. aureus (oxacillin S, penicillin R, clindamycin S, TMP-SMX S) แพทย์เปลี่ยนเป็น cloxacillin 2 g IV q 6 h เหมาะสมหรือไม่",
+   "a": "เหมาะสม เพราะเป็น MSSA และใช้ยาแคบตรงเชื้อ",
+   "w": [
+    "ไม่เหมาะสม เพราะเป็น MRSA ต้องใช้ vancomycin",
+    "ไม่เหมาะสม เพราะ penicillin R แสดงว่ายากลุ่มเพนนิซิลลินทั้งหมดใช้ไม่ได้",
+    "ไม่เหมาะสม เพราะควรเพิ่ม meropenem เพื่อครอบคลุม ESBL",
+    "ไม่เหมาะสม เพราะควรเปลี่ยนเป็นยากินทันทีโดยไม่ต้องให้ยาฉีด"
+   ],
+   "e": "คำตอบเต็ม: เหมาะสม เพราะเป็น MSSA และ cloxacillin เป็น penicillinase-stable penicillin ที่แคบและตรงเชื้อ",
+   "s": "ใบงาน SSTI หน้า 12–13; สไลด์ SSTI หน้า 73"
+  },
+  {
+   "t": "DFI",
+   "q": "ผู้ป่วย DFI รายเดิม (MSSA, CrCl 35 mL/min) หลังผ่าตัดอาการดีขึ้นและต้องการกลับบ้าน ข้อใดเป็นยากินทางเลือกที่เหมาะสม",
+   "a": "Amoxicillin/clavulanate, cephalexin หรือ clindamycin",
+   "w": [
+    "Ciprofloxacin เดี่ยวเพราะผ่านเข้าเนื้อเยื่อได้ดีที่สุด",
+    "Metronidazole เดี่ยวเพราะครอบคลุมเชื้อเนื้อตาย",
+    "Vancomycin กินเพราะครอบคลุม MSSA ได้ดี",
+    "Azithromycin 3 วันเพราะสะดวกและทนยาได้ดี"
+   ],
+   "e": "คำตอบเต็ม: Amoxicillin/clavulanate หรือ cephalexin หรือ clindamycin ตามผลเพาะเชื้อ โดยปรับตามไตและความร่วมมือ",
+   "s": "ใบงาน SSTI หน้า 13; สไลด์ SSTI หน้า 73–75"
+  },
+  {
+   "t": "Antibiogram",
+   "q": "ยาใดมีฤทธิ์ต่อ MRSA ตามตารางความไวในใบงาน",
+   "a": "Vancomycin และ linezolid",
+   "w": [
+    "Dicloxacillin และ cloxacillin",
+    "Cephalexin และ ceftriaxone",
+    "Amoxicillin/clavulanate และ penicillin",
+    "Metronidazole และ cefixime"
+   ],
+   "e": "คำตอบเต็ม: Vancomycin และ linezolid (และ co-trimoxazole ความไว ~82%)",
+   "s": "ใบงาน SSTI หน้า 18–20"
+  },
+  {
+   "t": "Antibiogram",
+   "q": "ยาใดครอบคลุม Pseudomonas aeruginosa ตามตารางความไวในใบงาน",
+   "a": "Pip/tazo, ceftazidime, cefepime, meropenem",
+   "w": [
+    "Ceftriaxone, cefixime และ ertapenem",
+    "Amoxicillin, cephalexin และ dicloxacillin",
+    "Clindamycin, erythromycin และ metronidazole",
+    "Vancomycin, linezolid และ doxycycline"
+   ],
+   "e": "คำตอบเต็ม: Piperacillin/tazobactam, ceftazidime, cefepime และ meropenem",
+   "s": "ใบงาน SSTI หน้า 18–20"
+  },
+  {
+   "t": "Antibiogram",
+   "q": "ยาใดครอบคลุมเฉพาะเชื้อแอนแอโรบและไม่ครอบคลุม S. aureus ตามตารางความไว",
+   "a": "Metronidazole",
+   "w": [
+    "Clindamycin ซึ่งไม่ครอบคลุม MSSA",
+    "Amoxicillin/clavulanate ซึ่งไม่ครอบคลุมแอนแอโรบ",
+    "Cephalexin ซึ่งครอบคลุมทั้ง MRSA และแอนแอโรบ",
+    "Linezolid ซึ่งครอบคลุม gram-negative ทุกชนิด"
+   ],
+   "e": "",
+   "s": "ใบงาน SSTI หน้า 18–20"
+  }
+ ]
+}

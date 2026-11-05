@@ -1,0 +1,151 @@
+{
+ "id": "tl05",
+ "no": 5,
+ "title": "Lab Cancer 3",
+ "file": "",
+ "questions": [
+  {
+   "t": "Breast",
+   "q": "ผู้ป่วยหญิง 62 ปี หมดประจำเดือน มะเร็งเต้านมระยะแพร่กระจายที่ตับและกระดูก เคยได้ trastuzumab + pertuzumab + docetaxel เป็นสูตรแรกแล้วโรคลุกลามหลัง 18 เดือน ECOG 1 biopsy ตับใหม่ ER+ (80%) HER2 IHC 3+ สูตรการรักษาลำดับที่สองที่แนะนำตาม NCCN คือข้อใด",
+   "a": "Fam-trastuzumab deruxtecan-nxki (T-DXd) ซึ่งเป็น ADC ต่อ HER2",
+   "w": [
+    "Trastuzumab + pertuzumab + docetaxel ซ้ำอีกครั้งเพราะ HER2 ยังเป็นบวก",
+    "Tamoxifen เดี่ยวเพราะ ER-positive และหมดประจำเดือนแล้ว",
+    "Olaparib เดี่ยวเพราะผู้ป่วยมีโรคแพร่กระจายไปตับและกระดูก",
+    "Pembrolizumab เดี่ยวเพราะ HER2 IHC 3+ แสดงว่าตอบสนองภูมิคุ้มกัน"
+   ],
+   "e": "",
+   "s": "ใบงาน Cancer 3 หน้า 1; สไลด์ Breast หน้า 14, 20"
+  },
+  {
+   "t": "Breast",
+   "q": "ผู้ป่วยหญิง 62 ปี หมดประจำเดือน มะเร็งเต้านมระยะแพร่กระจายที่ตับและกระดูก เคยได้ trastuzumab + pertuzumab + docetaxel เป็นสูตรแรกแล้วโรคลุกลามหลัง 18 เดือน ECOG 1 biopsy ตับใหม่ ER+ (80%) HER2 IHC 3+ เหตุใด T-DXd จึงมีประสิทธิภาพสูงกว่า antibody ล้วน และ bystander effect คืออะไร",
+   "a": "ADC ปล่อย DXd แพร่ไปทำลายเซลล์ข้างเคียงที่ HER2 ต่ำ",
+   "w": [
+    "ADC จับ HER2 แล้วปล่อยยาที่ไม่ผ่านเยื่อหุ้มเซลล์จึงทำลายเฉพาะเซลล์เป้าหมาย",
+    "ADC ยับยั้ง CDK4/6 ในเซลล์ข้างเคียงผ่านการแพร่ผ่านเลือด",
+    "ADC กระตุ้น T cell ให้ทำลายเซลล์ข้างเคียงผ่านการปล่อยไซโตไคน์",
+    "ADC ทำให้ผู้ป่วยสร้างแอนติบอดีต่อ HER2 มากขึ้นเองโดยไม่ต้องใช้ยา"
+   ],
+   "e": "คำตอบเต็ม: ADC ปล่อย DXd (topoisomerase I inhibitor) ในเซลล์ และ DXd แพร่ไปทำลายเซลล์ข้างเคียงที่แสดง HER2 ต่ำได้",
+   "s": "ใบงาน Cancer 3 หน้า 2; สไลด์ Breast หน้า 14"
+  },
+  {
+   "t": "Breast",
+   "q": "ผู้ป่วยหญิง 62 ปี หมดประจำเดือน มะเร็งเต้านมระยะแพร่กระจายที่ตับและกระดูก เคยได้ trastuzumab + pertuzumab + docetaxel เป็นสูตรแรกแล้วโรคลุกลามหลัง 18 เดือน ECOG 1 biopsy ตับใหม่ ER+ (80%) HER2 IHC 3+ ADR ร้ายแรงของ T-DXd ที่ต้องเฝ้าระวังและคำแนะนำเบื้องต้นคือข้อใด",
+   "a": "ILD/pneumonitis: ไอ/หายใจลำบากให้แจ้ง grade ≥2 หยุดยาและให้ steroid",
+   "w": [
+    "Hand-foot syndrome แนะนำให้ใช้ครีมกันแดดเท่านั้นและให้ยาต่อเสมอ",
+    "Hemorrhagic cystitis แนะนำให้ดื่มน้ำน้อยลงและกลั้นปัสสาวะ",
+    "Peripheral neuropathy แนะนำให้สัมผัสความเย็นเพื่อให้ชินกับอาการ",
+    "Hypertension แนะนำให้งดยาลดความดันทั้งหมดระหว่างให้ยา"
+   ],
+   "e": "คำตอบเต็ม: ILD/pneumonitis แนะนำให้แจ้งเมื่อไอ หายใจลำบาก หรือมีไข้ และ grade ≥2 ต้องหยุดยาและให้ corticosteroid",
+   "s": "ใบงาน Cancer 3 หน้า 2; สไลด์ Breast หน้า 14, 24"
+  },
+  {
+   "t": "NSCLC",
+   "q": "ผู้ป่วยชายอายุ 65 ปี อดีตผู้สูบบุหรี่ Stage IV NSCLC (adenocarcinoma) ECOG 1 ผล biomarker: EGFR ไม่พบ sensitizing mutation, ALK negative, ROS1 negative ข้อมูลใดที่ยังขาดและมีผลต่อการเลือกสูตรแรก (immunotherapy ± chemotherapy)",
+   "a": "ค่า PD-L1 (TPS) เลือกเดี่ยวหรือร่วม platinum",
+   "w": [
+    "ค่า PSA เพื่อเลือกขนาดยาตามปริมาณมะเร็งที่ตรวจพบ",
+    "ค่า HbA1c เพื่อเลือกยาเคมีบำบัดที่ไม่ทำให้น้ำตาลสูง",
+    "ค่า anti-dsDNA เพื่อเลือกยาภูมิคุ้มกันที่เหมาะสมกับผู้ป่วย",
+    "ค่า CA 15-3 เพื่อใช้ตัดสินใจเลือก immunotherapy ชนิดใด"
+   ],
+   "e": "คำตอบเต็ม: ค่า PD-L1 (TPS) ซึ่งใช้เลือกระหว่าง pembrolizumab เดี่ยวกับสูตรร่วมกับ platinum doublet",
+   "s": "ใบงาน Cancer 3 หน้า 3; สไลด์ NSCLC หน้า 4, 10–11"
+  },
+  {
+   "t": "NSCLC",
+   "q": "ผู้ป่วยชายอายุ 65 ปี อดีตผู้สูบบุหรี่ Stage IV NSCLC (adenocarcinoma) ECOG 1 ผล biomarker: EGFR ไม่พบ sensitizing mutation, ALK negative, ROS1 negative หากผล PD-L1 TPS ≥50% สูตรแรกที่เหมาะสมคือข้อใด",
+   "a": "Pembrolizumab เดี่ยว เพราะไม่มี driver mutation",
+   "w": [
+    "Osimertinib เดี่ยวเพราะ EGFR negative แสดงว่าใช้ยานี้ได้",
+    "Alectinib เดี่ยวเพราะ ALK negative จึงตอบสนองดี",
+    "Crizotinib เดี่ยวเพราะ ROS1 negative จึงใช้ยานี้ได้",
+    "Dabrafenib + trametinib เพราะไม่พบ driver mutation ใด ๆ"
+   ],
+   "e": "คำตอบเต็ม: Pembrolizumab เดี่ยวหรือ immunotherapy ที่เหมาะสมตามแนวทาง เพราะไม่มี driver mutation",
+   "s": "ใบงาน Cancer 3 หน้า 3; สไลด์ NSCLC หน้า 10"
+  },
+  {
+   "t": "NSCLC",
+   "q": "ผู้ป่วยรายเดิมได้ immunotherapy 14 เดือนแล้วโรคลุกลาม ctDNA พบ HER2 (ERBB2) exon 20 insertion ยาลำดับที่สองที่เหมาะสมคือข้อใด",
+   "a": "Trastuzumab deruxtecan (หรือ HER2 TKI)",
+   "w": [
+    "Osimertinib เพราะเป็น EGFR TKI รุ่นที่ 3 ที่ครอบคลุมทุก HER2 mutation",
+    "Alectinib เพราะเป็น ALK inhibitor ที่ผ่านสมองได้ดี",
+    "Pembrolizumab ซ้ำเพราะผู้ป่วยตอบสนองมาแล้ว 14 เดือน",
+    "Dabrafenib + trametinib เพราะใช้ได้กับทุก driver ใหม่"
+   ],
+   "e": "คำตอบเต็ม: Trastuzumab deruxtecan (หรือ HER2-targeted TKI เช่น zongertinib/sevabertinib)",
+   "s": "ใบงาน Cancer 3 หน้า 3; สไลด์ NSCLC หน้า 13"
+  },
+  {
+   "t": "irAE",
+   "q": "ผู้ป่วย NSCLC ที่ได้ immune checkpoint inhibitor ควรได้รับคำแนะนำเรื่องอาการใดที่ต้องรายงานทันที",
+   "a": "ปอดอักเสบ ท้องเสีย ตัวเหลือง ต่อมไร้ท่อผิดปกติ",
+   "w": [
+    "เฉพาะอาการผมร่วงเพราะเป็นผลข้างเคียงหลักของยาทุกชนิด",
+    "เฉพาะอาการชาปลายมือปลายเท้าเพราะเกิดทุกราย",
+    "เฉพาะอาการแผลในปากเพราะเกิดบ่อยที่สุดในกลุ่มนี้",
+    "ไม่ต้องรายงานอาการใดเพราะ ICI ปลอดภัยกว่าเคมีบำบัดทุกกรณี"
+   ],
+   "e": "คำตอบเต็ม: หายใจลำบาก/ไอ (pneumonitis) ท้องเสียปวดท้อง (colitis) ตัวเหลือง (hepatitis) และอ่อนเพลียใจสั่น (endocrinopathy)",
+   "s": "ใบงาน Cancer 3 หน้า 3; สไลด์ Targeted therapy หน้า 18–19"
+  },
+  {
+   "t": "Cervical",
+   "q": "ผู้ป่วยหญิง 52 ปี เคยได้ CCRT สำหรับมะเร็งปากมดลูก IIB เมื่อ 2 ปีก่อน ตอนนี้พบก้อนปอดยืนยัน metastatic squamous cell carcinoma จากปากมดลูก PD-L1 CPS = 15 ไม่มีประวัติเลือดออกทางเดินอาหาร ความดันควบคุมได้ ECOG 1 สูตร first-line ที่ preferred ตาม KEYNOTE-826 คือข้อใด",
+   "a": "Pembrolizumab + platinum/paclitaxel ± bevacizumab",
+   "w": [
+    "Pembrolizumab เดี่ยวเพราะ CPS ≥1 จึงไม่ต้องให้เคมีบำบัดร่วมกัน",
+    "Tisotumab vedotin เดี่ยวเพราะเป็น preferred first-line",
+    "Topotecan เดี่ยวเพราะโรคแพร่กระจายไปปอด",
+    "CCRT ซ้ำเพราะเป็นแนวทางหลักของ stage IV"
+   ],
+   "e": "คำตอบเต็ม: Pembrolizumab + platinum/paclitaxel (cisplatin หรือ carboplatin) ± bevacizumab",
+   "s": "ใบงาน Cancer 3 หน้า 4; สไลด์ Cervix หน้า 8, 10"
+  },
+  {
+   "t": "Cervical",
+   "q": "ผู้ป่วยหญิง 52 ปี เคยได้ CCRT สำหรับมะเร็งปากมดลูก IIB เมื่อ 2 ปีก่อน ตอนนี้พบก้อนปอดยืนยัน metastatic squamous cell carcinoma จากปากมดลูก PD-L1 CPS = 15 ไม่มีประวัติเลือดออกทางเดินอาหาร ความดันควบคุมได้ ECOG 1 ถ้าเพิ่ม bevacizumab ในสูตรรักษา เภสัชกรควรแนะนำเรื่องใดเป็นพิเศษ",
+   "a": "เลือดออก ทะลุ/fistula ความดันสูง โปรตีนในปัสสาวะ ลิ่มเลือด",
+   "w": [
+    "เฝ้าระวังเฉพาะ hemorrhagic cystitis จากการสะสมของ acrolein",
+    "เฝ้าระวังเฉพาะ cold-induced neuropathy จากอุณหภูมิ",
+    "เฝ้าระวังเฉพาะ hand-foot syndrome ที่ฝ่ามือและฝ่าเท้า",
+    "ไม่ต้องเฝ้าระวังเรื่องใดเป็นพิเศษ เพราะเป็น mAb จึงปลอดภัยกว่าเคมีบำบัดทั้งหมด"
+   ],
+   "e": "คำตอบเต็ม: เฝ้าระวังเลือดออก ทางเดินอาหารทะลุ/fistula ความดันโลหิตสูง โปรตีนในปัสสาวะ และลิ่มเลือดอุดตัน",
+   "s": "ใบงาน Cancer 3 หน้า 4; สไลด์ Cervix หน้า 10; สไลด์ Targeted therapy หน้า 6"
+  },
+  {
+   "t": "Cervical",
+   "q": "ผู้ป่วยหญิง 52 ปี เคยได้ CCRT สำหรับมะเร็งปากมดลูก IIB เมื่อ 2 ปีก่อน ตอนนี้พบก้อนปอดยืนยัน metastatic squamous cell carcinoma จากปากมดลูก PD-L1 CPS = 15 ไม่มีประวัติเลือดออกทางเดินอาหาร ความดันควบคุมได้ ECOG 1 ก่อนเลือก bevacizumab ต้องประเมินสิ่งใดจากข้อมูลผู้ป่วย",
+   "a": "ไม่มี fistula/เลือดออก/ผ่าตัดใหญ่ และ BP คุมได้",
+   "w": [
+    "ผล HER2 และ BRCA ต้องเป็นบวกทั้งคู่",
+    "ผล PD-L1 CPS ต้องมากกว่า 50 เท่านั้น",
+    "ผู้ป่วยต้องเคยได้ tisotumab vedotin มาก่อนเสมอ",
+    "ผู้ป่วยต้องไม่มี platinum-sensitive disease"
+   ],
+   "e": "คำตอบเต็ม: ไม่มีประวัติ fistula ไม่มีเลือดออกมาก ไม่ผ่าตัดใหญ่เมื่อเร็ว ๆ นี้ และความดันควบคุมได้",
+   "s": "ใบงาน Cancer 3 หน้า 4; สไลด์ Cervix หน้า 10"
+  },
+  {
+   "t": "Cervical",
+   "q": "ผู้ป่วยมะเร็งปากมดลูกระยะแพร่กระจายรายเดิมโรคลุกลามหลังสูตรแรก ยา subsequent-line ที่ preferred คือข้อใด",
+   "a": "Tisotumab vedotin (ADC ต่อ TF) พิษต่อตาและเลือดออก",
+   "w": [
+    "Pembrolizumab ซ้ำเพราะเป็นสูตรแรกที่ใช้ได้ผลดี",
+    "Cisplatin ขนาดสูงสัปดาห์ละครั้งนาน 6 เดือน",
+    "Trastuzumab เดี่ยวเพราะ HER2 มักเป็นบวกในมะเร็งปากมดลูกทุกราย",
+    "Osimertinib เพราะปอดมีก้อนจึงใช้ EGFR TKI ได้"
+   ],
+   "e": "คำตอบเต็ม: Tisotumab vedotin (ADC ต่อ Tissue Factor) ต้องเฝ้าระวังพิษต่อตา เลือดออก และ neuropathy",
+   "s": "ใบงาน Cancer 3 หน้า 5; สไลด์ Cervix หน้า 11"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "id": "tl04",
+ "no": 4,
+ "title": "Lab Cancer 2",
+ "file": "",
+ "questions": [
+  {
+   "t": "Adjuvant CRC",
+   "q": "ผู้ป่วยชายอายุ 60 ปี น้ำหนัก 65 kg ส่วนสูง 165 cm Right-sided colon cancer ผ่าตัด right hemicolectomy แล้ว pathology T3N1M0 (stage III low-risk) pMMR/MSS พบ PIK3CA mutation Hb 9.5 g/dL ECOG 0 SCr/LFT ปกติ มี HTN และ T2DM (amlodipine 5 mg, metformin 500 mg bid) ควรเสนอสูตรยาเสริมหลังผ่าตัดและระยะเวลาอย่างไร",
+   "a": "CAPEOX 3 เดือน ± aspirin ขนาดต่ำ (PIK3CA)",
+   "w": [
+    "FOLFOX นาน 3 เดือน เพราะ FOLFOX 3 เดือนไม่ด้อยกว่า 6 เดือน",
+    "5-FU/LV เดี่ยวนาน 12 เดือน ร่วมกับ bevacizumab",
+    "Cetuximab เดี่ยวนาน 6 เดือนเพราะเป็น right-sided",
+    "ไม่ต้องให้ยาเสริม เพราะเป็น stage III low-risk และ pMMR"
+   ],
+   "e": "คำตอบเต็ม: CAPEOX นาน 3 เดือน (low-risk stage III) พิจารณา aspirin ขนาดต่ำเพิ่มเพราะมี PIK3CA mutation",
+   "s": "ใบงาน Cancer 2 หน้า 1; สไลด์ Colorectal หน้า 11, 13"
+  },
+  {
+   "t": "Adjuvant CRC",
+   "q": "ผู้ป่วยรายเดิม (stage III pMMR, PIK3CA mutation) หลักฐานของ aspirin ตามสไลด์คือข้อใด",
+   "a": "aspirin ขนาดต่ำลดการกลับเป็นซ้ำ (HR≈0.49)",
+   "w": [
+    "aspirin ไม่มีประโยชน์ใน PIK3CA mutation",
+    "aspirin เพิ่มการกลับเป็นซ้ำเป็น 2 เท่า",
+    "aspirin ใช้ได้เฉพาะ MSI-High เท่านั้น",
+    "aspirin ลดการกลับเป็นซ้ำเฉพาะผู้ป่วยที่ไม่มี PIK3CA mutation"
+   ],
+   "e": "คำตอบเต็ม: aspirin ขนาดต่ำรายวันลดการกลับเป็นซ้ำ (TTR HR ≈ 0.49 ใน PIK3CA exon 9/20)",
+   "s": "สไลด์ Colorectal หน้า 13"
+  },
+  {
+   "t": "พันธุเภสัช",
+   "q": "ผู้ป่วยรายเดิม (ชาย 60 ปี stage III CRC) ก่อนเริ่ม capecitabine หรือ 5-FU ควรตรวจยีนใดและเอนไซม์ใดที่เกี่ยวข้อง",
+   "a": "DPYD (เอนไซม์ DPD)",
+   "w": [
+    "UGT1A1 ซึ่งเกี่ยวกับเอนไซม์ glucuronosyltransferase",
+    "TPMT ซึ่งเกี่ยวกับเอนไซม์ thiopurine methyltransferase",
+    "CYP2D6 ซึ่งเกี่ยวกับเอนไซม์ cytochrome P450 2D6",
+    "G6PD ซึ่งเกี่ยวกับเอนไซม์ glucose-6-phosphate dehydrogenase"
+   ],
+   "e": "คำตอบเต็ม: DPYD ซึ่งเกี่ยวกับเอนไซม์ dihydropyrimidine dehydrogenase (DPD)",
+   "s": "ใบงาน Cancer 2 หน้า 2; สไลด์ Cervix หน้า 8"
+  },
+  {
+   "t": "ADR",
+   "q": "ผู้ป่วยรายเดิมได้ capecitabine เกิด hand-foot skin reaction grade 2 (บวมแดง ไม่ปวด) แนวทางที่เหมาะสมคือ",
+   "a": "moisturizer/urea cream และลด/หยุดยาถ้ารุนแรง",
+   "w": [
+    "หยุด capecitabine ถาวรทันที และไม่ให้ยาใดต่อ",
+    "เพิ่มขนาด capecitabine เพื่อให้ผื่นหาย",
+    "แช่มือเท้าในน้ำร้อนจัดเพื่อลดบวม",
+    "ทาครีมที่มีแอลกอฮอล์เพื่อให้ผิวแห้ง"
+   ],
+   "e": "คำตอบเต็ม: ใช้ moisturizer/urea cream ปรับพฤติกรรม และพิจารณาลดขนาดหรือหยุดยาชั่วคราวหากรุนแรงขึ้น",
+   "s": "ใบงาน Cancer 2 หน้า 2; ใบงาน Cancer 1.2 หน้า 13"
+  },
+  {
+   "t": "ADR",
+   "q": "ผู้ป่วยรายเดิมได้สูตรที่มี oxaliplatin เภสัชกรควรแนะนำเรื่อง peripheral neuropathy อย่างไร",
+   "a": "เลี่ยงของเย็น ใส่ถุงมือ ลด/หยุด oxaliplatin ถ้ารุนแรง",
+   "w": [
+    "ดื่มน้ำเย็นจัดเพื่อลดอาการชา",
+    "สัมผัสน้ำแข็งเพื่อให้ผิวชินกับความเย็น",
+    "เพิ่มขนาด oxaliplatin เพื่อให้ผลการรักษาดีขึ้น",
+    "ไม่ต้องแจ้งแพทย์แม้ชามากจนติดกระดุมไม่ได้"
+   ],
+   "e": "คำตอบเต็ม: หลีกเลี่ยงอาหารและเครื่องดื่มเย็น ใส่ถุงมือเมื่อจับของเย็น และพิจารณาลดขนาดหรือหยุด oxaliplatin หากรุนแรง",
+   "s": "ใบงาน Cancer 2 หน้า 2; สไลด์ Colorectal หน้า 22"
+  },
+  {
+   "t": "First-line mCRC",
+   "q": "ผู้ป่วยหญิง 68 ปี น้ำหนัก 55 kg ส่วนสูง 155 cm Left-sided colon cancer ตับกระจายหลายตำแหน่ง unresectable RAS/BRAF wild-type pMMR/MSS HER2 negative สูตรแรกที่เหมาะสมที่สุดคือข้อใด",
+   "a": "FOLFOX หรือ FOLFIRI ร่วมกับ anti-EGFR (cetuximab หรือ panitumumab)",
+   "w": [
+    "FOLFOX ร่วมกับ bevacizumab เพราะ left-sided ใช้ anti-EGFR ไม่ได้",
+    "Pembrolizumab เดี่ยวเพราะ pMMR/MSS ตอบสนองดีที่สุด",
+    "Encorafenib + cetuximab เพราะมี BRAF mutation",
+    "Trastuzumab + chemotherapy เพราะ HER2 negative"
+   ],
+   "e": "",
+   "s": "ใบงาน Cancer 2 หน้า 3; สไลด์ Colorectal หน้า 18, 25"
+  },
+  {
+   "t": "ADR",
+   "q": "ผู้ป่วยหญิง 68 ปี น้ำหนัก 55 kg ส่วนสูง 155 cm Left-sided colon cancer ตับกระจายหลายตำแหน่ง unresectable RAS/BRAF wild-type pMMR/MSS HER2 negative ผู้ป่วยได้ cetuximab/panitumumab เกิดผื่นคล้ายสิว (acneiform rash) กลไกและการป้องกันคือ",
+   "a": "ยับยั้ง EGFR ผิวอักเสบ ป้องกันด้วยครีม กันแดด doxycycline",
+   "w": [
+    "เกิดจาก IgE hypersensitivity ป้องกันด้วย antihistamine เท่านั้น",
+    "เกิดจากยาสะสมในต่อมไขมัน ป้องกันด้วยแอลกอฮอล์ทาผิว",
+    "เกิดจากการติดเชื้อรา ป้องกันด้วย fluconazole",
+    "เกิดจากรังสียูวี ป้องกันด้วยการตากแดดเพื่อให้ผิวชิน"
+   ],
+   "e": "คำตอบเต็ม: EGFR สำคัญต่อเซลล์ผิวหนัง ถูกยับยั้งจึงอักเสบ ป้องกันด้วย moisturizer กันแดด และ doxycycline",
+   "s": "ใบงาน Cancer 2 หน้า 3; สไลด์ Targeted therapy หน้า 8"
+  },
+  {
+   "t": "Second-line",
+   "q": "ผู้ป่วยหญิง 68 ปี น้ำหนัก 55 kg ส่วนสูง 155 cm Left-sided colon cancer ตับกระจายหลายตำแหน่ง unresectable RAS/BRAF wild-type pMMR/MSS HER2 negative หลังได้ FOLFOX + anti-EGFR 8 เดือนแล้วโรคลุกลาม ทางเลือกลำดับสองคือข้อใด",
+   "a": "FOLFIRI + bevacizumab เฝ้าระวังท้องเสีย",
+   "w": [
+    "ให้ FOLFOX + anti-EGFR ต่อโดยไม่ต้องเปลี่ยนสูตร",
+    "เปลี่ยนเป็น FOLFOX + bevacizumab เพราะ backbone เดิมใช้ต่อได้",
+    "หยุดยาทุกชนิดเพราะไม่มีทางเลือกต่อ",
+    "เปลี่ยนเป็นยาฮอร์โมนบำบัดชนิดรับประทาน"
+   ],
+   "e": "คำตอบเต็ม: เปลี่ยน backbone เป็น FOLFIRI ร่วมกับ bevacizumab และเฝ้าระวังท้องเสียจาก irinotecan",
+   "s": "ใบงาน Cancer 2 หน้า 4; สไลด์ Colorectal หน้า 18, 25"
+  },
+  {
+   "t": "dMMR",
+   "q": "ผู้ป่วยหญิง 68 ปี น้ำหนัก 55 kg ส่วนสูง 155 cm Left-sided colon cancer ตับกระจายหลายตำแหน่ง unresectable RAS/BRAF wild-type pMMR/MSS HER2 negative หากผล biomarker เปลี่ยนเป็น dMMR/MSI-High แนวทางการรักษาลำดับแรกควรเปลี่ยนเป็น",
+   "a": "pembrolizumab หรือ nivolumab ± ipilimumab",
+   "w": [
+    "FOLFOX + bevacizumab เหมือนเดิม",
+    "Regorafenib เดี่ยว",
+    "Radiotherapy เดี่ยวที่ตับ",
+    "Encorafenib เดี่ยว"
+   ],
+   "e": "คำตอบเต็ม: immunotherapy เช่น pembrolizumab หรือ nivolumab ± ipilimumab",
+   "s": "ใบงาน Cancer 2 หน้า 4; สไลด์ Colorectal หน้า 25"
+  },
+  {
+   "t": "Cardiotoxicity",
+   "q": "ผู้ป่วยหญิง 55 ปี วัยหมดประจำเดือน IDC stage IIB ER+ PR+ HER2 3+ วางแผน AC ×4 → paclitaxel + trastuzumab → tamoxifen มี MDD รับ fluoxetine 20 mg OD LVEF 60% เปรียบเทียบพิษต่อหัวใจของ doxorubicin กับ trastuzumab ที่ผู้ป่วยจะได้",
+   "a": "Doxorubicin = Type I, trastuzumab = Type II (ฟื้นตัวได้)",
+   "w": [
+    "Doxorubicin เป็น Type II ฟื้นตัวได้ ส่วน trastuzumab เป็น Type I ไม่ฟื้นตัว",
+    "ทั้งสองเป็น Type I ขึ้นกับขนาดยาและไม่ฟื้นตัว",
+    "ทั้งสองเป็น Type II ไม่ขึ้นกับขนาดยา",
+    "ไม่มียาตัวใดทำให้เกิดพิษต่อหัวใจ"
+   ],
+   "e": "คำตอบเต็ม: Doxorubicin เป็น Type I ขึ้นกับขนาดยาและฟื้นตัวไม่สมบูรณ์ ส่วน trastuzumab เป็น Type II ไม่ขึ้นกับขนาดและมักฟื้นตัวได้",
+   "s": "ใบงาน Cancer 2 หน้า 5; สไลด์ Targeted therapy หน้า 8"
+  },
+  {
+   "t": "Hemorrhagic cystitis",
+   "q": "ผู้ป่วยหญิง 55 ปี วัยหมดประจำเดือน IDC stage IIB ER+ PR+ HER2 3+ วางแผน AC ×4 → paclitaxel + trastuzumab → tamoxifen มี MDD รับ fluoxetine 20 mg OD LVEF 60% cyclophosphamide ทำให้เกิด hemorrhagic cystitis ได้อย่างไร และป้องกันอย่างไร",
+   "a": "Acrolein ระคายกระเพาะปัสสาวะ ป้องกันด้วย hydration/mesna",
+   "w": [
+    "Phosphoramide mustard ทำลายไต ป้องกันด้วยการงดดื่มน้ำ",
+    "Acrolein ถูกขับออกทางตับ ป้องกันด้วย leucovorin",
+    "เกิดจากการติดเชื้อ ป้องกันด้วยยาปฏิชีวนะทุกรอบ",
+    "เกิดเฉพาะรอบแรก ไม่ต้องป้องกันในรอบต่อไป"
+   ],
+   "e": "คำตอบเต็ม: เมตาบอไลต์ acrolein ระคายกระเพาะปัสสาวะ ป้องกันด้วย hydration และ mesna (ในขนาดสูง) ให้ผู้ป่วยไม่กลั้นปัสสาวะ",
+   "s": "ใบงาน Cancer 2 หน้า 5; ใบงาน Cancer 1.2 หน้า 13"
+  },
+  {
+   "t": "CYP2D6",
+   "q": "ผู้ป่วยหญิง 55 ปี วัยหมดประจำเดือน IDC stage IIB ER+ PR+ HER2 3+ วางแผน AC ×4 → paclitaxel + trastuzumab → tamoxifen มี MDD รับ fluoxetine 20 mg OD LVEF 60% ก่อน tamoxifen ควรประเมินยีนใดและควรเลือกยาต้านซึมเศร้าชนิดใดแทน fluoxetine",
+   "a": "CYP2D6; เลือก venlafaxine หรือ (es)citalopram/sertraline",
+   "w": [
+    "CYP3A4 และควรคง fluoxetine ไว้ เพราะไม่มีปฏิกิริยา",
+    "DPYD และควรเลือก paroxetine แทน",
+    "UGT1A1 และควรเลือก bupropion แทน",
+    "TPMT และควรเลือก fluvoxamine แทน"
+   ],
+   "e": "คำตอบเต็ม: CYP2D6 (fluoxetine ยับยั้งแรง) ควรเลือก venlafaxine หรือ citalopram/escitalopram/sertraline",
+   "s": "ใบงาน Cancer 2 หน้า 6; สไลด์ Targeted therapy หน้า 22; สไลด์ Breast หน้า 13"
+  },
+  {
+   "t": "irAE",
+   "q": "ผู้ป่วยมะเร็งผิวหนังได้ pembrolizumab เกิด immune-related AE grade 2 การจัดการเบื้องต้นคือข้อใด",
+   "a": "หยุด ICI ชั่วคราว และให้ corticosteroid",
+   "w": [
+    "ให้ ICI ต่อโดยไม่ต้องหยุดและไม่ใช้ยาใด ๆ",
+    "หยุด ICI ถาวรและให้ infliximab ทุกราย",
+    "ให้ทาครีมสเตียรอยด์อย่างเดียวและให้ ICI ต่อ",
+    "เพิ่มขนาด ICI เพื่อกดอาการ"
+   ],
+   "e": "คำตอบเต็ม: หยุด ICI ชั่วคราวและเริ่ม systemic corticosteroid พร้อมติดตามผล",
+   "s": "ใบงาน Cancer 2 หน้า 6; สไลด์ Targeted therapy หน้า 19"
+  }
+ ]
+}
